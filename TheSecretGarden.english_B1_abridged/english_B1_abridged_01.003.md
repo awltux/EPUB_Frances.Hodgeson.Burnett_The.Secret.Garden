@@ -1,31 +1,31 @@
 ## CHAPTER 3
 ### Across the Moor
-Mary slept on the train, waking up to chicken, beef, and tea with Mrs. Medlock. The rain was heavy, and everyone looked wet. Later, she woke up again at Thwaite Station. The stationmaster spoke to Mrs. Medlock in a strange accent that Mary later learned was Yorkshire.
+Mary slept, waking to a lunch of bread, chicken and beef. Rain lashed the train windows. At Thwaite Station, the stationmaster greeted Mrs. Medlock in a strange accent. "I see you have brought the young one."
 
-A smart carriage waited outside. As they drove off, Mary wondered about the house Mrs. Medlock had mentioned. It had a hundred rooms and stood on a moor.
+A smart carriage waited. Inside, Mary stared out, driven towards a house with a hundred shut rooms, on the edge of a moor. "What is a moor?" she asked.
 
-"What is a moor?" she asked.
+"Look out in ten minutes," Mrs. Medlock said. "It's five miles across Missel Moor before we get to the Manor."
 
-"Look out the window," Mrs. Medlock replied. "We're driving across Missel Moor. It’s miles of wild land."
+Darkness pressed against the windows. After a village with whitewashed houses and a church, the horses slowed, climbing. "Eh! We're on the moor now," Mrs. Medlock said.
 
-The carriage lamps lit the rough road. A wind howled.
+The carriage lamps showed a rough road through low bushes. A wild wind roared around them. "It's—it's not the sea, is it?" Mary asked.
 
-"It sounds like the sea," Mary said.
+"No, miles of wild land," Mrs. Medlock answered, "heather and gorse, wild ponies and sheep."
 
-"It's the wind," Mrs. Medlock answered. "A wild, dreary place."
+The carriage jolted over bridges, water roaring beneath. Mary felt the drive would never end. "I don’t like it," she muttered.
 
-The horses climbed uphill. Mary saw a light.
+Eventually a light appeared, a sigh of relief from Mrs. Medlock. "The lodge window. We'll get a good cup of tea soon."
 
-"It's the lodge window," Mrs. Medlock said.
+Through the park gates, a long, dark avenue finally led to a sprawling house around a stone court. A single, dull light glowed upstairs.
 
-After the park gates, they drove through a long, dark avenue to a large, low house. Only one room upstairs had a light.
+The heavy oak door opened to a vast hall, dimly lit. Portraits and armour loomed, making Mary feel small and lost.
 
-The front door was huge. Inside, the hall was dim, with portraits that made Mary uneasy. She felt small and lost.
+An old man spoke to Mrs. Medlock in a husky voice. "Take her to her room. He doesn't want to see her. Going to London in the morning."
 
-An old man told Mrs. Medlock to take Mary to her room. "He doesn't want to see her," he said. "He’s going to London."
+"Make sure he’s not disturbed," Mr. Pitcher added.
 
-Mary was led up stairs, down corridors, and finally into a room with a fire and supper.
+Mary was led up stairs and down corridors, until a door opened to a room with a fire and a supper.
 
-Mrs. Medlock said, "This room and the next are yours. Stay in them!"
+Mrs. Medlock said, "Here you are! This room and the next are yours, and you must keep to them. Don't you forget!"
 
-That was how Mary arrived at Misselthwaite Manor, feeling more stubborn than ever.
+And so, Mary arrived at Misselthwaite Manor, feeling as contrary as ever.

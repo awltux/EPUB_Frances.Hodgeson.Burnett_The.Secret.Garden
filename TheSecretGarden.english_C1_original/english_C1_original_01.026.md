@@ -70,8 +70,7 @@ Dickon stood out among the trees and rosebushes and began to sing in quite a sim
 > Praise Him all creatures here below, 
 > Praise Him above ye Heavenly Host, 
 > Praise Father, Son, and Holy Ghost. 
-> Amen.” 
->  
+> Amen.”
 
 When he had finished, Ben Weatherstaff was standing quite still with his jaws set obstinately but with a disturbed look in his eyes fixed on Colin. Colin’s face was thoughtful and appreciative.
 

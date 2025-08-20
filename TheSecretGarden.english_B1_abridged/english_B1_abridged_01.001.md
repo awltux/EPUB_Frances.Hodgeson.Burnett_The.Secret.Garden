@@ -1,23 +1,51 @@
 ## CHAPTER 1
 ### There Is No One Left
-Everyone thought Mary Lennox was the most unpleasant child ever. She was skinny, with a sour face and yellow hair and skin, because she'd been born in India and was always sick. Her father worked for the British government and was always busy, and her mother was beautiful but only cared about parties. She didn't want a daughter, so Mary was raised by an Ayah, who kept her out of sight. As Mary grew, she became a selfish and demanding child. Governesses never stayed long because they disliked her so much.
+When Mary Lennox arrived at Misselthwaite Manor, everyone agreed she was the most unpleasant child they’d ever seen. Thin face, thin body, sour expression, and yellow hair and skin, thanks to being born in India and constantly being ill. Her Father worked for the English Government and was always busy. Her Mother was a great beauty, only interested in parties. She didn’t want a daughter and handed Mary over to an Ayah, instructing her to keep the child out of sight. By six, Mary was a selfish, little tyrant, waited on hand and foot by the native servants. Governesses never lasted long, and Mary only learned to read because she wanted to.
 
-One hot morning, Mary woke up feeling angry because her Ayah wasn't there. The new servant looked scared and said the Ayah couldn't come. Mary threw a tantrum, but the servant only repeated that the Ayah was unavailable. The atmosphere felt strange, with missing servants and fearful faces.
+One sweltering morning, when she was about nine years old, Mary woke up in a foul mood, made worse by a strange servant at her bedside. "Where’s my Ayah?" she demanded. The woman, clearly terrified, stammered that the Ayah couldn't come. Mary threw a tantrum, but the woman just repeated, "Not possible."
 
-Later, Mary saw her mother on the veranda with a young officer. Her mother, always dressed in beautiful, lacy clothes, looked scared and asked the officer if things were very bad. He replied that they were awful and she should have gone away weeks ago. Just then, loud wailing came from the servants' quarters.
+A strange atmosphere hung in the air. The usual routines were disrupted, servants were missing or scurrying around with frightened faces, but no one would explain anything. Mary was left alone. She wandered into the garden, pretending to make a flowerbed, her anger building. "Pig! Daughter of pigs!" she muttered, the worst insult she knew.
 
-Soon, Mary learned the truth: cholera had broken out, and people were dying. The Ayah had died during the night. Panic spread, and Mary was left alone in the nursery, forgotten by everyone.
+Her Mother appeared on the veranda with a young officer. Mary stared, as always, at her beautiful mother, with her silk hair, delicate nose, laughing eyes, and clothes "full of lace." But today, her eyes weren’t laughing; they were scared.
 
-She wandered into the dining room, ate some leftover food, and drank a glass of wine. The wine made her sleepy, and she fell into a deep sleep, unaware of the chaos around her.
+"Is it so very bad? Oh, is it?" she asked the officer.
 
-When Mary woke up, the house was silent. She wondered if the cholera was over and who would care for her now. She wasn't upset about her Ayah's death, as she wasn't a loving child. She noticed a little snake in her room.
+"Awfully," he replied, his voice trembling. "Awfully, Mrs. Lennox. You should’ve gone to the hills weeks ago."
 
-Suddenly, she heard men's voices. They entered the bungalow, opening doors and looking into rooms. One of them said, "What desolation! That pretty woman! And the child, too, I suppose."
+Her Mother wrung her hands. "I know! I stayed for that silly dinner party. What a fool!"
 
-They found Mary in the nursery. She was frowning because she was hungry and felt neglected. The officer was shocked and asked who she was.
+A sudden, loud wailing erupted from the servants' quarters. Her Mother grabbed the officer’s arm, and Mary shivered.
 
-"I am Mary Lennox," she said. "I fell asleep when everyone had the cholera and I have only just woken up. Why does nobody come?"
+"What is it?" she gasped.
 
-The officer looked at her sadly and said, "Poor little kid! There is nobody left to come."
+"Someone has died," the officer said. "You didn’t say it had broken out among your servants."
 
-Mary discovered that her parents had died and the remaining servants had fled, forgetting about her. She was alone in the bungalow with the snake.
+"I didn’t know!" her Mother cried, running back inside.
+
+That day, Mary understood the mysterious atmosphere. Cholera. People were dying like flies. The Ayah had died during the night. Panic spread.
+
+For two days, Mary hid in the nursery, forgotten. She cried, slept, and heard frightening sounds. Once, she found the dining room empty, a half-finished meal on the table. She ate some fruit and biscuits, then drank a glass of sweet wine. It made her drowsy, and she fell into a deep sleep, oblivious to the chaos around her.
+
+When she woke, the house was silent. She’d never known it so quiet. Had everyone recovered? Who would care for her now the Ayah was gone? She wasn't upset about her nurse’s death; she wasn’t an affectionate child. The cholera had frightened her, and she was angry that no one seemed to remember her.
+
+Still, no one came. A little snake rustled across the floor, its eyes like jewels. She wasn’t scared; it seemed eager to leave.
+
+"How queer and quiet," she said. "Sounds like it’s just me and the snake."
+
+Then, she heard men’s footsteps on the veranda. They entered the bungalow, their voices low. They opened doors, looking into rooms.
+
+"What desolation!" one said. "That pretty woman! And the child, I suppose. I heard there was one."
+
+Mary stood in the nursery as they opened the door. She was frowning, hungry and feeling neglected. The first man, an officer she recognised, looked startled.
+
+"Barney!" he exclaimed. "A child! Alone! In this place! Who is she?"
+
+"I am Mary Lennox," she said stiffly, annoyed that he called her Father’s house "this place!" "I fell asleep during the cholera and just woke up. Why doesn’t anyone come?"
+
+"The child no one ever saw!" he said to his companion. "She’s been forgotten!"
+
+"Why?" Mary demanded, stamping her foot.
+
+The young man, Barney, looked at her sadly, his eyes glistening. "Poor little kid," he said. "There’s no one left to come."
+
+That's how Mary discovered her parents had died, and the surviving servants had fled, forgetting her. She was alone in the bungalow with only a little snake for company.
