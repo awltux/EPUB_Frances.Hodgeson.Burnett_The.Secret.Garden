@@ -8,7 +8,7 @@ A smart carriage waited. Inside, Mary stared out, driven towards a house with a 
 
 Darkness pressed against the windows. After a village with whitewashed houses and a church, the horses slowed, climbing. "Eh! We're on the moor now," Mrs. Medlock said.
 
-The carriage lamps showed a rough road through low bushes. A wild wind roared around them. "It's—it's not the sea, is it?" Mary asked.
+The carriage lamps showed a rough road through low bushes. A wild wind roared around them. "It's, it's not the sea, is it?" Mary asked.
 
 "No, miles of wild land," Mrs. Medlock answered, "heather and gorse, wild ponies and sheep."
 

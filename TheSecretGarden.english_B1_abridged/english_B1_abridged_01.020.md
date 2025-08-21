@@ -30,7 +30,7 @@ Colin looked him up and down. "Oh, you're Roach? I have important orders for you
 
 "Mary," Colin asked, "what do you say in India when you want people to leave?"
 
-"You say, 'You have my permission to go,'" Mary replied.
+"You say, 'You have my permission to go'." Mary replied.
 
 Colin waved his hand. "You have my permission to go, Roach. But remember, this is very important."
 

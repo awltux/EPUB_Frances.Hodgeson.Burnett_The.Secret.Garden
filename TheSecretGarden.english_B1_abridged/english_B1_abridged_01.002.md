@@ -31,11 +31,11 @@ The other children joined in, and the angrier Mary got, the louder they sang. Th
 
 Mary put her fingers in her ears, but later, she couldn't help thinking about it. That night, Mrs. Crawford told her she was going to England to live with Mr. Archibald Craven at Misselthwaite Manor. Mary looked so uninterested that they didn't know what to think. She refused Mrs. Crawford's kiss and stayed stiff when Mr. Crawford patted her.
 
-"She's not a pretty child," Mrs. Crawford later confided to her husband. "And her mother was so beautiful. The children call her 'Mistress Mary Quite Contrary,' which is understandable. Her mother never paid her much attention," she sighed. "After the Ayah died, no one cared for the poor thing. Imagine the servants running away and leaving her alone."
+"She's not a pretty child," Mrs. Crawford later confided to her husband. "And her mother was so beautiful. The children call her 'Mistress Mary Quite Contrary' which is understandable. Her mother never paid her much attention," she sighed. "After the Ayah died, no one cared for the poor thing. Imagine the servants running away and leaving her alone."
 
 Mary travelled to England with an officer's wife, who was busy with her own children. In London, a woman named Mrs. Medlock met them. She was Mr. Craven’s housekeeper, a stout woman with red cheeks and sharp black eyes. Mary didn't like her, and it seemed Mrs. Medlock didn't think much of Mary either.
 
-"She's not much to look at!" said Mrs. Medlock to the officers wife "And her mother was a beauty!"
+"She's not much to look at!" said Mrs. Medlock to the officers wife. "And her mother was a beauty!"
 
 "Maybe she'll improve," the officer's wife said kindly.
 

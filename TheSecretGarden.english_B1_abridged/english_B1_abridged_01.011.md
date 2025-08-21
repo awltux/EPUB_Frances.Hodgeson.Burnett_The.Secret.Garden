@@ -60,7 +60,7 @@ He kept working as he talked, and Mary helped.
 
 “I’ll come every day if you want me, rain or shine,” he said. “It’s the best fun I’ve ever had, shut in here and waking up a garden.”
 
-“If you come and help me make it alive, I’ll—I don’t know what I’ll do,” she said.
+“If you come and help me make it alive, I, I don’t know what I’ll do.” she said.
 
 “I’ll tell you what you’ll do,” Dickon said, smiling. “You’ll get fat, and as hungry as a young fox, and you’ll learn to talk to the robin like I do. Eh, we’ll have a lot of fun.”
 
@@ -135,7 +135,7 @@ He sat down against a tree. “I’ll call the robin and give him the bacon rind
 
 Mary didn’t want to leave him. He seemed like a wood fairy who might be gone when she came back. He seemed too good to be true. She went halfway to the door, then stopped and came back.
 
-“Whatever happens, you—you never would tell?” she said.
+“Whatever happens, you, you never would tell?” she said.
 
 His cheeks were full of bread and bacon, but he smiled. “If you were a missel thrush and showed me your nest, would you think I’d tell anyone? Not me,” he said. “You are as safe as a missel thrush.”
 

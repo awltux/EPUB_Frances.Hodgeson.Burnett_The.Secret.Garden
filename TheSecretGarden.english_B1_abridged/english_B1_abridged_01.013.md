@@ -72,7 +72,7 @@ He still held her wrapper. “No,” he said. “They daren’t.”
 
 “Because I’m always ill. If I live, I might be a hunchback. But I won’t live. My Father hates to think I’ll be like him.”
 
-“What a queer house this is!” Mary said. “Everything’s a secret. Locked rooms, locked gardens—and you! Have you been locked up?”
+“What a queer house this is!” Mary said. “Everything’s a secret. Locked rooms, locked gardens, and you! Have you been locked up?”
 
 “No. I stay here. It’s too tiring to move.”
 
