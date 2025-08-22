@@ -18,6 +18,8 @@ M. Roach sourit en entendant le nom de Dickon. « Il serait à l'aise partout, c
 
 Quand la porte s'ouvrit, un corbeau le salua bruyamment. M. Roach faillit faire un bond en arrière. Colin n'était pas au lit. Il était assis dans un fauteuil, un agneau à côté de lui, et Dickon lui donnait du lait. Un écureuil était assis sur le dos de Dickon, grignotant une noix. Marie était assise par terre, observant.
 
+[crow](chapter_20.jpeg)
+
 « Voici M. Roach, Maître Colin, » annonça Mme Medlock.
 
 Colin le dévisagea de haut en bas. « Oh, vous êtes Roach ? J'ai des ordres importants à vous donner. »

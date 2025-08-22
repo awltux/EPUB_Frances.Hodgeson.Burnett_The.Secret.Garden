@@ -36,6 +36,8 @@ She opened more doors, finding old pictures, tapestries, and curious furniture. 
 
 She heard a rustling sound. A tiny grey mouse peeked out of a hole in the sofa cushion. Six baby mice nestled nearby.
 
+[Mice](chapter_6.jpeg)
+
 "If they weren't so scared, I'd take them with me," said Mary.
 
 Tired, she turned back but soon became lost. Then she heard a child crying. Following the sound, she discovered a hidden door behind a tapestry and opened it to find an angry Mrs. Medlock holding keys.

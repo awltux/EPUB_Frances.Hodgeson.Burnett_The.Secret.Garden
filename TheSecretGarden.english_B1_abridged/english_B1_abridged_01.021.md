@@ -8,6 +8,8 @@ Colin, dreamy, asked, “Do you think it was made like this just for me?”
 
 They sat under a plum tree covered in white blossoms and buzzing with bees. Mary and Dickon worked quietly, showing Colin buds and twigs. Dickon pushed Colin’s chair around the garden, stopping to show him the wonders of the earth and trees.
 
+[cherry tree](chapter_21.jpeg)
+
 “I wonder if we’ll see the robin?” Colin asked.
 
 “You’ll see him soon enough,” Dickon replied. “He’ll be so busy feeding his chicks, he won’t know what day it is.” He described the robin's frantic work, making them laugh, remembering they had to be quiet.

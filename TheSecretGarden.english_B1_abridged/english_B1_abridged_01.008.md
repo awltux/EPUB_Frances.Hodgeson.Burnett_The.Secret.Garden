@@ -26,6 +26,8 @@ Mary skipped all around the gardens, resting often. She decided to skip the leng
 
 The robin flew to the top of the wall and sang a loud, lovely song. Mary thought of the magic in her servant's stories. Just then, a strong gust of wind blew down the path, swaying the ivy on the wall. Mary saw something beneath the leaves: a round knob. It was the knob of a door!
 
+[Wall](chapter_8.jpeg)
+
 Her heart pounding, she pulled the ivy aside. It was the lock of the door, closed for ten years. She took out the key, put it in the lock, and turned. It took both hands, but it turned.
 
 She looked back to see if anyone was coming. No one was. She held back the ivy, pushed the door, and it opened slowly. She slipped through, shut the door behind her, and stood with her back against it.

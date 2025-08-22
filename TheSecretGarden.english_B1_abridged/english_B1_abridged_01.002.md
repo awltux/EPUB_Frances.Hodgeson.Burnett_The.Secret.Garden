@@ -94,3 +94,5 @@ It sounded like a book, and it didn't cheer Mary up. A house with a hundred lock
 "I won't go wandering about," said Mary, feeling less sorry for Mr. Archibald Craven and thinking he deserved his fate.
 
 She stared at the rain. The grey weather made her sleepy, and she fell asleep.
+
+[Train](chapter_2.jpeg)

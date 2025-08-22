@@ -161,3 +161,5 @@ She ran to the garden. She'd been away longer than she intended, and Dickon woul
 "He's gone," she said sadly. "Was he only a wood fairy?"
 
 Something white caught her eye, fastened to a rosebush. It was a piece of her letter to Dickon. On it were letters and a picture of a nest with a bird. Underneath: "I will cum bak."
+
+[thrush on nest](chapter_12.jpeg)

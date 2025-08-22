@@ -18,6 +18,8 @@ Eventually a light appeared, a sigh of relief from Mrs. Medlock. "The lodge wind
 
 Through the park gates, a long, dark avenue finally led to a sprawling house around a stone court. A single, dull light glowed upstairs.
 
+[The House](chapter_3.jpeg)
+
 The heavy oak door opened to a vast hall, dimly lit. Portraits and armour loomed, making Mary feel small and lost.
 
 An old man spoke to Mrs. Medlock in a husky voice. "Take her to her room. He doesn't want to see her. Going to London in the morning."

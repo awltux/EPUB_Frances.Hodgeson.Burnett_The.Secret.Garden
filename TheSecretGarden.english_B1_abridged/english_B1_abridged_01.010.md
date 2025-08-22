@@ -74,6 +74,8 @@ She walked along a laurel path, past the secret garden, and opened a gate into t
 
 A boy sat under a tree, playing a wooden pipe. He had red cheeks and bright blue eyes. A squirrel clung to the tree, and a pheasant and two rabbits watched him.
 
+[Animals](chapter_10.jpeg)
+
 When he saw Mary, he held up his hand. "Don't move," he said. "It'd frighten them."
 
 Mary stood still. He stopped playing and stood up slowly. The animals moved away, but not as if they were scared.

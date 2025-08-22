@@ -60,6 +60,8 @@ In the nursery, a large breakfast was laid out. "I don't want it," Mary said, un
 
 "Why?"
 
+[Breakfast](chapter_4.jpeg)
+
 "Because they're always hungry."
 
 "I don't know what it is to be hungry," Mary said.

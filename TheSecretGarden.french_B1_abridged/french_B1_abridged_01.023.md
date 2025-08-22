@@ -106,7 +106,7 @@ Ben se réveilla en sursaut. « Rien de tel. Le sermon était bon, mais je dois 
 
 « J'aimerais te voir faire le tour du jardin, » grommela Ben, pas entièrement convaincu.
 
-Une procession se forma. Colin menait, avec Dickon et Mary à ses côtés. Ben suivait, et les animaux traînaient derrière.
+Une procession se forma. Colin menait, avec Dickon et Marie à ses côtés. Ben suivait, et les animaux traînaient derrière.
 
 Elle avançait lentement. Colin s'appuyait sur Dickon, mais parfois il marchait seul, la tête haute.
 
@@ -116,7 +116,7 @@ Il fit le tour complet du jardin. Quand il revint, ses joues étaient rouges.
 
 « J'ai réussi ! La Magie a fonctionné ! C'est ma première découverte scientifique ! »
 
-« Que dira le Docteur Craven ? » demanda Mary.
+« Que dira le Docteur Craven ? » demanda Marie.
 
 « On ne lui dira rien, » dit Colin. « C'est un secret jusqu'à ce que je sois assez fort pour courir. Je viendrai ici tous les jours dans ma chaise, et on m'y ramènera. Quand Père reviendra, j'entrerai dans son bureau et je dirai : 'Me voici ; je suis comme n'importe quel autre garçon. Une expérience scientifique a fait ça.' »
 

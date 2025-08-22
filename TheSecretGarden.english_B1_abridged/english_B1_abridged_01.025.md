@@ -20,6 +20,8 @@ Soon, they were exploring the unused parts of the house. John, the footman, whee
 
 They found the Indian room, played with ivory elephants, and discovered forgotten corridors and staircases. It felt like they were miles away from everyone else in the house.
 
+[elephants](chapter_25.jpeg)
+
 "I'm glad we came," Colin said. "We will ramble about every rainy day."
 
 They enjoyed their adventure so much that their appetites returned. The nurse, seeing the empty plates, told the cook, "This is a house of mystery, and those two children are the greatest mysteries in it."

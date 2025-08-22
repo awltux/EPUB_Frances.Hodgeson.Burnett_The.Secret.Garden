@@ -72,6 +72,8 @@ Ben chuckled. "You've got wits, alright. How'd you like to plant something? I ca
 
 "Go and get it!" Colin said, digging excitedly.
 
+[Rose to plant](chapter_22.jpeg)
+
 Ben fetched the rose. Dickon dug the hole wider. Mary brought water. Colin turned the earth, flushed with the exercise.
 
 "I want to do it before the sun goes down," he said.

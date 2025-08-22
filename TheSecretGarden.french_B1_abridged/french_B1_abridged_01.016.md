@@ -1,10 +1,10 @@
 ## CHAPITRE 16
-### « Non, je ne veux pas ! » dit Marie
+### « Non, je ne veux pas! » dit Marie
 Le matin s'était envolé, et Marie, perdue dans le jardin, était en retard pour rentrer à la maison.
 
 "Dis à Colin que je ne peux pas encore venir lui rendre visite," dit-elle à Marthe. "Je suis occupée dans le jardin."
 
-Marthe eut l'air inquiète. "Il pourrait se fâcher, Miss Marie."
+Marthe eut l'air inquiète. "Il pourrait se fâcher, Mlle Marie."
 
 Mais Marie, moins effrayée que les autres et jamais du genre à se forcer pour qui que ce soit, dit simplement : "Dickon attend," et s'enfuit.
 
@@ -93,6 +93,8 @@ Marthe entra, une boîte en bois à la main.
 "M. Craven l'a envoyée," dit-elle. "On dirait des livres."
 
 Marie se souvint de sa proposition de cadeaux. À l'intérieur se trouvaient de magnifiques livres, des jeux et un nécessaire à écrire avec une plume en or.
+
+[box of gifts](chapter_16.jpeg)
 
 Son cœur s'adoucit. Elle ne s'attendait pas à ce qu'il se souvienne d'elle.
 

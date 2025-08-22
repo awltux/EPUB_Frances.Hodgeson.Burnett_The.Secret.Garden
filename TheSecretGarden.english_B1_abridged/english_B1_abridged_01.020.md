@@ -18,6 +18,8 @@ Mr. Roach smiled when he heard Dickon's name. "He'd be at home anywhere, that la
 
 When the door opened, a crow greeted him loudly. Mr. Roach almost jumped back. Colin wasn't in bed. He was in a chair, a lamb beside him, and Dickon was feeding it milk. A squirrel sat on Dickon's back, nibbling a nut. Mary was sitting on the floor, watching.
 
+[crow](chapter_20.jpeg)
+
 "This is Mr. Roach, Master Colin," Mrs. Medlock announced.
 
 Colin looked him up and down. "Oh, you're Roach? I have important orders for you."

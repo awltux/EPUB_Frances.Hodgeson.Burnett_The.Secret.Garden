@@ -66,6 +66,8 @@ Mary looked at his tired face and said, "Okay. Close your eyes."
 
 He closed his eyes, and she began softly, "It's been left alone so long, it's grown into a lovely tangle. Roses climb everywhere, like a strange grey mist. Some are dead, but many are alive. In summer, there will be curtains and fountains of roses. The ground is full of daffodils, snowdrops, lilies, and iris pushing through the dark. Now that spring is here, maybe... maybe..."
 
+[flowers](chapter_17.jpeg)
+
 Her voice was soothing him. "Perhaps they're coming up through the grass. Maybe there are purple and gold crocuses even now. Maybe the leaves are starting to uncurl. Perhaps the grey is changing, and a green veil is creeping over everything. Birds are coming to look, because it's so safe and still. And perhaps... perhaps... the robin has found a mate and is building a nest."
 
 And Colin was asleep.

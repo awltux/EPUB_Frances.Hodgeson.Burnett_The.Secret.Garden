@@ -72,6 +72,8 @@ Ben gloussa. « Tu as de l'esprit, c'est certain. Aimerais-tu planter quelque ch
 
 « Va la chercher ! » dit Colin, creusant avec excitation.
 
+[Rose to plant](chapter_22.jpeg)
+
 Ben alla chercher la rose. Dickon creusa le trou plus large. Marie apporta de l'eau. Colin retourna la terre, rouge d'excitation.
 
 « Je veux le faire avant que le soleil ne se couche, » dit-il.

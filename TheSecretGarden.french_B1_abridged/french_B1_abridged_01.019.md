@@ -10,6 +10,8 @@ Le Dr Craven entra dans la chambre de Colin et entendit des rires. Colin était 
 
 « Ces bleus, nous en aurons beaucoup, » dit Colin. « Ils s’appellent des Delphiniums. »
 
+[Delphiniums](chapter_19.jpeg)
+
 « Dickon dit que ce sont des éperons faits en grand, » dit Marie. « Il y en a déjà. »
 
 Ils virent le Dr Craven et s’arrêtèrent.

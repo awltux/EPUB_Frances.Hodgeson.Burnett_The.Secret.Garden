@@ -94,6 +94,8 @@ Martha entered, a wooden box in her hands.
 
 Mary remembered his offer of gifts. Inside were beautiful books, games, and a writing case with a gold pen.
 
+[box of gifts](chapter_16.jpeg)
+
 Her heart softened. She hadn't expected him to remember her.
 
 "I'll write a thank you letter," she decided.

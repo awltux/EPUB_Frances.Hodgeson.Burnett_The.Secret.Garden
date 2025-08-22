@@ -10,7 +10,7 @@ Marthe laissa tomber son tricot, les yeux grands ouverts de surprise. "Vraiment 
 
 "Je les ai entendus la nuit dernière," continua Marie. "Je me suis levée et j'ai trouvé Colin."
 
-Le visage de Marthe devint rouge de peur. "Oh, Miss Marie ! Vous n'auriez pas dû ! Je vais avoir des ennuis. Je ne vous ai jamais rien dit de lui."
+Le visage de Marthe devint rouge de peur. "Oh, Mlle Marie ! Vous n'auriez pas dû ! Je vais avoir des ennuis. Je ne vous ai jamais rien dit de lui."
 
 "Vous ne perdrez pas votre emploi," la rassura Marie. "Il était content que je vienne. Nous avons parlé, et il a dit qu'il était content."
 
@@ -63,6 +63,8 @@ Marthe haleta. "J'ai du mal à le croire ! Vous êtes entrée dans la gueule du 
 Marie regarda le feu. "Je me demande si aller dans un jardin et regarder les choses pousser l'aiderait. Ça m'a aidée."
 
 "Une fois, ils l'ont emmené là où se trouvent les roses," dit Marthe, "et il a commencé à éternuer et a dit qu'il avait 'le rhume des roses'. Un jardinier l'a regardé, et il a piqué une crise, disant qu'il le fixait parce qu'il allait être bossu. Il a pleuré jusqu'à avoir de la fièvre."
+
+[roses](chapter_14.jpeg)
 
 "S'il se fâche contre moi, je ne le reverrai plus jamais," dit Marie.
 
@@ -176,39 +178,39 @@ Il se recula, pensant. Il y eut un long silence. Ils pensaient tous les deux à 
 
 Elle rapprocha son tabouret. « Ne parlons pas de mourir ; je n'aime pas ça. Parlons de vivre. Parlons de Dickon. Ensuite, nous regarderons tes images. »
 
-C'était la meilleure chose qu'elle aurait pu dire. Parler de Dickon signifiait parler de la lande, du cottage et des quatorze personnes qui vivaient avec seize shillings par semaine. Et de la mère de Dickon, de la corde à sauter, du soleil sur la lande et des jeunes pousses vert pâle sortant de terre. C'était si vivant que Mary parlait plus que jamais, et Colin parlait et écoutait comme jamais auparavant. Ils riaient de rien, comme les enfants quand ils sont heureux. Ils faisaient autant de bruit que deux enfants ordinaires de dix ans, pas une fille dure et sans amour et un garçon maladif qui pensait qu'il allait mourir.
+C'était la meilleure chose qu'elle aurait pu dire. Parler de Dickon signifiait parler de la lande, du cottage et des quatorze personnes qui vivaient avec seize shillings par semaine. Et de la mère de Dickon, de la corde à sauter, du soleil sur la lande et des jeunes pousses vert pâle sortant de terre. C'était si vivant que Marie parlait plus que jamais, et Colin parlait et écoutait comme jamais auparavant. Ils riaient de rien, comme les enfants quand ils sont heureux. Ils faisaient autant de bruit que deux enfants ordinaires de dix ans, pas une fille dure et sans amour et un garçon maladif qui pensait qu'il allait mourir.
 
 Ils s'amusaient tellement qu'ils oubliaient les images et l'heure. Ils riaient bruyamment de Ben Weatherstaff et de son rouge-gorge quand Colin se souvint soudainement de quelque chose.
 
 « Nous n'avons jamais pensé à quelque chose une seule fois. », dit-il. « Nous sommes cousins. »
 
-C'était si étrange qu'ils aient tant parlé et ne s'en soient jamais souvenus qu'ils rirent encore plus. Au milieu de l'amusement, Dr. Craven et Mrs. Medlock entrèrent.
+C'était si étrange qu'ils aient tant parlé et ne s'en soient jamais souvenus qu'ils rirent encore plus. Au milieu de l'amusement, Dr. Craven et Mme Medlock entrèrent.
 
-Dr. Craven était alarmé, et Mrs. Medlock faillit reculer.
+Dr. Craven était alarmé, et Mme Medlock faillit reculer.
 
-« Bon Dieu ! » s'exclama Mrs. Medlock.
+« Bon Dieu ! » s'exclama Mme Medlock.
 
 « Qu'est-ce que c'est que ça ? » dit Dr. Craven. « Qu'est-ce que ça veut dire ? »
 
-Mary se souvint du garçon Rajah. Colin répondit comme si l'alarme du docteur et la terreur de Mrs. Medlock étaient sans importance.
+Marie se souvint du garçon Rajah. Colin répondit comme si l'alarme du docteur et la terreur de Mme Medlock étaient sans importance.
 
-« C'est ma cousine, Mary Lennox. », dit-il. « Je lui ai demandé de venir me parler. Je l'aime bien. Elle doit venir me parler chaque fois que je l'envoie chercher. »
+« C'est ma cousine, Marie Lennox. », dit-il. « Je lui ai demandé de venir me parler. Je l'aime bien. Elle doit venir me parler chaque fois que je l'envoie chercher. »
 
-Dr. Craven se tourna vers Mrs. Medlock avec reproche.
+Dr. Craven se tourna vers Mme Medlock avec reproche.
 
 « Je ne sais pas comment c'est arrivé. », haleta-t-elle. « Aucun serviteur n'oserait parler – ils ont leurs ordres. »
 
 « Personne ne lui a rien dit. », dit Colin. « Elle m'a entendu pleurer et m'a trouvé elle-même. Je suis content qu'elle soit venue. Ne sois pas idiote, Medlock. »
 
-Mary vit que Dr. Craven n'avait pas l'air content, mais il n'osa pas discuter. Il s'assit près de Colin et prit son pouls.
+Marie vit que Dr. Craven n'avait pas l'air content, mais il n'osa pas discuter. Il s'assit près de Colin et prit son pouls.
 
 « Il y a eu trop d'excitation. L'excitation n'est pas bonne pour toi. », dit-il.
 
 « Je serais excité si elle restait loin. », répondit Colin, les yeux pétillants. « Je vais mieux. Elle me fait aller mieux. L'infirmière doit apporter son thé avec le mien. Nous prendrons le thé ensemble. »
 
-Mrs. Medlock et Dr. Craven avaient l'air troublés, mais il n'y avait rien à faire.
+Mme Medlock et Dr. Craven avaient l'air troublés, mais il n'y avait rien à faire.
 
-« Il a l'air d'aller mieux, monsieur. », dit Mrs. Medlock. « Mais il avait l'air d'aller mieux ce matin avant qu'elle n'entre dans la pièce. »
+« Il a l'air d'aller mieux, monsieur. », dit Mme Medlock. « Mais il avait l'air d'aller mieux ce matin avant qu'elle n'entre dans la pièce. »
 
 « Elle est entrée dans la pièce la nuit dernière. Elle est restée avec moi et m'a chanté une chanson, et ça m'a fait dormir. », dit Colin. « J'allais mieux quand je me suis réveillé. Je voulais déjeuner. Je veux du thé maintenant. Dis-le à l'infirmière, Medlock. »
 
@@ -218,6 +220,6 @@ Colin avait l'air agité et garda les yeux fixés sur le visage de Dr. Craven.
 
 « Je veux l'oublier. », dit-il enfin. « Elle me le fait oublier. C'est pour ça que je la veux. »
 
-Dr. Craven n'avait pas l'air heureux en partant. Il jeta un coup d'œil à Mary. Elle était redevenue rigide et silencieuse, et il ne voyait pas l'attrait. Le garçon avait l'air plus vif, cependant, et il soupira en descendant le couloir.
+Dr. Craven n'avait pas l'air heureux en partant. Il jeta un coup d'œil à Marie. Elle était redevenue rigide et silencieuse, et il ne voyait pas l'attrait. Le garçon avait l'air plus vif, cependant, et il soupira en descendant le couloir.
 
 « Ils veulent toujours que je mange des choses quand je n'en veux pas. », dit Colin alors que l'infirmière apportait le thé. « Maintenant, si tu manges, je mangerai. Ces muffins ont l'air bons et chauds. Parle-moi des Rajahs. »

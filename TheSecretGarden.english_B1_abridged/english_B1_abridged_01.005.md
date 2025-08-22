@@ -18,6 +18,8 @@ Mary looked at things. There was little else to do. She walked around the garden
 
 She often visited the long walk outside the walled gardens. Ivy grew thickly against one part of the wall, untrimmed and wild. One day, noticing this, Mary saw a flash of red and heard a chirp. Ben Weatherstaff’s robin perched on the wall, tilting its head.
 
+[Robin](chapter_5.jpeg)
+
 "Oh!" she cried. "Is it you?" It felt natural to speak to him as if he understood.
 
 He chirped and hopped, and Mary felt she understood him. "Good morning! Isn’t the wind nice? Isn’t the sun nice?"

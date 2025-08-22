@@ -72,6 +72,8 @@ Il décida de manger moins, comme un garçon malade devrait le faire, mais il ne
 
 Un matin, Dickon apporta deux seaux : un avec du lait et de la crème, l'autre avec des brioches aux raisins chaudes. Ils étaient si heureux ! Quelle merveilleuse idée de Mme Sowerby !
 
+[milk, cream and buns](chapter_24.jpeg)
+
 "La Magie est en elle, comme en Dickon," dit Colin. "Elle pense à de belles choses à faire. Dites-lui que nous sommes reconnaissants !"
 
 Il commença à utiliser des mots d'adultes. "Dites-lui qu'elle a été très généreuse et que notre gratitude est extrême." Puis il mangea les brioches et but le lait comme n'importe quel garçon affamé.
@@ -88,7 +90,7 @@ Colin était excité. "Peux-tu me montrer ?"
 
 "Oui," dit Dickon. "Mais fais-les doucement, et repose-toi."
 
-Dickon lui montra les exercices. Colin regarda, émerveillé. Il en fit quelques-uns assis, puis debout. Mary se joignit à eux.
+Dickon lui montra les exercices. Colin regarda, émerveillé. Il en fit quelques-uns assis, puis debout. Marie se joignit à eux.
 
 À partir de ce moment-là, les exercices firent partie de leur journée, avec la Magie. Ils devenaient plus forts à chaque fois. Ils mangeaient tellement qu'ils avaient besoin de la nourriture de Mme Sowerby pour les faire tenir.
 
@@ -102,11 +104,11 @@ Le Dr Craven regarda Colin. Il était parti depuis deux semaines. La peau de Col
 
 "Je vous ai dit que c'était un appétit contre nature," répondit Colin.
 
-Mary fit un bruit étrange, essayant de ne pas rire.
+Marie fit un bruit étrange, essayant de ne pas rire.
 
 "Qu'est-ce qu'il y a ?" demanda le Dr Craven.
 
-"C'était entre un éternuement et une toux," dit Mary.
+"C'était entre un éternuement et une toux," dit Marie.
 
 "Je ne pouvais pas m'en empêcher," dit-elle à Colin plus tard. "Je me suis souvenu de cette dernière pomme de terre que tu as mangée !"
 

@@ -10,6 +10,8 @@ Dr Craven entered Colin’s room and heard laughing. Colin was sitting up, looki
 
 “Those blue ones, we’ll have lots of those,” Colin said. “They’re called Delphiniums.”
 
+[Delphiniums](chapter_19.jpeg)
+
 “Dickon says they’re larkspurs made big,” said Mary. “There are some already.”
 
 They saw Dr Craven and stopped.

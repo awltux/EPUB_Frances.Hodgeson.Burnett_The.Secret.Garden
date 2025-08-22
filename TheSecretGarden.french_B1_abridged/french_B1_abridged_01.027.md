@@ -2,7 +2,7 @@
 ### Dans le Jardin
 Les siècles ont passé, et chacun révèle des choses plus incroyables que le précédent. Les gens doutent souvent des nouvelles idées, puis espèrent, puis croient, et finissent par se demander pourquoi elles n'ont pas été réalisées plus tôt. Une découverte récente est le pouvoir des pensées - les bonnes sont comme la lumière du soleil, les mauvaises comme du poison.
 
-Mary Lennox était une enfant malheureuse, mais les circonstances l'ont poussée dans une meilleure direction. Son esprit s'est rempli d'images de rouges-gorges, de cottages de landes, de gens du Yorkshire, de printemps et d'un jardin secret, ne laissant aucune place aux pensées amères qui la rendaient malade.
+Marie Lennox était une enfant malheureuse, mais les circonstances l'ont poussée dans une meilleure direction. Son esprit s'est rempli d'images de rouges-gorges, de cottages de landes, de gens du Yorkshire, de printemps et d'un jardin secret, ne laissant aucune place aux pensées amères qui la rendaient malade.
 
 Colin, piégé dans sa chambre, se concentrait sur les peurs et la faiblesse. Il est devenu un garçon hystérique, ignorant le soleil et le printemps, inconscient qu'il pouvait guérir. Mais de nouvelles et belles pensées ont chassé les anciennes, et la vie est revenue en lui, aussi simplement que cela.
 
@@ -37,11 +37,11 @@ Arrivant au Manoir, il trouva les serviteurs respectueux et demanda Mme Medlock.
 
 "Comment va Maître Colin, Medlock ?" demanda-t-il.
 
-"Il est... différent," répondit-elle, déconcertée. "Ni le Docteur Craven, ni l'infirmière, ni moi ne pouvons vraiment le comprendre. Il a mangé, puis s'est arrêté, et a refusé d'être emmené à l'extérieur, mais a soudainement voulu sortir tous les jours avec Miss Mary et Dickon."
+"Il est... différent," répondit-elle, déconcertée. "Ni le Docteur Craven, ni l'infirmière, ni moi ne pouvons vraiment le comprendre. Il a mangé, puis s'est arrêté, et a refusé d'être emmené à l'extérieur, mais a soudainement voulu sortir tous les jours avec Mlle Marie et Dickon."
 
 "À quoi ressemble-t-il ?"
 
-"S'il mangeait normalement, monsieur, vous penseriez qu'il prend de la chair, mais nous craignons que ce ne soit une sorte de ballonnement. Il rit parfois d'une manière étrange quand il est seul avec Miss Mary. Il n'avait jamais l'habitude de rire du tout. Le Docteur Craven vient vous voir immédiatement, si vous le permettez. Il n'a jamais été aussi perplexe de sa vie."
+"S'il mangeait normalement, monsieur, vous penseriez qu'il prend de la chair, mais nous craignons que ce ne soit une sorte de ballonnement. Il rit parfois d'une manière étrange quand il est seul avec Mlle Marie. Il n'avait jamais l'habitude de rire du tout. Le Docteur Craven vient vous voir immédiatement, si vous le permettez. Il n'a jamais été aussi perplexe de sa vie."
 
 "Où est Maître Colin maintenant ?" demanda M. Craven.
 
@@ -63,13 +63,13 @@ Comme Mme Medlock, il ne comprit pas ce que son père voulait dire lorsqu'il dit
 
 "Dans le jardin ! Dans le jardin !"
 
-"Oui," se précipita Colin, "c'est le jardin qui a fait ça, et Mary et Dickon et les créatures, et la Magie. Personne ne le sait. Nous l'avons gardé pour vous le dire quand vous êtes venu. Je vais bien, je peux battre Mary à la course. Je vais être un athlète. N'êtes-vous pas content, Père ?" termina-t-il. "N'êtes-vous pas content ? Je vais vivre pour toujours et à jamais et à jamais !"
+"Oui," se précipita Colin, "c'est le jardin qui a fait ça, et Marie et Dickon et les créatures, et la Magie. Personne ne le sait. Nous l'avons gardé pour vous le dire quand vous êtes venu. Je vais bien, je peux battre Marie à la course. Je vais être un athlète. N'êtes-vous pas content, Père ?" termina-t-il. "N'êtes-vous pas content ? Je vais vivre pour toujours et à jamais et à jamais !"
 
 M. Craven serra son fils dans ses bras. "Emmène-moi dans le jardin, mon garçon."
 
 Le jardin était un désert de couleurs automnales. "Je pensais qu'il serait mort," dit-il.
 
-"Mary le pensait au début," dit Colin. "Mais il est revenu à la vie."
+"Marie le pensait au début," dit Colin. "Mais il est revenu à la vie."
 
 Ils étaient assis sous l'arbre, et Colin raconta son histoire de magie, de créatures, de rencontres à minuit, de l'arrivée du printemps, et de camaraderie secrète. "Maintenant," dit-il, "il n'est plus nécessaire que ce soit un secret. Je ne vais plus jamais remonter dans la chaise. Je vais rentrer à la maison avec toi, Père."
 
@@ -86,3 +86,5 @@ Ben Weatherstaff, en visite à la cuisine, attendait l'événement spectaculaire
 Il montra la pelouse du doigt. "Regardez là," dit-il, "si vous êtes curieux. Regardez ce qui traverse l'herbe."
 
 A travers la pelouse venait le Maître de Misselthwaite, et à ses côtés, marchant aussi fort que n'importe quel garçon du Yorkshire, marchait Maître Colin !
+
+[final scene](chapter_27.jpeg)

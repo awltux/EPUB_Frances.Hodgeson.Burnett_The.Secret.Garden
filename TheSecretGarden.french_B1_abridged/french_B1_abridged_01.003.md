@@ -18,6 +18,8 @@ Finalement, une lumière apparut, un soupir de soulagement de Mme Medlock. "La f
 
 À travers les grilles du parc, une longue avenue sombre menait finalement à une maison tentaculaire autour d'une cour en pierre. Une seule lumière terne brillait à l'étage.
 
+[The House](chapter_3.jpeg)
+
 La lourde porte de chêne s'ouvrit sur un vaste hall, faiblement éclairé. Des portraits et des armures se profilaient, donnant à Marie un sentiment de petitesse et de perte.
 
 Un vieil homme parla à Mme Medlock d'une voix rauque. "Emmenez-la dans sa chambre. M. Archibald ne veut pas la voir. Il part à Londres demain matin."

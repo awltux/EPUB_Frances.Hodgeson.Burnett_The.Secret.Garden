@@ -32,6 +32,8 @@ While digging, Mary had found some plants that she didnt recognise. « Martha," 
 
 « They help themselves," said Martha. « If you leave them alone, they’ll grow for years. There's snowdrops by the thousands in the park woods. No one knows when they were first planted. »
 
+[snowdrops](chapter_9.jpeg)
+
 « I wish it was spring," said Mary. « I want to see everything grow. »
 
 She finished dinner and sat by the fire. « I wish I had a little spade. »

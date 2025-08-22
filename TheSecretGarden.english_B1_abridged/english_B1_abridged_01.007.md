@@ -32,4 +32,6 @@ Mary wandered along the ivy-covered wall. Suddenly, the robin appeared, chirping
 
 The robin hopped over a patch of freshly turned earth. Mary noticed something half-buried: a rusty ring of iron or brass. As the robin flew to a tree, she picked it up. It was an old key.
 
+[Key](chapter_7.jpeg)
+
 "Perhaps it has been buried for ten years," she whispered, her face pale. "Perhaps it is the key to the garden!"

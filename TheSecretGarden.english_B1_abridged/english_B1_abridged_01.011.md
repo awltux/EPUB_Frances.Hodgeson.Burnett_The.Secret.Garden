@@ -84,6 +84,8 @@ Mary knew she would never forget that first morning when her garden began to gro
 
 “Lilies of the valley do,” he said, digging. “And Canterbury bells, and campanulas.”
 
+[Lilies of the valley](chapter_11.jpeg)
+
 “Let’s plant some,” Mary said.
 
 “There’s lilies of the valley here already. They’ll have grown too close, but there’s plenty. The others take two years to bloom from seed, but I can bring you some plants from our cottage garden. Why do you want them?”

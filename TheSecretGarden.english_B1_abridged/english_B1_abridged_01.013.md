@@ -208,6 +208,8 @@ Mary stayed silent.
 
 Mary pulled the cord. The curtain revealed a picture of a smiling girl. Her eyes were like Colin’s, grey with dark lashes.
 
+[mother](chapter_13.jpeg)
+
 “She’s my Mother,” said Colin sadly. “I don’t see why she died. Sometimes I hate her for it.”
 
 “How strange!” said Mary.

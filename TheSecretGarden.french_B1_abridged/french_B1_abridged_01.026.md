@@ -10,7 +10,7 @@ Ben Weatherstaff regardait Colin avec des yeux fiers. Il remarqua que les jambes
 
 "Je crois que tu as pris du poids cette semaine," répondit Ben.
 
-"C'est la Magie, et les pâtisseries de Mrs. Sowerby!" déclara Colin.
+"C'est la Magie, et les pâtisseries de Mme Sowerby!" déclara Colin.
 
 Dickon arriva, le visage rayonnant d'avoir couru. Ils désherbèrent ensemble, Colin donnant des conférences pendant qu'il travaillait.
 
@@ -18,7 +18,7 @@ Dickon arriva, le visage rayonnant d'avoir couru. Ils désherbèrent ensemble, C
 
 Soudain, Colin se redressa, laissant tomber sa truelle. Il s'étira, la joie illuminant son visage.
 
-"Mary! Dickon! Regardez-moi!" cria-t-il. "Je suis bien!"
+"Marie! Dickon! Regardez-moi!" cria-t-il. "Je suis bien!"
 
 Dickon sourit, voyant le changement chez Colin.
 
@@ -49,7 +49,7 @@ Ils la chantèrent à nouveau, et Ben se joignit à eux, sa voix rauque mais sin
 
 "C'est Mère!" cria Dickon, courant vers elle.
 
-Colin et Mary suivirent.
+Colin et Marie suivirent.
 
 "Même quand j'étais malade, je voulais vous voir," dit Colin timidement.
 
@@ -61,7 +61,7 @@ Son expression s'adoucit. "Eh! cher garçon!" dit-elle. "Tu ressembles à ta mè
 
 Ben examina les jambes de Colin. "Elles sont fortes maintenant!"
 
-"Laissez-le jouer et bien manger," dit Susan Sowerby. "Il ira bien." Elle regarda Mary. "Tu ressembles à ta mère aussi." Une rougeur monta à son visage.
+"Laissez-le jouer et bien manger," dit Susan Sowerby. "Il ira bien." Elle regarda Marie. "Tu ressembles à ta mère aussi." Une rougeur monta à son visage.
 
 Ils montrèrent leur jardin à Susan, racontant son histoire. Elle écouta, sa présence réconfortante.
 

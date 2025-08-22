@@ -32,4 +32,6 @@ Marie se promena le long du mur recouvert de lierre. Soudain, le rouge-gorge app
 
 Le rouge-gorge sauta au-dessus d'un coin de terre fraîchement retournée. Marie remarqua quelque chose à moitié enfoui : un anneau rouillé de fer ou de laiton. Alors que le rouge-gorge s'envola vers un arbre, elle le ramassa. C'était une vieille clé.
 
+[Key](chapter_7.jpeg)
+
 « Peut-être a-t-elle été enterrée pendant dix ans. », murmura-t-elle, le visage pâle. « Peut-être est-ce la clé du jardin ! »

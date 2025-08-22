@@ -72,6 +72,8 @@ He decided to eat less, as a sick boy should, but he couldn't resist the breakfa
 
 One morning, Dickon brought two pails: one with milk and cream, the other with warm currant buns. They were so happy! What a wonderful idea from Mrs. Sowerby!
 
+[milk, cream and buns](chapter_24.jpeg)
+
 "Magic is in her, like in Dickon," Colin said. "She thinks of nice things to do. Tell her we are grateful!"
 
 He started using grown-up words. "Tell her she has been most bounteous and our gratitude is extreme." Then he ate the buns and drank the milk like any hungry boy.

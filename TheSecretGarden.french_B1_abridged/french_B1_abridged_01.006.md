@@ -1,5 +1,5 @@
 ## CHAPITRE 6
-### Quelqu'un était en train de pleurer !
+### Quelqu'un était en train de pleurer!
 La pluie fouettait les fenêtres. Marie demanda à Marthe ce que sa famille faisait les jours comme celui-ci.
 
 « On essaie de ne pas s'agacer les uns les autres. », répondit Marthe. « Mère est stressée, avec tant d'entre nous entassés. Les plus grands vont dans l'étable et jouent là-bas. Dickon se fiche de la pluie. Il dit qu'il voit des choses que les autres manquent. » Elle raconta comment Dickon avait trouvé un renardeau, sa mère morte, et un corbeau qu'il avait appelé Soot (Suie).
@@ -35,6 +35,8 @@ Au deuxième étage, elle tourna une poignée. À sa surprise, la porte s'ouvrit
 Elle ouvrit d'autres portes, trouvant de vieilles peintures, des tapisseries et des meubles curieux. Dans une pièce, le salon d'une dame, cent éléphants en ivoire remplissaient une armoire. Marie joua avec eux jusqu'à être fatiguée.
 
 Elle entendit un bruissement. Une minuscule souris grise jeta un coup d'œil hors d'un trou dans le coussin du canapé. Six bébés souris étaient nichés à proximité.
+
+[Mice](chapter_6.jpeg)
 
 « Si elles n'avaient pas si peur, je les emmènerais avec moi. », dit Marie.
 

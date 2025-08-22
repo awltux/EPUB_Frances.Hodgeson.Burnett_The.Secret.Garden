@@ -18,6 +18,8 @@ Marie regarda des choses. Il y avait peu d'autre à faire. Elle se promena dans 
 
 Elle visitait souvent la longue allée à l'extérieur des jardins clos. Le lierre poussait épais contre une partie du mur, non taillé et sauvage. Un jour, remarquant cela, Marie vit un éclair de rouge et entendit un pépiement. Le rouge-gorge de Ben Weatherstaff était perché sur le mur, inclinant la tête.
 
+[Robin](chapter_5.jpeg)
+
 « Oh ! » s'écria-t-elle. « C'est vous ? » Il semblait naturel de lui parler comme s'il comprenait.
 
 Il pépiait et sautillait, et Marie sentait qu'elle le comprenait. « Bonjour ! Le vent est agréable, n'est-ce pas ? Le soleil est agréable, n'est-ce pas ? »

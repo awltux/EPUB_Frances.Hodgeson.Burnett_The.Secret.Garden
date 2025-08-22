@@ -66,6 +66,8 @@ Marie regarda son visage fatigué et dit : « D'accord. Ferme les yeux. »
 
 Il ferma les yeux, et elle commença doucement : « Il a été laissé à l'abandon si longtemps qu'il est devenu un joli fouillis. Les roses grimpent partout, comme une étrange brume grise. Certaines sont mortes, mais beaucoup sont vivantes. En été, il y aura des rideaux et des fontaines de roses. Le sol est rempli de jonquilles, de perce-neige, de lys et d'iris qui percent l'obscurité. Maintenant que le printemps est là, peut-être... peut-être... »
 
+[flowers](chapter_17.jpeg)
+
 Sa voix l'apaisait. « Peut-être qu'ils sortent de terre à travers l'herbe. Peut-être qu'il y a des crocus violets et dorés même maintenant. Peut-être que les feuilles commencent à se dérouler. Peut-être que le gris change, et qu'un voile vert rampe sur tout. Les oiseaux viennent regarder, parce que c'est si sûr et tranquille. Et peut-être... peut-être... que le rouge-gorge a trouvé une compagne et construit un nid. »
 
 Et Colin était endormi.

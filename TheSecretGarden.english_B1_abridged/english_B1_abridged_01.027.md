@@ -86,3 +86,5 @@ Ben Weatherstaff, visiting the kitchen, waited for the dramatic event.
 He pointed to the lawn. "Look there," he said, "if you're curious. Look what’s coming across the grass."
 
 Across the lawn came the Master of Misselthwaite, and by his side, walking as strongly as any boy in Yorkshire, walked Master Colin!
+
+[final scene](chapter_27.jpeg)

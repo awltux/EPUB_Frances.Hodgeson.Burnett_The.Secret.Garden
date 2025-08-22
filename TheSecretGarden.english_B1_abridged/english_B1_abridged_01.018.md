@@ -38,6 +38,8 @@ Colin laughed. "What are you doing? I've never heard you talk like that!"
 
 They laughed until they could not stop themselves. Mrs. Medlock was amazed to hear the two of them as she stood outside the room.
 
+[Mrs. Medlock](chapter_18.jpeg)
+
 They talked about Dickon, Captain, Soot, Nut, Shell, and Jump the pony. Mary had seen Jump; a shaggy pony who understood Dickon.
 
 "Does he really understand everything Dickon says?" Colin asked.

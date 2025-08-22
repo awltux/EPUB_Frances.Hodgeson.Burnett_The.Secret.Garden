@@ -208,6 +208,8 @@ Marie resta silencieuse.
 
 Marie tira le cordon. Le rideau révéla une image d'une fille souriante. Ses yeux étaient comme ceux de Colin, gris avec de longs cils noirs.
 
+[mother](chapter_13.jpeg)
+
 « C'est ma Mère, » dit Colin tristement. « Je ne vois pas pourquoi elle est morte. Parfois, je la déteste pour ça. »
 
 « Comme c'est étrange ! » dit Marie.
@@ -222,7 +224,7 @@ Il se déplaça. « Je les ai forcés à le faire. Parfois, je n'aime pas qu'ell
 
 Après un moment, Marie parla.
 
-« Que ferait Madame Medlock si elle savait que j'étais ici ? »
+« Que ferait Mme Medlock si elle savait que j'étais ici ? »
 
 « Elle ferait ce que je lui dirais. Je dirais que je veux que tu viennes ici tous les jours. Je suis content que tu sois venue. »
 
@@ -230,17 +232,17 @@ Après un moment, Marie parla.
 
 « Oui, tu dois, » dit Colin.
 
-Il réfléchit. « Je pense que tu seras un secret, toi aussi. Je ne leur dirai rien jusqu'à ce qu'ils le découvrent. Je peux renvoyer l'infirmière. Connais-tu Martha ? »
+Il réfléchit. « Je pense que tu seras un secret, toi aussi. Je ne leur dirai rien jusqu'à ce qu'ils le découvrent. Je peux renvoyer l'infirmière. Connais-tu Marthe ? »
 
 « Oui, je la connais bien. Elle s'occupe de moi. »
 
-Il acquiesça. « Elle dort dans l'autre pièce. L'infirmière est avec sa sœur et Martha s'occupe de moi. Martha te dira quand venir ici. »
+Il acquiesça. « Elle dort dans l'autre pièce. L'infirmière est avec sa sœur et Marthe s'occupe de moi. Marthe te dira quand venir ici. »
 
-Marie comprit maintenant l'évasiveness de Martha au sujet des pleurs.
+Marie comprit maintenant l'évasiveness de Marthe au sujet des pleurs.
 
-« Martha était au courant de tout ça depuis le début ? » dit-elle.
+« Marthe était au courant de tout ça depuis le début ? » dit-elle.
 
-« Oui ; elle s'occupe souvent de moi. L'infirmière aime s'absenter, et Martha vient. »
+« Oui ; elle s'occupe souvent de moi. L'infirmière aime s'absenter, et Marthe vient. »
 
 « Je suis ici depuis longtemps, » dit Marie. « Dois-je partir ? Tu as l'air endormi. »
 

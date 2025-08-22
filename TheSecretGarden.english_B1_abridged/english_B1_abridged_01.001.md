@@ -10,6 +10,8 @@ Her Mother appeared on the veranda with a young officer. Mary stared, as always,
 
 "Is it so very bad? Oh, is it?" she asked the officer.
 
+[Woman on Veranda](chapter_1.jpeg)
+
 "Awfully," he replied, his voice trembling. "Awfully, Mrs. Lennox. You should’ve gone to the hills weeks ago."
 
 Her Mother wrung her hands. "I know! I stayed for that silly dinner party. What a fool!"

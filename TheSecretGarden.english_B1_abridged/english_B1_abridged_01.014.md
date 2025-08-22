@@ -64,6 +64,8 @@ Mary looked at the fire. "I wonder if going out into a garden and watching thing
 
 "Once they took him out where the roses are," Martha said, "and he started sneezing and said he had 'rose cold'. A gardener looked at him, and he threw a tantrum, saying he was staring because he was going to be a hunchback. He cried himself into a fever."
 
+[roses](chapter_14.jpeg)
+
 "If he gets angry at me, I'll never see him again," Mary said.
 
 "He'll have you if he wants you," Martha said.
