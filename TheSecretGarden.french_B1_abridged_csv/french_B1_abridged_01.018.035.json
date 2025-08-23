@@ -1,0 +1,424 @@
+[
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop. fem.",
+        "Marie",
+        "Common French name",
+        "Nom français courant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers. masc.",
+        "him",
+        "Indirect object pronoun",
+        "Pronom personnel COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "prit",
+        "/pʁi/",
+        "v. prendre, p. passé simple",
+        "took",
+        "Grasped",
+        "Saisi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article (plural)",
+        "Article défini (pluriel)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mains",
+        "/mɛ̃/",
+        "n. f. plur.",
+        "hands",
+        "Body parts",
+        "Parties du corps",
+        [
+            "paws",
+            "claws"
+        ],
+        [
+            "pattes",
+            "griffes"
+        ],
+        [],
+        []
+    ],
+    [
+        "Puis-je",
+        "/pɥiʒ/",
+        "v. pouvoir, formule de politesse",
+        "May I",
+        "Formal question",
+        "Question formelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "te",
+        "/tə/",
+        "pron. pers.",
+        "you",
+        "Personal pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faire",
+        "/fɛʁ/",
+        "v. faire, inf.",
+        "make",
+        "To create",
+        "Créer",
+        [
+            "do",
+            "build"
+        ],
+        [
+            "créer",
+            "bâtir"
+        ],
+        [],
+        []
+    ],
+    [
+        "confiance",
+        "/kɔ̃fjɑ̃s/",
+        "n. fém.",
+        "trust",
+        "Belief in someone",
+        "Foi en quelqu'un",
+        [
+            "belief",
+            "faith"
+        ],
+        [
+            "foi",
+            "croyance"
+        ],
+        [
+            "distrust"
+        ],
+        [
+            "méfiance"
+        ]
+    ],
+    [
+        "J'ai",
+        "/ʒe/",
+        "v. avoir, 1st person sing. past comp.",
+        "I have",
+        "Indicates possession",
+        "Indique la possession",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "v. faire, past part.",
+        "made",
+        "Completed action",
+        "Action accomplie",
+        [
+            "done",
+            "completed"
+        ],
+        [
+            "accompli",
+            "réalisé"
+        ],
+        [],
+        []
+    ],
+    [
+        "confiance",
+        "/kɔ̃fjɑ̃s/",
+        "n. fém.",
+        "trust",
+        "Reliable",
+        "Fiable",
+        [
+            "reliance"
+        ],
+        [
+            "assurance"
+        ],
+        [
+            "distrust"
+        ],
+        [
+            "méfiance"
+        ]
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction",
+        "Direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/dikɔn/",
+        "noun",
+        "Dickon",
+        "A name",
+        "Un nom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "parce",
+        "/paʁs/",
+        "conj.",
+        "because",
+        "Reason",
+        "Raison",
+        [
+            "since"
+        ],
+        [
+            "puisque"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Conjunction introducing a clause",
+        "Conjonction subordonnée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oiseaux",
+        "/wa.zo/",
+        "n. masc. pl.",
+        "birds",
+        "Avian creatures",
+        "Créatures aviaires",
+        [
+            "fowl"
+        ],
+        [
+            "volaille"
+        ],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him/her",
+        "Indirect object pronoun",
+        "Pronom personnel COI",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faisaient",
+        "/fə.zɛ/",
+        "v. faire, impf.",
+        "made",
+        "Caused to be",
+        "Ont causé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "confiance",
+        "/kɔ̃.fjɑ̃s/",
+        "n. fém.",
+        "trust",
+        "Belief in reliability",
+        "Foi en la fiabilité",
+        [
+            "faith"
+        ],
+        [
+            "foi"
+        ],
+        [
+            "distrust"
+        ],
+        [
+            "méfiance"
+        ]
+    ],
+    [
+        "Puis-je",
+        "/pɥiʒ/",
+        "v. pouvoir, interr.",
+        "May I",
+        "Expressing permission request",
+        "Exprime une demande de permission",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "te",
+        "/tə/",
+        "pron. pers.",
+        "you",
+        "Direct object pronoun (informal)",
+        "Pronom personnel COD (informel)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faire",
+        "/fɛʁ/",
+        "v. infin. of faire",
+        "to do",
+        "Perform an action",
+        "Effectuer une action",
+        [
+            "create",
+            "make"
+        ],
+        [
+            "créer",
+            "fabriquer"
+        ],
+        [],
+        []
+    ],
+    [
+        "confiance",
+        "/kɔ̃.fjɑ̃s/",
+        "n. fém. sing.",
+        "trust",
+        "Belief in reliability",
+        "Foi en la fiabilité",
+        [
+            "faith",
+            "reliance"
+        ],
+        [
+            "foi",
+            "assurance"
+        ],
+        [
+            "distrust",
+            "doubt"
+        ],
+        [
+            "méfiance",
+            "doute"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "Intended for",
+        "Destiné à",
+        [
+            "towards"
+        ],
+        [
+            "vers"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Belonging to",
+        "Appartenant à",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vrai",
+        "/vʁɛ/",
+        "adj. masc. sing.",
+        "true",
+        "Genuine",
+        "Authentique",
+        [
+            "real",
+            "actual"
+        ],
+        [
+            "réel",
+            "authentique"
+        ],
+        [
+            "false",
+            "fake"
+        ],
+        [
+            "faux",
+            "factice"
+        ]
+    ]
+]

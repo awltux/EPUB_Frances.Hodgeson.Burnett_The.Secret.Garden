@@ -1,0 +1,778 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "He",
+        "Subject pronoun",
+        "Pronom personnel sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "pron. adv.",
+        "there",
+        "Adverbial pronoun",
+        "Pronom adverbial",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/avɛ/",
+        "v. avoir, imparfait",
+        "was",
+        "Existed",
+        "Exista",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "feu",
+        "/fø/",
+        "n. masc. sing.",
+        "fire",
+        "Flames",
+        "Flammes",
+        [
+            "blaze"
+        ],
+        [
+            "flammes"
+        ],
+        [],
+        []
+    ],
+    [
+        "vif",
+        "/vif/",
+        "adj. masc. sing.",
+        "bright",
+        "Intense",
+        "Intense",
+        [
+            "intense",
+            "lively"
+        ],
+        [
+            "intense",
+            "animé"
+        ],
+        [
+            "dull"
+        ],
+        [
+            "terne"
+        ],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Preposition of location",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sa",
+        "/sa/",
+        "adj. poss. fem. sing.",
+        "her",
+        "Possessive adjective",
+        "Adjectif possessif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chambre",
+        "/ʃɑ̃bʁ/",
+        "n. f.",
+        "room",
+        "A space in a building",
+        "Pièce dans un bâtiment",
+        [
+            "bedroom",
+            "chamber"
+        ],
+        [
+            "pièce"
+        ],
+        [],
+        []
+    ],
+    [
+        "À",
+        "/a/",
+        "prep.",
+        "To",
+        "Indicates direction",
+        "Indique la direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. f. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lumière",
+        "/ly.mjɛʁ/",
+        "n. f.",
+        "light",
+        "Brightness",
+        "Clarté",
+        [
+            "brightness"
+        ],
+        [
+            "clarté"
+        ],
+        [
+            "darkness"
+        ],
+        [
+            "obscurité"
+        ]
+    ],
+    [
+        "du",
+        "/dy/",
+        "art. m. sing.",
+        "of the",
+        "Contraction of de + le",
+        "contraction de de + le",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jour",
+        "/ʒuʁ/",
+        "n. m.",
+        "day",
+        "Period of 24 hours",
+        "Période de 24 heures",
+        [
+            "date"
+        ],
+        [
+            "date"
+        ],
+        [
+            "night"
+        ],
+        [
+            "nuit"
+        ]
+    ],
+    [
+        "c'était",
+        "/s‿ɛ.tɛ/",
+        "v. impf.",
+        "it was",
+        "Imperfect tense of être",
+        "Imparfait du verbe être, être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "magnifique",
+        "/ma.ɲi.fik/",
+        "adj.",
+        "magnificent",
+        "Extremely beautiful",
+        "Extrêmement beau",
+        [
+            "splendid",
+            "gorgeous"
+        ],
+        [
+            "splendide",
+            "superbe"
+        ],
+        [
+            "ordinary",
+            "plain"
+        ],
+        [
+            "ordinaire",
+            "banal"
+        ]
+    ],
+    [
+        "avec",
+        "/avɛk/",
+        "prep.",
+        "with",
+        "In association",
+        "En association",
+        [
+            "together with",
+            "alongside"
+        ],
+        [
+            "ensemble avec",
+            "à côté de"
+        ],
+        [
+            "without"
+        ],
+        [
+            "sans"
+        ]
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [
+            "few"
+        ],
+        [
+            "quelques"
+        ],
+        [],
+        []
+    ],
+    [
+        "couleurs",
+        "/kulœʁ/",
+        "n. f. pl.",
+        "colors",
+        "Hues",
+        "Nuances",
+        [
+            "hues",
+            "shades"
+        ],
+        [
+            "nuances",
+            "teintes"
+        ],
+        [
+            "black and white"
+        ],
+        [
+            "noir et blanc"
+        ]
+    ],
+    [
+        "riches",
+        "/ʁiʃ/",
+        "adj. pl.",
+        "rich",
+        "Abundant",
+        "Abondant",
+        [
+            "wealthy",
+            "abundant"
+        ],
+        [
+            "opulent",
+            "abondant"
+        ],
+        [
+            "poor"
+        ],
+        [
+            "pauvres"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside",
+        "À l'intérieur",
+        [
+            "inside",
+            "within"
+        ],
+        [
+            "à l'intérieur",
+            "au sein de"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "à l'extérieur de"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tapis",
+        "/tapi/",
+        "n.m. pl.",
+        "rugs",
+        "Floor coverings",
+        "Revêtements de sol",
+        [
+            "carpet",
+            "mats"
+        ],
+        [
+            "moquette",
+            "nattes"
+        ],
+        [],
+        []
+    ],
+    [
+        "tentures",
+        "/tɑ̃tyʁ/",
+        "n. f. pl.",
+        "hangings",
+        "Wall decorations",
+        "Décorations murales",
+        [
+            "tapestries"
+        ],
+        [
+            "tapisseries"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tableaux",
+        "/ta.blo/",
+        "n. m. pl.",
+        "paintings",
+        "Artistic creations",
+        "Créations artistiques",
+        [
+            "pictures"
+        ],
+        [
+            "images"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "livres",
+        "/li.vʁ/",
+        "n. m. pl.",
+        "books",
+        "Reading material",
+        "Matériel de lecture",
+        [
+            "volumes"
+        ],
+        [
+            "bouquins"
+        ],
+        [],
+        []
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. propre",
+        "Colin",
+        "A proper noun",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Preposition of location",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "robe",
+        "/ʁɔb/",
+        "n. fem. sing.",
+        "dress",
+        "Garment",
+        "Vêtement",
+        [
+            "gown"
+        ],
+        [
+            "vêtement"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin",
+        "Indique l'origine",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [],
+        []
+    ],
+    [
+        "chambre",
+        "/ʃɑ̃bʁ/",
+        "n. fem. sing.",
+        "room",
+        "Enclosed space",
+        "Espace clos",
+        [
+            "bedroom"
+        ],
+        [
+            "pièce"
+        ],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Indicates material",
+        "Indique le matériau",
+        [
+            "made of"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "velours",
+        "/və.luʁ/",
+        "n. masc. sing.",
+        "velvet",
+        "Soft fabric",
+        "Tissu doux",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v.",
+        "was",
+        "To be (imperfect)",
+        "Être (imparfait)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "assis",
+        "/a.si/",
+        "adj. masc. sing. past part.",
+        "sitting",
+        "In a seated position",
+        "Dans une position assise",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "contre",
+        "/kɔ̃tʁ/",
+        "prep.",
+        "against",
+        "In opposition to",
+        "En opposition à",
+        [
+            "versus",
+            "facing"
+        ],
+        [
+            "vis-à-vis",
+            "face à"
+        ],
+        [
+            "for"
+        ],
+        [
+            "pour"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [
+            "one"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "grand",
+        "/ɡʁɑ̃/",
+        "adj. masc. sing.",
+        "large",
+        "Of great size",
+        "De grande taille",
+        [
+            "big",
+            "huge"
+        ],
+        [
+            "énorme",
+            "vaste"
+        ],
+        [
+            "small"
+        ],
+        [
+            "petit"
+        ]
+    ],
+    [
+        "coussin",
+        "/ku.sɛ̃/",
+        "n. masc. sing.",
+        "cushion",
+        "Pillow",
+        "Oreiller",
+        [
+            "pillow"
+        ],
+        [
+            "oreiller"
+        ],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [
+            "one"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "tache",
+        "/taʃ/",
+        "n. fem. sing.",
+        "stain",
+        "Mark",
+        "Marque",
+        [
+            "spot",
+            "mark"
+        ],
+        [
+            "marque",
+            "souillure"
+        ],
+        [],
+        []
+    ],
+    [
+        "rouge",
+        "/ʁuʒ/",
+        "adj.",
+        "red",
+        "Color",
+        "Couleur",
+        [
+            "crimson",
+            "scarlet"
+        ],
+        [
+            "écarlate",
+            "vermeil"
+        ],
+        [
+            "blue"
+        ],
+        [
+            "bleu"
+        ]
+    ],
+    [
+        "sur",
+        "/syʁ/",
+        "prep.",
+        "on",
+        "Upon",
+        "Dessus",
+        [
+            "above"
+        ],
+        [
+            "au-dessus"
+        ],
+        [
+            "under"
+        ],
+        [
+            "sous"
+        ]
+    ],
+    [
+        "chaque",
+        "/ʃak/",
+        "adj. indef.",
+        "each",
+        "Every single one",
+        "Tout le monde",
+        [
+            "every"
+        ],
+        [
+            "tous"
+        ],
+        [
+            "none"
+        ],
+        [
+            "aucun"
+        ]
+    ],
+    [
+        "joue",
+        "/ʒu/",
+        "n. fém. sing.",
+        "cheek",
+        "Part of the face",
+        "Partie du visage",
+        [
+            "face"
+        ],
+        [
+            "visage"
+        ],
+        [],
+        []
+    ]
+]

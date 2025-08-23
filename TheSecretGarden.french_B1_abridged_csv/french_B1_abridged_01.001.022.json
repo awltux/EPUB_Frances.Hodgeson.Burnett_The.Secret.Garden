@@ -1,0 +1,510 @@
+[
+    [
+        "Je",
+        "/ʒə/",
+        "pers. pron.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "suis",
+        "/sɥi/",
+        "v. être, 1st person sing. present",
+        "am",
+        "First person singular of 'to be'",
+        "Première personne du singulier du verbe 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop.",
+        "Marie",
+        "A common female name",
+        "Nom féminin courant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Lennox",
+        "/lɛ.nɔks/",
+        "n.prop.",
+        "Lennox",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit-elle",
+        "/di.tɛl/",
+        "v. dire, inversion",
+        "she said",
+        "Inverted form of 'she said'",
+        "Forme inversée de 'elle a dit'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "d'un",
+        "/dœ̃/",
+        "art. indef. masc. sing.",
+        "with a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ton",
+        "/tɔ̃/",
+        "n. masc. sing.",
+        "tone",
+        "Quality of voice",
+        "Qualité de la voix",
+        [
+            "manner"
+        ],
+        [
+            "manière"
+        ],
+        [],
+        []
+    ],
+    [
+        "rigide",
+        "/ʁiʒid/",
+        "adj.",
+        "rigid",
+        "Stiff",
+        "Raide",
+        [
+            "stiff"
+        ],
+        [
+            "raide"
+        ],
+        [
+            "flexible"
+        ],
+        [
+            "souple"
+        ]
+    ],
+    [
+        "agacée",
+        "/a.ɡa.se/",
+        "adj. fém. sing.",
+        "annoyed",
+        "Irritated",
+        "Irritée",
+        [
+            "irritated",
+            "bothered"
+        ],
+        [
+            "irritée",
+            "ennuyée"
+        ],
+        [
+            "pleased"
+        ],
+        [
+            "ravie"
+        ]
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "pron. rel. + pron. pers.",
+        "that he",
+        "Relative pronoun + personal pronoun",
+        "Pronom relatif + pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "appelle",
+        "/a.pɛl/",
+        "v. appeler",
+        "calls",
+        "Names",
+        "Nomme",
+        [
+            "names"
+        ],
+        [
+            "nomme"
+        ],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. déf. fém. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "maison",
+        "/mɛ.zɔ̃/",
+        "n. fém. sing.",
+        "house",
+        "Dwelling",
+        "Logement",
+        [
+            "home",
+            "dwelling"
+        ],
+        [
+            "foyer",
+            "habitation"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Possessive preposition",
+        "Préposition de possession",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "son",
+        "/sɔ̃/",
+        "adj. poss. masc. sing.",
+        "his",
+        "Possessive adjective masculine singular",
+        "Adjectif possessif masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Père",
+        "/pɛʁ/",
+        "n. masc. sing.",
+        "Father",
+        "Male parent",
+        "Papa",
+        [
+            "dad",
+            "parent"
+        ],
+        [
+            "papa",
+            "parent"
+        ],
+        [],
+        []
+    ],
+    [
+        "cet",
+        "/sɛ/",
+        "art. dem. masc. sing.",
+        "this",
+        "Masculine singular demonstrative",
+        "Déterminant démonstratif masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "endroit",
+        "/ɑ̃.dʁwa/",
+        "n. masc. sing.",
+        "place",
+        "Location",
+        "Lieu",
+        [
+            "location",
+            "spot"
+        ],
+        [
+            "lieu",
+            "position"
+        ],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. réfl.",
+        "myself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "suis",
+        "/sɥi/",
+        "v. être, 1st person sing.",
+        "am",
+        "First person singular of 'to be'",
+        "Première personne du singulier de 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "endormie",
+        "/ɑ̃.dɔʁ.mi/",
+        "adj. past part. (endormir)",
+        "asleep",
+        "In a state of sleep",
+        "Dans un état de sommeil",
+        [
+            "sleeping"
+        ],
+        [
+            "dormant"
+        ],
+        [
+            "awake"
+        ],
+        [
+            "éveillé"
+        ]
+    ],
+    [
+        "pendant",
+        "/pɑ̃.dɑ̃/",
+        "prep.",
+        "during",
+        "Throughout the duration of",
+        "Tout au long de la durée de",
+        [
+            "while"
+        ],
+        [
+            "tandis que"
+        ],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. masc. sing.",
+        "the",
+        "Definite article, masculine singular",
+        "Article défini, masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choléra",
+        "/kɔ.le.ʁa/",
+        "n. masc. sing.",
+        "cholera",
+        "Infectious disease",
+        "Maladie infectieuse",
+        [
+            "disease"
+        ],
+        [
+            "maladie"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connecting words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person singular pronoun",
+        "Pronom personnel de la première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "viens",
+        "/vjɛ̃/",
+        "v. (venir)",
+        "come",
+        "To arrive",
+        "Arriver",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing relationships",
+        "Exprimant des relations",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. refl.",
+        "myself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "réveiller",
+        "/ʁevɛje/",
+        "v. inf.",
+        "wake up",
+        "Awaken",
+        "Sortir du sommeil",
+        [
+            "awaken"
+        ],
+        [
+            "éveiller"
+        ],
+        [
+            "sleep"
+        ],
+        [
+            "dormir"
+        ]
+    ],
+    [
+        "Pourquoi",
+        "/puʁ.kwa/",
+        "adv. interr.",
+        "Why",
+        "Reason question",
+        "Question de raison",
+        [
+            "how come"
+        ],
+        [
+            "comment se fait-il"
+        ],
+        [],
+        []
+    ],
+    [
+        "personne",
+        "/pɛʁ.sɔn/",
+        "pron. indef.",
+        "nobody",
+        "No one",
+        "Aucun individu",
+        [
+            "no one"
+        ],
+        [
+            "aucun"
+        ],
+        [
+            "everybody"
+        ],
+        [
+            "tout le monde"
+        ]
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vient",
+        "/vjɛ̃/",
+        "v. 3rd person sing. present tense venir",
+        "comes",
+        "Arrives",
+        "Arrive",
+        [
+            "arrives"
+        ],
+        [
+            "approche"
+        ],
+        [
+            "leaves"
+        ],
+        [
+            "part"
+        ]
+    ]
+]

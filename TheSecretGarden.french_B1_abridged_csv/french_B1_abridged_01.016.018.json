@@ -1,0 +1,388 @@
+[
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person pronoun",
+        "Pronom personnel première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "pron. pers.",
+        "him",
+        "Direct object pronoun",
+        "Pronom personnel complément d'objet direct",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ai",
+        "/ɛ/",
+        "v. avoir",
+        "have",
+        "Auxiliary verb 'avoir'",
+        "Auxiliaire 'avoir'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "v. faire part. passé",
+        "done",
+        "Past participle of 'faire'",
+        "Participe passé de 'faire'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "adj. dem. masc. sing.",
+        "this",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "matin",
+        "/ma.tɛ̃/",
+        "n. masc. sing.",
+        "morning",
+        "Early part of the day",
+        "Début de la journée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "while",
+        "Preposition",
+        "Préposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pensant",
+        "/pɑ̃.sɑ̃/",
+        "v. penser part. présent",
+        "thinking",
+        "Present participle of 'penser'",
+        "Participe présent de 'penser'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers.",
+        "you",
+        "Second person singular pronoun",
+        "Pronom personnel deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "viendrais",
+        "/vjɛ̃.dʁɛ/",
+        "v. cond. venir",
+        "would come",
+        "Conditional tense of 'venir'",
+        "Conditionnel de 'venir'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "répondit-il",
+        "/ʁe.pɔ̃.di.til/",
+        "v. passé simple répondre",
+        "he replied",
+        "Past historic of 'répondre'",
+        "Passé simple de 'répondre'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. déf. fém. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "voix",
+        "/vwa/",
+        "n. fém. sing.",
+        "voice",
+        "Sound produced by speaking",
+        "Son produit en parlant",
+        [
+            "tone"
+        ],
+        [
+            "intonation"
+        ],
+        [],
+        []
+    ],
+    [
+        "boudeuse",
+        "/bu.døz/",
+        "adj. fém. sing.",
+        "sulky",
+        "Showing resentment",
+        "Montrant du ressentiment",
+        [
+            "pouting"
+        ],
+        [
+            "renfrogné"
+        ],
+        [],
+        []
+    ],
+    [
+        "J'ai",
+        "/ʒe/",
+        "v. avoir - 1st person sing. present",
+        "I have",
+        "Possession statement",
+        "Déclaration de possession",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mal",
+        "/mal/",
+        "n. masc. sing.",
+        "pain",
+        "Physical suffering",
+        "Souffrance physique",
+        [
+            "ache"
+        ],
+        [
+            "douleur"
+        ],
+        [
+            "comfort"
+        ],
+        [
+            "bien-être"
+        ]
+    ],
+    [
+        "au",
+        "/o/",
+        "art. contracté (à + le)",
+        "to the",
+        "Indicates location",
+        "Indique un lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dos",
+        "/do/",
+        "n. masc. sing.",
+        "back",
+        "Posterior of torso",
+        "Partie postérieure du torse",
+        [],
+        [
+            "échine"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Indicates direction",
+        "Indique une direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. déf. fém. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tête",
+        "/tɛt/",
+        "n. f.",
+        "head",
+        "Body part",
+        "Partie du corps",
+        [
+            "mind"
+        ],
+        [
+            "esprit"
+        ],
+        [],
+        []
+    ],
+    [
+        "Pourquoi",
+        "/puʁ.kwa/",
+        "adv. interr.",
+        "Why",
+        "Reason asking",
+        "Raison demandant",
+        [
+            "how come"
+        ],
+        [
+            "comment se fait-il"
+        ],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "es",
+        "/ɛ/",
+        "v. être",
+        "are",
+        "To be (you)",
+        "Être (tu)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "-tu",
+        "/ty/",
+        "pron. subj.",
+        "you",
+        "Second person singular pronoun",
+        "Pronom personnel deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "venue",
+        "/və.ny/",
+        "v. venir",
+        "came",
+        "Past participle of to come",
+        "Participe passé de venir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "?",
+        "/?/",
+        "ponctuation",
+        "question mark",
+        "End of a question",
+        "Fin d'une question",
+        [],
+        [],
+        [],
+        []
+    ]
+]

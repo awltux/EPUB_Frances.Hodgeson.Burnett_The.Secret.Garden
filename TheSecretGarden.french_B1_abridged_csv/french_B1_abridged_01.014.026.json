@@ -1,0 +1,780 @@
+[
+    [
+        "Pas",
+        "/pɑ/",
+        "adv. neg.",
+        "Not",
+        "Negative particle",
+        "Particule négative",
+        [
+            "no"
+        ],
+        [
+            "non"
+        ],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "encore",
+        "/ɑ̃.kɔʁ/",
+        "adv.",
+        "yet",
+        "Still",
+        "Toujours",
+        [
+            "still",
+            "again"
+        ],
+        [
+            "toujours",
+            "de nouveau"
+        ],
+        [
+            "already"
+        ],
+        [
+            "déjà"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Stated",
+        "Déclaré",
+        [
+            "stated"
+        ],
+        [
+            "déclaré"
+        ],
+        [],
+        []
+    ],
+    [
+        "Marthe",
+        "/maʁt/",
+        "n. prop.",
+        "Martha",
+        "Name",
+        "Nom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Mais",
+        "/mɛ/",
+        "conj.",
+        "But",
+        "However",
+        "Cependant",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers.",
+        "he",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir",
+        "has",
+        "To have",
+        "Avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mal",
+        "/mal/",
+        "adv.",
+        "badly",
+        "Poorly",
+        "Pauvrement",
+        [
+            "poorly"
+        ],
+        [
+            "pauvrement"
+        ],
+        [
+            "well"
+        ],
+        [
+            "bien"
+        ]
+    ],
+    [
+        "commencé",
+        "/kɔ.mɑ̃.se/",
+        "v. commencer",
+        "started",
+        "Began",
+        "Débuté",
+        [
+            "begun"
+        ],
+        [
+            "débuté"
+        ],
+        [
+            "ended"
+        ],
+        [
+            "fini"
+        ]
+    ],
+    [
+        "Ils",
+        "/il/",
+        "pron. pers. masc. pl.",
+        "They",
+        "Group of males",
+        "Groupe de mâles",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avaient",
+        "/avɛ/",
+        "v. avoir, imparfait",
+        "had",
+        "Possessed",
+        "Possédaient",
+        [
+            "possessed"
+        ],
+        [
+            "possédaient"
+        ],
+        [],
+        []
+    ],
+    [
+        "peur",
+        "/pœʁ/",
+        "n. fém. sing.",
+        "fear",
+        "Anxiety",
+        "Anxiété",
+        [
+            "anxiety"
+        ],
+        [
+            "anxiété"
+        ],
+        [
+            "courage"
+        ],
+        [
+            "courage"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Indicates a subordinate clause",
+        "Introduit une proposition subordonnée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "son",
+        "/sɔ̃/",
+        "adj. poss. masc. sing.",
+        "his",
+        "Belonging to him",
+        "Appartenant à lui",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dos",
+        "/do/",
+        "n. masc. sing.",
+        "back",
+        "Posterior of torso",
+        "Postérieur du torse",
+        [
+            "spine"
+        ],
+        [
+            "épine dorsale"
+        ],
+        [],
+        []
+    ],
+    [
+        "soit",
+        "/swa/",
+        "v. être, subj. prés.",
+        "be",
+        "To exist",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faible",
+        "/fɛbl/",
+        "adj.",
+        "weak",
+        "Not strong",
+        "Pas fort",
+        [
+            "frail"
+        ],
+        [
+            "frêle"
+        ],
+        [
+            "strong"
+        ],
+        [
+            "fort"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connects words or clauses",
+        "Relie des mots ou des propositions",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "pron. pers.",
+        "him",
+        "Pronoun referring to a male",
+        "Pronom faisant référence à un homme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ont",
+        "/ɔ̃/",
+        "v. avoir, 3rd person pl. present",
+        "have",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "gardé",
+        "/ɡaʁ.de/",
+        "v. garder, past participle",
+        "kept",
+        "Maintained in a state",
+        "Maintenu dans un état",
+        [
+            "preserved"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "allongé",
+        "/a.lɔ̃.ʒe/",
+        "adj.",
+        "lying",
+        "In a reclined position",
+        "Dans une position inclinée",
+        [
+            "prone"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "He",
+        "Referring to a male person",
+        "Se référant à une personne de sexe masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "portait",
+        "/pɔʁ.tɛ/",
+        "v. porter, 3rd person sing. imparfait",
+        "wore",
+        "Had on",
+        "Avait sur soi",
+        [
+            "carried"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indéf. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "corset",
+        "/kɔʁ.sɛ/",
+        "n. masc. sing.",
+        "corset",
+        "Undergarment",
+        "Sous-vêtement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "Contrast",
+        "Contraste",
+        [
+            "however"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "ça",
+        "/sa/",
+        "pron. dem.",
+        "that",
+        "Demonstrative pronoun",
+        "Pronom démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Masculine singular pronoun",
+        "Pronom personnel masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rendait",
+        "/ʁɑ̃.dɛ/",
+        "v. imparf. rendre",
+        "was making",
+        "Causing to be",
+        "Faisait devenir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "malade",
+        "/ma.lad/",
+        "adj.",
+        "sick",
+        "Unwell",
+        "Souffrant",
+        [
+            "ill"
+        ],
+        [
+            "souffrant"
+        ],
+        [
+            "healthy"
+        ],
+        [
+            "bien-portant"
+        ]
+    ],
+    [
+        "Puis",
+        "/pɥi/",
+        "adv.",
+        "Then",
+        "Next in sequence",
+        "Ensuite",
+        [
+            "afterward"
+        ],
+        [
+            "ensuite"
+        ],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "médecin",
+        "/me.dsɛ̃/",
+        "n. masc. sing.",
+        "doctor",
+        "Medical professional",
+        "Professionnel de la santé",
+        [
+            "physician"
+        ],
+        [
+            "docteur"
+        ],
+        [],
+        []
+    ],
+    [
+        "leur",
+        "/lœʁ/",
+        "pron. pers.",
+        "them",
+        "To them",
+        "À eux",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. aux. prés. avoir",
+        "has",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. p.p. dire",
+        "said",
+        "Stated",
+        "Déclaré",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition indicating origin",
+        "Préposition indiquant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "enlever",
+        "/ɑ̃.lə.ve/",
+        "v. inf.",
+        "to remove",
+        "Take away",
+        "Ôter",
+        [
+            "eliminate",
+            "extract"
+        ],
+        [
+            "ôter",
+            "supprimer"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "He",
+        "Third-person singular pronoun",
+        "Pronom de la troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. aux.",
+        "has",
+        "Auxiliary verb 'avoir'",
+        "Auxiliaire avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Past participle of 'dire'",
+        "Participe passé de 'dire'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qu'",
+        "/kə/",
+        "conj.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers.",
+        "he",
+        "Third-person singular pronoun",
+        "Pronom de la troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "adv. de lieu",
+        "there",
+        "Adverb of place",
+        "Adverbe de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/ɛ.vɛ/",
+        "v. avoir",
+        "was",
+        "Imperfect tense of 'avoir'",
+        "Imparfait de 'avoir'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "trop",
+        "/tʁo/",
+        "adv.",
+        "too much",
+        "Excessively",
+        "Excessivement",
+        [
+            "excessively"
+        ],
+        [
+            "beaucoup"
+        ],
+        [
+            "little"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin",
+        "Indique l'origine",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [],
+        []
+    ],
+    [
+        "médicaments",
+        "/me.di.ka.mɑ̃/",
+        "n. masc. pl.",
+        "medications",
+        "Substances for treatment",
+        "Substances pour le traitement",
+        [
+            "drugs"
+        ],
+        [
+            "drogues"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "trop",
+        "/tʁo/",
+        "adv.",
+        "too much",
+        "Excessive amount",
+        "Quantité excessive",
+        [
+            "excessively"
+        ],
+        [
+            "excessivement"
+        ],
+        [
+            "little"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expresses quantity",
+        "Exprime la quantité",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [],
+        []
+    ],
+    [
+        "laisser-faire",
+        "/lɛ.se.fɛʁ/",
+        "n. masc. sing.",
+        "laissez-faire",
+        "Policy of non-interference",
+        "Politique de non-ingérence",
+        [
+            "nonintervention"
+        ],
+        [],
+        [],
+        []
+    ]
+]

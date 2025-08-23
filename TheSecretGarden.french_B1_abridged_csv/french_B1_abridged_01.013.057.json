@@ -1,0 +1,474 @@
+[
+    [
+        "Tout",
+        "/tu/",
+        "adj. indef. masc. sing.",
+        "All",
+        "Entire",
+        "Entier",
+        [
+            "every"
+        ],
+        [
+            "chaque"
+        ],
+        [
+            "none"
+        ],
+        [
+            "aucun"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "monde",
+        "/mɔ̃d/",
+        "n. masc. sing.",
+        "world",
+        "Earth",
+        "Terre",
+        [
+            "people",
+            "everyone"
+        ],
+        [
+            "gens",
+            "tous"
+        ],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "v. faire",
+        "does",
+        "Performs",
+        "Accomplit",
+        [
+            "performs"
+        ],
+        [
+            "exécute"
+        ],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "pron. dem.",
+        "what",
+        "That which",
+        "Ce que",
+        [
+            "that"
+        ],
+        [
+            "cela"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "pron. rel.",
+        "that",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. vouloir",
+        "want",
+        "Desire",
+        "Désirer",
+        [
+            "desire"
+        ],
+        [
+            "désire"
+        ],
+        [],
+        []
+    ],
+    [
+        "dit-il",
+        "/di.t‿il/",
+        "v. dire",
+        "he said",
+        "Statement",
+        "Déclaration",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Cela",
+        "/sə.la/",
+        "pron. dém.",
+        "That",
+        "Demonstrative pronoun",
+        "Pronom démonstratif",
+        [
+            "that"
+        ],
+        [
+            "ceci"
+        ],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "First person pronoun",
+        "Pronom personnel première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rend",
+        "/ʁɑ̃/",
+        "v. rendre",
+        "makes",
+        "Causes to be",
+        "Faire devenir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "malade",
+        "/ma.lad/",
+        "adj.",
+        "sick",
+        "Unwell",
+        "Indisposé",
+        [
+            "ill"
+        ],
+        [
+            "souffrant"
+        ],
+        [
+            "healthy"
+        ],
+        [
+            "bien portant"
+        ]
+    ],
+    [
+        "d'être",
+        "/d‿ɛtʁ/",
+        "v. être",
+        "to be",
+        "Infinitive verb",
+        "Verbe à l'infinitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Preposition of location",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "colère",
+        "/kɔ.lɛʁ/",
+        "n.f.",
+        "anger",
+        "Strong displeasure",
+        "Fureur",
+        [
+            "rage",
+            "fury"
+        ],
+        [
+            "fureur",
+            "rage"
+        ],
+        [
+            "calm"
+        ],
+        [
+            "calme"
+        ]
+    ],
+    [
+        "Personne",
+        "/pɛʁ.sɔn/",
+        "pron. indéf.",
+        "Nobody",
+        "Not a single person",
+        "Aucun individu",
+        [
+            "no one"
+        ],
+        [
+            "aucun"
+        ],
+        [
+            "everybody"
+        ],
+        [
+            "tout le monde"
+        ]
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pense",
+        "/pɑ̃s/",
+        "v. 3rd person sing. pres.",
+        "thinks",
+        "Believes",
+        "Crois",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Connecting word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vais",
+        "/vɛ/",
+        "v. aller 1st person sing. pres.",
+        "am going",
+        "Future tense auxiliary",
+        "Auxiliaire du futur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vivre",
+        "/vivʁ/",
+        "v. inf.",
+        "to live",
+        "To have life",
+        "Avoir la vie",
+        [
+            "exist"
+        ],
+        [
+            "exister"
+        ],
+        [
+            "die"
+        ],
+        [
+            "mourir"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "semblait",
+        "/sɑ̃.blɛ/",
+        "v. imp. sembler",
+        "seemed",
+        "Appeared to be",
+        "Paraissait",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "habitué",
+        "/a.bi.tɥe/",
+        "adj. masc. sing.",
+        "used to",
+        "Accustomed",
+        "Accoutumé",
+        [
+            "accustomed"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction",
+        "Direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cette",
+        "/sɛt/",
+        "adj. dem. fem. sing.",
+        "this",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "idée",
+        "/i.de/",
+        "n. fem. sing.",
+        "idea",
+        "Thought or concept",
+        "Pensée",
+        [
+            "thought",
+            "concept"
+        ],
+        [
+            "pensée",
+            "concept"
+        ],
+        [],
+        []
+    ],
+    [
+        "Quel",
+        "/kɛl/",
+        "adj. inter. masc. sing.",
+        "What",
+        "Interrogative adjective",
+        "Adjectif interrogatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "âge",
+        "/ɑʒ/",
+        "n. masc. sing.",
+        "age",
+        "Length of existence",
+        "Durée d'existence",
+        [
+            "era"
+        ],
+        [
+            "ère"
+        ],
+        [],
+        []
+    ],
+    [
+        "as-tu",
+        "/a ty/",
+        "v. avoir, interr.",
+        "do you have",
+        "Auxiliary verb in question form",
+        "Verbe auxiliaire à la forme interrogative",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "demanda-t-il",
+        "/də.mɑ̃.da.til/",
+        "v. demander, past historic, interr.",
+        "he asked",
+        "Past historic form of to ask",
+        "Passé simple du verbe demander",
+        [],
+        [],
+        [],
+        []
+    ]
+]

@@ -1,0 +1,198 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "It",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "pron. adv.",
+        "there",
+        "Adverbial pronoun",
+        "Pronom adverbial",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/avɛ/",
+        "v. avoir, impf.",
+        "was",
+        "To have - imperfect",
+        "Avoir - imparfait",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition",
+        "Préposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "porte",
+        "/pɔʁt/",
+        "n. fem. sing.",
+        "door",
+        "Entrance",
+        "Entrée",
+        [
+            "entrance"
+        ],
+        [
+            "entrée"
+        ],
+        [
+            "exit"
+        ],
+        [
+            "sortie"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "to",
+        "Indicates purpose",
+        "Indique le but",
+        [
+            "in order to"
+        ],
+        [
+            "afin de"
+        ],
+        [],
+        []
+    ],
+    [
+        "entrer",
+        "/ɑ̃tʁe/",
+        "v. inf.",
+        "to enter",
+        "To go into",
+        "Aller à l'intérieur",
+        [
+            "to go in"
+        ],
+        [
+            "pénétrer"
+        ],
+        [
+            "to exit"
+        ],
+        [
+            "sortir"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Indicates location",
+        "Indique le lieu",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur de"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "hors de"
+        ]
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "autre",
+        "/otʁ/",
+        "adj.",
+        "other",
+        "Different",
+        "Différent",
+        [
+            "different"
+        ],
+        [
+            "différent"
+        ],
+        [
+            "same"
+        ],
+        [
+            "même"
+        ]
+    ],
+    [
+        "jardin",
+        "/ʒaʁdɛ̃/",
+        "n. masc.",
+        "garden",
+        "Cultivated area",
+        "Espace cultivé",
+        [
+            "yard"
+        ],
+        [
+            "cour"
+        ],
+        [],
+        []
+    ]
+]

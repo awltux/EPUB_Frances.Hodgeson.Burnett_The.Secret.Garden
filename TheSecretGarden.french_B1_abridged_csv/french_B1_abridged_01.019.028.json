@@ -1,0 +1,716 @@
+[
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. 1st sing.",
+        "I",
+        "First person pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. vouloir",
+        "want",
+        "Desire",
+        "Désir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. refl.",
+        "myself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rappeler",
+        "/ʁa.ple/",
+        "v. se rappeler",
+        "remember",
+        "Recall",
+        "Se souvenir",
+        [
+            "recall"
+        ],
+        [
+            "se souvenir"
+        ],
+        [
+            "forget"
+        ],
+        [
+            "oublier"
+        ]
+    ],
+    [
+        "interrompit",
+        "/ɛ̃.te.ʁɔ̃.pi/",
+        "v. interrompre",
+        "interrupted",
+        "Broke in",
+        "A interrompu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. propre",
+        "Colin",
+        "Common French first name",
+        "Prénom français courant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Quand",
+        "/kɑ̃/",
+        "conj. de temps",
+        "When",
+        "At what time",
+        "À quel moment",
+        [
+            "As"
+        ],
+        [
+            "Comme"
+        ],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "suis",
+        "/sɥi/",
+        "v. être, 1st pers. sing. présent",
+        "am",
+        "State of being",
+        "État d'être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "seul",
+        "/sœl/",
+        "adj. masc. sing.",
+        "alone",
+        "Being by oneself",
+        "Être seul",
+        [
+            "lonely"
+        ],
+        [
+            "isolé"
+        ],
+        [
+            "together"
+        ],
+        [
+            "accompagné"
+        ]
+    ],
+    [
+        "j’",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun (abbreviated)",
+        "Première personne du singulier (abrégé)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ai",
+        "/e/",
+        "v. avoir, 1st pers. sing. présent",
+        "have",
+        "To possess",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. plur.",
+        "some",
+        "Indefinite article, plural",
+        "Article indéfini, pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "douleurs",
+        "/du.lœʁ/",
+        "n. fém. plur.",
+        "pains",
+        "Physical suffering",
+        "Souffrance physique",
+        [
+            "aches"
+        ],
+        [
+            "maux"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pense",
+        "/pɑ̃s/",
+        "v. prés. ind.",
+        "think",
+        "To have a thought",
+        "Avoir une pensée",
+        [
+            "believe",
+            "consider"
+        ],
+        [
+            "croire",
+            "considérer"
+        ],
+        [],
+        [],
+        "penser"
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Preposition of direction or purpose",
+        "Préposition de direction ou de but",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. f. pl.",
+        "things",
+        "Objects or concepts",
+        "Objets ou concepts",
+        [
+            "items"
+        ],
+        [
+            "articles"
+        ],
+        [],
+        []
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "that",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "font",
+        "/fɔ̃/",
+        "v. prés. ind.",
+        "make",
+        "To cause to be or become",
+        "Faire devenir ou être",
+        [
+            "create"
+        ],
+        [
+            "créer"
+        ],
+        [],
+        [],
+        "faire"
+    ],
+    [
+        "crier",
+        "/kʁije/",
+        "v.inf.",
+        "to shout",
+        "Raise your voice",
+        "Élever la voix",
+        [
+            "yell",
+            "scream"
+        ],
+        [
+            "hurler",
+            "brailler"
+        ],
+        [
+            "whisper"
+        ],
+        [
+            "chuchoter"
+        ]
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. subj. 1st sing.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. Prés. vouloir",
+        "want",
+        "To desire",
+        "Désirer",
+        [
+            "desire"
+        ],
+        [
+            "désirer"
+        ],
+        [
+            "dislike"
+        ],
+        [
+            "détester"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indéf. masc. sing.",
+        "a",
+        "Indefinite article masculine singular",
+        "Article indéfini masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "docteur",
+        "/dɔktœʁ/",
+        "n. masc.",
+        "doctor",
+        "Medical professional",
+        "Professionnel de la santé",
+        [
+            "physician"
+        ],
+        [
+            "médecin"
+        ],
+        [],
+        []
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "who",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "puisse",
+        "/pɥis/",
+        "v. Subj. Prés. pouvoir",
+        "can",
+        "To be able to",
+        "Être capable de",
+        [
+            "may"
+        ],
+        [
+            "pourvoir"
+        ],
+        [],
+        []
+    ],
+    [
+        "te",
+        "/tə/",
+        "pron. pers. obj.",
+        "you",
+        "Pronoun, to you",
+        "Pronom, à toi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faire",
+        "/fɛʁ/",
+        "v.inf.",
+        "to make",
+        "To create",
+        "Créer",
+        [
+            "do"
+        ],
+        [
+            "créer"
+        ],
+        [
+            "destroy"
+        ],
+        [
+            "détruire"
+        ]
+    ],
+    [
+        "oublier",
+        "/ublije/",
+        "v. infin. of oublier",
+        "forget",
+        "Fail to remember",
+        "Manquer de se rappeler",
+        [
+            "disregard"
+        ],
+        [
+            "négliger"
+        ],
+        [
+            "remember"
+        ],
+        [
+            "rappeler"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Used to introduce a clause",
+        "Utilisé pour introduire une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers.",
+        "you",
+        "Second person singular",
+        "Deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "es",
+        "/ɛ/",
+        "v. être, present",
+        "are",
+        "To be",
+        "Être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "malade",
+        "/malad/",
+        "adj.",
+        "sick",
+        "Affected by illness",
+        "Atteint d'une maladie",
+        [
+            "ill"
+        ],
+        [
+            "souffrant"
+        ],
+        [
+            "healthy"
+        ],
+        [
+            "bien portant"
+        ]
+    ],
+    [
+        "Ma",
+        "/ma/",
+        "adj. poss. fem. sing.",
+        "My",
+        "Belonging to me",
+        "Appartenant à moi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cousine",
+        "/kuzin/",
+        "n. fem.",
+        "cousin",
+        "Relative",
+        "Membre de la famille",
+        [
+            "relative"
+        ],
+        [
+            "parent"
+        ],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "First person singular object pronoun",
+        "Pronom personnel complément de première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "v. faire, present",
+        "makes",
+        "To do",
+        "Faire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oublier",
+        "/ublije/",
+        "v. infin.",
+        "to forget",
+        "Fail to remember",
+        "Manquer de se souvenir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "alors",
+        "/alɔʁ/",
+        "adv.",
+        "then",
+        "At that time",
+        "À ce moment-là",
+        [
+            "therefore"
+        ],
+        [
+            "donc"
+        ],
+        [],
+        []
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Female pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "First-person pronoun",
+        "Pronom de première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "v. faire",
+        "makes",
+        "Causes to happen",
+        "Faire arriver",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aller",
+        "/ale/",
+        "v. infin.",
+        "to go",
+        "Move from one place to another",
+        "Se déplacer d'un endroit à un autre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mieux",
+        "/mjø/",
+        "adv.",
+        "better",
+        "In a more excellent way",
+        "D'une manière plus excellente",
+        [
+            "improved"
+        ],
+        [
+            "amélioré"
+        ],
+        [
+            "worse"
+        ],
+        [
+            "pire"
+        ]
+    ]
+]

@@ -1,0 +1,700 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "est",
+        "/ɛ/",
+        "v. être, 3rd person sing. present",
+        "is",
+        "Exists",
+        "Existe",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "resté",
+        "/ʁɛste/",
+        "v. rester, past participle",
+        "stayed",
+        "Remained",
+        "Demeuré",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Location",
+        "Emplacement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sa",
+        "/sa/",
+        "adj. poss. fem. sing.",
+        "his/her",
+        "Belonging to him/her",
+        "Appartenant à lui/elle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chambre",
+        "/ʃɑ̃bʁ/",
+        "n. fem. sing.",
+        "room",
+        "Enclosed space",
+        "Espace clos",
+        [
+            "bedroom"
+        ],
+        [
+            "pièce"
+        ],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "adv.",
+        "so",
+        "To such a degree",
+        "À tel point",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "longtemps",
+        "/lɔ̃tɑ̃/",
+        "adv.",
+        "long",
+        "For a long duration",
+        "Pour une longue durée",
+        [
+            "awhile"
+        ],
+        [
+            "pendant longtemps"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. subordinante",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ça",
+        "/sa/",
+        "pron. dém. racc.",
+        "that",
+        "Demonstrative pronoun short",
+        "Pronom démonstratif raccourci",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def. masc. sing.",
+        "him",
+        "Definite article masculine singular elided",
+        "Article défini masculin singulier élidé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (3rd person sing. present)",
+        "has",
+        "Auxiliary verb avoir",
+        "Auxiliaire avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rendu",
+        "/ʁɑ̃.dy/",
+        "v. rendre (past participle)",
+        "made",
+        "Past participle of rendre",
+        "Participe passé de rendre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "étrange",
+        "/e.tʁɑ̃ʒ/",
+        "adj.",
+        "strange",
+        "Unusual",
+        "Inhabituel",
+        [
+            "odd",
+            "peculiar"
+        ],
+        [
+            "bizarre",
+            "curieux"
+        ],
+        [
+            "normal"
+        ],
+        [
+            "ordinaire"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire (3rd person sing. past historic)",
+        "said",
+        "Past historic of dire",
+        "Passé simple de dire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop.",
+        "Marie",
+        "Common French name",
+        "Nom français commun",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. subj. masc. sing.",
+        "He",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "connaît",
+        "/kɔ.nɛ/",
+        "v. connaître, 3rd person sing. present",
+        "knows",
+        "Is aware of",
+        "Est conscient de",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. masc. plur.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "livres",
+        "/livʁ/",
+        "n. masc. plur.",
+        "books",
+        "Bound pages",
+        "Pages reliées",
+        [
+            "publications"
+        ],
+        [
+            "publications"
+        ],
+        [],
+        []
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "However",
+        "Cependant",
+        [],
+        [],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "rien",
+        "/ʁjɛ̃/",
+        "pron. indef.",
+        "nothing",
+        "Not anything",
+        "Pas quelque chose",
+        [],
+        [],
+        [
+            "everything"
+        ],
+        [
+            "tout"
+        ]
+    ],
+    [
+        "d'autre",
+        "/dotʁ/",
+        "adj.",
+        "else",
+        "Different",
+        "Différent",
+        [
+            "additional"
+        ],
+        [
+            "supplémentaire"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. subj. masc. sing.",
+        "He",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "déteste",
+        "/de.tɛst/",
+        "v. détester, 3rd person sing. present",
+        "hates",
+        "Dislikes strongly",
+        "N'aime pas fortement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardins",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. pl.",
+        "gardens",
+        "Plural of garden",
+        "Pluriel de jardin",
+        [
+            "parks"
+        ],
+        [
+            "parcs"
+        ],
+        [],
+        []
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "Contrast",
+        "Opposition",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third-person singular masculine pronoun",
+        "Pronom personnel masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aime",
+        "/ɛm/",
+        "v. aimer, prés. ind.",
+        "likes",
+        "To enjoy or be fond of",
+        "Apprécier",
+        [
+            "enjoys"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "entendre",
+        "/ɑ̃.tɑ̃dʁ/",
+        "v. inf.",
+        "to hear",
+        "To perceive with the ear",
+        "Percevoir avec l'oreille",
+        [
+            "listen"
+        ],
+        [
+            "écouter"
+        ],
+        [],
+        []
+    ],
+    [
+        "parler",
+        "/paʁ.le/",
+        "v. inf.",
+        "to speak",
+        "To say something",
+        "Dire quelque chose",
+        [
+            "talk"
+        ],
+        [
+            "bavarder"
+        ],
+        [
+            "listen"
+        ],
+        [
+            "écouter"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin or belonging",
+        "Indique l'origine ou l'appartenance",
+        [
+            "about"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "pron. dem.",
+        "this",
+        "Demonstrative pronoun",
+        "Pronom démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁdɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Cultivated area",
+        "Terrain cultivé",
+        [
+            "yard"
+        ],
+        [
+            "parc"
+        ],
+        [],
+        []
+    ],
+    [
+        "secret",
+        "/sə.kʁɛ/",
+        "adj. masc. sing.",
+        "secret",
+        "Confidential",
+        "Confidentiel",
+        [
+            "hidden"
+        ],
+        [
+            "caché"
+        ],
+        [
+            "public"
+        ],
+        [
+            "public"
+        ]
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. 1st sing.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ose",
+        "/oz/",
+        "v.",
+        "dare",
+        "To be brave enough",
+        "Avoir le courage",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Third person singular pronoun",
+        "Pronom personnel troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "pron. pers.",
+        "of it",
+        "Referring to something previously mentioned",
+        "Se référant à quelque chose mentionné précédemment",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dire",
+        "/diʁ/",
+        "v. inf.",
+        "to say",
+        "To express verbally",
+        "Exprimer verbalement",
+        [
+            "tell"
+        ],
+        [
+            "exprimer"
+        ],
+        [],
+        []
+    ],
+    [
+        "beaucoup",
+        "/bo.ku/",
+        "adv. quant.",
+        "much",
+        "A large amount",
+        "Une grande quantité",
+        [
+            "a lot"
+        ],
+        [
+            "énormément"
+        ],
+        [
+            "little"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "Conjunction indicating contrast",
+        "Conjonction indiquant un contraste",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third-person singular masculine pronoun",
+        "Pronom personnel masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veut",
+        "/vø/",
+        "v.",
+        "wants",
+        "Desire",
+        "Désir",
+        [
+            "desires"
+        ],
+        [
+            "désire"
+        ],
+        [
+            "dislikes"
+        ],
+        [
+            "déteste"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Direct object pronoun",
+        "Pronom personnel COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "voir",
+        "/vwaʁ/",
+        "v. inf.",
+        "to see",
+        "To perceive with the eyes",
+        "Percevoir avec les yeux",
+        [
+            "observe"
+        ],
+        [
+            "observer"
+        ],
+        [
+            "ignore"
+        ],
+        [
+            "ignorer"
+        ]
+    ]
+]

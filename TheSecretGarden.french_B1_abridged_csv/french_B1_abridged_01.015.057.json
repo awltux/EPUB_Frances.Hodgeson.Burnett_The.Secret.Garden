@@ -1,0 +1,583 @@
+[
+    [
+        "Non",
+        "/nɔ̃/",
+        "adv.",
+        "No",
+        "Negative response",
+        "Réponse négative",
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj.",
+        "but",
+        "Contradictory conjunction",
+        "Conjonction de contradiction",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third-person pronoun",
+        "Pronom de troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "souhaite",
+        "/su.ɛt/",
+        "v. prés. conj. souhaiter",
+        "wishes",
+        "Expresses a desire",
+        "Exprime un désir",
+        [
+            "desires"
+        ],
+        [
+            "désire"
+        ],
+        [],
+        []
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "conj. + pron. pers.",
+        "that he",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation marker",
+        "Marqueur de négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "soit",
+        "/swa/",
+        "v. prés. conj. être",
+        "be",
+        "To exist",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jamais",
+        "/ʒa.mɛ/",
+        "adv.",
+        "never",
+        "At no time",
+        "À aucun moment",
+        [
+            "not ever"
+        ],
+        [
+            "pas même"
+        ],
+        [
+            "always"
+        ],
+        [
+            "toujours"
+        ]
+    ],
+    [
+        "né",
+        "/ne/",
+        "v. naître",
+        "born",
+        "Came into existence",
+        "Venu au monde",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Mère",
+        "/mɛʁ/",
+        "n. fem. sing.",
+        "Mother",
+        "Female parent",
+        "Parent femelle",
+        [
+            "mom"
+        ],
+        [
+            "maman"
+        ],
+        [
+            "father"
+        ],
+        [
+            "père"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "says",
+        "Expresses verbally",
+        "Exprime verbalement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Introducing a clause",
+        "Introduisant une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "c'est",
+        "/sɛ/",
+        "c' + v. être",
+        "it is",
+        "Indicates identity",
+        "Indique l'identité",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pire",
+        "/piʁ/",
+        "adj. superl.",
+        "worst",
+        "Most bad",
+        "Le plus mauvais",
+        [
+            "awful"
+        ],
+        [
+            "terrible"
+        ],
+        [
+            "best"
+        ],
+        [
+            "meilleur"
+        ]
+    ],
+    [
+        "chose",
+        "/ʃoz/",
+        "n. fem. sing.",
+        "thing",
+        "Object or entity",
+        "Objet ou entité",
+        [
+            "item"
+        ],
+        [
+            "objet"
+        ],
+        [],
+        []
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "Intended to belong to",
+        "Destiné à appartenir à",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "enfant",
+        "/ɑ̃.fɑ̃/",
+        "n. masc. sing.",
+        "child",
+        "Young person",
+        "Jeune personne",
+        [
+            "kid",
+            "youth"
+        ],
+        [
+            "gamin"
+        ],
+        [
+            "adult"
+        ],
+        [
+            "adulte"
+        ]
+    ],
+    [
+        "M",
+        "/məsjø/",
+        "n. masc. sing.",
+        "Mr.",
+        "Title of respect",
+        "Titre de respect",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Craven",
+        "/kʁa.vɛn/",
+        "nom propre",
+        "Craven",
+        "Surname",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "achèterait",
+        "/aʃɛtʁɛ/",
+        "v. cond. présent",
+        "would buy",
+        "Conditional form of buying",
+        "Forme conditionnelle de l'achat",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'importe",
+        "/ɛ̃.pɔʁt/",
+        "adv.",
+        "anything",
+        "Whatever",
+        "Quel que soit",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "quoi",
+        "/kwa/",
+        "pron. interr.",
+        "what",
+        "Interrogative pronoun",
+        "Pronom interrogatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prép.",
+        "for",
+        "Indicates purpose",
+        "Indique le but",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Pronoun referring to a male",
+        "Pronom se référant à un homme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "Connecting word",
+        "Mot de liaison",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third person singular",
+        "Troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veut",
+        "/vø/",
+        "v. vouloir",
+        "wants",
+        "Desires",
+        "Désire",
+        [
+            "desires"
+        ],
+        [
+            "désire"
+        ],
+        [],
+        []
+    ],
+    [
+        "oublier",
+        "/u.bli.je/",
+        "v. inf.",
+        "to forget",
+        "To not remember",
+        "Ne pas se souvenir",
+        [
+            "disremember"
+        ],
+        [
+            "désapprendre"
+        ],
+        [
+            "remember"
+        ],
+        [
+            "se souvenir"
+        ]
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "conj. + pron.",
+        "that he",
+        "Introducing a clause",
+        "Introduisant une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "existe",
+        "/ɛɡ.zist/",
+        "v. exister",
+        "exists",
+        "Is real",
+        "Est réel",
+        [
+            "lives"
+        ],
+        [
+            "vit"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third person singular",
+        "Troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir",
+        "has",
+        "To possess",
+        "Posséder",
+        [
+            "possesses"
+        ],
+        [
+            "possède"
+        ],
+        [],
+        []
+    ],
+    [
+        "peur",
+        "/pœʁ/",
+        "n. fem. sing.",
+        "fear",
+        "Feeling of alarm",
+        "Sentiment d'alarme",
+        [
+            "anxiety"
+        ],
+        [
+            "anxiété"
+        ],
+        [
+            "courage"
+        ],
+        [
+            "courage"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. prop.",
+        "Colin",
+        "A male name",
+        "Un nom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "devienne",
+        "/də.vjɛn/",
+        "v. devenir",
+        "become",
+        "To transform into",
+        "Se transformer en",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bossu",
+        "/bɔ.sy/",
+        "adj. masc. sing.",
+        "hunchback",
+        "Having a hunched back",
+        "Ayant le dos voûté",
+        [],
+        [],
+        [],
+        []
+    ]
+]

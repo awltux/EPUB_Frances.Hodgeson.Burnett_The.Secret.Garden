@@ -1,0 +1,590 @@
+[
+    [
+        "Mes",
+        "/me/",
+        "adj. poss. pl.",
+        "My",
+        "Possessive adjective",
+        "Adjectif possessif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mots",
+        "/mo/",
+        "n. masc. pl.",
+        "Words",
+        "Expression",
+        "Expression",
+        [
+            "language"
+        ],
+        [
+            "vocabulaire"
+        ],
+        [],
+        []
+    ],
+    [
+        "s'exclama",
+        "/sɛks.kla.ma/",
+        "v. pronom. passé simple",
+        "Exclaimed",
+        "To cry out",
+        "Crier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Mme",
+        "/madam/",
+        "n.f.",
+        "Mrs.",
+        "Title for a married woman",
+        "Titre pour une femme mariée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Sowerby",
+        "/sɔ.ɛʁ.bi/",
+        "n.prop.",
+        "Sowerby",
+        "Surname",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Cette",
+        "/sɛt/",
+        "adj. dem. f. sing.",
+        "This",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "petite",
+        "/pə.tit/",
+        "adj. f. sing.",
+        "Little",
+        "Small",
+        "Petit",
+        [
+            "small"
+        ],
+        [
+            "menu"
+        ],
+        [
+            "big",
+            "large"
+        ],
+        [
+            "grand",
+            "énorme"
+        ]
+    ],
+    [
+        "demoiselle",
+        "/də.mwa.zɛl/",
+        "n.f. sing.",
+        "Young lady",
+        "Unmarried woman",
+        "Femme célibataire",
+        [
+            "girl"
+        ],
+        [
+            "fille"
+        ],
+        [],
+        []
+    ],
+    [
+        "s'",
+        "/sə/",
+        "pron. réfléchi",
+        "oneself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Cette",
+        "/sɛt/",
+        "adj. dem. f. sing.",
+        "This",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (3rd person sing. present)",
+        "has",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sauvé",
+        "/sove/",
+        "v. sauver (past participle)",
+        "saved",
+        "Rescued",
+        "Rescapé",
+        [
+            "rescued"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Debout",
+        "/də.bu/",
+        "adv.",
+        "Standing",
+        "Upright position",
+        "En position verticale",
+        [
+            "upright"
+        ],
+        [],
+        [
+            "lying"
+        ],
+        []
+    ],
+    [
+        "sur",
+        "/syʁ/",
+        "prep.",
+        "on",
+        "Located above",
+        "Au-dessus de",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ses",
+        "/se/",
+        "adj. poss. pl.",
+        "his",
+        "Belonging to him",
+        "Appartenant à lui",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pieds",
+        "/pje/",
+        "n. masc. pl.",
+        "feet",
+        "Body parts for walking",
+        "Parties du corps pour marcher",
+        [
+            "toes"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Et",
+        "/e/",
+        "conj.",
+        "And",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "we",
+        "First-person plural pronoun",
+        "Pronom personnel première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pensions",
+        "/pɑ̃.sjɔ̃/",
+        "v. penser (imp.)",
+        "thought",
+        "Believed; past tense of 'think'",
+        "Croyait; passé du verbe 'penser'",
+        [
+            "believed"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "conj. + pron. pers.",
+        "that he",
+        "Referring to a male subject",
+        "Se référant à un sujet masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. être (imp.)",
+        "was",
+        "Past tense of 'to be'",
+        "Passé du verbe 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faible",
+        "/fɛbl/",
+        "adj.",
+        "weak",
+        "Lacking physical strength",
+        "Manquant de force physique",
+        [
+            "frail",
+            "delicate"
+        ],
+        [
+            "frêle",
+            "délicat"
+        ],
+        [
+            "strong"
+        ],
+        [
+            "fort"
+        ]
+    ],
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Third-person singular feminine pronoun",
+        "Pronom personnel féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "posa",
+        "/po.za/",
+        "v. poser (ps)",
+        "placed",
+        "Put something down",
+        "A déposé quelque chose",
+        [
+            "set",
+            "laid"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "beaucoup",
+        "/bo.ku/",
+        "adv. quant.",
+        "a lot",
+        "A large quantity",
+        "Une grande quantité",
+        [
+            "much",
+            "many"
+        ],
+        [
+            "énormément",
+            "abondamment"
+        ],
+        [
+            "little"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicating origin or belonging",
+        "Indiquant l'origine ou l'appartenance",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "questions",
+        "/kɛstjɔ̃/",
+        "n. f. pl.",
+        "questions",
+        "Inquiries",
+        "Demandes",
+        [
+            "queries",
+            "inquiries"
+        ],
+        [
+            "demandes",
+            "enquêtes"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article (plural)",
+        "Article défini (pluriel)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "yeux",
+        "/jø/",
+        "n. m. pl.",
+        "eyes",
+        "Organs of sight",
+        "Organes de la vue",
+        [
+            "orbs"
+        ],
+        [
+            "organes de la vue"
+        ],
+        [],
+        []
+    ],
+    [
+        "pensifs",
+        "/pɑ̃sif/",
+        "adj. m. pl.",
+        "thoughtful",
+        "Reflective",
+        "Réfléchi",
+        [
+            "reflective",
+            "pensive"
+        ],
+        [
+            "réfléchis",
+            "méditatifs"
+        ],
+        [],
+        []
+    ],
+    [
+        "Que",
+        "/kə/",
+        "pron. interr.",
+        "What",
+        "Interrogative pronoun",
+        "Pronom interrogatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pensent-ils",
+        "/pɑ̃s.til/",
+        "v. penser",
+        "do they think",
+        "To have thoughts",
+        "Avoir des pensées",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "au",
+        "/o/",
+        "contraction à le",
+        "at the",
+        "Contraction of à + le",
+        "Contraction de à + le",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Manoir",
+        "/ma.nwaʁ/",
+        "n. m. sing.",
+        "Manor",
+        "Large country house",
+        "Grande maison de campagne",
+        [
+            "estate"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "avec",
+        "/avɛk/",
+        "prep.",
+        "with",
+        "Accompanied by",
+        "Accompagné de",
+        [
+            "alongside"
+        ],
+        [
+            "ensemble"
+        ],
+        [
+            "without"
+        ],
+        [
+            "sans"
+        ]
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Personal pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Preposition",
+        "Préposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "adv.",
+        "so",
+        "Adverb of degree",
+        "Adverbe de degré",
+        [
+            "very"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "bonne",
+        "/bɔn/",
+        "adj. fem. sing.",
+        "good",
+        "Feminine adjective",
+        "Adjectif féminin",
+        [
+            "great",
+            "nice"
+        ],
+        [
+            "bien"
+        ],
+        [
+            "bad"
+        ],
+        [
+            "mauvaise"
+        ]
+    ],
+    [
+        "santé",
+        "/sɑ̃te/",
+        "n. fem. sing.",
+        "health",
+        "Well-being",
+        "Bien-être",
+        [
+            "wellbeing"
+        ],
+        [
+            "bien-être"
+        ],
+        [
+            "illness"
+        ],
+        [
+            "maladie"
+        ]
+    ]
+]

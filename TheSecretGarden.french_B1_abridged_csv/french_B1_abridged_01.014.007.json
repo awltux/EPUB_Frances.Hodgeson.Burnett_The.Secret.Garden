@@ -1,0 +1,347 @@
+[
+    [
+        "Vous",
+        "/vu/",
+        "pron. pers.",
+        "You",
+        "Formal pronoun",
+        "Pronom formel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "perdrez",
+        "/pɛʁ.dʁe/",
+        "v. perdre, futur",
+        "will lose",
+        "Future tense of to lose",
+        "Futur de perdre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "votre",
+        "/vɔtʁ/",
+        "adj. poss.",
+        "your",
+        "Possessive adjective",
+        "Adjectif possessif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "emploi",
+        "/ɑ̃.plwa/",
+        "n. masc. sing.",
+        "job",
+        "Occupation",
+        "Occupation",
+        [
+            "work",
+            "career"
+        ],
+        [
+            "travail",
+            "carrière"
+        ],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "pron. pers.",
+        "her",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rassura",
+        "/ʁa.sy.ʁa/",
+        "v. rassurer, passé simple",
+        "assured",
+        "Past tense of to reassure",
+        "Passé simple de rassurer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop.",
+        "Marie",
+        "Proper noun",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Masculine pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. être, impf.",
+        "was",
+        "Past tense of to be",
+        "Passé du verbe être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "content",
+        "/kɔ̃.tɑ̃/",
+        "adj. masc. sing.",
+        "happy",
+        "Feeling pleasure",
+        "Sentiment de joie",
+        [
+            "glad",
+            "pleased"
+        ],
+        [
+            "heureux",
+            "ravi"
+        ],
+        [
+            "sad"
+        ],
+        [
+            "triste"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. subord.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers. 1st sing.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vienne",
+        "/vjɛn/",
+        "v. venir, subj. prés.",
+        "come",
+        "To arrive",
+        "Arriver",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Nous",
+        "/nu/",
+        "pron. pers. 1st plur.",
+        "We",
+        "First person plural pronoun",
+        "Première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avons",
+        "/avɔ̃/",
+        "v. avoir, prés.",
+        "have",
+        "To possess",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "parlé",
+        "/paʁ.le/",
+        "v. parler, p.p.",
+        "spoken",
+        "To talk",
+        "Discuter",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third person singular pronoun",
+        "Pronom personnel troisième personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (prés. ind.)",
+        "has",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire (part. passé)",
+        "said",
+        "Past participle of 'to say'",
+        "Participe passé de 'dire'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qu'",
+        "/k(ə)/",
+        "conj.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third person singular pronoun",
+        "Pronom personnel troisième personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. être (imp. ind.)",
+        "was",
+        "To be (imperfect)",
+        "Être (imparfait)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "content",
+        "/kɔ̃.tɑ̃/",
+        "adj. masc. sing.",
+        "happy",
+        "Feeling pleasure",
+        "Sentiment de plaisir",
+        [
+            "pleased",
+            "glad"
+        ],
+        [
+            "heureux"
+        ],
+        [
+            "sad"
+        ],
+        [
+            "triste"
+        ]
+    ]
+]

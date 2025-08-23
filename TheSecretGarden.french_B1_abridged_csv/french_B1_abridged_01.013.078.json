@@ -1,0 +1,814 @@
+[
+    [
+        "Moi",
+        "/mwa/",
+        "pron. pers.",
+        "Me",
+        "Refering to oneself",
+        "Se référer à soi-même",
+        [
+            "myself"
+        ],
+        [
+            "je"
+        ],
+        [],
+        []
+    ],
+    [
+        "oui",
+        "/wi/",
+        "adv.",
+        "yes",
+        "Affirmative response",
+        "Réponse affirmative",
+        [
+            "yep"
+        ],
+        [
+            "si"
+        ],
+        [
+            "no"
+        ],
+        [
+            "non"
+        ]
+    ],
+    [
+        "dit-il",
+        "/di.til/",
+        "v.",
+        "he said",
+        "Reported speech",
+        "Discours rapporté",
+        [
+            "stated"
+        ],
+        [
+            "affirma-t-il"
+        ],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [
+            "me"
+        ],
+        [
+            "moi"
+        ],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "si"
+        ]
+    ],
+    [
+        "ai",
+        "/ɛ/",
+        "v.",
+        "have",
+        "auxiliary avoir",
+        "auxiliaire avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jamais",
+        "/ʒa.mɛ/",
+        "adv.",
+        "never",
+        "At no time",
+        "À aucun moment",
+        [
+            "ever"
+        ],
+        [
+            "toujours"
+        ],
+        [
+            "always"
+        ],
+        [
+            "toujours"
+        ]
+    ],
+    [
+        "voulu",
+        "/vu.ly/",
+        "v. past part. vouloir",
+        "wanted",
+        "Desired",
+        "Désiré",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "voir",
+        "/vwaʁ/",
+        "v. infinitive",
+        "to see",
+        "Perceive with eyes",
+        "Percevoir avec les yeux",
+        [
+            "look",
+            "observe"
+        ],
+        [
+            "regarder",
+            "observer"
+        ],
+        [],
+        []
+    ],
+    [
+        "quoi",
+        "/kwa/",
+        "pron. interrog.",
+        "what",
+        "Asking for information",
+        "Demande de l'information",
+        [
+            "which"
+        ],
+        [
+            "lequel"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. subordinating",
+        "that",
+        "Introducing a subordinate clause",
+        "Introduisant une proposition subordonnée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "pron. dem.",
+        "this",
+        "Demonstrative pronoun",
+        "Pronom démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "soit",
+        "/swa/",
+        "v. subj. être",
+        "be",
+        "To exist",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "auparavant",
+        "/o.pa.ʁa.vɑ̃/",
+        "adv.",
+        "previously",
+        "Before",
+        "Antérieurement",
+        [
+            "before",
+            "earlier"
+        ],
+        [
+            "antérieurement",
+            "plus tôt"
+        ],
+        [
+            "afterward"
+        ],
+        [
+            "après"
+        ]
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "Connects contrasting ideas",
+        "Relie des idées contrastées",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. vouloir, 1st person sing. present",
+        "want",
+        "Desire",
+        "Désirer",
+        [
+            "desire",
+            "wish"
+        ],
+        [
+            "désire",
+            "souhaite"
+        ],
+        [
+            "dislike"
+        ],
+        [
+            "déteste"
+        ]
+    ],
+    [
+        "voir",
+        "/vwaʁ/",
+        "v. infinitive",
+        "see",
+        "Perceive with eyes",
+        "Percevoir avec les yeux",
+        [
+            "observe",
+            "view"
+        ],
+        [
+            "observer",
+            "regarder"
+        ],
+        [
+            "ignore"
+        ],
+        [
+            "ignorer"
+        ]
+    ],
+    [
+        "ce",
+        "/sə/",
+        "adj. dem. masc. sing.",
+        "this",
+        "Near",
+        "Proche",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Cultivated area",
+        "Zone cultivée",
+        [
+            "park",
+            "yard"
+        ],
+        [
+            "parc",
+            "cour"
+        ],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. 1st person sing.",
+        "I",
+        "First person singular",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. vouloir, 1st person sing. present",
+        "want",
+        "Desire",
+        "Désirer",
+        [
+            "desire",
+            "wish"
+        ],
+        [
+            "désire",
+            "souhaite"
+        ],
+        [
+            "dislike"
+        ],
+        [
+            "déteste"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. subordinating",
+        "that",
+        "Introduces a clause",
+        "Introduit une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. fem. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "clé",
+        "/kle/",
+        "n. fem. sing.",
+        "key",
+        "Opens a lock",
+        "Ouvre une serrure",
+        [
+            "solution"
+        ],
+        [
+            "solution"
+        ],
+        [],
+        []
+    ],
+    [
+        "soit",
+        "/swa/",
+        "v. être, subj. prés.",
+        "be",
+        "To exist",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "déterrée",
+        "/de.tɛ.ʁe/",
+        "v. déterrer, part. pass. f. sing.",
+        "unearthed",
+        "Discovered",
+        "Découverte",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person pronoun",
+        "Première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. vouloir, prés. ind.",
+        "want",
+        "To desire",
+        "Désirer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Connects clauses",
+        "Relie les clauses",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. déf. f. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "porte",
+        "/pɔʁt/",
+        "n. f. sing.",
+        "door",
+        "Entrance",
+        "Entrée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "soit",
+        "/swa/",
+        "v. être, subj. prés.",
+        "be",
+        "To exist",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "déverrouillée",
+        "/de.vɛ.ʁu.je/",
+        "v. déverrouiller, part. pass. f. sing.",
+        "unlocked",
+        "Not locked",
+        "Non verrouillé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "pron. pers. obj.",
+        "them",
+        "Pronoun, plural object",
+        "Pronom, objet pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "laisserais",
+        "/lɛ.sɛ.ʁɛ/",
+        "v. cond. pr.",
+        "would let",
+        "Conditional of laisser",
+        "Conditionnel de laisser",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "m'",
+        "/mə/",
+        "pron. refl.",
+        "me",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "adv. lieu",
+        "there",
+        "Adverb of place",
+        "Adverbe de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "emmener",
+        "/ɑ̃m.ne/",
+        "v. inf.",
+        "take",
+        "To bring along",
+        "Amener avec soi",
+        [
+            "bring"
+        ],
+        [
+            "amener"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Preposition of location",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mon",
+        "/mɔ̃/",
+        "adj. poss. masc. sing.",
+        "my",
+        "Possessive adjective",
+        "Adjectif possessif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fauteuil",
+        "/fo.tœj/",
+        "n. masc. sing.",
+        "armchair",
+        "Comfortable seat",
+        "Siège confortable",
+        [
+            "chair"
+        ],
+        [
+            "siège"
+        ],
+        [],
+        []
+    ],
+    [
+        "Ce",
+        "/sə/",
+        "pron. dem.",
+        "This",
+        "Demonstrative pronoun",
+        "Pronom démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "serait",
+        "/sə.ʁɛ/",
+        "cond. of être",
+        "would be",
+        "Hypothetical state of existence",
+        "État hypothétique d'existence",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin",
+        "Exprimant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/l/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "air",
+        "/ɛʁ/",
+        "n. masc. sing.",
+        "air",
+        "Atmosphere",
+        "Atmosphère",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "frais",
+        "/fʁɛ/",
+        "adj. masc. sing.",
+        "fresh",
+        "Newly made",
+        "Nouvellement fait",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person pronoun",
+        "Pronom de la première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vais",
+        "/vɛ/",
+        "pres. of aller",
+        "go",
+        "To move",
+        "Se déplacer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "pron. pers.",
+        "them",
+        "Referring to multiple people",
+        "Référence à plusieurs personnes",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "obliger",
+        "/ɔ.bli.ʒe/",
+        "v. inf.",
+        "force",
+        "To compel",
+        "Contraindre",
+        [
+            "compel"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Expressing direction",
+        "Exprimant la direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ouvrir",
+        "/uvʁiʁ/",
+        "v. infinitive",
+        "to open",
+        "Action of making accessible",
+        "Action de rendre accessible",
+        [
+            "unlock",
+            "uncover"
+        ],
+        [
+            "déverrouiller",
+            "découvrir"
+        ],
+        [
+            "close"
+        ],
+        [
+            "fermer"
+        ]
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article feminine",
+        "Article défini féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "porte",
+        "/pɔʁt/",
+        "n. fem. sing.",
+        "door",
+        "Entryway",
+        "Entrée",
+        [
+            "entrance"
+        ],
+        [
+            "entrée"
+        ],
+        [
+            "exit"
+        ],
+        [
+            "sortie"
+        ]
+    ]
+]

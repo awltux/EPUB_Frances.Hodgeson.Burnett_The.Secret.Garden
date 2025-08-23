@@ -1,0 +1,614 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "posa",
+        "/po.za/",
+        "v. poser, simple past",
+        "asked",
+        "Inquired",
+        "Demanda",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "questions",
+        "/kɛs.tjɔ̃/",
+        "n. f. pl.",
+        "questions",
+        "Inquiries",
+        "Demandes",
+        [
+            "inquiries"
+        ],
+        [
+            "demandes"
+        ],
+        [
+            "answers"
+        ],
+        [
+            "réponses"
+        ]
+    ],
+    [
+        "sur",
+        "/syʁ/",
+        "prep.",
+        "about",
+        "Concerning",
+        "Concernant",
+        [
+            "regarding"
+        ],
+        [
+            "concernant"
+        ],
+        [],
+        []
+    ],
+    [
+        "Misselthwaite",
+        "/mi.sɛlt.weɪt/",
+        "n. prop.",
+        "Misselthwaite",
+        "Fictional Location",
+        "Lieu Fictif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sa",
+        "/sa/",
+        "adj. poss. f. sing.",
+        "her",
+        "Possessive adjective feminine singular",
+        "Adjectif possessif féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chambre",
+        "/ʃɑ̃bʁ/",
+        "n. f. sing.",
+        "room",
+        "Chamber",
+        "Pièce",
+        [
+            "chamber"
+        ],
+        [
+            "pièce"
+        ],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "pron. dém. masc. sing.",
+        "this",
+        "Demonstrative pronoun masculine singular",
+        "Pronom démonstratif masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qu'elle",
+        "/kɛl/",
+        "pron. rel.",
+        "that she",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faisait",
+        "/fə.zɛ/",
+        "v. imparfait faire",
+        "was doing",
+        "Past tense of doing",
+        "Passé de faire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional conjunction",
+        "Conjonction conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Feminine singular pronoun",
+        "Pronom personnel féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'aimait",
+        "/nɛ.mɛ/",
+        "v. imparfait aimer",
+        "didn't like",
+        "Past tense of liking",
+        "Passé de aimer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Feminine singular article",
+        "Article féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lande",
+        "/lɑ̃d/",
+        "n. f. sing.",
+        "heath",
+        "Open uncultivated land",
+        "Terre non cultivée",
+        [
+            "moor"
+        ],
+        [
+            "bruyère"
+        ],
+        [],
+        []
+    ],
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Feminine singular pronoun",
+        "Pronom personnel féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Indirect object pronoun",
+        "Pronom personnel complément d'objet indirect",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "raconta",
+        "/ʁa.kɔ̃.ta/",
+        "v. imparfait raconter",
+        "told",
+        "Narrated",
+        "Narra",
+        [
+            "related"
+        ],
+        [
+            "narré"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'Inde",
+        "/lɛ̃d/",
+        "n.prop.f. sing.",
+        "India",
+        "Country in Asia",
+        "Pays en Asie",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "son",
+        "/sɔ̃/",
+        "adj. poss. masc. sing.",
+        "his",
+        "Belonging to him",
+        "Qui lui appartient",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "voyage",
+        "/vwa.jaʒ/",
+        "n. masc. sing.",
+        "trip",
+        "Journey",
+        "Périple",
+        [
+            "journey"
+        ],
+        [
+            "périple"
+        ],
+        [],
+        []
+    ],
+    [
+        "Parce",
+        "/paʁs/",
+        "conj. coord.",
+        "Because",
+        "Reason",
+        "Raison",
+        [
+            "since"
+        ],
+        [
+            "puisque"
+        ],
+        [],
+        []
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "conj. + pron. pers.",
+        "that he",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. imparfait être",
+        "was",
+        "Past tense of to be",
+        "Passé de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "malade",
+        "/malad/",
+        "adj.",
+        "sick",
+        "Unhealthy",
+        "Souffrant",
+        [
+            "ill"
+        ],
+        [
+            "souffrant"
+        ],
+        [
+            "healthy"
+        ],
+        [
+            "bien portant"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers.",
+        "he",
+        "Third-person pronoun",
+        "Pronom de la troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe de négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/avɛ/",
+        "v.",
+        "had",
+        "To possess",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe de négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "appris",
+        "/a.pʁi/",
+        "v.",
+        "learned",
+        "Gained knowledge",
+        "Acquis des connaissances",
+        [
+            "studied"
+        ],
+        [
+            "étudié"
+        ],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "conj.",
+        "like",
+        "Similar to",
+        "Similaire à",
+        [
+            "as"
+        ],
+        [
+            "tel que"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "autres",
+        "/otʁ/",
+        "adj.",
+        "other",
+        "Different",
+        "Différent",
+        [
+            "different"
+        ],
+        [
+            "différent"
+        ],
+        [
+            "same"
+        ],
+        [
+            "mêmes"
+        ]
+    ],
+    [
+        "enfants",
+        "/ɑ̃.fɑ̃/",
+        "n. pl.",
+        "children",
+        "Young people",
+        "Jeunes gens",
+        [
+            "kids"
+        ],
+        [
+            "jeunes"
+        ],
+        [
+            "adults"
+        ],
+        [
+            "adultes"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. subj. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aimait",
+        "/ɛmɛ/",
+        "v. aimer, imparfait",
+        "liked",
+        "Enjoyed",
+        "appréciait",
+        [
+            "enjoyed"
+        ],
+        [
+            "appréciait"
+        ],
+        [
+            "disliked"
+        ],
+        [
+            "détestait"
+        ]
+    ],
+    [
+        "lire",
+        "/liʁ/",
+        "v. infinitive",
+        "to read",
+        "Read",
+        "lecture",
+        [
+            "read"
+        ],
+        [
+            "lecture"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "regarder",
+        "/ʁə.ɡaʁ.de/",
+        "v. infinitive",
+        "to watch",
+        "Observe",
+        "observer",
+        [
+            "observe"
+        ],
+        [
+            "observer"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "images",
+        "/i.maʒ/",
+        "n. fém. pl.",
+        "pictures",
+        "Visual representations",
+        "Représentations visuelles",
+        [
+            "photos"
+        ],
+        [
+            "photos"
+        ],
+        [],
+        []
+    ]
+]

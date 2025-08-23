@@ -1,0 +1,618 @@
+[
+    [
+        "Tu",
+        "/ty/",
+        "pron. pers. sing.",
+        "You",
+        "Second person singular pronoun",
+        "Pronom personnel deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers. masc. sing.",
+        "it",
+        "Direct object pronoun",
+        "Pronom COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "verras",
+        "/vɛ.ʁa/",
+        "v. futur simple; voir",
+        "will see",
+        "Future tense of to see",
+        "Futur simple du verbe voir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bien",
+        "/bjɛ̃/",
+        "adv.",
+        "well",
+        "To a great extent",
+        "Dans une large mesure",
+        [
+            "very"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "assez",
+        "/a.se/",
+        "adv.",
+        "enough",
+        "Sufficiently",
+        "Suffisamment",
+        [
+            "sufficiently"
+        ],
+        [
+            "suffisamment"
+        ],
+        [
+            "insufficiently"
+        ],
+        [
+            "insuffisamment"
+        ]
+    ],
+    [
+        "tôt",
+        "/to/",
+        "adv.",
+        "early",
+        "Before the usual time",
+        "Avant l'heure habituelle",
+        [
+            "soon"
+        ],
+        [
+            "bientôt"
+        ],
+        [
+            "late"
+        ],
+        [
+            "tard"
+        ]
+    ],
+    [
+        "répondit",
+        "/ʁe.pɔ̃.di/",
+        "v. passé simple, répondre",
+        "replied",
+        "Answered",
+        "A répondu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/di.kɔn/",
+        "n. prop.",
+        "Dickon",
+        "Character Name",
+        "Nom de personnage",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third-person pronoun",
+        "Pronom troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sera",
+        "/sə.ʁa/",
+        "v. futur, être",
+        "will be",
+        "Future tense of to be",
+        "Futur du verbe être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tellement",
+        "/tɛl.mɑ̃/",
+        "adv.",
+        "so",
+        "To such a degree",
+        "À tel point",
+        [
+            "very"
+        ],
+        [
+            "très"
+        ],
+        [],
+        []
+    ],
+    [
+        "occupé",
+        "/ɔ.ky.pe/",
+        "adj.",
+        "busy",
+        "Engaged",
+        "Pris",
+        [
+            "engaged"
+        ],
+        [
+            "pris"
+        ],
+        [
+            "free"
+        ],
+        [
+            "libre"
+        ]
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Toward",
+        "Vers",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nourrir",
+        "/nu.ʁiʁ/",
+        "v. infin.",
+        "to feed",
+        "Provide sustenance",
+        "Alimenter",
+        [
+            "feed",
+            "supply"
+        ],
+        [
+            "alimenter",
+            "ravitailler"
+        ],
+        [
+            "starve"
+        ],
+        [
+            "affamer"
+        ]
+    ],
+    [
+        "ses",
+        "/se/",
+        "adj. poss. masc./fem. plur.",
+        "his/her/its",
+        "Belonging to him/her/it",
+        "Qui lui appartient",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oisillons",
+        "/wa.zi.jɔ̃/",
+        "n. masc. plur.",
+        "baby birds",
+        "Young birds",
+        "Jeunes oiseaux",
+        [
+            "chicks"
+        ],
+        [
+            "poussins"
+        ],
+        [],
+        []
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "conj. + pron. pers.",
+        "that he",
+        "That (conjunction) + he (pronoun)",
+        "Ce que + il",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Expresses negation",
+        "Exprime la négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "saura",
+        "/so.ʁa/",
+        "v. futur savoir",
+        "will know",
+        "Future tense of to know",
+        "Futur du verbe savoir",
+        [
+            "understand"
+        ],
+        [
+            "comprendre"
+        ],
+        [
+            "forget"
+        ],
+        [
+            "ignorer"
+        ]
+    ],
+    [
+        "même",
+        "/mɛm/",
+        "adv.",
+        "even",
+        "Used to emphasize",
+        "Utilisé pour insister",
+        [
+            "also"
+        ],
+        [
+            "aussi"
+        ],
+        [],
+        []
+    ],
+    [
+        "plus",
+        "/plys/",
+        "adv.",
+        "anymore",
+        "No longer",
+        "Ne plus",
+        [
+            "longer"
+        ],
+        [
+            "davantage"
+        ],
+        [
+            "less"
+        ],
+        [
+            "moins"
+        ]
+    ],
+    [
+        "quel",
+        "/kɛl/",
+        "adj. interrog.",
+        "which",
+        "Which one?",
+        "Lequel ?",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jour",
+        "/ʒuʁ/",
+        "n. masc. sing.",
+        "day",
+        "Unit of time",
+        "Unité de temps",
+        [
+            "date"
+        ],
+        [
+            "date"
+        ],
+        [],
+        []
+    ],
+    [
+        "on",
+        "/ɔ̃/",
+        "pron. indef.",
+        "one",
+        "Indefinite pronoun",
+        "Pronom indéfini",
+        [
+            "someone"
+        ],
+        [
+            "quelqu'un"
+        ],
+        [],
+        []
+    ],
+    [
+        "est",
+        "/ɛ/",
+        "v. être",
+        "is",
+        "Third person singular of être",
+        "Troisième personne du singulier de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third person singular pronoun",
+        "Pronom personnel troisième personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "décrivit",
+        "/de.kʁi.vi/",
+        "v. décrire, p. simple",
+        "described",
+        "Past historic of décrire",
+        "Passé simple de décrire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article masculine singular",
+        "Article défini masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "travail",
+        "/tʁa.vaj/",
+        "n. masc. sing.",
+        "work",
+        "Employment",
+        "Emploi",
+        [
+            "labor",
+            "effort"
+        ],
+        [
+            "labeur",
+            "effort"
+        ],
+        [
+            "rest"
+        ],
+        [
+            "repos"
+        ]
+    ],
+    [
+        "frénétique",
+        "/fʁe.ne.tik/",
+        "adj.",
+        "frenetic",
+        "Energetic",
+        "Énergique",
+        [
+            "hectic",
+            "manic"
+        ],
+        [
+            "agitée",
+            "fébrile"
+        ],
+        [
+            "calm"
+        ],
+        [
+            "calme"
+        ]
+    ],
+    [
+        "du",
+        "/dy/",
+        "art. cont.",
+        "of the",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rouge-gorge",
+        "/ʁuʒ.ɡɔʁʒ/",
+        "n. masc. sing.",
+        "robin",
+        "Bird",
+        "Oiseau",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "pron. pers. pl.",
+        "them",
+        "Objective pronoun",
+        "Pronom personnel COD/COI",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faisant",
+        "/fə.zɑ̃/",
+        "v. prés. part.",
+        "making",
+        "Causing",
+        "Causant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rire",
+        "/ʁiʁ/",
+        "v. inf.",
+        "laugh",
+        "Giggle",
+        "S'esclaffer",
+        [
+            "guffaw"
+        ],
+        [
+            "rigoler"
+        ],
+        [
+            "cry"
+        ],
+        [
+            "pleurer"
+        ]
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. réfl.",
+        "themselves",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rappelant",
+        "/ʁa.pə.lɑ̃/",
+        "v. prés. part.; rappeler",
+        "reminding",
+        "Bringing to mind",
+        "Remémorant",
+        [
+            "mentioning"
+        ],
+        [
+            "évoquant"
+        ],
+        [],
+        []
+    ],
+    [
+        "qu'ils",
+        "/kil/",
+        "conj. + pron.",
+        "that they",
+        "Referring to a group",
+        "Se référant à un groupe",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "devaient",
+        "/də.vɛ/",
+        "v. impf.; devoir",
+        "had to",
+        "Obligation in the past",
+        "Obligation dans le passé",
+        [
+            "should"
+        ],
+        [
+            "pourraient"
+        ],
+        [],
+        []
+    ],
+    [
+        "être",
+        "/ɛtʁ/",
+        "v. inf.",
+        "to be",
+        "Exist",
+        "Exister",
+        [],
+        [],
+        [
+            "not to be"
+        ],
+        [
+            "ne pas être"
+        ]
+    ],
+    [
+        "silencieux",
+        "/si.lɑ̃.sjø/",
+        "adj. masc. pl.",
+        "silent",
+        "Without sound",
+        "Sans bruit",
+        [
+            "quiet"
+        ],
+        [
+            "calmes"
+        ],
+        [
+            "loud"
+        ],
+        [
+            "bruyants"
+        ]
+    ]
+]

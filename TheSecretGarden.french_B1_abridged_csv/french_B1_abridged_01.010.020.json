@@ -1,0 +1,396 @@
+[
+    [
+        "Ben",
+        "/bɛ̃/",
+        "n. masc. sing.",
+        "Ben",
+        "Common name",
+        "Nom commun",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "admit",
+        "/ad.mi/",
+        "v. prés. ind. admettre",
+        "admits",
+        "Acknowledges",
+        "Reconnaît",
+        [
+            "confesses",
+            "accepts"
+        ],
+        [
+            "avoue",
+            "reconnaît"
+        ],
+        [
+            "denies"
+        ],
+        [
+            "nie"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Introduces a clause",
+        "Introduit une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oui",
+        "/wi/",
+        "adv.",
+        "yes",
+        "Affirmative response",
+        "Réponse affirmative",
+        [
+            "yep"
+        ],
+        [
+            "certainement"
+        ],
+        [
+            "no"
+        ],
+        [
+            "non"
+        ]
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. réfl.",
+        "himself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "souvenant",
+        "/suv.nɑ̃/",
+        "v. part. prés. souvenir",
+        "remembering",
+        "Recalling",
+        "Se rappelant",
+        [
+            "recollecting"
+        ],
+        [
+            "se rappelant"
+        ],
+        [
+            "forgetting"
+        ],
+        [
+            "oubliant"
+        ]
+    ],
+    [
+        "d'une",
+        "/dyn/",
+        "art. indéf. fém. sing.",
+        "of a",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jeune",
+        "/ʒœn/",
+        "adj.",
+        "young",
+        "Not old",
+        "Pas vieux",
+        [
+            "youthful"
+        ],
+        [
+            "jeunesse"
+        ],
+        [
+            "old"
+        ],
+        [
+            "vieux"
+        ]
+    ],
+    [
+        "femme",
+        "/fam/",
+        "n. f.",
+        "woman",
+        "Adult female",
+        "Adulte féminin",
+        [
+            "lady"
+        ],
+        [
+            "dame"
+        ],
+        [
+            "man"
+        ],
+        [
+            "homme"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "In order to",
+        "Afin de",
+        [
+            "because of"
+        ],
+        [
+            "à cause de"
+        ],
+        [],
+        []
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "whom",
+        "Relative pronoun",
+        "Pronom relatif",
+        [
+            "that"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers.",
+        "he",
+        "Third-person pronoun",
+        "Pronom de la troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "travaillait",
+        "/tʁa.va.jɛ/",
+        "v. travailler, impf.",
+        "worked",
+        "Past tense of work",
+        "Passé de travailler",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "autrefois",
+        "/o.tʁə.fwa/",
+        "adv.",
+        "formerly",
+        "In the past",
+        "Dans le passé",
+        [
+            "previously"
+        ],
+        [
+            "précédemment"
+        ],
+        [
+            "now"
+        ],
+        [
+            "maintenant"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "who",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "pron. pers. pl.",
+        "them",
+        "Direct object pronoun",
+        "Pronom personnel COD pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aimait",
+        "/ɛmɛ/",
+        "v. aimer (v.1)",
+        "loved",
+        "Showed affection",
+        "Montrait de l'affection",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "adv.",
+        "like",
+        "In the manner of",
+        "De la même manière que",
+        [
+            "as"
+        ],
+        [
+            "ainsi que"
+        ],
+        [
+            "unlike"
+        ],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "enfants",
+        "/ɑ̃fɑ̃/",
+        "n. masc. pl.",
+        "children",
+        "Young individuals",
+        "Jeunes individus",
+        [
+            "kids"
+        ],
+        [
+            "gamins"
+        ],
+        [
+            "adults"
+        ],
+        [
+            "adultes"
+        ]
+    ],
+    [
+        "C'était",
+        "/s‿etɛ/",
+        "v. impers., être",
+        "It was",
+        "Past tense impersonal",
+        "Passé impersonnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "it",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "adv. de lieu",
+        "there",
+        "Adverb of place",
+        "Adverbe de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. aux., avoir",
+        "ago",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dix",
+        "/dis/",
+        "adj. num.",
+        "ten",
+        "Number",
+        "Nombre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ans",
+        "/ɑ̃/",
+        "n. masc. plur.",
+        "years",
+        "Plural noun",
+        "Nom pluriel",
+        [],
+        [],
+        [],
+        []
+    ]
+]

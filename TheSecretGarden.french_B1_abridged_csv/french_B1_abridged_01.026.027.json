@@ -1,0 +1,134 @@
+[
+    [
+        "Est-ce",
+        "/ɛs kə/",
+        "expr. interr.",
+        "Is it",
+        "Phrase opener",
+        "Introducteur de question",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. subord.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mon",
+        "/mɔ̃/",
+        "adj. poss. masc. sing.",
+        "my",
+        "Belonging to me",
+        "Qui m'appartient",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Père",
+        "/pɛʁ/",
+        "n. masc. sing.",
+        "Father",
+        "Male parent",
+        "Parent mâle",
+        [
+            "dad"
+        ],
+        [
+            "papa"
+        ],
+        [],
+        []
+    ],
+    [
+        "m'",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aimera",
+        "/ɛ.mə.ʁa/",
+        "v. futur simple aimer",
+        "will love",
+        "Future tense of to love",
+        "Futur du verbe aimer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "maintenant",
+        "/mɛ̃t.nɑ̃/",
+        "adv. temps",
+        "now",
+        "At the present time",
+        "Au moment présent",
+        [
+            "currently"
+        ],
+        [
+            "actuellement"
+        ],
+        [
+            "later"
+        ],
+        [
+            "plus tard"
+        ]
+    ],
+    [
+        "demanda",
+        "/də.mɑ̃.da/",
+        "v. passé simple demander",
+        "asked",
+        "Past tense of to ask",
+        "Passé du verbe demander",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. propre",
+        "Colin",
+        "Proper name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "?",
+        "/?/",
+        "ponctuation",
+        "question mark",
+        "End of question",
+        "Fin de question",
+        [],
+        [],
+        [],
+        []
+    ]
+]

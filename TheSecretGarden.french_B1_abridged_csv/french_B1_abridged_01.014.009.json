@@ -1,0 +1,721 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/n/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. être, impf.",
+        "was",
+        "Past tense of to be",
+        "Passé de 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "contrarié",
+        "/kɔ̃.tʁa.ʁje/",
+        "adj. masc. sing.",
+        "upset",
+        "Annoyed",
+        "Fâché",
+        [
+            "annoyed"
+        ],
+        [
+            "fâché"
+        ],
+        [
+            "happy"
+        ],
+        [
+            "content"
+        ]
+    ],
+    [
+        "insista",
+        "/ɛ̃.sis.ta/",
+        "v. insister, ps.",
+        "insisted",
+        "Stated firmly",
+        "Affirma avec force",
+        [
+            "asserted"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop.",
+        "Marie",
+        "Female name",
+        "Prénom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "J'ai",
+        "/ʒe/",
+        "v. avoir, pc.",
+        "I have",
+        "Present perfect of to have",
+        "Passé composé de 'avoir'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "demandé",
+        "/də.mɑ̃.de/",
+        "v. demander, pc.",
+        "asked",
+        "Inquired",
+        "Questionné",
+        [
+            "inquired"
+        ],
+        [
+            "questionné"
+        ],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional conjunction",
+        "Conjonction conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pers. pron. subj.",
+        "I",
+        "First person singular subject",
+        "Première personne du singulier sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "devais",
+        "/də.vɛ/",
+        "v. devoir, imp.",
+        "had to",
+        "Needed to",
+        "Obligation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "partir",
+        "/paʁ.tiʁ/",
+        "v. inf.",
+        "leave",
+        "To go away",
+        "Aller ailleurs",
+        [
+            "go",
+            "exit"
+        ],
+        [
+            "sortir"
+        ],
+        [
+            "arrive"
+        ],
+        [
+            "arriver"
+        ]
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "However",
+        "Cependant",
+        [
+            "however"
+        ],
+        [
+            "pourtant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pers. pron. subj.",
+        "he",
+        "Third person singular subject",
+        "Troisième personne du singulier sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "m'",
+        "/mə/",
+        "pers. pron. obj.",
+        "me",
+        "First person singular object",
+        "Première personne du singulier objet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir, prés.",
+        "has",
+        "To possess",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "forcée",
+        "/fɔʁ.se/",
+        "v. forcer, p.p.",
+        "forced",
+        "Compelled",
+        "Obligé",
+        [
+            "compelled"
+        ],
+        [
+            "contraint"
+        ],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Toward",
+        "Vers",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rester",
+        "/ʁɛs.te/",
+        "v. inf.",
+        "stay",
+        "Remain",
+        "Demeurer",
+        [
+            "remain"
+        ],
+        [
+            "demeurer"
+        ],
+        [
+            "leave"
+        ],
+        [
+            "partir"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir, 3rd person sing. pres.",
+        "has",
+        "To possess",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "posé",
+        "/poze/",
+        "v. poser, past participle",
+        "asked",
+        "To inquire",
+        "Demander",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. plural",
+        "some",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "questions",
+        "/kɛstjɔ̃/",
+        "n. fem. plural",
+        "questions",
+        "Inquiries",
+        "Demandes",
+        [
+            "queries"
+        ],
+        [
+            "demandes"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Conjunction",
+        "Conjonction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers. sing.",
+        "I",
+        "First person pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Indirect object pronoun",
+        "Pronom COI",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ai",
+        "/e/",
+        "v. avoir, 1st person sing. pres.",
+        "have",
+        "To possess",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "parlé",
+        "/paʁle/",
+        "v. parler, past part.",
+        "spoken",
+        "Said",
+        "Exprimé",
+        [
+            "said",
+            "discussed"
+        ],
+        [
+            "dit",
+            "évoqué"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Concerning",
+        "Concernant",
+        [
+            "about"
+        ],
+        [
+            "concernant"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'Inde",
+        "/lɛ̃d/",
+        "n.f. sing.",
+        "India",
+        "Country in Asia",
+        "Pays d'Asie",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "du",
+        "/dy/",
+        "art. def. masc. sing.",
+        "of the",
+        "Masculine singular definite article",
+        "Article défini masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rouge-gorge",
+        "/ʁuʒ.ɡɔʁʒ/",
+        "n. masc. sing.",
+        "robin",
+        "Small bird",
+        "Petit oiseau",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Conjunction",
+        "Conjonction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. def. pl.",
+        "of the",
+        "Plural definite article",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardins",
+        "/ʒaʁdɛ̃/",
+        "n. masc. pl.",
+        "gardens",
+        "Plots for cultivating plants",
+        "Terrains pour cultiver des plantes",
+        [
+            "grounds"
+        ],
+        [
+            "terrains"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third-person pronoun",
+        "Pronom de troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "m'",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir",
+        "has",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "montré",
+        "/mɔ̃tʁe/",
+        "v. montrer, p. passé",
+        "shown",
+        "Displayed",
+        "Exhibé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. déf. fém. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "photo",
+        "/fɔto/",
+        "n. fém. sing.",
+        "photo",
+        "Picture",
+        "Image",
+        [
+            "picture",
+            "image"
+        ],
+        [
+            "image",
+            "cliché"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition",
+        "Préposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sa",
+        "/sa/",
+        "adj. poss. fém. sing.",
+        "her",
+        "Possessive adjective",
+        "Adjectif possessif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mère",
+        "/mɛʁ/",
+        "n. fém. sing.",
+        "mother",
+        "Female parent",
+        "Femme parent",
+        [
+            "mom"
+        ],
+        [
+            "maman"
+        ],
+        [
+            "father"
+        ],
+        [
+            "père"
+        ]
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'ai",
+        "/le/",
+        "v. avoir",
+        "have it",
+        "Possess",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "même",
+        "/mɛm/",
+        "adv.",
+        "even",
+        "Also",
+        "Aussi",
+        [
+            "also"
+        ],
+        [
+            "également"
+        ],
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ]
+    ],
+    [
+        "endormi",
+        "/ɑ̃.dɔʁ.mi/",
+        "adj.; p.p. endormir",
+        "asleep",
+        "Sleeping",
+        "En train de dormir",
+        [
+            "sleeping"
+        ],
+        [],
+        [
+            "awake"
+        ],
+        [
+            "éveillé"
+        ]
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "while",
+        "During",
+        "Pendant que",
+        [
+            "during"
+        ],
+        [
+            "pendant"
+        ],
+        [],
+        []
+    ],
+    [
+        "chantant",
+        "/ʃɑ̃.tɑ̃/",
+        "v. gér. chanter",
+        "singing",
+        "Making melody",
+        "Faire de la mélodie",
+        [
+            "vocalizing"
+        ],
+        [],
+        [],
+        []
+    ]
+]

@@ -1,0 +1,912 @@
+[
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Feminine pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "erra",
+        "/e.ʁa/",
+        "v. errer - imp.",
+        "wandered",
+        "Roamed aimlessly",
+        "Se promener sans but",
+        [
+            "roamed"
+        ],
+        [
+            "déambulait"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside of",
+        "À l'intérieur de",
+        [
+            "within"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "hors de"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "longs",
+        "/lɔ̃/",
+        "adj. masc. pl.",
+        "long",
+        "Extended in space",
+        "De grande taille",
+        [
+            "lengthy"
+        ],
+        [
+            "étendus"
+        ],
+        [
+            "short"
+        ],
+        [
+            "courts"
+        ]
+    ],
+    [
+        "couloirs",
+        "/ku.lwaʁ/",
+        "n. masc. pl.",
+        "hallways",
+        "Passageways",
+        "Passages",
+        [
+            "passages"
+        ],
+        [
+            "galeries"
+        ],
+        [],
+        []
+    ],
+    [
+        "Des",
+        "/de/",
+        "art. indef. pl.",
+        "Some",
+        "Plural Indefinite Article",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tableaux",
+        "/ta.blo/",
+        "n. masc. pl.",
+        "paintings",
+        "Artwork on canvas",
+        "Oeuvres d'art sur toile",
+        [
+            "pictures"
+        ],
+        [
+            "peintures"
+        ],
+        [],
+        []
+    ],
+    [
+        "tapissaient",
+        "/ta.pi.sɛ/",
+        "v. tapisser - impf.",
+        "covered",
+        "Covered with",
+        "Recouvrir de",
+        [
+            "lined"
+        ],
+        [
+            "recouvraient"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "murs",
+        "/myʁ/",
+        "n. masc. plur.",
+        "walls",
+        "Vertical structures",
+        "Structures verticales",
+        [
+            "ramparts"
+        ],
+        [
+            "parois"
+        ],
+        [],
+        []
+    ],
+    [
+        "–",
+        "/–/",
+        "punctuation",
+        " - ",
+        "Dash",
+        "Tiret",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. plur.",
+        "some",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "paysages",
+        "/pe.i.zaʒ/",
+        "n. masc. plur.",
+        "landscapes",
+        "Scenic views",
+        "Vues panoramiques",
+        [
+            "scenery"
+        ],
+        [
+            "vues"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. plur.",
+        "some",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "portraits",
+        "/pɔʁ.tʁɛ/",
+        "n. masc. plur.",
+        "portraits",
+        "Representations of people",
+        "Représentations de personnes",
+        [
+            "likenesses"
+        ],
+        [
+            "images"
+        ],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Preposition of location",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "velours",
+        "/və.luʁ/",
+        "n. masc.",
+        "velvet",
+        "Soft fabric",
+        "Tissu doux",
+        [
+            "plush"
+        ],
+        [
+            "douceur"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Indicates location",
+        "Indique un lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "satin",
+        "/sa.tɛ̃/",
+        "n. masc.",
+        "satin",
+        "Smooth fabric",
+        "Tissu lisse",
+        [
+            "silk"
+        ],
+        [
+            "soie"
+        ],
+        [],
+        []
+    ],
+    [
+        "Une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "A",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "longue",
+        "/lɔ̃ɡ/",
+        "adj. fem. sing.",
+        "long",
+        "Extended length",
+        "Grande longueur",
+        [
+            "extended"
+        ],
+        [
+            "étiré"
+        ],
+        [
+            "short"
+        ],
+        [
+            "court"
+        ]
+    ],
+    [
+        "galerie",
+        "/ɡal.ʁi/",
+        "n. fem.",
+        "gallery",
+        "Hallway",
+        "Couloir",
+        [
+            "hall"
+        ],
+        [
+            "couloir"
+        ],
+        [],
+        []
+    ],
+    [
+        "contenait",
+        "/kɔ̃.tə.nɛ/",
+        "v.",
+        "contained",
+        "Held within",
+        "Tenait à l'intérieur",
+        [
+            "included"
+        ],
+        [
+            "renfermait"
+        ],
+        [],
+        [],
+        "contenir"
+    ],
+    [
+        "tellement",
+        "/tɛl.mɑ̃/",
+        "adv.",
+        "so much",
+        "To a great extent",
+        "Dans une large mesure",
+        [
+            "greatly"
+        ],
+        [
+            "énormément"
+        ],
+        [
+            "little"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition indicating origin",
+        "Préposition indiquant l'origine",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [
+            "to"
+        ],
+        [
+            "à"
+        ]
+    ],
+    [
+        "visages",
+        "/vi.zaʒ/",
+        "n. masc. pl.",
+        "faces",
+        "Facial expressions",
+        "Expressions faciales",
+        [
+            "countenances"
+        ],
+        [
+            "figures"
+        ],
+        [],
+        []
+    ],
+    [
+        "qu'elle",
+        "/kɛ.l/",
+        "pron. rel. + pron. pers.",
+        "that she",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sentit",
+        "/sɑ̃.ti/",
+        "v. sentir",
+        "felt",
+        "Experienced an emotion",
+        "A éprouvé une émotion",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qu'ils",
+        "/ki(l)/",
+        "pron. rel. + pron. pers.",
+        "that they",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "pron. pers.",
+        "her",
+        "Direct object pronoun",
+        "Pronom personnel COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "regardaient",
+        "/ʁə.ɡaʁ.dɛ/",
+        "v. regarder",
+        "were watching",
+        "Looking at",
+        "En train de regarder",
+        [
+            "observing"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. réfl.",
+        "themselves",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "demandant",
+        "/də.mɑ̃.dɑ̃/",
+        "v. demander",
+        "wondering",
+        "Questioning oneself",
+        "Se questionnant",
+        [
+            "asking"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "art. dem. masc. sing.",
+        "what",
+        "Refers to a thing",
+        "Référence à une chose",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qu'",
+        "/kə/",
+        "conj.",
+        "that",
+        "Introduces a clause",
+        "Introduit une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Feminine pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faisait",
+        "/fə.zɛ/",
+        "v. faire, impf.",
+        "was doing",
+        "Action in progress (faire)",
+        "Action en cours (faire)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "là",
+        "/la/",
+        "adv.",
+        "there",
+        "In that place",
+        "À cet endroit",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "It",
+        "Impersonal pronoun",
+        "Pronom impersonnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "adv.",
+        "there",
+        "Referring to a place",
+        "Référence à un lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/a.vɛ/",
+        "v. avoir, impf.",
+        "was",
+        "To have (imperfect)",
+        "Avoir (imparfait)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aussi",
+        "/o.si/",
+        "adv.",
+        "also",
+        "In addition",
+        "De plus",
+        [
+            "too"
+        ],
+        [
+            "également"
+        ],
+        [
+            "neither"
+        ],
+        [
+            "non plus"
+        ]
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "enfants",
+        "/ɑ̃fɑ̃/",
+        "n. masc. plur.",
+        "children",
+        "Young people",
+        "Jeunes personnes",
+        [
+            "kids"
+        ],
+        [
+            "gamins"
+        ],
+        [
+            "adults"
+        ],
+        [
+            "adultes"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside of",
+        "À l'intérieur de",
+        [
+            "within"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "dehors"
+        ]
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. plur.",
+        "some",
+        "Indefinite plural article",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vêtements",
+        "/vɛtmɑ̃/",
+        "n. masc. plur.",
+        "clothes",
+        "Garments",
+        "Habits",
+        [
+            "attire"
+        ],
+        [
+            "habits"
+        ],
+        [],
+        []
+    ],
+    [
+        "étranges",
+        "/e.tʁɑ̃ʒ/",
+        "adj. plur.",
+        "strange",
+        "Unusual",
+        "Inhabituel",
+        [
+            "odd",
+            "weird"
+        ],
+        [
+            "bizarre",
+            "curieux"
+        ],
+        [
+            "normal"
+        ],
+        [
+            "normal"
+        ]
+    ],
+    [
+        "L'une",
+        "/lyn/",
+        "pron.",
+        "One",
+        "A single thing",
+        "Une seule chose",
+        [
+            "a single"
+        ],
+        [
+            "un seul"
+        ],
+        [],
+        []
+    ],
+    [
+        "d'elles",
+        "/dɛl/",
+        "pron.pers.",
+        "of them",
+        "Referring to a group",
+        "Se référant à un groupe",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fille",
+        "/fij/",
+        "n. fem. sing.",
+        "girl",
+        "Female child",
+        "Enfant de sexe féminin",
+        [
+            "daughter"
+        ],
+        [
+            "descendante"
+        ],
+        [
+            "boy"
+        ],
+        [
+            "garçon"
+        ]
+    ],
+    [
+        "simple",
+        "/sɛ̃pl/",
+        "adj.",
+        "simple",
+        "Not complex",
+        "Pas compliqué",
+        [
+            "easy",
+            "basic"
+        ],
+        [
+            "facile",
+            "basique"
+        ],
+        [
+            "complex"
+        ],
+        [
+            "complexe"
+        ]
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "conj.",
+        "as",
+        "In the same way",
+        "De la même manière",
+        [
+            "like"
+        ],
+        [
+            "pareil"
+        ],
+        [
+            "unlike"
+        ],
+        [
+            "différent"
+        ]
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Female pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [
+            "he"
+        ],
+        [
+            "il"
+        ]
+    ],
+    [
+        "tenait",
+        "/tə.nɛ/",
+        "v.",
+        "held",
+        "Grasped",
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indéf. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "perroquet",
+        "/pɛ.ʁɔ.kɛ/",
+        "n. masc.",
+        "parrot",
+        "Tropical bird",
+        "Oiseau tropical",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vert",
+        "/vɛʁ/",
+        "adj. masc.",
+        "green",
+        "Color",
+        "Couleur",
+        [],
+        [],
+        [],
+        []
+    ]
+]

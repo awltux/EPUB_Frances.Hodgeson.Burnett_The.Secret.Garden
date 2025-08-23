@@ -1,0 +1,560 @@
+[
+    [
+        "Je",
+        "/ʒə/",
+        "pers. pron.",
+        "I",
+        "First person pronoun",
+        "Pronom de première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation adverb",
+        "Adverbe de négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "savais",
+        "/sa.vɛ/",
+        "v. savoir - imparfait",
+        "knew",
+        "Past tense of to know",
+        "Passé du verbe savoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pa/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oiseaux",
+        "/wa.zo/",
+        "n. masc. pl.",
+        "birds",
+        "Feathered creatures",
+        "Créatures à plumes",
+        [
+            "fowls"
+        ],
+        [
+            "volatiles"
+        ],
+        [],
+        []
+    ],
+    [
+        "étaient",
+        "/e.tɛ/",
+        "v. être - imparfait",
+        "were",
+        "Past tense of to be",
+        "Passé du verbe être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "adv.",
+        "like",
+        "Similar to",
+        "Similaire à",
+        [
+            "as"
+        ],
+        [
+            "pareil"
+        ],
+        [
+            "unlike"
+        ],
+        [
+            "différent"
+        ]
+    ],
+    [
+        "ça",
+        "/sa/",
+        "pron. dem.",
+        "that",
+        "Referring to something",
+        "En référence à quelque chose",
+        [
+            "it"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit-il",
+        "/di.til/",
+        "v. dire",
+        "he said",
+        "Statement",
+        "Déclaration",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Si",
+        "/si/",
+        "conj.",
+        "If",
+        "Conditional conjunction",
+        "Conjonction conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers.",
+        "You",
+        "Second person singular pronoun",
+        "Pronom personnel deuxième personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "restes",
+        "/ʁɛst/",
+        "v. rester",
+        "stay",
+        "To remain",
+        "Demeurer",
+        [
+            "remain"
+        ],
+        [
+            "demeurer"
+        ],
+        [
+            "leave"
+        ],
+        [
+            "partir"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside",
+        "À l'intérieur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "a",
+        "Article for feminine singular",
+        "Article pour féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pièce",
+        "/pjɛs/",
+        "n. fem. sing.",
+        "room",
+        "Part of a building",
+        "Partie d'un bâtiment",
+        [
+            "chamber"
+        ],
+        [
+            "chambre"
+        ],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers. sing.",
+        "you",
+        "Singular personal pronoun",
+        "Pronom personnel singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vois",
+        "/vwa/",
+        "v. voir",
+        "see",
+        "To perceive with eyes",
+        "Percevoir avec les yeux",
+        [
+            "perceive"
+        ],
+        [
+            "percevoir"
+        ],
+        [],
+        []
+    ],
+    [
+        "jamais",
+        "/ʒa.mɛ/",
+        "adv. de temps",
+        "never",
+        "At no time",
+        "À aucun moment",
+        [
+            "ever"
+        ],
+        [
+            "toujours"
+        ],
+        [
+            "always"
+        ],
+        [
+            "toujours"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. fem. plur.",
+        "things",
+        "Objects",
+        "Objets",
+        [
+            "items"
+        ],
+        [
+            "objets"
+        ],
+        [],
+        []
+    ],
+    [
+        "Tu",
+        "/ty/",
+        "pron. pers. sing.",
+        "You",
+        "Singular personal pronoun",
+        "Pronom personnel singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "pron. pers.",
+        "of it",
+        "Pronoun replacing a noun",
+        "Pronom remplaçant un nom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sais",
+        "/sɛ/",
+        "v. savoir",
+        "know",
+        "Understand",
+        "Comprendre",
+        [
+            "understand"
+        ],
+        [
+            "comprendre"
+        ],
+        [
+            "misunderstand"
+        ],
+        [
+            "méconnaître"
+        ]
+    ],
+    [
+        "tellement",
+        "/tɛl.mɑ̃/",
+        "adv.",
+        "so much",
+        "To a great extent",
+        "À un point considérable",
+        [
+            "so"
+        ],
+        [
+            "tellement"
+        ],
+        [],
+        []
+    ],
+    [
+        "J'",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person singular pronoun",
+        "Pronom à la première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ai",
+        "/ɛ/",
+        "v. avoir",
+        "have",
+        "To possess",
+        "Posséder",
+        [
+            "own"
+        ],
+        [
+            "posséder"
+        ],
+        [
+            "lack"
+        ],
+        [
+            "manquer"
+        ]
+    ],
+    [
+        "l'impression",
+        "/lɛ̃.pʁɛ.sjɔ̃/",
+        "n. f.",
+        "the feeling",
+        "A sense or belief",
+        "Un sentiment ou une croyance",
+        [
+            "feeling"
+        ],
+        [
+            "sentiment"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Introducing a subordinate clause",
+        "Introduisant une proposition subordonnée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers.",
+        "you",
+        "Second-person singular pronoun",
+        "Pronom à la deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "as",
+        "/a/",
+        "v. avoir",
+        "have",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "été",
+        "/e.te/",
+        "v. être",
+        "been",
+        "Past participle of to be",
+        "Participe passé de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction indicator",
+        "Indicateur de direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "intérieur",
+        "/ɛ̃.te.ʁjœʁ/",
+        "n. masc.",
+        "inside",
+        "Inner part",
+        "Partie intérieure",
+        [
+            "within"
+        ],
+        [
+            "dedans"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "dehors"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates possession",
+        "Indique la possession",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "det. dem. masc. sing.",
+        "this",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Cultivated land",
+        "Terre cultivée",
+        [
+            "yard"
+        ],
+        [
+            "cour"
+        ],
+        [],
+        []
+    ]
+]

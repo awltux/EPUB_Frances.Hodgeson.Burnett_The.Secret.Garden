@@ -1,0 +1,930 @@
+[
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. subj. 1st sing.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sais",
+        "/sɛ/",
+        "v. savoir",
+        "know",
+        "Understand",
+        "Comprendre",
+        [
+            "understand",
+            "comprehend"
+        ],
+        [
+            "comprendre",
+            "appréhender"
+        ],
+        [
+            "ignore"
+        ],
+        [
+            "ignorer"
+        ]
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "who",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "te",
+        "/tə/",
+        "pron. pers. obj. 2nd sing.",
+        "you",
+        "Second person singular pronoun",
+        "Deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mettrait",
+        "/mɛt.ʁɛ/",
+        "v. mettre, cond. pres.",
+        "would put",
+        "To place or set",
+        "Placer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside",
+        "À l'intérieur de",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lɑ̃/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ambiance",
+        "/ɑ̃.bjɑ̃s/",
+        "n. fem. sing.",
+        "mood",
+        "Atmosphere",
+        "Atmosphère",
+        [
+            "atmosphere",
+            "feeling"
+        ],
+        [
+            "atmosphère",
+            "sentiment"
+        ],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Spoken words",
+        "Paroles prononcées",
+        [
+            "stated"
+        ],
+        [
+            "affirmé"
+        ],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop.",
+        "Marie",
+        "A female name",
+        "Nom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/di.kɔn/",
+        "n.prop.",
+        "Dickon",
+        "A male name",
+        "Nom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "him",
+        "Masculine singular pronoun",
+        "Pronom masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ferait",
+        "/fə.ʁɛ/",
+        "v. faire cond.",
+        "would do",
+        "Conditional tense of 'to do'",
+        "Conditionnel de 'faire'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. subj. masc. sing.",
+        "He",
+        "Masculine subject pronoun",
+        "Pronom sujet masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "parle",
+        "/paʁl/",
+        "v. parler",
+        "speaks",
+        "Present tense of 'to speak'",
+        "Présent de 'parler'",
+        [
+            "talks"
+        ],
+        [
+            "cause"
+        ],
+        [],
+        []
+    ],
+    [
+        "toujours",
+        "/tu.ʒuʁ/",
+        "adv.",
+        "always",
+        "At all times",
+        "En tout temps",
+        [
+            "evermore"
+        ],
+        [
+            "éternellement"
+        ],
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition indicating origin",
+        "Préposition indiquant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. f. pl.",
+        "things",
+        "Objects",
+        "Objets",
+        [
+            "items"
+        ],
+        [
+            "objets"
+        ],
+        [],
+        []
+    ],
+    [
+        "vivantes",
+        "/vi.vɑ̃t/",
+        "adj. f. pl.",
+        "living",
+        "Alive",
+        "Animé",
+        [
+            "alive"
+        ],
+        [
+            "animées"
+        ],
+        [
+            "dead"
+        ],
+        [
+            "mortes"
+        ]
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [
+            "no"
+        ],
+        [
+            "non"
+        ],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition indicating belonging",
+        "Préposition indiquant l'appartenance",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. f. pl.",
+        "things",
+        "Entities",
+        "Entités",
+        [
+            "items"
+        ],
+        [
+            "articles"
+        ],
+        [],
+        []
+    ],
+    [
+        "mortes",
+        "/mɔʁt/",
+        "adj. f. pl.",
+        "dead",
+        "Not alive",
+        "Inanimé",
+        [
+            "deceased"
+        ],
+        [
+            "inanimées"
+        ],
+        [
+            "living"
+        ],
+        [
+            "vivantes"
+        ]
+    ],
+    [
+        "ou",
+        "/u/",
+        "conj.",
+        "or",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "malades",
+        "/ma.lad/",
+        "adj. f. pl.",
+        "sick",
+        "Ill",
+        "Souffrant",
+        [
+            "ill"
+        ],
+        [
+            "souffrantes"
+        ],
+        [
+            "healthy"
+        ],
+        [
+            "saines"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. subj. masc. sing.",
+        "He",
+        "Third-person pronoun",
+        "Pronom de troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "regarde",
+        "/ʁə.ɡaʁd/",
+        "v. regarder",
+        "looks",
+        "To observe",
+        "Observer",
+        [
+            "watches"
+        ],
+        [
+            "observe"
+        ],
+        [],
+        []
+    ],
+    [
+        "toujours",
+        "/tu.ʒuʁ/",
+        "adv.",
+        "always",
+        "At all times",
+        "À tout moment",
+        [
+            "constantly"
+        ],
+        [
+            "constamment"
+        ],
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ciel",
+        "/sjɛl/",
+        "n. masc. sing.",
+        "sky",
+        "Atmosphere",
+        "Atmosphère",
+        [
+            "heavens"
+        ],
+        [
+            "firmament"
+        ],
+        [
+            "earth"
+        ],
+        [
+            "terre"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "to",
+        "In order to",
+        "Afin de",
+        [
+            "in order to"
+        ],
+        [
+            "afin de"
+        ],
+        [],
+        []
+    ],
+    [
+        "observer",
+        "/ɔp.sɛʁ.ve/",
+        "v.",
+        "observe",
+        "To watch carefully",
+        "Regarder attentivement",
+        [
+            "watch"
+        ],
+        [
+            "regarder"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article (plural)",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oiseaux",
+        "/wa.zo/",
+        "n. masc. pl.",
+        "birds",
+        "Avian creatures",
+        "Créatures aviaires",
+        [
+            "fowl"
+        ],
+        [
+            "volaille"
+        ],
+        [],
+        []
+    ],
+    [
+        "ou",
+        "/u/",
+        "conj.",
+        "or",
+        "Alternative conjunction",
+        "Conjonction alternative",
+        [
+            "either"
+        ],
+        [
+            "soit"
+        ],
+        [
+            "nor"
+        ],
+        [
+            "ni"
+        ]
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "terre",
+        "/tɛʁ/",
+        "n. fem. sing.",
+        "earth",
+        "Ground",
+        "Sol",
+        [
+            "ground",
+            "soil"
+        ],
+        [
+            "sol",
+            "terrain"
+        ],
+        [
+            "sky"
+        ],
+        [
+            "ciel"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "to",
+        "Expressing purpose",
+        "Exprimant le but",
+        [
+            "in order to"
+        ],
+        [
+            "afin de"
+        ],
+        [],
+        []
+    ],
+    [
+        "voir",
+        "/vwaʁ/",
+        "v. inf.",
+        "to see",
+        "To perceive with eyes",
+        "Percevoir avec les yeux",
+        [
+            "observe"
+        ],
+        [
+            "observer"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. fem. plur.",
+        "things",
+        "Items",
+        "Articles",
+        [
+            "items"
+        ],
+        [
+            "articles"
+        ],
+        [],
+        []
+    ],
+    [
+        "pousser",
+        "/puse/",
+        "v. inf.",
+        "to grow",
+        "To develop",
+        "Développer",
+        [
+            "sprout"
+        ],
+        [
+            "germer"
+        ],
+        [
+            "shrink"
+        ],
+        [
+            "rétrécir"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third person pronoun",
+        "Pronom de troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir - 3rd person sing. present",
+        "has",
+        "Possesses",
+        "Possède",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin or possession",
+        "Indique l'origine ou la possession",
+        [
+            "from"
+        ],
+        [
+            "depuis"
+        ],
+        [],
+        []
+    ],
+    [
+        "grands",
+        "/ɡʁɑ̃/",
+        "adj. masc. plur.",
+        "big",
+        "Large in size",
+        "De grande taille",
+        [
+            "large",
+            "tall"
+        ],
+        [
+            "larges",
+            "hauts"
+        ],
+        [
+            "small"
+        ],
+        [
+            "petits"
+        ]
+    ],
+    [
+        "yeux",
+        "/jø/",
+        "n. masc. plur.",
+        "eyes",
+        "Organs of sight",
+        "Organes de la vue",
+        [
+            "peepers"
+        ],
+        [
+            "prunelles"
+        ],
+        [],
+        []
+    ],
+    [
+        "bleus",
+        "/blø/",
+        "adj. masc. plur.",
+        "blue",
+        "Color",
+        "Couleur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "grand",
+        "/ɡʁɑ̃/",
+        "adj. masc. sing.",
+        "big",
+        "Large in size",
+        "De grande taille",
+        [
+            "large"
+        ],
+        [
+            "large"
+        ],
+        [
+            "small"
+        ],
+        [
+            "petit"
+        ]
+    ],
+    [
+        "rire",
+        "/ʁiʁ/",
+        "n. masc. sing.",
+        "laugh",
+        "Expression of amusement",
+        "Expression d'amusement",
+        [
+            "giggle"
+        ],
+        [
+            "gai rire"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [
+            "also"
+        ],
+        [
+            "aussi"
+        ],
+        [
+            "but"
+        ],
+        [
+            "mais"
+        ]
+    ],
+    [
+        "ses",
+        "/se/",
+        "adj. poss. fem. pl.",
+        "her",
+        "Belonging to her",
+        "Appartenant à elle",
+        [
+            "his",
+            "their"
+        ],
+        [
+            "son",
+            "leur"
+        ],
+        [],
+        []
+    ],
+    [
+        "joues",
+        "/ʒu/",
+        "n. fém. pl.",
+        "cheeks",
+        "Part of the face",
+        "Partie du visage",
+        [],
+        [
+            "pommettes"
+        ],
+        [],
+        []
+    ],
+    [
+        "sont",
+        "/sɔ̃/",
+        "v.",
+        "are",
+        "To be (être)",
+        "Être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aussi",
+        "/o.si/",
+        "adv.",
+        "as",
+        "To the same extent",
+        "Dans la même mesure",
+        [
+            "too"
+        ],
+        [
+            "également"
+        ],
+        [],
+        []
+    ],
+    [
+        "rouges",
+        "/ʁuʒ/",
+        "adj. fém. pl.",
+        "red",
+        "Color",
+        "Couleur",
+        [
+            "crimson"
+        ],
+        [
+            "écarlates"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "than",
+        "Comparison word",
+        "Mot de comparaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cerises",
+        "/sə.ʁiz/",
+        "n. fém. pl.",
+        "cherries",
+        "Small fruit",
+        "Petit fruit",
+        [],
+        [],
+        [],
+        []
+    ]
+]

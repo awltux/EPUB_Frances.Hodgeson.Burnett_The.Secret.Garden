@@ -1,0 +1,142 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "pron. adv.",
+        "there",
+        "Adverbial pronoun",
+        "Pronom adverbial",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (3rd person sing. pres.)",
+        "has",
+        "To have",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "beaucoup",
+        "/bo.ku/",
+        "adv. quant.",
+        "a lot",
+        "Much",
+        "énormément",
+        [
+            "many"
+        ],
+        [
+            "plusieurs"
+        ],
+        [
+            "few"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction",
+        "Direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faire",
+        "/fɛʁ/",
+        "v. infin.",
+        "to do",
+        "Perform an action",
+        "Accomplir une action",
+        [
+            "create",
+            "make"
+        ],
+        [
+            "créer",
+            "fabriquer"
+        ],
+        [],
+        []
+    ],
+    [
+        "ici",
+        "/i.si/",
+        "adv. lieu",
+        "here",
+        "In this place",
+        "Dans cet endroit",
+        [
+            "nearby"
+        ],
+        [
+            "près"
+        ],
+        [
+            "there"
+        ],
+        [
+            "là-bas"
+        ]
+    ],
+    [
+        "dit-il",
+        "/di.til/",
+        "v. dire - 3rd person sing. past historic",
+        "he said",
+        "Statement made",
+        "Déclaration faite",
+        [
+            "stated"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "joyeusement",
+        "/ʒwa.jøz.mɑ̃/",
+        "adv. manière",
+        "joyfully",
+        "In a happy manner",
+        "D'une manière heureuse",
+        [
+            "happily"
+        ],
+        [
+            "gaiement"
+        ],
+        [
+            "sadly"
+        ],
+        [
+            "tristement"
+        ]
+    ]
+]

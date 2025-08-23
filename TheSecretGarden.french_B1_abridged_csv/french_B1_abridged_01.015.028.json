@@ -1,0 +1,184 @@
+[
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop. fem.",
+        "Marie",
+        "A female name",
+        "Un prénom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "courut",
+        "/ku.ʁy/",
+        "v. imp. ind. third person sing. de courir",
+        "ran",
+        "Past action of running",
+        "Action passée de courir",
+        [],
+        [
+            "galopa"
+        ],
+        [],
+        []
+    ],
+    [
+        "vers",
+        "/vɛʁ/",
+        "prep.",
+        "towards",
+        "Directional preposition",
+        "Préposition de direction",
+        [
+            "near"
+        ],
+        [
+            "proche"
+        ],
+        [
+            "away"
+        ],
+        [
+            "loin"
+        ]
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Personal pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Oh",
+        "/o/",
+        "interj.",
+        "Oh",
+        "Expression of surprise",
+        "Expression de surprise",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/di.kɔn/",
+        "n.prop. masc.",
+        "Dickon",
+        "A male name",
+        "Un prénom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Comment",
+        "/kɔ.mɑ̃/",
+        "adv.",
+        "How",
+        "In what way?",
+        "De quelle manière",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "es-tu",
+        "/ɛ.ty/",
+        "Verbal locution",
+        "are you",
+        "Interrogative form",
+        "Forme interrogative",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "arrivé",
+        "/a.ʁi.ve/",
+        "v. past part. arriver",
+        "arrived",
+        "Reached a destination",
+        "Atteint une destination",
+        [
+            "reached"
+        ],
+        [
+            "parvenu"
+        ],
+        [],
+        []
+    ],
+    [
+        "ici",
+        "/i.si/",
+        "adv. of place",
+        "here",
+        "In this place",
+        "Dans ce lieu",
+        [
+            "in this place"
+        ],
+        [
+            "en cet endroit"
+        ],
+        [
+            "there"
+        ],
+        [
+            "là-bas"
+        ]
+    ],
+    [
+        "si",
+        "/si/",
+        "adv. of degree",
+        "so",
+        "To such a degree",
+        "À tel point",
+        [
+            "extremely"
+        ],
+        [
+            "tellement"
+        ],
+        [
+            "not so"
+        ],
+        [
+            "pas tellement"
+        ]
+    ],
+    [
+        "tôt",
+        "/to/",
+        "adv. of time",
+        "early",
+        "Before the usual time",
+        "Avant l'heure habituelle",
+        [
+            "soon"
+        ],
+        [
+            "bientôt"
+        ],
+        [
+            "late"
+        ],
+        [
+            "tard"
+        ]
+    ]
+]

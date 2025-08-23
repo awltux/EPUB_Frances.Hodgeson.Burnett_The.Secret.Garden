@@ -1,0 +1,427 @@
+[
+    [
+        "Eh",
+        "/e/",
+        "interj.",
+        "Hey",
+        "Greeting",
+        "Salutation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Les",
+        "/le/",
+        "art. def. plur.",
+        "The",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mensonges",
+        "/mɑ̃.sɔ̃ʒ/",
+        "n. masc. plur.",
+        "Lies",
+        "Untruths",
+        "Faussetés",
+        [
+            "falsehoods",
+            "untruths"
+        ],
+        [
+            "contre-vérités",
+            "impostures"
+        ],
+        [
+            "truths"
+        ],
+        [
+            "vérités"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "pron. rel.",
+        "that",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "gens",
+        "/ʒɑ̃/",
+        "n. masc. plur.",
+        "people",
+        "Individuals",
+        "Individus",
+        [
+            "persons",
+            "folks"
+        ],
+        [
+            "personnes",
+            "individus"
+        ],
+        [],
+        []
+    ],
+    [
+        "racontent",
+        "/ʁa.kɔ̃t/",
+        "v. present, raconter",
+        "tell",
+        "Narrate",
+        "Narrer",
+        [
+            "narrate",
+            "relate"
+        ],
+        [
+            "narrer",
+            "relater"
+        ],
+        [],
+        []
+    ],
+    [
+        "Vous",
+        "/vu/",
+        "pron. pers.",
+        "You",
+        "Second person plural",
+        "Deuxième personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "êtes",
+        "/ɛt/",
+        "v. être, 2nd person plural present",
+        "are",
+        "To be",
+        "Exister",
+        [
+            "are"
+        ],
+        [
+            "sont"
+        ],
+        [],
+        []
+    ],
+    [
+        "mince",
+        "/mɛ̃s/",
+        "adj.",
+        "thin",
+        "Not fat",
+        "Pas gros",
+        [
+            "slim",
+            "slender"
+        ],
+        [
+            "svelte",
+            "sveltes"
+        ],
+        [
+            "fat"
+        ],
+        [
+            "gros"
+        ]
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj.",
+        "but",
+        "However",
+        "Cependant",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers.",
+        "it",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'y",
+        "/ni/",
+        "adv.",
+        "there",
+        "In that place",
+        "Dans ce lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir, 3rd person singular present",
+        "is",
+        "To have",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rien",
+        "/ʀjɛ̃/",
+        "pron. indef.",
+        "nothing",
+        "Not anything",
+        "Pas quelque chose",
+        [
+            "zero",
+            "zilch"
+        ],
+        [
+            "néant"
+        ],
+        [
+            "something"
+        ],
+        [
+            "quelque chose"
+        ]
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. interrog.",
+        "who",
+        "Asking a person's identity",
+        "Demandant l'identité d'une personne",
+        [
+            "which person"
+        ],
+        [
+            "quelle personne"
+        ],
+        [],
+        []
+    ],
+    [
+        "cloche",
+        "/klɔʃ/",
+        "v. impers.; clocher",
+        "is wrong",
+        "To be amiss",
+        "Être défectueux",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chez",
+        "/ʃe/",
+        "prep.",
+        "at",
+        "Indicates location",
+        "Indique un lieu",
+        [
+            "at the home of"
+        ],
+        [
+            "au domicile de"
+        ],
+        [],
+        []
+    ],
+    [
+        "vous",
+        "/vu/",
+        "pron. pers.",
+        "you",
+        "Formal second person pronoun",
+        "Pronom formel de la deuxième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Vous",
+        "/vu/",
+        "pron. pers.",
+        "You",
+        "Formal second person pronoun",
+        "Pronom formel de la deuxième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "serez",
+        "/sə.ʁe/",
+        "v. futur; être",
+        "will be",
+        "Future tense of to be",
+        "Temps futur de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "homme",
+        "/ɔm/",
+        "n. masc. sing.",
+        "man",
+        "Adult male human",
+        "Humain mâle adulte",
+        [
+            "male"
+        ],
+        [
+            "mâle"
+        ],
+        [
+            "woman"
+        ],
+        [
+            "femme"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jour",
+        "/ʒuʁ/",
+        "n. masc. sing.",
+        "day",
+        "24-hour period",
+        "Période de 24 heures",
+        [
+            "date"
+        ],
+        [
+            "date"
+        ],
+        [],
+        []
+    ],
+    [
+        "Que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Dieu",
+        "/djø/",
+        "n. masc. sing.",
+        "God",
+        "Supreme being",
+        "Être suprême",
+        [
+            "lord"
+        ],
+        [
+            "seigneur"
+        ],
+        [],
+        []
+    ],
+    [
+        "vous",
+        "/vu/",
+        "pron. pers.",
+        "you",
+        "Second person pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bénisse",
+        "/be.nis/",
+        "v.",
+        "bless",
+        "To invoke divine favor",
+        "Invoquer la faveur divine",
+        [],
+        [],
+        [],
+        []
+    ]
+]

@@ -1,0 +1,834 @@
+[
+    [
+        "Je",
+        "/ʒə/",
+        "pers. pron.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vais",
+        "/vɛ/",
+        "v. aller",
+        "go",
+        "To move or travel",
+        "Se déplacer ou voyager",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sortir",
+        "/sɔʁ.tiʁ/",
+        "v. inf.",
+        "to go out",
+        "Leave a place",
+        "Quitter un endroit",
+        [
+            "leave",
+            "exit"
+        ],
+        [
+            "quitter",
+            "partir"
+        ],
+        [
+            "enter",
+            "stay"
+        ],
+        [
+            "entrer",
+            "rester"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside of",
+        "À l'intérieur de",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "dehors"
+        ]
+    ],
+    [
+        "mon",
+        "/mɔ̃/",
+        "poss. adj. masc. sing.",
+        "my",
+        "Belonging to me",
+        "Qui m'appartient",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fauteuil",
+        "/fo.tœj/",
+        "n. masc. sing.",
+        "armchair",
+        "Comfortable seat",
+        "Siège confortable",
+        [
+            "chair"
+        ],
+        [
+            "chaise"
+        ],
+        [],
+        []
+    ],
+    [
+        "cet",
+        "/sɛt/",
+        "dem. adj. masc. sing.",
+        "this",
+        "Referring to something nearby",
+        "Se référant à quelque chose de proche",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "après-midi",
+        "/a.pʁɛ.mi.di/",
+        "n. masc. sing.",
+        "afternoon",
+        "Time of day",
+        "Moment de la journée",
+        [
+            "p.m."
+        ],
+        [
+            "soir"
+        ],
+        [
+            "morning"
+        ],
+        [
+            "matin"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Spoken words",
+        "Paroles prononcées",
+        [
+            "stated"
+        ],
+        [
+            "déclaré"
+        ],
+        [],
+        []
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. prop.",
+        "Colin",
+        "A male name",
+        "Nom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Si",
+        "/si/",
+        "conj.",
+        "If",
+        "Conditional clause",
+        "Clause conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/l/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "air",
+        "/ɛʁ/",
+        "n. masc.",
+        "air",
+        "Gaseous mixture",
+        "Mélange gazeux",
+        [
+            "atmosphere"
+        ],
+        [
+            "atmosphère"
+        ],
+        [],
+        []
+    ],
+    [
+        "frais",
+        "/fʁɛ/",
+        "adj. masc.",
+        "fresh",
+        "Newly made",
+        "Nouvellement fait",
+        [
+            "new"
+        ],
+        [
+            "nouveau"
+        ],
+        [
+            "stale"
+        ],
+        [
+            "vicié"
+        ]
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "First person pronoun",
+        "Pronom de première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "convient",
+        "/kɔ̃.vjɛ̃/",
+        "v. convenir",
+        "suits",
+        "Is appropriate",
+        "Est approprié",
+        [
+            "agrees"
+        ],
+        [
+            "s'accorde"
+        ],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pourrais",
+        "/puʁɛ/",
+        "cond. present, pouvoir",
+        "could",
+        "Ability in the conditional tense",
+        "Capacité au conditionnel",
+        [
+            "might"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "sortir",
+        "/sɔʁ.tiʁ/",
+        "v. infinitive",
+        "to go out",
+        "To leave a place",
+        "Quitter un endroit",
+        [
+            "leave"
+        ],
+        [
+            "partir"
+        ],
+        [
+            "enter"
+        ],
+        [
+            "rester"
+        ]
+    ],
+    [
+        "tous",
+        "/tu/",
+        "adj. masc. plur.",
+        "all",
+        "Every one",
+        "Chaque un",
+        [
+            "every"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jours",
+        "/ʒuʁ/",
+        "n. masc. plur.",
+        "days",
+        "Plural of day",
+        "Pluriel de jour",
+        [
+            "times"
+        ],
+        [
+            "fois"
+        ],
+        [],
+        []
+    ],
+    [
+        "Quand",
+        "/kɑ̃/",
+        "conj. sub.",
+        "When",
+        "At what time",
+        "À quel moment",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers.",
+        "it",
+        "Referring to a masculine noun",
+        "Référence à un nom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ferai",
+        "/fə.ʁe/",
+        "v. futur simple, faire",
+        "will do",
+        "Future tense of doing",
+        "Action future d'accomplir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aucun",
+        "/o.kœ̃/",
+        "adj. indef. masc. sing.",
+        "no",
+        "Not any",
+        "Pas un seul",
+        [
+            "not any"
+        ],
+        [],
+        [
+            "some"
+        ],
+        [
+            "certains"
+        ]
+    ],
+    [
+        "jardinier",
+        "/ʒaʁ.di.nje/",
+        "n. masc. sing.",
+        "gardener",
+        "Person who gardens",
+        "Personne qui jardine",
+        [
+            "horticulturalist"
+        ],
+        [
+            "horticulteur"
+        ],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe de négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "devra",
+        "/də.vʁa/",
+        "v. futur simple, devoir",
+        "must",
+        "Indicates obligation",
+        "Indique l'obligation",
+        [
+            "should"
+        ],
+        [
+            "pourrait"
+        ],
+        [],
+        []
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. réfl.",
+        "oneself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "trouver",
+        "/tʁu.ve/",
+        "v. inf.",
+        "to be found",
+        "To locate",
+        "Localiser",
+        [
+            "discover"
+        ],
+        [
+            "découvrir"
+        ],
+        [
+            "lose"
+        ],
+        [
+            "perdre"
+        ]
+    ],
+    [
+        "près",
+        "/pʁɛ/",
+        "adv. de lieu",
+        "near",
+        "Close to",
+        "Proche de",
+        [
+            "nearby"
+        ],
+        [
+            "voisin"
+        ],
+        [
+            "far"
+        ],
+        [
+            "loin"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin",
+        "Exprimant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Feminine definite article",
+        "Article féminin défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Longue",
+        "/lɔ̃ɡ/",
+        "adj. fem. sing.",
+        "Long",
+        "Extended in space or time",
+        "Étendue dans l'espace ou le temps",
+        [
+            "extended"
+        ],
+        [
+            "étirée"
+        ],
+        [
+            "short"
+        ],
+        [
+            "courte"
+        ]
+    ],
+    [
+        "Allée",
+        "/a.le/",
+        "n. fem. sing.",
+        "Alley",
+        "Narrow passage",
+        "Passage étroit",
+        [
+            "path"
+        ],
+        [
+            "chemin"
+        ],
+        [],
+        []
+    ],
+    [
+        "près",
+        "/pʁɛ/",
+        "prep.",
+        "near",
+        "Close to",
+        "Proche de",
+        [
+            "nearby"
+        ],
+        [
+            "voisin"
+        ],
+        [
+            "far"
+        ],
+        [
+            "loin"
+        ]
+    ],
+    [
+        "des",
+        "/de/",
+        "art. def. pl.",
+        "of the",
+        "Plural definite article",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "murs",
+        "/myʁ/",
+        "n. masc. pl.",
+        "walls",
+        "Vertical structures",
+        "Structures verticales",
+        [
+            "barriers"
+        ],
+        [
+            "barrières"
+        ],
+        [],
+        []
+    ],
+    [
+        "du",
+        "/dy/",
+        "art. def. masc. sing.",
+        "of the",
+        "Masculine definite article",
+        "Article défini masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Cultivated area",
+        "Zone cultivée",
+        [
+            "park"
+        ],
+        [
+            "parc"
+        ],
+        [],
+        []
+    ],
+    [
+        "Tout",
+        "/tu/",
+        "adv.",
+        "All",
+        "The whole of",
+        "La totalité de",
+        [
+            "entirely"
+        ],
+        [
+            "entièrement"
+        ],
+        [
+            "none"
+        ],
+        [
+            "rien"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "monde",
+        "/mɔ̃d/",
+        "n. masc. sing.",
+        "world",
+        "Earth",
+        "Terre",
+        [
+            "earth",
+            "globe"
+        ],
+        [
+            "terre",
+            "globe"
+        ],
+        [],
+        []
+    ],
+    [
+        "doit",
+        "/dwa/",
+        "v.",
+        "must",
+        "Obligation",
+        "Obligation",
+        [
+            "should",
+            "shall"
+        ],
+        [],
+        [],
+        [],
+        "devoir"
+    ],
+    [
+        "rester",
+        "/ʁɛste/",
+        "v. infin.",
+        "stay",
+        "Remain",
+        "Demeurer",
+        [
+            "remain"
+        ],
+        [
+            "demeurer"
+        ],
+        [
+            "leave"
+        ],
+        [
+            "partir"
+        ]
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "at",
+        "Location",
+        "Emplacement",
+        [
+            "in"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "écart",
+        "/e.kaʁ/",
+        "n. masc. sing.",
+        "aside",
+        "Distance",
+        "Distance",
+        [
+            "distance"
+        ],
+        [
+            "distance"
+        ],
+        [],
+        []
+    ],
+    [
+        "jusqu'à",
+        "/ʒys.ka/",
+        "prep.",
+        "until",
+        "Time",
+        "Temps",
+        [
+            "till"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "conj.",
+        "that",
+        "Conjunction",
+        "Conjonction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Conjunction",
+        "Conjonction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers.",
+        "him",
+        "Direct object pronoun",
+        "Pronom personnel COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dise",
+        "/diz/",
+        "v. dire",
+        "say",
+        "To utter words",
+        "Exprimer des mots",
+        [],
+        [],
+        [],
+        []
+    ]
+]

@@ -1,0 +1,364 @@
+[
+    [
+        "Susan",
+        "/sy.zan/",
+        "n.prop.",
+        "Susan",
+        "A female name",
+        "Nom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. obj. masc. sing.",
+        "him",
+        "Direct object pronoun",
+        "Pronom d'objet direct",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "serra",
+        "/sɛ.ʁa/",
+        "v. serrer",
+        "hugged",
+        "Past historic of serrer",
+        "Passé simple de serrer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fort",
+        "/fɔʁ/",
+        "adv.",
+        "tightly",
+        "With great intensity",
+        "Avec une grande intensité",
+        [
+            "strongly"
+        ],
+        [
+            "fermement"
+        ],
+        [],
+        []
+    ],
+    [
+        "contre",
+        "/kɔ̃tʁ/",
+        "prep.",
+        "against",
+        "In opposition to",
+        "En opposition à",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "her",
+        "Personal pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Eh",
+        "/e/",
+        "interj.",
+        "Hey",
+        "Expression of surprise",
+        "Expression de surprise",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cher",
+        "/ʃɛʁ/",
+        "adj. masc. sing.",
+        "dear",
+        "Beloved",
+        "Bien-aimé",
+        [
+            "precious"
+        ],
+        [
+            "précieux"
+        ],
+        [
+            "hated"
+        ],
+        [
+            "détesté"
+        ]
+    ],
+    [
+        "!",
+        null,
+        "ponctuation",
+        "!",
+        "exclamation point",
+        "point d'exclamation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "garçon",
+        "/ɡaʁ.sɔ̃/",
+        "n. masc. sing.",
+        "boy",
+        "Male child",
+        "Enfant mâle",
+        [
+            "lad",
+            "youth"
+        ],
+        [
+            "jeune",
+            "enfant"
+        ],
+        [
+            "girl"
+        ],
+        [
+            "fille"
+        ]
+    ],
+    [
+        "Votre",
+        "/vɔtʁ/",
+        "adj. poss. masc./fem. sing.",
+        "Your",
+        "Belonging to you",
+        "Qui t'appartient",
+        [],
+        [
+            "ta",
+            "ton"
+        ],
+        [],
+        []
+    ],
+    [
+        "propre",
+        "/pʁɔpʁ/",
+        "adj.",
+        "own",
+        "Belonging to oneself",
+        "Qui appartient à soi-même",
+        [
+            "personal"
+        ],
+        [
+            "personnel"
+        ],
+        [],
+        []
+    ],
+    [
+        "mère",
+        "/mɛʁ/",
+        "n. fem. sing.",
+        "mother",
+        "Female parent",
+        "Parent féminin",
+        [
+            "mom"
+        ],
+        [
+            "maman"
+        ],
+        [
+            "father"
+        ],
+        [
+            "père"
+        ]
+    ],
+    [
+        "est",
+        "/ɛ/",
+        "v. être",
+        "is",
+        "Third-person singular of 'to be'",
+        "Troisième personne du singulier de 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside of",
+        "À l'intérieur de",
+        [
+            "within"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "hors de"
+        ]
+    ],
+    [
+        "ce",
+        "/sə/",
+        "adj. dem. masc. sing.",
+        "this",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [
+            "that"
+        ],
+        [
+            "ce"
+        ]
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Area for plants",
+        "Espace pour les plantes",
+        [
+            "park"
+        ],
+        [
+            "parc"
+        ],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pers. pron. 1st sing.",
+        "I",
+        "First person pronoun",
+        "Pronom de première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "crois",
+        "/kʁwa/",
+        "v. croire, 1st sing. pres.",
+        "believe",
+        "Think",
+        "Penser",
+        [
+            "think",
+            "suppose"
+        ],
+        [
+            "penser"
+        ],
+        [
+            "doubt"
+        ],
+        [
+            "douter"
+        ]
+    ],
+    [
+        "Votre",
+        "/vɔtʁ/",
+        "adj. poss. masc. sing.",
+        "Your",
+        "Possessive adjective",
+        "Adjectif possessif",
+        [
+            "your"
+        ],
+        [
+            "ton"
+        ],
+        [],
+        []
+    ],
+    [
+        "père",
+        "/pɛʁ/",
+        "n. masc. sing.",
+        "father",
+        "Male parent",
+        "Parent mâle",
+        [
+            "dad"
+        ],
+        [
+            "papa"
+        ],
+        [
+            "mother"
+        ],
+        [
+            "mère"
+        ]
+    ],
+    [
+        "doit",
+        "/dwa/",
+        "v. devoir, 3rd sing. pres.",
+        "must",
+        "Ought to",
+        "Obligation",
+        [
+            "should"
+        ],
+        [
+            "faudrait"
+        ],
+        [],
+        []
+    ],
+    [
+        "revenir",
+        "/ʁəv.niʁ/",
+        "v. revenir, inf.",
+        "return",
+        "Come back",
+        "Retourner",
+        [
+            "come back"
+        ],
+        [
+            "retourner"
+        ],
+        [
+            "leave"
+        ],
+        [
+            "partir"
+        ]
+    ]
+]

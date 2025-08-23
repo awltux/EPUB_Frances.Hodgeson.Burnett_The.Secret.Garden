@@ -1,0 +1,258 @@
+[
+    [
+        "Tu",
+        "/ty/",
+        "pron. pers. sing.",
+        "You",
+        "Singular subject pronoun",
+        "Pronom personnel sujet singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation adverb",
+        "Adverbe de négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "dois",
+        "/dwa/",
+        "v. aux.",
+        "must",
+        "Auxiliary verb 'devoir' - to have to",
+        "Verbe auxiliaire 'devoir'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pa/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "te",
+        "/tə/",
+        "pron. pers. refl.",
+        "yourself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "promener",
+        "/pʁɔm.ne/",
+        "v. inf.",
+        "walk",
+        "To take a walk",
+        "Faire une marche",
+        [
+            "stroll",
+            "wander"
+        ],
+        [
+            "flâner",
+            "errer"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Preposition of location",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "couloirs",
+        "/ku.lwaʁ/",
+        "n. masc. plur.",
+        "hallways",
+        "Passageways",
+        "Passages",
+        [
+            "corridors"
+        ],
+        [
+            "passages"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "écouter",
+        "/e.ku.te/",
+        "v. inf.",
+        "listen",
+        "Pay attention to sound",
+        "Faire attention au son",
+        [
+            "hear"
+        ],
+        [
+            "entendre"
+        ],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Past tense of say",
+        "Passé du verbe dire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marthe",
+        "/maʁt/",
+        "n.prop.",
+        "Martha",
+        "A female name",
+        "Un prénom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nerveusement",
+        "/nɛʁ.vøz.mɑ̃/",
+        "adv.",
+        "nervously",
+        "In an anxious manner",
+        "D'une manière anxieuse",
+        [
+            "anxiously",
+            "apprehensively"
+        ],
+        [
+            "anxieusement"
+        ],
+        [
+            "calmly"
+        ],
+        [
+            "calmement"
+        ]
+    ],
+    [
+        "Mr",
+        "/məsjø/",
+        "n. masc. sing.",
+        "Mr.",
+        "Mister",
+        "Monsieur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Craven",
+        "/kʁa.vɛn/",
+        "nom propre",
+        "Craven",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "serait",
+        "/sə.ʁɛ/",
+        "v. cond. prés.",
+        "would be",
+        "Conditional of être",
+        "Conditionnel de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fâché",
+        "/fɑ.ʃe/",
+        "adj. masc. sing.",
+        "angry",
+        "Feeling or showing anger",
+        "Sentant ou montrant de la colère",
+        [
+            "upset",
+            "annoyed"
+        ],
+        [
+            "contrarié"
+        ],
+        [
+            "happy"
+        ],
+        [
+            "content"
+        ]
+    ]
+]

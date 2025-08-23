@@ -1,0 +1,428 @@
+[
+    [
+        "Nous",
+        "/nu/",
+        "pron. pers.",
+        "We",
+        "First person plural pronoun",
+        "Pronom personnel première personne pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sommes",
+        "/sɔm/",
+        "v. être - 1st person plural",
+        "are",
+        "To exist",
+        "exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tous",
+        "/tu/",
+        "adj. masc. plur.",
+        "all",
+        "Everyone",
+        "Chacun",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "deux",
+        "/dø/",
+        "num. card.",
+        "two",
+        "Number 2",
+        "Nombre 2",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "éveillés",
+        "/e.ve.je/",
+        "adj. masc. plur.",
+        "awake",
+        "Not sleeping",
+        "Ne pas dormir",
+        [],
+        [],
+        [
+            "asleep"
+        ],
+        [
+            "endormi"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire - past part.",
+        "said",
+        "To utter words",
+        "Prononcer des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n. prop.",
+        "Marie",
+        "Common female name",
+        "Nom féminin commun",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "regardant",
+        "/ʁə.ɡaʁ.dɑ̃/",
+        "v. part. prés. regarder",
+        "looking",
+        "Observing visually",
+        "Observant visuellement",
+        [
+            "watching"
+        ],
+        [
+            "observant"
+        ],
+        [],
+        []
+    ],
+    [
+        "autour",
+        "/o.tuʁ/",
+        "adv.",
+        "around",
+        "Surrounding",
+        "Environnant",
+        [
+            "nearby"
+        ],
+        [
+            "alentour"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing relationships",
+        "Exprimant des relations",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. déf. fém. sing.",
+        "the",
+        "Definite article feminine",
+        "Article défini féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pièce",
+        "/pjɛs/",
+        "n. fém. sing.",
+        "room",
+        "A space within a building",
+        "Espace dans un bâtiment",
+        [
+            "chamber"
+        ],
+        [
+            "salle"
+        ],
+        [],
+        []
+    ],
+    [
+        "On",
+        "/ɔ̃/",
+        "pron. indef.",
+        "One",
+        "Indefinite pronoun",
+        "Pronom indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dirait",
+        "/di.ʁɛ/",
+        "v. cond. prés. dire",
+        "would say",
+        "To express an opinion",
+        "Exprimer une opinion",
+        [
+            "express"
+        ],
+        [
+            "exprimer"
+        ],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rêve",
+        "/rɛv/",
+        "n. masc. sing.",
+        "dream",
+        "Vision during sleep",
+        "Songe",
+        [
+            "fantasy",
+            "daydream"
+        ],
+        [
+            "songe",
+            "chimère"
+        ],
+        [],
+        []
+    ],
+    [
+        "C'est",
+        "/sɛ/",
+        "c'être",
+        "It is",
+        "It is; this is",
+        "Il est",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "milieu",
+        "/mi.ljø/",
+        "n. masc. sing.",
+        "middle",
+        "Center",
+        "Centre",
+        [
+            "center"
+        ],
+        [
+            "centre"
+        ],
+        [
+            "edge"
+        ],
+        [
+            "bord"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicating origin or belonging",
+        "Indiquant l'origine ou l'appartenance",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nuit",
+        "/nɥi/",
+        "n. fem. sing.",
+        "night",
+        "Period of darkness",
+        "Période d'obscurité",
+        [
+            "evening"
+        ],
+        [
+            "soir"
+        ],
+        [
+            "day"
+        ],
+        [
+            "jour"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connecting words or phrases",
+        "Conjonction de coordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tout",
+        "/tu/",
+        "adj.indef.",
+        "all",
+        "Entire",
+        "Entier",
+        [
+            "every"
+        ],
+        [
+            "chaque"
+        ],
+        [
+            "none"
+        ],
+        [
+            "aucun"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "monde",
+        "/mɔ̃d/",
+        "n. masc. sing.",
+        "world",
+        "Earth",
+        "Terre",
+        [
+            "earth"
+        ],
+        [
+            "terre"
+        ],
+        [],
+        []
+    ],
+    [
+        "dort",
+        "/dɔʁ/",
+        "v. dormir",
+        "sleeps",
+        "Is sleeping",
+        "Est en train de dormir",
+        [
+            "naps"
+        ],
+        [
+            "somme"
+        ],
+        [
+            "awakes"
+        ],
+        [
+            "reveille"
+        ]
+    ],
+    [
+        "sauf",
+        "/sɔf/",
+        "prep.",
+        "except",
+        "Excluding",
+        "Excepté",
+        [
+            "but"
+        ],
+        [
+            "mais"
+        ],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron.pers.",
+        "us",
+        "Pronoun - we/us",
+        "Pronom - nous",
+        [],
+        [],
+        [],
+        []
+    ]
+]

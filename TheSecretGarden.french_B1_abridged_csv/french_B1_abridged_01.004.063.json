@@ -1,0 +1,149 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "It",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "pron. adv.",
+        "there",
+        "Adverbial pronoun",
+        "Pronom adverbial",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/avɛ/",
+        "v. avoir, imp.",
+        "was",
+        "To have (imperfect)",
+        "Avoir (imparfait)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rien",
+        "/ʁjɛ̃/",
+        "pron. indef.",
+        "nothing",
+        "No thing",
+        "Aucune chose",
+        [
+            "nil"
+        ],
+        [
+            "néant"
+        ],
+        [
+            "everything"
+        ],
+        [
+            "tout"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "Indicates purpose",
+        "Indique le but",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vous",
+        "/vu/",
+        "pron. pers.",
+        "you",
+        "Second person plural",
+        "Deuxième personne du pluriel",
+        [
+            "yourself"
+        ],
+        [
+            "toi"
+        ],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "pron. pers.",
+        "it",
+        "Pronoun replacing a noun",
+        "Pronom remplaçant un nom",
+        [
+            "thereof"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "empêcher",
+        "/ɑ̃.pe.ʃe/",
+        "v. inf.",
+        "prevent",
+        "Hinder",
+        "Prévenir",
+        [
+            "hinder",
+            "stop"
+        ],
+        [
+            "éviter"
+        ],
+        [
+            "allow"
+        ],
+        [
+            "permettre"
+        ]
+    ],
+    [
+        "répondit-il",
+        "/ʁe.pɔ̃.di.til/",
+        "v. passé simple; répondre",
+        "he replied",
+        "Said in response",
+        "Dit en réponse",
+        [
+            "answered"
+        ],
+        [
+            "rétorqua"
+        ],
+        [],
+        []
+    ]
+]

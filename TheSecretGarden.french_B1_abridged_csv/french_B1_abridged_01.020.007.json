@@ -1,0 +1,410 @@
+[
+    [
+        "Ça",
+        "/sa/",
+        "pron. dém.",
+        "That",
+        "Informal demonstrative pronoun",
+        "Pronom démonstratif informel",
+        [
+            "This"
+        ],
+        [
+            "Ceci"
+        ],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "pourrait",
+        "/pu.ʁɛ/",
+        "v. cond. présent; pouvoir",
+        "could",
+        "Conditional of 'can'",
+        "Conditionnel de 'pouvoir'",
+        [
+            "may"
+        ],
+        [
+            "peut"
+        ],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pa/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "être",
+        "/ɛtʁ/",
+        "v. inf.",
+        "to be",
+        "Exist",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pire",
+        "/piʁ/",
+        "adj. comp.",
+        "worse",
+        "Comparative adjective",
+        "Adjectif comparatif",
+        [
+            "inferior"
+        ],
+        [
+            "inférieur"
+        ],
+        [
+            "better"
+        ],
+        [
+            "meilleur"
+        ]
+    ],
+    [
+        "dit-elle",
+        "/di.t‿ɛl/",
+        "v. dire, inversion",
+        "she said",
+        "Words of affirmation",
+        "Paroles d'affirmation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Ne",
+        "/nə/",
+        "adv. neg.",
+        "Do not",
+        "Negative particle",
+        "Particule négative",
+        [
+            "not"
+        ],
+        [
+            "pas"
+        ],
+        [
+            "do"
+        ],
+        [
+            "faire"
+        ]
+    ],
+    [
+        "soyez",
+        "/swaje/",
+        "v. être, subj. pr.",
+        "be",
+        "To exist",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Indicates negation",
+        "Indique la négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "surpris",
+        "/syʁ.pʁi/",
+        "adj. masc. sing.",
+        "surprised",
+        "Taken aback",
+        "Déconcerté",
+        [
+            "astonished"
+        ],
+        [
+            "étonné"
+        ],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional conjunction",
+        "Conjonction conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vous",
+        "/vu/",
+        "pron. pers.",
+        "you",
+        "Second person pronoun",
+        "Pronom de la deuxième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "trouvez",
+        "/tʁuve/",
+        "v. impér. trouver",
+        "find",
+        "Locate something",
+        "Localiser quelque chose",
+        [
+            "discover",
+            "locate"
+        ],
+        [
+            "découvrir",
+            "localiser"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. plur.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [
+            "any"
+        ],
+        [
+            "certains"
+        ],
+        [],
+        []
+    ],
+    [
+        "animaux",
+        "/a.ni.mo/",
+        "n. masc. plur.",
+        "animals",
+        "Living creatures",
+        "Créatures vivantes",
+        [
+            "beasts",
+            "creatures"
+        ],
+        [
+            "bêtes",
+            "créatures"
+        ],
+        [],
+        []
+    ],
+    [
+        "partout",
+        "/paʁ.tu/",
+        "adv.",
+        "everywhere",
+        "In all places",
+        "Dans tous les lieux",
+        [
+            "all over"
+        ],
+        [
+            "n'importe où"
+        ],
+        [
+            "nowhere"
+        ],
+        [
+            "nulle part"
+        ]
+    ],
+    [
+        "avec",
+        "/a.vɛk/",
+        "prep.",
+        "with",
+        "Accompanied by",
+        "Accompagné de",
+        [
+            "alongside"
+        ],
+        [
+            "ensemble avec"
+        ],
+        [
+            "without"
+        ],
+        [
+            "sans"
+        ]
+    ],
+    [
+        "Dickon",
+        "/di.kɔn/",
+        "n. prop.",
+        "Dickon",
+        "Proper name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Sowerby",
+        "/so.ɛʁ.bi/",
+        "n. prop.",
+        "Sowerby",
+        "Proper name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "plus",
+        "/plys/",
+        "adv.",
+        "more",
+        "In addition",
+        "En outre",
+        [
+            "further"
+        ],
+        [
+            "davantage"
+        ],
+        [
+            "less"
+        ],
+        [
+            "moins"
+        ]
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction indicator",
+        "Indicateur de direction",
+        [
+            "toward"
+        ],
+        [
+            "vers"
+        ],
+        [
+            "from"
+        ],
+        [
+            "de"
+        ]
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aise",
+        "/ɛz/",
+        "n.f.",
+        "ease",
+        "Comfort",
+        "Confort",
+        [
+            "comfort"
+        ],
+        [
+            "confort"
+        ],
+        [
+            "discomfort"
+        ],
+        [
+            "malaise"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "than",
+        "Comparison word",
+        "Mot de comparaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron.",
+        "we",
+        "First person plural",
+        "Première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ]
+]

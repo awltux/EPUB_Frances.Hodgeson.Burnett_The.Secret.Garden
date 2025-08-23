@@ -1,0 +1,888 @@
+[
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop.",
+        "Marie",
+        "A female name",
+        "Nom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mit",
+        "/mi/",
+        "v. mettre - p. passé simple",
+        "put",
+        "Placed",
+        "Placé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ses",
+        "/se/",
+        "adj. poss. plur.",
+        "her",
+        "Belonging to her",
+        "Appartenant à elle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "doigts",
+        "/dwa/",
+        "n. masc. plur.",
+        "fingers",
+        "Digits on hand",
+        "Extrémités de la main",
+        [
+            "digits"
+        ],
+        [
+            "extrémités"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside",
+        "À l'intérieur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ses",
+        "/se/",
+        "adj. poss. plur.",
+        "her",
+        "Belonging to her",
+        "Appartenant à elle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oreilles",
+        "/ɔ.ʁɛj/",
+        "n. fem. plur.",
+        "ears",
+        "Organs of hearing",
+        "Organes de l'ouïe",
+        [
+            "hearing"
+        ],
+        [
+            "audition"
+        ],
+        [],
+        []
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj.",
+        "but",
+        "However",
+        "Cependant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "plus",
+        "/plys/",
+        "adv.",
+        "more",
+        "Additional amount",
+        "Quantité supplémentaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tard",
+        "/taʁ/",
+        "adv. de temps",
+        "late",
+        "Not on time",
+        "En retard",
+        [
+            "belatedly"
+        ],
+        [
+            "en retard"
+        ],
+        [
+            "early"
+        ],
+        [
+            "tôt"
+        ]
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Feminine pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'a",
+        "/na/",
+        "v. avoir",
+        "has",
+        "Present tense of to have",
+        "Présent de avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. nég.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pu",
+        "/py/",
+        "v. pouvoir",
+        "been able",
+        "Past participle of pouvoir",
+        "Participe passé de pouvoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "s'empêcher",
+        "/sɑ̃.pe.ʃe/",
+        "v. pronom.",
+        "to help oneself",
+        "Reflexive verb",
+        "Verbe réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "d'y",
+        "/di/",
+        "prép. + pron. adv.",
+        "to it",
+        "Indirect object pronoun",
+        "Pronom objet indirect",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "penser",
+        "/pɑ̃.se/",
+        "v. inf.",
+        "think",
+        "To have in mind",
+        "Avoir à l'esprit",
+        [
+            "consider"
+        ],
+        [
+            "considérer"
+        ],
+        [],
+        []
+    ],
+    [
+        "Cette",
+        "/sɛt/",
+        "adj. dem. fem. sing.",
+        "This",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nuit-là",
+        "/nɥi.la/",
+        "n. fém. sing.",
+        "that night",
+        "Specific night",
+        "Soir spécifique",
+        [
+            "evening"
+        ],
+        [
+            "soir"
+        ],
+        [],
+        []
+    ],
+    [
+        "Mme",
+        "/dam/",
+        "n.f sing.",
+        "Mrs.",
+        "Abbreviation of Madame",
+        "Abréviation de Madame",
+        [
+            "madam"
+        ],
+        [
+            "dame"
+        ],
+        [],
+        []
+    ],
+    [
+        "Crawford",
+        "/kʁɔ.fɔʁd/",
+        "nom propre",
+        "Crawford",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Indirect object pronoun",
+        "Pronom personnel COI",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Past tense of to say",
+        "Passé de dire",
+        [
+            "stated"
+        ],
+        [
+            "annoncé"
+        ],
+        [],
+        []
+    ],
+    [
+        "qu'elle",
+        "/kɛl/",
+        "conj. + pron.",
+        "that she",
+        "Subordinating conjunction + pronoun",
+        "Conjonction de subordination + pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "allait",
+        "/a.lɛ/",
+        "v. aller",
+        "was going",
+        "Imperfect tense of to go",
+        "Imparfait de aller",
+        [
+            "headed"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "to",
+        "Preposition of place",
+        "Préposition de lieu",
+        [
+            "towards"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Angleterre",
+        "/ɑ̃.ɡlə.tɛʁ/",
+        "n. fém. sing.",
+        "England",
+        "Country in Europe",
+        "Pays en Europe",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "to",
+        "Indicates purpose",
+        "Indique le but",
+        [
+            "in order to"
+        ],
+        [
+            "afin de"
+        ],
+        [],
+        []
+    ],
+    [
+        "vivre",
+        "/vivʁ/",
+        "v. inf.",
+        "live",
+        "To have life",
+        "Avoir la vie",
+        [
+            "exist"
+        ],
+        [
+            "exister"
+        ],
+        [
+            "die"
+        ],
+        [
+            "mourir"
+        ]
+    ],
+    [
+        "avec",
+        "/avɛk/",
+        "prep.",
+        "with",
+        "In the company of",
+        "En compagnie de",
+        [
+            "together"
+        ],
+        [
+            "ensemble"
+        ],
+        [
+            "without"
+        ],
+        [
+            "sans"
+        ]
+    ],
+    [
+        "M",
+        "/məsjø/",
+        "n.",
+        "Mr.",
+        "Formal title",
+        "Titre honorifique",
+        [
+            "Sir"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Archibald",
+        "/aʁ.ʃi.bald/",
+        "n. prop.",
+        "Archibald",
+        "A given name",
+        "Un prénom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Craven",
+        "/kʁa.vən/",
+        "n. prop.",
+        "Craven",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "au",
+        "/o/",
+        "prep. art. cont.",
+        "at the",
+        "At the",
+        "À le",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Manoir",
+        "/ma.nwaʁ/",
+        "n. masc. sing.",
+        "Manor",
+        "Large house",
+        "Grande maison",
+        [
+            "estate"
+        ],
+        [
+            "domaine"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin",
+        "Exprimant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Misselthwaite",
+        "/mi.sɛlt.wait/",
+        "name",
+        "Misselthwaite",
+        "Family name",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "name",
+        "Marie",
+        "Given name",
+        "Prénom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/a.vɛ/",
+        "v. avoir, impf.",
+        "had",
+        "Possessed",
+        "Possédait",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'air",
+        "/lɛʁ/",
+        "n. masc. sing.",
+        "seemed",
+        "Appearance",
+        "Apparence",
+        [
+            "appearance"
+        ],
+        [
+            "apparence"
+        ],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "adv.",
+        "so",
+        "To such a degree",
+        "À tel point",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "désintéressée",
+        "/de.zɛ̃.te.ʁe.se/",
+        "adj. fem. sing.",
+        "uninterested",
+        "Lacking interest",
+        "Manquant d'intérêt",
+        [
+            "indifferent"
+        ],
+        [
+            "indifférent"
+        ],
+        [
+            "interested"
+        ],
+        [
+            "intéressé"
+        ]
+    ],
+    [
+        "qu'ils",
+        "/kil/",
+        "conj.",
+        "that they",
+        "Introduces a result",
+        "Introduit un résultat",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "savaient",
+        "/sa.vɛ/",
+        "v. savoir, impf.",
+        "knew",
+        "Understood",
+        "Comprenaient",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "quoi",
+        "/kwɑ/",
+        "pron. interr.",
+        "what",
+        "Interrogative pronoun",
+        "Pronom interrogatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "penser",
+        "/pɑ̃.se/",
+        "v. inf.",
+        "think",
+        "Consider",
+        "Considérer",
+        [
+            "believe",
+            "imagine"
+        ],
+        [
+            "croire",
+            "imaginer"
+        ],
+        [],
+        []
+    ],
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Feminine pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "refusa",
+        "/ʁə.fy.za/",
+        "v. imparf. refuser",
+        "refused",
+        "Turned down",
+        "Rejeté",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "baiser",
+        "/be.ze/",
+        "n. masc. sing.",
+        "kiss",
+        "Affectionate touch",
+        "Contact affectueux",
+        [
+            "peck"
+        ],
+        [
+            "bisou"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition indicating origin",
+        "Préposition indiquant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Mme",
+        "/ma.dam/",
+        "n.f.",
+        "Mrs.",
+        "Formal title for a woman",
+        "Titre formel pour une femme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Crawford",
+        "/kʁɔfɔʁd/",
+        "n. prop.",
+        "Crawford",
+        "Family name",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "resta",
+        "/ʁɛsta/",
+        "v. rester, p. simple",
+        "remained",
+        "Stayed put",
+        "Demeura",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "raide",
+        "/ʁɛd/",
+        "adj.",
+        "stiff",
+        "Not flexible",
+        "Non flexible",
+        [
+            "rigid"
+        ],
+        [
+            "rigide"
+        ],
+        [
+            "flexible"
+        ],
+        [
+            "souple"
+        ]
+    ],
+    [
+        "quand",
+        "/kɑ̃/",
+        "conj.",
+        "when",
+        "At what time",
+        "À quel moment",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "M",
+        "/məsjø/",
+        "n. masc.",
+        "Mr.",
+        "Title of respect",
+        "Titre de respect",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Crawford",
+        "/kʁɔfɔʁd/",
+        "n. prop.",
+        "Crawford",
+        "Family name",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Objective pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tapota",
+        "/tapɔta/",
+        "v. tapoter, p. simple",
+        "patted",
+        "Lightly touched",
+        "Toucha légèrement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Feminine article",
+        "Article féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tête",
+        "/tɛt/",
+        "n. fem. sing.",
+        "head",
+        "Anatomical part",
+        "Partie anatomique",
+        [
+            "brain",
+            "mind"
+        ],
+        [
+            "cerveau",
+            "esprit"
+        ],
+        [
+            "foot"
+        ],
+        [
+            "pied"
+        ]
+    ]
+]

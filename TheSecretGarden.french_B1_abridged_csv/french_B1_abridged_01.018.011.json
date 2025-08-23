@@ -1,0 +1,547 @@
+[
+    [
+        "Oui",
+        "/wi/",
+        "adv.",
+        "Yes",
+        "Affirmative response",
+        "Réponse affirmative",
+        [
+            "Indeed",
+            "Absolutely"
+        ],
+        [
+            "Certainement"
+        ],
+        [
+            "No"
+        ],
+        [
+            "Non"
+        ]
+    ],
+    [
+        "c'est",
+        "/sɛ/",
+        "v. être (prés. ind.)",
+        "it is",
+        "Confirmation",
+        "Affirmation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "pron. dém.",
+        "that",
+        "Demonstrative pronoun",
+        "Pronom démonstratif",
+        [
+            "this"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "pron. rel.",
+        "what",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "we",
+        "First person plural pronoun",
+        "Pronom personnel première personne pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "devons",
+        "/də.vɔ̃/",
+        "v. devoir (prés. ind.)",
+        "must",
+        "Obligation",
+        "Obligation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faire",
+        "/fɛʁ/",
+        "v. inf.",
+        "to do",
+        "To perform an action",
+        "Effectuer une action",
+        [
+            "create",
+            "make"
+        ],
+        [
+            "créer",
+            "fabriquer"
+        ],
+        [],
+        []
+    ],
+    [
+        "acquiesça",
+        "/a.kjɛ.sa/",
+        "v. acquiescer (passé simple)",
+        "agreed",
+        "Gave consent",
+        "A donné son consentement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n. prop.",
+        "Marie",
+        "Common female name",
+        "Nom féminin courant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third person singular masculine pronoun",
+        "Pronom personnel troisième personne du singulier masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vous",
+        "/vu/",
+        "pron. pers.",
+        "you",
+        "Formal you",
+        "Forme de politesse de tu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aime",
+        "/ɛm/",
+        "v.",
+        "loves",
+        "Shows affection",
+        "Montre de l'affection",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bien",
+        "/bjɛ̃/",
+        "adv.",
+        "well",
+        "In a good manner",
+        "D'une bonne manière",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. sing.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vais",
+        "/vɛ/",
+        "v.",
+        "am going to",
+        "Future proche of aller",
+        "Futur proche du verbe aller",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "demander",
+        "/də.mɑ̃.de/",
+        "v. inf.",
+        "to ask",
+        "To inquire",
+        "S'enquérir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional word",
+        "Mot conditionnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vous",
+        "/vu/",
+        "pron. pers.",
+        "you",
+        "Second person plural",
+        "Deuxième personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pouvez",
+        "/pu.ve/",
+        "v. pouvoir",
+        "can",
+        "To be able to",
+        "Être capable de",
+        [
+            "are able"
+        ],
+        [
+            "êtes capable"
+        ],
+        [],
+        []
+    ],
+    [
+        "venir",
+        "/və.niʁ/",
+        "v. inf.",
+        "to come",
+        "To arrive",
+        "Arriver",
+        [
+            "arrive"
+        ],
+        [
+            "parvenir"
+        ],
+        [
+            "go"
+        ],
+        [
+            "aller"
+        ]
+    ],
+    [
+        "demain",
+        "/də.mɛ̃/",
+        "adv.",
+        "tomorrow",
+        "The day after today",
+        "Le jour après aujourd'hui",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avec",
+        "/a.vɛk/",
+        "prep.",
+        "with",
+        "In the company of",
+        "En compagnie de",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vos",
+        "/vo/",
+        "adj. poss.",
+        "your",
+        "Belonging to you (plural)",
+        "Appartenant à vous (pluriel)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "animaux",
+        "/a.ni.mo/",
+        "n. masc. pl.",
+        "animals",
+        "Creatures",
+        "Créatures",
+        [
+            "beasts"
+        ],
+        [
+            "bêtes"
+        ],
+        [],
+        []
+    ],
+    [
+        "pouvoir",
+        "/puvwaʁ/",
+        "v. inf.",
+        "can",
+        "to be able",
+        [
+            "skill"
+        ],
+        [
+            "compétence"
+        ],
+        [],
+        []
+    ],
+    [
+        "Plus",
+        "/plys/",
+        "adv.",
+        "More",
+        "To a greater extent",
+        "Davantage",
+        [
+            "further"
+        ],
+        [
+            "davantage"
+        ],
+        [
+            "less"
+        ],
+        [
+            "moins"
+        ]
+    ],
+    [
+        "tard",
+        "/taʁ/",
+        "adv.",
+        "Late",
+        "After the expected time",
+        "Après l'heure prévue",
+        [
+            "belatedly"
+        ],
+        [
+            "en retard"
+        ],
+        [
+            "early"
+        ],
+        [
+            "tôt"
+        ]
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "We",
+        "First-person plural pronoun",
+        "Première personne du pluriel",
+        [
+            "us"
+        ],
+        [
+            "moi"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "pron. obj.",
+        "Him/Her",
+        "Direct object pronoun",
+        "Pronom d'objet direct",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "amènerons",
+        "/amɛnʁɔ̃/",
+        "v.",
+        "Bring",
+        "To take someone to a place",
+        "Emmener quelqu'un quelque part",
+        [
+            "take"
+        ],
+        [
+            "emmener"
+        ],
+        [],
+        [],
+        "amener"
+    ],
+    [
+        "ici",
+        "/isi/",
+        "adv.",
+        "Here",
+        "In or at this place",
+        "Dans ou à cet endroit",
+        [
+            "hither"
+        ],
+        [
+            "à cet endroit"
+        ],
+        [
+            "there"
+        ],
+        [
+            "là-bas"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "In",
+        "Inside of",
+        "À l'intérieur de",
+        [
+            "within"
+        ],
+        [
+            "à l'intérieur de"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "dehors"
+        ]
+    ],
+    [
+        "sa",
+        "/sa/",
+        "adj. poss. f. sing.",
+        "Her",
+        "Belonging to her",
+        "Appartenant à elle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chaise",
+        "/ʃɛz/",
+        "n. f. sing.",
+        "Chair",
+        "Seat with a back",
+        "Siège avec un dossier",
+        [
+            "seat"
+        ],
+        [
+            "siège"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Referring to a male",
+        "Référence à un homme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "montrerons",
+        "/mɔ̃tʁə.ʁɔ̃/",
+        "v. montrer, futur",
+        "will show",
+        "Future tense of show",
+        "Temps futur de montrer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tout",
+        "/tu/",
+        "adj. indéf. masc. sing.",
+        "everything",
+        "All things",
+        "Toutes choses",
+        [
+            "all"
+        ],
+        [
+            "tous"
+        ],
+        [
+            "nothing"
+        ],
+        [
+            "rien"
+        ]
+    ]
+]

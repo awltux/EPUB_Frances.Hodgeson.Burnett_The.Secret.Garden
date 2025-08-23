@@ -1,0 +1,807 @@
+[
+    [
+        "C'est",
+        "/sɛ/",
+        "contr. de ce est",
+        "It is",
+        "Common introductory phrase",
+        "Expression introductive courante",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bon",
+        "/bɔ̃/",
+        "adj. masc. sing.",
+        "good",
+        "Of high quality",
+        "De haute qualité",
+        [
+            "excellent",
+            "great"
+        ],
+        [
+            "excellent",
+            "superbe"
+        ],
+        [
+            "bad"
+        ],
+        [
+            "mauvais"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "Intended to benefit",
+        "Dans l'intention de bénéficier",
+        [
+            "towards"
+        ],
+        [
+            "vers"
+        ],
+        [
+            "against"
+        ],
+        [
+            "contre"
+        ]
+    ],
+    [
+        "toi",
+        "/twa/",
+        "pron. pers. sing.",
+        "you",
+        "Referring to the listener",
+        "Se référant à l'auditeur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Past tense of to say",
+        "Passé de dire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/dikɔn/",
+        "n. propre",
+        "Dickon",
+        "A proper noun",
+        "Un nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "It",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/n(ə)/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "pron. adv.",
+        "there",
+        "Adverbial pronoun",
+        "Pronom adverbial",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (prés. ind.)",
+        "is",
+        "To have (present)",
+        "Avoir (présent)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rien",
+        "/ʁjɛ̃/",
+        "pron. indef.",
+        "nothing",
+        "Not anything",
+        "Nulle chose",
+        [
+            "zero"
+        ],
+        [],
+        [
+            "everything"
+        ],
+        [
+            "tout"
+        ]
+    ],
+    [
+        "d'aussi",
+        "/do.si/",
+        "adv.",
+        "as",
+        "To the same degree",
+        "Au même degré",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "agréable",
+        "/a.ɡʁe.abl(ə)/",
+        "adj.",
+        "pleasant",
+        "Giving pleasure",
+        "Qui plaît",
+        [
+            "nice",
+            "enjoyable"
+        ],
+        [
+            "plaisant"
+        ],
+        [
+            "unpleasant"
+        ],
+        [
+            "désagréable"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "than",
+        "Comparison",
+        "Comparaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'odeur",
+        "/lɔ.dœʁ/",
+        "n. fém. sing.",
+        "smell",
+        "Aroma",
+        "Arôme",
+        [
+            "aroma",
+            "fragrance"
+        ],
+        [
+            "parfum"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Possession",
+        "Possession",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "terre",
+        "/tɛʁ/",
+        "n. fem. sing.",
+        "earth",
+        "Ground",
+        "Sol",
+        [
+            "ground",
+            "soil"
+        ],
+        [
+            "sol",
+            "terrain"
+        ],
+        [],
+        []
+    ],
+    [
+        "propre",
+        "/pʁɔpʁ/",
+        "adj.",
+        "clean",
+        "Not dirty",
+        "Non sale",
+        [
+            "cleanly"
+        ],
+        [
+            "net",
+            "clean"
+        ],
+        [
+            "dirty"
+        ],
+        [
+            "sale"
+        ]
+    ],
+    [
+        "sauf",
+        "/sof/",
+        "prep.",
+        "except",
+        "Excluding",
+        "Excepté",
+        [
+            "but"
+        ],
+        [
+            "hormis"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "odeur",
+        "/ɔdœʁ/",
+        "n. fem. sing.",
+        "smell",
+        "Scent",
+        "Parfum",
+        [
+            "scent"
+        ],
+        [
+            "parfum"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. part.",
+        "of the",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. fem. pl.",
+        "things",
+        "Items",
+        "Objets",
+        [
+            "items"
+        ],
+        [
+            "objets"
+        ],
+        [],
+        []
+    ],
+    [
+        "fraîches",
+        "/fʁɛʃ/",
+        "adj. fem. pl.",
+        "fresh",
+        "New",
+        "Nouveau",
+        [
+            "new"
+        ],
+        [
+            "nouveau"
+        ],
+        [
+            "stale"
+        ],
+        [
+            "périmé"
+        ]
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "which",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "poussent",
+        "/pus/",
+        "v. 3rd person pl. present tense; pousser",
+        "grow",
+        "Increase in size",
+        "Grandir",
+        [
+            "develop"
+        ],
+        [
+            "grandir",
+            "se développer"
+        ],
+        [],
+        []
+    ],
+    [
+        "quand",
+        "/kɑ̃/",
+        "conj. time",
+        "when",
+        "At what time?",
+        "À quel moment ?",
+        [
+            "while"
+        ],
+        [
+            "lorsque"
+        ],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "it",
+        "Third person pronoun",
+        "Pronom de la troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pleut",
+        "/plø/",
+        "v. 3rd person sing. present tense; pleuvoir",
+        "rains",
+        "Water falling from the sky",
+        "Eau tombant du ciel",
+        [
+            "drizzles"
+        ],
+        [
+            "bruine"
+        ],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. 1st person sing.",
+        "I",
+        "First person pronoun",
+        "Pronom de la première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. pers. reflexive",
+        "myself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "couche",
+        "/kuʃ/",
+        "v. 1st person sing. present tense; coucher",
+        "lie",
+        "Recline",
+        "S'allonger",
+        [
+            "recline",
+            "rest"
+        ],
+        [
+            "reposer",
+            "étendre"
+        ],
+        [],
+        []
+    ],
+    [
+        "sous",
+        "/su/",
+        "prep.",
+        "under",
+        "Below",
+        "Dessous",
+        [
+            "beneath"
+        ],
+        [
+            "dessous",
+            "au-dessous"
+        ],
+        [
+            "above"
+        ],
+        [
+            "dessus"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "buisson",
+        "/bɥisɔ̃/",
+        "n. masc. sing.",
+        "bush",
+        "Shrubbery",
+        "Arbuste",
+        [
+            "shrub"
+        ],
+        [
+            "arbuste"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Location",
+        "À l'intérieur de",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur de"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "à l'extérieur de"
+        ]
+    ],
+    [
+        "la",
+        "/la/",
+        "art. fem. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lande",
+        "/lɑ̃d/",
+        "n. fem. sing.",
+        "heath",
+        "Open uncultivated land",
+        "Terrain non cultivé",
+        [
+            "moor"
+        ],
+        [
+            "bruyère"
+        ],
+        [],
+        []
+    ],
+    [
+        "quand",
+        "/kɑ̃/",
+        "conj. sub.",
+        "when",
+        "At the time that",
+        "Au moment où",
+        [
+            "while"
+        ],
+        [
+            "pendant que"
+        ],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "it",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pleut",
+        "/plø/",
+        "v.",
+        "rains",
+        "Precipitation",
+        "Précipitation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Conjunction",
+        "Conjonction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers. sing.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "renifle",
+        "/ʁɑ̃.nifl/",
+        "v. pres. ind. renifler",
+        "sniffs",
+        "Inhales audibly",
+        "Aspire bruyamment",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Mère",
+        "/mɛʁ/",
+        "n. fem. sing.",
+        "Mother",
+        "Female parent",
+        "Femme parent",
+        [
+            "mom"
+        ],
+        [
+            "maman"
+        ],
+        [
+            "father"
+        ],
+        [
+            "père"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. pres. ind. dire",
+        "says",
+        "Expresses verbally",
+        "Exprime verbalement",
+        [
+            "tells"
+        ],
+        [
+            "raconte"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Expressing a clause",
+        "Exprimant une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mon",
+        "/mɔ̃/",
+        "adj. poss. masc. sing.",
+        "my",
+        "Belonging to me",
+        "Appartenant à moi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nez",
+        "/ne/",
+        "n. masc. sing.",
+        "nose",
+        "Sense of smell organ",
+        "Organe de l'odorat",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "frémit",
+        "/fʁe.mi/",
+        "v. pres. ind. frémir",
+        "quivers",
+        "Trembles slightly",
+        "Tremble légèrement",
+        [
+            "trembles"
+        ],
+        [
+            "tremble"
+        ],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "adv.",
+        "like",
+        "Similar to",
+        "Similaire à",
+        [
+            "as"
+        ],
+        [
+            "pareil"
+        ],
+        [],
+        []
+    ],
+    [
+        "celui",
+        "/sə.lɥi/",
+        "pron. dem. masc. sing.",
+        "that",
+        "Referring to one",
+        "Se référant à un",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "d'un",
+        "/dœ̃/",
+        "art. indef. masc. sing.",
+        "of a",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lapin",
+        "/lapɛ̃/",
+        "n. masc. sing.",
+        "rabbit",
+        "Small mammal",
+        "Petit mammifère",
+        [
+            "bunny"
+        ],
+        [
+            "lièvre"
+        ],
+        [],
+        []
+    ]
+]

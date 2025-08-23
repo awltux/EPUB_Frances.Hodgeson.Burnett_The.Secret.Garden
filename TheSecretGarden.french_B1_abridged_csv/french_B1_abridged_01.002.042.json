@@ -1,0 +1,554 @@
+[
+    [
+        "Oui",
+        "/wi/",
+        "adv.",
+        "Yes",
+        "Affirmative response",
+        "Réponse affirmative",
+        [
+            "indeed",
+            "certainly"
+        ],
+        [
+            "certainement"
+        ],
+        [
+            "no"
+        ],
+        [
+            "non"
+        ]
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Female pronoun",
+        "Pronom féminin",
+        [
+            "her"
+        ],
+        [
+            "la"
+        ],
+        [],
+        []
+    ],
+    [
+        "est",
+        "/ɛ/",
+        "v.",
+        "is",
+        "Third person singular of être",
+        "Troisième personne du singulier de être, être",
+        [
+            "exists"
+        ],
+        [
+            "existe"
+        ],
+        [],
+        []
+    ],
+    [
+        "morte",
+        "/mɔʁt/",
+        "adj.",
+        "dead",
+        "No longer alive",
+        "Décédée",
+        [
+            "deceased"
+        ],
+        [
+            "décédée"
+        ],
+        [
+            "alive"
+        ],
+        [
+            "vivante"
+        ]
+    ],
+    [
+        "répondit",
+        "/ʁe.pɔ̃.di/",
+        "v.",
+        "answered",
+        "To reply",
+        "Répliquer, répondre",
+        [
+            "replied"
+        ],
+        [
+            "répliqua"
+        ],
+        [],
+        [],
+        "répondre"
+    ],
+    [
+        "Mme",
+        "/madam/",
+        "n.",
+        "Mrs.",
+        "Abbreviation for Madame",
+        "Abréviation de Madame",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Medlock",
+        "/mɛd.lɔk/",
+        "nom propre",
+        "Medlock",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Cela",
+        "/sə.la/",
+        "pron. dém.",
+        "That",
+        "Referring to something previously mentioned",
+        "Référence à quelque chose mentionné précédemment",
+        [
+            "this"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "pron. pers.",
+        "him",
+        "Pronoun referring to a male person",
+        "Pronom se référant à une personne de sexe masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. aux.",
+        "has",
+        "Auxiliary verb 'avoir'",
+        "Auxiliaire 'avoir'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rendu",
+        "/ʁɑ̃.dy/",
+        "v. p.p.",
+        "made",
+        "Past participle of 'rendre'",
+        "Participe passé de 'rendre'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "encore",
+        "/ɑ̃.kɔʁ/",
+        "adv.",
+        "even",
+        "To a greater extent",
+        "Dans une plus grande mesure",
+        [
+            "still"
+        ],
+        [
+            "toujours"
+        ],
+        [],
+        []
+    ],
+    [
+        "plus",
+        "/plys/",
+        "adv.",
+        "more",
+        "Comparative adverb",
+        "Adverbe comparatif",
+        [],
+        [],
+        [
+            "less"
+        ],
+        [
+            "moins"
+        ]
+    ],
+    [
+        "étrange",
+        "/e.tʁɑ̃ʒ/",
+        "adj.",
+        "strange",
+        "Unusual or odd",
+        "Inhabituel ou bizarre",
+        [
+            "odd",
+            "weird"
+        ],
+        [
+            "bizarre"
+        ],
+        [
+            "normal"
+        ],
+        [
+            "normal"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "He",
+        "Third-person singular pronoun",
+        "Pronom personnel troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. réfléchi",
+        "himself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "soucie",
+        "/su.si/",
+        "v. se soucier",
+        "cares",
+        "Is concerned",
+        "Préoccupe",
+        [],
+        [
+            "s'inquiète"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "about",
+        "Concerning",
+        "Concernant",
+        [
+            "regarding"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "personne",
+        "/pɛʁ.sɔn/",
+        "n.f.",
+        "anyone",
+        "Any person",
+        "Quelqu'un",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron.pers. masc. sing.",
+        "He",
+        "Third person pronoun",
+        "Troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "reste",
+        "/ʁɛst/",
+        "v. rester",
+        "remains",
+        "Stays",
+        "Demeure",
+        [],
+        [
+            "demeure"
+        ],
+        [],
+        []
+    ],
+    [
+        "surtout",
+        "/syʁ.tu/",
+        "adv.",
+        "mainly",
+        "Above all",
+        "Principalement",
+        [
+            "primarily"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "at",
+        "Indicates location",
+        "Indique un lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'écart",
+        "/le.kaʁ/",
+        "n.m.",
+        "aloof",
+        "Set apart",
+        "Isolé",
+        [
+            "isolated"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "quand",
+        "/kɑ̃/",
+        "conj.",
+        "when",
+        "Temporal conjunction",
+        "Conjonction temporelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. masc. sing.",
+        "he",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "est",
+        "/ɛ/",
+        "v.",
+        "is",
+        "To be (être)",
+        "Être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "at",
+        "Preposition of place",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Misselthwaite",
+        "/mi.sɛl.θweɪt/",
+        "n. proper",
+        "Misselthwaite",
+        "Fictional Place",
+        "Lieu Fictif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. masc. sing.",
+        "he",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "s'enferme",
+        "/sɑ̃.fɛʁm/",
+        "v.",
+        "locks himself",
+        "To lock oneself up (s'enfermer)",
+        "S'isoler",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Preposition of place",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'aile",
+        "/lɛl/",
+        "n. f. sing.",
+        "the wing",
+        "Part of a bird",
+        "Partie d'un oiseau",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ouest",
+        "/wɛst/",
+        "n. masc. sing.",
+        "west",
+        "Direction",
+        "Direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Seul",
+        "/sœl/",
+        "adj. masc. sing.",
+        "Only",
+        "Just one",
+        "Uniquement un",
+        [
+            "unique",
+            "single"
+        ],
+        [
+            "unique"
+        ],
+        [
+            "multiple"
+        ],
+        [
+            "multiple"
+        ]
+    ],
+    [
+        "Pitcher",
+        "/pitʃœʁ/",
+        "n. masc. sing.",
+        "Pitcher",
+        "Baseball player",
+        "Joueur de baseball",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "him",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "voit",
+        "/vwa/",
+        "v.",
+        "sees",
+        "Perceives visually",
+        "Aperçoit visuellement",
+        [
+            "observes"
+        ],
+        [
+            "observe"
+        ],
+        [],
+        [],
+        "voir"
+    ]
+]

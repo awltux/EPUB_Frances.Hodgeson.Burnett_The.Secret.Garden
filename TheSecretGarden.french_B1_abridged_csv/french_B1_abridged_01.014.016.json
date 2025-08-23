@@ -1,0 +1,120 @@
+[
+    [
+        "Moi",
+        "/mwa/",
+        "pron. pers.",
+        "Me",
+        "Personal pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "s'exclama",
+        "/sɛks.kla.ma/",
+        "v. pronom. exclamer (pr.p. passé simple)",
+        "exclaimed",
+        "Said suddenly",
+        "Dit soudainement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marthe",
+        "/maʁt/",
+        "n.prop.",
+        "Martha",
+        "Proper name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vais",
+        "/vɛ/",
+        "v. aller (pr. ind. prés.)",
+        "go",
+        "Move somewhere",
+        "Bouger quelque part",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "perdre",
+        "/pɛʁdʁ/",
+        "v. infin.",
+        "to lose",
+        "Suffer a loss",
+        "Subir une perte",
+        [
+            "misplace",
+            "forfeit"
+        ],
+        [
+            "égarer",
+            "gaspiller"
+        ],
+        [
+            "find",
+            "gain"
+        ],
+        [
+            "trouver",
+            "gagner"
+        ]
+    ],
+    [
+        "ma",
+        "/ma/",
+        "adj. poss. fem. sing.",
+        "my",
+        "Belonging to me",
+        "Qui m'appartient",
+        [
+            "mine"
+        ],
+        [
+            "mien"
+        ],
+        [],
+        []
+    ],
+    [
+        "place",
+        "/plas/",
+        "n. fem. sing.",
+        "place",
+        "Location or position",
+        "Endroit ou position",
+        [
+            "spot",
+            "position"
+        ],
+        [
+            "lieu",
+            "position"
+        ],
+        [],
+        []
+    ]
+]

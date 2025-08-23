@@ -1,0 +1,932 @@
+[
+    [
+        "Le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "The",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pire",
+        "/piʁ/",
+        "adj. sup.",
+        "worst",
+        "Most bad",
+        "Le plus mauvais",
+        [
+            "terrible"
+        ],
+        [
+            "terrible"
+        ],
+        [
+            "best"
+        ],
+        [
+            "meilleur"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing relationships",
+        "Exprimant des relations",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [
+            "to"
+        ],
+        [
+            "à"
+        ]
+    ],
+    [
+        "tous",
+        "/tus/",
+        "pron. indef. masc. pl.",
+        "all",
+        "Everything",
+        "Chaque chose",
+        [
+            "everyone"
+        ],
+        [
+            "chacun"
+        ],
+        [
+            "none"
+        ],
+        [
+            "aucun"
+        ]
+    ],
+    [
+        "acquiesça",
+        "/a.kjɛ.sa/",
+        "v. impf. sub. prés.  acquiescer",
+        "agreed",
+        "Accepted",
+        "Accepté",
+        [
+            "concurred"
+        ],
+        [
+            "a consenti"
+        ],
+        [
+            "disagreed"
+        ],
+        [
+            "contesté"
+        ]
+    ],
+    [
+        "Marthe",
+        "/maʁt/",
+        "n. prop.",
+        "Martha",
+        "Proper noun",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. aux.; avoir",
+        "has",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "été",
+        "/e.te/",
+        "v. aux.; être",
+        "been",
+        "Past participle",
+        "Participe passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "malade",
+        "/ma.lad/",
+        "adj.",
+        "sick",
+        "Unwell",
+        "Souffrant",
+        [
+            "ill",
+            "unwell"
+        ],
+        [
+            "souffrant"
+        ],
+        [
+            "healthy"
+        ],
+        [
+            "bien portant"
+        ]
+    ],
+    [
+        "souvent",
+        "/su.vɑ̃/",
+        "adv.",
+        "often",
+        "Frequently",
+        "Fréquemment",
+        [
+            "frequently"
+        ],
+        [
+            "fréquemment"
+        ],
+        [
+            "rarely"
+        ],
+        [
+            "rarement"
+        ]
+    ],
+    [
+        "Des",
+        "/de/",
+        "art. indef. plur.",
+        "Some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "toux",
+        "/tu/",
+        "n. f. plur.",
+        "coughs",
+        "Throat clearing",
+        "Raclement de gorge",
+        [
+            "cough"
+        ],
+        [
+            "reniflements"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective",
+        "Conjonction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. plur.",
+        "some",
+        "indefinite article plural",
+        "article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rhumes",
+        "/ʁym/",
+        "n. masc. plur.",
+        "colds",
+        "Common illness",
+        "Maladie commune",
+        [
+            "flu"
+        ],
+        [
+            "grippes"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'ont",
+        "/lɔ̃/",
+        "v. avoir, aux.",
+        "have",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "presque",
+        "/pʁɛsk/",
+        "adv.",
+        "almost",
+        "Nearly",
+        "Quasiment",
+        [
+            "nearly"
+        ],
+        [
+            "quasiment"
+        ],
+        [
+            "entirely"
+        ],
+        [
+            "entièrement"
+        ]
+    ],
+    [
+        "tué",
+        "/tɥe/",
+        "v. tuer, part. pass.",
+        "killed",
+        "Ended life",
+        "Mort",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "deux",
+        "/dø/",
+        "adj. num.",
+        "two",
+        "Number 2",
+        "Nombre 2",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fois",
+        "/fwa/",
+        "n. fem. sing.",
+        "times",
+        "Occurrences",
+        "Occurrences",
+        [
+            "instances"
+        ],
+        [
+            "occurrences"
+        ],
+        [],
+        []
+    ],
+    [
+        "Une",
+        "/yn/",
+        "adj. num.",
+        "One",
+        "Number 1",
+        "Nombre 1",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fois",
+        "/fwa/",
+        "n. fem. sing.",
+        "time",
+        "Instance",
+        "Moment",
+        [
+            "instance"
+        ],
+        [
+            "moment"
+        ],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (3rd person sing. present)",
+        "has",
+        "Present tense of 'to have'",
+        "Présent de l'indicatif du verbe avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "eu",
+        "/y/",
+        "v. avoir (past participle)",
+        "had",
+        "Past participle of 'to have'",
+        "Participe passé du verbe avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicating origin",
+        "Indiquant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fièvre",
+        "/fjɛvʁ/",
+        "n. fem. sing.",
+        "fever",
+        "High temperature",
+        "Température élevée",
+        [
+            "temperature"
+        ],
+        [
+            "température"
+        ],
+        [],
+        []
+    ],
+    [
+        "rhumatismale",
+        "/ʁy.ma.tis.mal/",
+        "adj.",
+        "rheumatic",
+        "Relating to rheumatism",
+        "Relatif au rhumatisme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Mme",
+        "/dam/",
+        "n.",
+        "Mrs.",
+        "Title for a married woman",
+        "Titre pour une femme mariée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Medlock",
+        "/med.lɔk/",
+        "n. prop.",
+        "Medlock",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pensait",
+        "/pɑ̃.sɛ/",
+        "v. imparfait, penser",
+        "thought",
+        "Believed",
+        "Croyait",
+        [
+            "believed",
+            "considered"
+        ],
+        [
+            "croyait",
+            "considérait"
+        ],
+        [],
+        []
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "conj. + pron.",
+        "that he",
+        "That he/it",
+        "Qu'il/elle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "allait",
+        "/a.lɛ/",
+        "v. prés. aller",
+        "was going",
+        "Future proche",
+        [
+            "would"
+        ],
+        [
+            "devait"
+        ],
+        [],
+        []
+    ],
+    [
+        "mourir",
+        "/mu.ʁiʁ/",
+        "v. inf.",
+        "to die",
+        "Cease living",
+        "Cesser de vivre",
+        [
+            "perish"
+        ],
+        [
+            "périr"
+        ],
+        [
+            "live"
+        ],
+        [
+            "vivre"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. prés. avoir",
+        "has",
+        "To have",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. p.p. dire",
+        "said",
+        "Stated",
+        "Déclaré",
+        [
+            "stated"
+        ],
+        [
+            "déclaré"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "c'était",
+        "/se.tɛ/",
+        "v. imp. être",
+        "it was",
+        "Past tense of to be",
+        "Passé de 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mieux",
+        "/mjø/",
+        "adv.",
+        "better",
+        "Of a higher standard",
+        "De qualité supérieure",
+        [
+            "superior"
+        ],
+        [
+            "supérieur"
+        ],
+        [
+            "worse"
+        ],
+        [
+            "pire"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "Indicating purpose",
+        "Indiquant un but",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tout",
+        "/tu/",
+        "adj. indéf.",
+        "all",
+        "The whole of",
+        "La totalité de",
+        [
+            "every"
+        ],
+        [
+            "chaque"
+        ],
+        [
+            "none"
+        ],
+        [
+            "aucun"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "monde",
+        "/mɔ̃d/",
+        "n. masc. sing.",
+        "world",
+        "Earth",
+        "Terre",
+        [
+            "earth"
+        ],
+        [
+            "terre"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third-person singular pronoun",
+        "Pronom personnel troisième personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (3rd person sing. present)",
+        "has",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "entendue",
+        "/ɑ̃.tɑ̃.dy/",
+        "v. entendre (past participle fem. sing.)",
+        "heard",
+        "Past participle of to hear",
+        "Participe passé de entendre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him/her",
+        "Personal pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir (3rd person sing. present)",
+        "has",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire (past participle)",
+        "said",
+        "Past participle of to say",
+        "Participe passé de dire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Preposition",
+        "Préposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him/her",
+        "Personal pronoun",
+        "Pronom personnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "donner",
+        "/dɔ.ne/",
+        "v. inf.",
+        "to give",
+        "To provide",
+        "Fournir",
+        [
+            "provide",
+            "supply"
+        ],
+        [
+            "fournir",
+            "approvisionner"
+        ],
+        [
+            "take",
+            "receive"
+        ],
+        [
+            "prendre",
+            "recevoir"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Originating from",
+        "Originaire de",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "eau",
+        "/o/",
+        "n. f. sing.",
+        "water",
+        "A liquid",
+        "Un liquide",
+        [
+            "liquid"
+        ],
+        [
+            "liquide"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [
+            "also"
+        ],
+        [
+            "aussi"
+        ],
+        [
+            "or"
+        ],
+        [
+            "ou"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicating possession",
+        "Indiquant la possession",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [],
+        []
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. refl.",
+        "oneself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "taire",
+        "/tɛʁ/",
+        "v. inf.",
+        "to be quiet",
+        "To not speak",
+        "Ne pas parler",
+        [
+            "hush",
+            "silence"
+        ],
+        [
+            "silence",
+            "motus"
+        ],
+        [
+            "speak",
+            "talk"
+        ],
+        [
+            "parler",
+            "bavarder"
+        ]
+    ]
+]

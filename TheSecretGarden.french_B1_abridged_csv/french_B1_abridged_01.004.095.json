@@ -1,0 +1,457 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pers. pron. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vit",
+        "/vi/",
+        "v. vivre",
+        "lives",
+        "Is alive",
+        "Est vivant",
+        [
+            "exists"
+        ],
+        [
+            "existe"
+        ],
+        [],
+        []
+    ],
+    [
+        "là-bas",
+        "/la.ba/",
+        "adv. of place",
+        "over there",
+        "Distant location",
+        "Endroit éloigné",
+        [
+            "there"
+        ],
+        [
+            "là"
+        ],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "Expressed verbally",
+        "Exprimé verbalement",
+        [
+            "stated"
+        ],
+        [
+            "déclaré"
+        ],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vieux",
+        "/vjø/",
+        "adj. masc. sing.",
+        "old",
+        "Advanced in years",
+        "Avancé en âge",
+        [
+            "aged"
+        ],
+        [
+            "âgé"
+        ],
+        [
+            "young"
+        ],
+        [
+            "jeune"
+        ]
+    ],
+    [
+        "Ben",
+        "/bɛn/",
+        "n. prop.",
+        "Ben",
+        "A man's name",
+        "Nom d'homme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Masculine pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "est",
+        "/ɛ/",
+        "v. aux.; être",
+        "is",
+        "To be",
+        "Être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sorti",
+        "/sɔʁ.ti/",
+        "v. pp.; sortir",
+        "gone out",
+        "Exited",
+        "Quitté",
+        [
+            "left"
+        ],
+        [
+            "quitté"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "from",
+        "Originating from",
+        "Originaire de",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "œuf",
+        "/œf/",
+        "n. masc. sing.",
+        "egg",
+        "Oval object laid by a bird",
+        "Objet ovale pondu par un oiseau",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "là-bas",
+        "/la.ba/",
+        "adv. de lieu",
+        "over there",
+        "In that place",
+        "Dans cet endroit",
+        [
+            "there"
+        ],
+        [
+            "ici"
+        ],
+        [],
+        []
+    ],
+    [
+        "S'",
+        "/si/",
+        "conj.",
+        "If",
+        "Conditional",
+        "Conditionnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Masculine pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "v. ; faire",
+        "does",
+        "To do",
+        "Faire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. fém. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cour",
+        "/kuʁ/",
+        "n. fém. sing.",
+        "court",
+        "Enclosed area",
+        "Espace clos",
+        [
+            "yard"
+        ],
+        [
+            "jardin"
+        ],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. masc. sing.",
+        "he",
+        "Third-person singular pronoun",
+        "Pronom de la troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cherche",
+        "/ʃɛʁʃ/",
+        "v.",
+        "seeks",
+        "Looks for",
+        "Recherche",
+        [
+            "looks for",
+            "searches"
+        ],
+        [
+            "recherche"
+        ],
+        [],
+        [],
+        [
+            "chercher"
+        ]
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indéf. fém. sing.",
+        "a",
+        "Indefinite article feminine singular",
+        "Article indéfini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jeune",
+        "/ʒœn/",
+        "adj.",
+        "young",
+        "Not old",
+        "Pas vieux",
+        [
+            "youthful"
+        ],
+        [
+            "juvénile"
+        ],
+        [
+            "old"
+        ],
+        [
+            "vieux"
+        ]
+    ],
+    [
+        "madame",
+        "/ma.dam/",
+        "n. fém. sing.",
+        "madam",
+        "Formal title for a woman",
+        "Titre formel pour une femme",
+        [
+            "lady"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "rouge-gorge",
+        "/ʁuʒ.ɡɔʁʒ/",
+        "n. masc. sing.",
+        "robin",
+        "Small bird with a red breast",
+        "Petit oiseau à poitrine rouge",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "who",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vit",
+        "/vi/",
+        "v. vivre",
+        "lives",
+        "Is alive",
+        "Est vivant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "parmi",
+        "/paʁ.mi/",
+        "prep.",
+        "among",
+        "In the midst of",
+        "Au milieu de",
+        [
+            "amidst",
+            "within"
+        ],
+        [
+            "entre"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vieux",
+        "/vjø/",
+        "adj. masc. pl.",
+        "old",
+        "Aged, not new",
+        "Âgé, pas nouveau",
+        [
+            "aged"
+        ],
+        [
+            "ancien"
+        ],
+        [
+            "new"
+        ],
+        [
+            "nouveau"
+        ]
+    ],
+    [
+        "rosiers",
+        "/ʁo.zje/",
+        "n. masc. pl.",
+        "rose bushes",
+        "Shrubs with roses",
+        "Arbustes avec des roses",
+        [
+            "rose plants"
+        ],
+        [
+            "plantes de roses"
+        ],
+        [],
+        []
+    ],
+    [
+        "là-bas",
+        "/la.ba/",
+        "adv.",
+        "over there",
+        "At that distant place",
+        "À cet endroit éloigné",
+        [
+            "there"
+        ],
+        [
+            "ici"
+        ],
+        [],
+        []
+    ]
+]

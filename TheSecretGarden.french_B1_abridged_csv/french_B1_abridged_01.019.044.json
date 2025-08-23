@@ -1,0 +1,676 @@
+[
+    [
+        "Pour",
+        "/puʁ/",
+        "prep.",
+        "For",
+        "Intended direction",
+        "Direction intentionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "toujours",
+        "/tu.ʒuʁ/",
+        "adv.",
+        "always",
+        "At all times",
+        "En tout temps",
+        [
+            "ever"
+        ],
+        [
+            "éternellement"
+        ],
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Indicates direction",
+        "Indique la direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jamais",
+        "/ʒa.mɛ/",
+        "adv.",
+        "ever",
+        "At any time",
+        "À tout moment",
+        [
+            "always"
+        ],
+        [
+            "toujours"
+        ],
+        [
+            "never"
+        ],
+        []
+    ],
+    [
+        "’",
+        "/",
+        "punctuation",
+        "",
+        "",
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Est-ce",
+        "/ɛs/",
+        "phrase",
+        "Is it",
+        "Inversion question",
+        "Question d'inversion",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Introduces clause",
+        "Introduit une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ça",
+        "/sa/",
+        "pron. dém.",
+        "that",
+        "Refers to something",
+        "Référence à quelque chose",
+        [
+            "it"
+        ],
+        [
+            "cela"
+        ],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers.",
+        "him",
+        "Indirect object pronoun",
+        "Pronom personnel COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "v.",
+        "makes",
+        "Causes to be",
+        "Amène à être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. réfl.",
+        "himself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sentir",
+        "/sɑ̃.tiʁ/",
+        "v. inf.",
+        "feel",
+        "To experience emotion",
+        "Éprouver une émotion",
+        [
+            "sense"
+        ],
+        [
+            "ressentir"
+        ],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "adv.",
+        "like",
+        "In a similar way",
+        "D'une manière similaire",
+        [
+            "as"
+        ],
+        [
+            "pareil"
+        ],
+        [],
+        []
+    ],
+    [
+        "ça",
+        "/sa/",
+        "pron. dém.",
+        "that",
+        "Similar to it",
+        "Semblable à cela",
+        [
+            "this"
+        ],
+        [
+            "ceci"
+        ],
+        [],
+        []
+    ],
+    [
+        "dit-il",
+        "/di.til/",
+        "v. dire, inversion",
+        "he said",
+        "Expression of speech",
+        "Expression de parole",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third-person singular masculine pronoun",
+        "Pronom personnel masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fit",
+        "/fi/",
+        "v. faire, passé simple",
+        "did",
+        "Completed action",
+        "Action achevée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "adv.",
+        "as",
+        "In the manner of",
+        "De la manière de",
+        [
+            "like"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Third-person singular feminine pronoun",
+        "Pronom personnel féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Indirect object pronoun",
+        "Pronom complément d'objet indirect",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "disait",
+        "/di.zɛ/",
+        "v. dire, imparfait",
+        "was saying",
+        "Ongoing action in the past",
+        "Action continue dans le passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "inspirant",
+        "/ɛ̃s.pi.ʁɑ̃/",
+        "v. inspirer, pr. part.",
+        "inspiring",
+        "Giving inspiration",
+        "Donnant de l'inspiration",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "art. indef.",
+        "of",
+        "Preposition indicating origin",
+        "Préposition indiquant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "longues",
+        "/lɔ̃ɡ/",
+        "adj. fem. pl.",
+        "long",
+        "Extended in length",
+        "De longueur étendue",
+        [
+            "extended"
+        ],
+        [
+            "étendues"
+        ],
+        [
+            "short"
+        ],
+        [
+            "courtes"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "profondes",
+        "/pʁɔ.fɔ̃d/",
+        "adj. fem. pl.",
+        "deep",
+        "Extending far down",
+        "S'étendant loin vers le bas",
+        [
+            "intense"
+        ],
+        [
+            "intenses"
+        ],
+        [
+            "shallow"
+        ],
+        [
+            "superficielles"
+        ]
+    ],
+    [
+        "respirations",
+        "/ʁɛs.pi.ʁa.sjɔ̃/",
+        "n. f. pl.",
+        "breaths",
+        "Acts of inhaling and exhaling",
+        "Actions d'inspirer et d'expirer",
+        [
+            "inhalations"
+        ],
+        [
+            "inspirations"
+        ],
+        [],
+        []
+    ],
+    [
+        "encore",
+        "/ɑ̃.kɔʁ/",
+        "adv.",
+        "again",
+        "One more time",
+        "Une fois de plus",
+        [
+            "anew"
+        ],
+        [
+            "de nouveau"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "encore",
+        "/ɑ̃.kɔʁ/",
+        "adv.",
+        "again",
+        "Repeatedly",
+        "De manière répétée",
+        [
+            "repeatedly"
+        ],
+        [
+            "répétitivement"
+        ],
+        [],
+        []
+    ],
+    [
+        "jusqu’à",
+        "/ʒys.ka/",
+        "prep.",
+        "until",
+        "Up to a certain point",
+        "Jusqu'à un certain point",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "pron. dem.",
+        "what",
+        "Pronoun referring to something",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qu’",
+        "/kə/",
+        "conj.",
+        "that",
+        "Introduces a clause",
+        "Introduit une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Third-person singular pronoun",
+        "Pronom personnel troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sente",
+        "/sɑ̃t/",
+        "v. sentir",
+        "feels",
+        "To perceive through senses",
+        "Percevoir par les sens",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Introduces a clause",
+        "Introduit une proposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "quelque",
+        "/kɛlkə/",
+        "adj. indef.",
+        "some",
+        "An unspecified amount",
+        "Une quantité non spécifiée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chose",
+        "/ʃoz/",
+        "n. fem. sing.",
+        "thing",
+        "An object or entity",
+        "Un objet ou une entité",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin or possession",
+        "Exprimant l'origine ou la possession",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tout",
+        "/tu/",
+        "adj. indef.",
+        "all",
+        "The entirety of something",
+        "L'ensemble de quelque chose",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Expressing direction or purpose",
+        "Exprimant la direction ou le but",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fait",
+        "/fɛ/",
+        "n. masc. sing.",
+        "fact",
+        "Something that is true",
+        "Chose vraie",
+        [
+            "event",
+            "deed"
+        ],
+        [
+            "événement",
+            "action"
+        ],
+        [],
+        []
+    ],
+    [
+        "nouveau",
+        "/nu.vo/",
+        "adj. masc. sing.",
+        "new",
+        "Recently made",
+        "Récemment fait",
+        [
+            "fresh",
+            "modern"
+        ],
+        [
+            "frais",
+            "moderne"
+        ],
+        [
+            "old"
+        ],
+        [
+            "ancien"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "délicieux",
+        "/de.li.sjø/",
+        "adj. masc. sing.",
+        "delicious",
+        "Very tasty",
+        "Très savoureux",
+        [
+            "tasty",
+            "scrumptious"
+        ],
+        [
+            "savoureux",
+            "succulent"
+        ],
+        [
+            "disgusting"
+        ],
+        [
+            "dégoûtant"
+        ]
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "to him",
+        "Indirect object pronoun",
+        "Pronom personnel COI",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "arrivait",
+        "/a.ʁi.vɛ/",
+        "v. impf.",
+        "was happening",
+        "Was occurring",
+        "Se produisait",
+        [],
+        [],
+        [],
+        []
+    ]
+]

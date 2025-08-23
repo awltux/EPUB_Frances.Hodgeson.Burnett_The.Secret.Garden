@@ -1,0 +1,710 @@
+[
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n. prop.",
+        "Marie",
+        "Common first name",
+        "Prénom courant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Lennox",
+        "/lɛ.nɔks/",
+        "n. prop.",
+        "Lennox",
+        "Surname",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. être, impf.",
+        "was",
+        "Past tense of to be",
+        "Passé du verbe être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indéf. fém. sing.",
+        "a",
+        "Indefinite article feminine singular",
+        "Article indéfini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "enfant",
+        "/ɑ̃.fɑ̃/",
+        "n. masc. or fem.",
+        "child",
+        "Young person",
+        "Jeune personne",
+        [
+            "kid"
+        ],
+        [
+            "gamin"
+        ],
+        [
+            "adult"
+        ],
+        [
+            "adulte"
+        ]
+    ],
+    [
+        "malheureuse",
+        "/ma.lø.ʁøz/",
+        "adj. fém. sing.",
+        "unhappy",
+        "Sad",
+        "Triste",
+        [
+            "sad"
+        ],
+        [
+            "triste"
+        ],
+        [
+            "happy"
+        ],
+        [
+            "heureuse"
+        ]
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj. coord.",
+        "but",
+        "Contradictory conjunction",
+        "Conjonction de contradiction",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. déf. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "circonstances",
+        "/siʁ.kɔ̃s.tɑ̃s/",
+        "n. f. pl.",
+        "circumstances",
+        "Situational factors",
+        "Facteurs situationnels",
+        [
+            "situation",
+            "events"
+        ],
+        [
+            "situation",
+            "événements"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'ont",
+        "/lɔ̃/",
+        "pron. pers. + v. avoir",
+        "have",
+        "auxiliary verb",
+        "auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "poussée",
+        "/pu.se/",
+        "v. pousser (pp)",
+        "pushed",
+        "Impelled",
+        "Impulsée",
+        [
+            "propelled",
+            "shoved"
+        ],
+        [
+            "propulsée",
+            "bousculée"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "into",
+        "Inside of",
+        "À l'intérieur de",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [
+            "out"
+        ],
+        [
+            "hors de"
+        ]
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indéf. f. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "meilleure",
+        "/mɛ.jœʁ/",
+        "adj. f. sing.",
+        "better",
+        "Superior quality",
+        "Qualité supérieure",
+        [
+            "superior"
+        ],
+        [
+            "supérieure"
+        ],
+        [
+            "worse"
+        ],
+        [
+            "pire"
+        ]
+    ],
+    [
+        "direction",
+        "/di.ʁɛk.sjɔ̃/",
+        "n. f. sing.",
+        "direction",
+        "Path or course",
+        "Chemin ou direction",
+        [
+            "path",
+            "course"
+        ],
+        [
+            "chemin",
+            "voie"
+        ],
+        [],
+        []
+    ],
+    [
+        "Son",
+        "/sɔ̃/",
+        "adj. poss. masc. sing.",
+        "His",
+        "Belonging to him",
+        "Appartenant à lui",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "esprit",
+        "/ɛs.pʁi/",
+        "n. masc. sing.",
+        "spirit",
+        "Soul",
+        "Âme",
+        [
+            "mind",
+            "soul"
+        ],
+        [
+            "âme"
+        ],
+        [],
+        []
+    ],
+    [
+        "s'est",
+        "/s‿ɛ/",
+        "v. pron. être, 3rd pers. sing. passé composé",
+        "has",
+        "Indicates past action",
+        "Indique une action passée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rempli",
+        "/ʁɑ̃.pli/",
+        "v. remplir, part. passé",
+        "filled",
+        "Made full",
+        "Comblé",
+        [
+            "full",
+            "packed"
+        ],
+        [
+            "plein"
+        ],
+        [
+            "empty"
+        ],
+        [
+            "vide"
+        ]
+    ],
+    [
+        "d'images",
+        "/di.maʒ/",
+        "n. f. pl.",
+        "of images",
+        "Representations",
+        "Représentations",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Belonging to",
+        "Appartenant à",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rouges-gorges",
+        "/ʁuʒ.ɡɔʁʒ/",
+        "n. masc. pl.",
+        "robins",
+        "Small birds",
+        "Petits oiseaux",
+        [
+            "redbreast"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Connected to",
+        "Relatif à",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cottages",
+        "/kɔ.taʒ/",
+        "n. masc. pl.",
+        "cottages",
+        "Small houses",
+        "Petites maisons",
+        [
+            "huts"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin",
+        "Indique l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "landes",
+        "/lɑ̃d/",
+        "n. f. pl.",
+        "heaths",
+        "Uncultivated land",
+        "Terre inculte",
+        [
+            "moorlands"
+        ],
+        [
+            "bruyères"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin",
+        "Indique l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "gens",
+        "/ʒɑ̃/",
+        "n. masc. pl.",
+        "people",
+        "Group of individuals",
+        "Groupe d'individus",
+        [
+            "individuals"
+        ],
+        [
+            "personnes"
+        ],
+        [],
+        []
+    ],
+    [
+        "du",
+        "/dy/",
+        "art. def. masc. sing. contracted",
+        "of the",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Yorkshire",
+        "/jɔʁk.ʃiʁ/",
+        "n. propre",
+        "Yorkshire",
+        "County in England",
+        "Comté en Angleterre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin",
+        "Indique l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "printemps",
+        "/pʁɛ̃.tɑ̃/",
+        "n. masc. sing.",
+        "spring",
+        "Season after winter",
+        "Saison après l'hiver",
+        [
+            "springtime"
+        ],
+        [
+            "saison"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "d'",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin",
+        "Exprimant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Cultivated land",
+        "Terre cultivée",
+        [
+            "yard"
+        ],
+        [
+            "cour"
+        ],
+        [],
+        []
+    ],
+    [
+        "secret",
+        "/sə.kʁɛ/",
+        "adj. masc. sing.",
+        "secret",
+        "Confidential",
+        "Confidentiel",
+        [
+            "hidden",
+            "private"
+        ],
+        [
+            "caché",
+            "privé"
+        ],
+        [
+            "public"
+        ],
+        [
+            "public"
+        ]
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "laissant",
+        "/lɛ.sɑ̃/",
+        "v. prés. part.",
+        "leaving",
+        "To allow to remain",
+        "Autoriser à rester",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aucune",
+        "/o.kyn/",
+        "adj. indef. fem. sing.",
+        "no",
+        "Not any",
+        "Pas un seul",
+        [
+            "not any"
+        ],
+        [],
+        [
+            "some"
+        ],
+        [
+            "certaines"
+        ]
+    ],
+    [
+        "place",
+        "/plas/",
+        "n. fem. sing.",
+        "space",
+        "Area",
+        "Zone",
+        [
+            "room"
+        ],
+        [
+            "pièce"
+        ],
+        [],
+        []
+    ],
+    [
+        "aux",
+        "/o/",
+        "art. def. pl.",
+        "to the",
+        "Direction indicator",
+        "Indicateur de direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pensées",
+        "/pɑ̃.se/",
+        "n. f. pl.; penser",
+        "thoughts",
+        "Ideas in mind",
+        "Idées en tête",
+        [
+            "ideas"
+        ],
+        [
+            "idées"
+        ],
+        [],
+        []
+    ],
+    [
+        "amères",
+        "/a.mɛʁ/",
+        "adj. f. pl.",
+        "bitter",
+        "Unpleasant taste or feeling",
+        "Goût ou sentiment désagréable",
+        [
+            "resentful"
+        ],
+        [
+            "ressentiment"
+        ],
+        [
+            "sweet"
+        ],
+        [
+            "sucrées"
+        ]
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "which",
+        "Referring to",
+        "Se référant à",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "pron. pers. f. sing.",
+        "her",
+        "Female object pronoun",
+        "Pronom personnel féminin objet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rendaient",
+        "/ʁɑ̃.dɛ/",
+        "v. impf. 3rd pers. pl.; rendre",
+        "were making",
+        "Causing a state",
+        "Causant un état",
+        [
+            "causing"
+        ],
+        [
+            "causant"
+        ],
+        [],
+        []
+    ],
+    [
+        "malade",
+        "/ma.lad/",
+        "adj.",
+        "sick",
+        "Unwell",
+        "Indisposé",
+        [
+            "ill"
+        ],
+        [
+            "indisposé"
+        ],
+        [
+            "healthy"
+        ],
+        [
+            "bien portant"
+        ]
+    ]
+]

@@ -1,0 +1,992 @@
+[
+    [
+        "Un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "A",
+        "Singular indefinite article",
+        "Article indéfini singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "secret",
+        "/sə.kʁɛ/",
+        "n. masc. sing.",
+        "Secret",
+        "Something hidden",
+        "Quelque chose de caché",
+        [
+            "mystery"
+        ],
+        [
+            "mystère"
+        ],
+        [],
+        []
+    ],
+    [
+        "entre",
+        "/ɑ̃tʁ/",
+        "prep.",
+        "Between",
+        "In the middle of",
+        "Au milieu de",
+        [
+            "among"
+        ],
+        [
+            "parmi"
+        ],
+        [],
+        []
+    ],
+    [
+        "toi",
+        "/twa/",
+        "pron. pers.",
+        "You",
+        "Second person singular",
+        "Deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "And",
+        "Connects words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "moi",
+        "/mwa/",
+        "pron. pers.",
+        "Me",
+        "First person singular",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "There",
+        "Used for impersonal constructions",
+        "Utilisé pour les constructions impersonnelles",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "adv. lieu",
+        "There",
+        "Refers to a place",
+        "Se réfère à un lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir",
+        "is",
+        "Third person singular present of 'avoir'",
+        "Troisième personne du singulier du présent de 'avoir', infinitive = avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/avɛ/",
+        "v. imparf. avoir",
+        "had",
+        "Possessed",
+        "Possédait",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indéf. fém. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "porte",
+        "/pɔʁt/",
+        "n. fém. sing.",
+        "door",
+        "Entrance",
+        "Entrée",
+        [
+            "entrance"
+        ],
+        [
+            "entrée"
+        ],
+        [],
+        []
+    ],
+    [
+        "sous",
+        "/su/",
+        "prép.",
+        "under",
+        "Beneath",
+        "Dessous",
+        [
+            "beneath"
+        ],
+        [
+            "dessous"
+        ],
+        [
+            "above"
+        ],
+        [
+            "au-dessus"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. déf. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lierre",
+        "/ljɛʁ/",
+        "n. masc. sing.",
+        "ivy",
+        "Climbing plant",
+        "Plante grimpante",
+        [
+            "vine"
+        ],
+        [
+            "vigne"
+        ],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional",
+        "Conditionnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "we",
+        "First person plural",
+        "Première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "pron. pers.",
+        "it",
+        "Direct object pronoun",
+        "Pronom objet direct",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "trouvions",
+        "/tʁuvjɔ̃/",
+        "v. imparf. trouver",
+        "found",
+        "Discovered",
+        "Découvert",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "we",
+        "First-person plural pronoun",
+        "Pronom personnel première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. refl.",
+        "ourselves",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faufilions",
+        "/fo.fi.ljɔ̃/",
+        "v. faufiler",
+        "slipped",
+        "Moved stealthily",
+        "Glissé discrètement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "through",
+        "Preposition of location",
+        "Préposition de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "travers",
+        "/tʁa.vɛʁ/",
+        "n. masc.",
+        "across",
+        "From one side to the other",
+        "D'un côté à l'autre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "pron. pers. fem.",
+        "it",
+        "Feminine pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "verrouillions",
+        "/vɛ.ʁu.ji.jɔ̃/",
+        "v. verrouiller",
+        "locked",
+        "Fastened with a bolt",
+        "Fermé avec un verrou",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "derrière",
+        "/də.ʁjɛʁ/",
+        "prep.",
+        "behind",
+        "At the back of",
+        "À l'arrière de",
+        [
+            "back of"
+        ],
+        [
+            "à l'arrière de"
+        ],
+        [
+            "in front of"
+        ],
+        [
+            "devant"
+        ]
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "us",
+        "Objective case of we",
+        "Cas objectif de on",
+        [
+            "we"
+        ],
+        [
+            "on"
+        ],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional conjunction",
+        "Conjonction conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "personne",
+        "/pɛʁ.sɔn/",
+        "pron. indef.",
+        "nobody",
+        "No one",
+        "Aucun",
+        [
+            "no one"
+        ],
+        [
+            "aucun"
+        ],
+        [
+            "everybody"
+        ],
+        [
+            "tout le monde"
+        ]
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "savait",
+        "/sa.vɛ/",
+        "v. impf.",
+        "knew",
+        "Past tense of know (savoir)",
+        "Temps passé de savoir (savoir)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "we",
+        "First person plural pronoun",
+        "Pronom de la première personne du pluriel",
+        [
+            "us"
+        ],
+        [
+            "nous autres"
+        ],
+        [],
+        []
+    ],
+    [
+        "étions",
+        "/e.tjɔ̃/",
+        "v. impf.",
+        "were",
+        "Past tense of to be (être)",
+        "Temps passé de être (être)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction indicator",
+        "Indicateur de direction",
+        [
+            "toward"
+        ],
+        [
+            "vers"
+        ],
+        [
+            "from"
+        ],
+        [
+            "de"
+        ]
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "intérieur",
+        "/ɛ̃.te.ʁjœʁ/",
+        "n. masc.",
+        "inside",
+        "Inner part",
+        "Partie interne",
+        [
+            "internal"
+        ],
+        [
+            "interne"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "extérieur"
+        ]
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional conjunction",
+        "Conjonction conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "we",
+        "First person plural pronoun",
+        "Pronom personnel première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "pron. obj.",
+        "it",
+        "Direct object pronoun",
+        "Pronom objet direct",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "appelions",
+        "/a.plə.jɔ̃/",
+        "v. appeler (conj. imp.)",
+        "called",
+        "Past action of naming",
+        "Action passée de nommer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "notre",
+        "/nɔ.tʁə/",
+        "adj. poss.",
+        "our",
+        "Possessive adjective",
+        "Adjectif possessif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc.",
+        "garden",
+        "Cultivated area",
+        "Espace cultivé",
+        [
+            "yard"
+        ],
+        [
+            "cour"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective conjunction",
+        "Conjonction de coordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faisions",
+        "/fə.zjɔ̃/",
+        "v. faire (conj. imp.)",
+        "did",
+        "Past action of doing",
+        "Action passée de faire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "semblant",
+        "/sɑ̃.blɑ̃/",
+        "v. prés. part. sembler",
+        "seeming",
+        "Appearing as",
+        "Apparaissant comme",
+        [
+            "appearing"
+        ],
+        [
+            "paraissant"
+        ],
+        [
+            "being"
+        ],
+        [
+            "étant"
+        ]
+    ],
+    [
+        "d'",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates possession or origin",
+        "Indique la possession ou l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "être",
+        "/ɛtʁ/",
+        "v. inf.",
+        "to be",
+        "Exist",
+        "Exister",
+        [
+            "exist"
+        ],
+        [
+            "exister"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. pl.",
+        "some",
+        "Indefinite plural article",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "grives",
+        "/ɡʁiv/",
+        "n. f. pl.",
+        "thrushes",
+        "Type of bird",
+        "Type d'oiseau",
+        [
+            "birds"
+        ],
+        [
+            "oiseaux"
+        ],
+        [],
+        []
+    ],
+    [
+        "musiciennes",
+        "/my.zi.sjɛn/",
+        "adj. f. pl.",
+        "musical",
+        "Relating to music",
+        "Relatif à la musique",
+        [
+            "melodic"
+        ],
+        [
+            "mélodique"
+        ],
+        [
+            "silent"
+        ],
+        [
+            "silencieux"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Indicates location",
+        "Indique l'emplacement",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "à l'extérieur"
+        ]
+    ],
+    [
+        "notre",
+        "/nɔtʁ/",
+        "adj. poss.",
+        "our",
+        "Belonging to us",
+        "Appartenant à nous",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nid",
+        "/ni/",
+        "n. m. sing.",
+        "nest",
+        "Bird's home",
+        "Maison d'oiseau",
+        [
+            "home"
+        ],
+        [
+            "maison"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jouions",
+        "/ʒwi.jɔ̃/",
+        "v. conj. jouer",
+        "were playing",
+        "Engaging in recreation",
+        "S'amuser",
+        [
+            "playing"
+        ],
+        [
+            "amusions"
+        ],
+        [],
+        []
+    ],
+    [
+        "là",
+        "/la/",
+        "adv. lieu",
+        "there",
+        "In that place",
+        "En cet endroit",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tous",
+        "/tus/",
+        "adj. indéf. masc. plur.",
+        "all",
+        "Every one",
+        "Chaque",
+        [
+            "every"
+        ],
+        [
+            "chaque"
+        ],
+        [
+            "none"
+        ],
+        [
+            "aucun"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "art. déf. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jours",
+        "/ʒuʁ/",
+        "n. masc. plur.",
+        "days",
+        "Periods of time",
+        "Périodes de temps",
+        [
+            "dates"
+        ],
+        [
+            "dates"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "In addition",
+        "De plus",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "plantions",
+        "/plɑ̃.tjɔ̃/",
+        "v. conj. planter",
+        "were planting",
+        "Putting in the ground",
+        "Mettre en terre",
+        [
+            "sowing"
+        ],
+        [
+            "semer"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. plur.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bulbes",
+        "/bylb/",
+        "n. masc. plur.",
+        "bulbs",
+        "Underground plant parts",
+        "Parties souterraines des plantes",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. masc. sing.",
+        "it",
+        "Direct object pronoun",
+        "Pronom d'objet direct",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faisions",
+        "/fə.zjɔ̃/",
+        "v. faire - 1st pers. pl. impf.",
+        "were doing",
+        "Past action",
+        "Action passée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "revivre",
+        "/ʁə.vivʁ/",
+        "v. inf.",
+        "relive",
+        "Experience again",
+        "Expérimenter à nouveau",
+        [
+            "re-experience"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "—",
+        "/ˈtiː/",
+        "ponctuation",
+        "dash",
+        "Pause",
+        "Pause",
+        [],
+        [],
+        [],
+        []
+    ]
+]

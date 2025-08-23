@@ -1,0 +1,340 @@
+[
+    [
+        "Moi",
+        "/mwa/",
+        "pron. pers.",
+        "Me",
+        "Referring to oneself",
+        "Se référant à soi-même",
+        [
+            "myself"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "aussi",
+        "/o.si/",
+        "adv.",
+        "too",
+        "In addition",
+        "En plus",
+        [
+            "also"
+        ],
+        [
+            "également"
+        ],
+        [
+            "neither"
+        ],
+        [
+            "non plus"
+        ]
+    ],
+    [
+        "répondit",
+        "/ʁe.pɔ̃.di/",
+        "v. tr.",
+        "replied",
+        "Answered",
+        "A répondu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. propre",
+        "Colin",
+        "Name",
+        "Nom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ravi",
+        "/ʁa.vi/",
+        "adj.",
+        "delighted",
+        "Very pleased",
+        "Très heureux",
+        [
+            "thrilled",
+            "elated"
+        ],
+        [
+            "content",
+            "heureux"
+        ],
+        [
+            "disappointed"
+        ],
+        [
+            "déçu"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "He",
+        "Third-person pronoun",
+        "Pronom de troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "n/ə/",
+        "adv. neg.",
+        "not",
+        "Negation in French",
+        "Négation en français",
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "héritera",
+        "/e.ʁi.te.ʁa/",
+        "v. futur hériter",
+        "will inherit",
+        "Receive as an heir",
+        "Recevoir comme héritier",
+        [
+            "receive",
+            "inherit"
+        ],
+        [
+            "recevoir",
+            "hériter"
+        ],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin",
+        "Exprimant l'origine",
+        [
+            "from"
+        ],
+        [
+            "de"
+        ],
+        [
+            "to"
+        ],
+        [
+            "à"
+        ]
+    ],
+    [
+        "Misselthwaite",
+        "/mi.sɛl.twait/",
+        "n. prop.",
+        "Misselthwaite",
+        "Fictional place name",
+        "Nom de lieu fictif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "maintenant",
+        "/mɛ̃.tə.nɑ̃/",
+        "adv.",
+        "now",
+        "At the present time",
+        "Au moment présent",
+        [
+            "currently"
+        ],
+        [
+            "actuellement"
+        ],
+        [
+            "later"
+        ],
+        [
+            "plus tard"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Introducing a clause",
+        "Introduisant une proposition",
+        [
+            "since"
+        ],
+        [
+            "puisque"
+        ],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person pronoun",
+        "Pronom personnel de la première personne",
+        [
+            "me"
+        ],
+        [
+            "moi"
+        ],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "suis",
+        "/sɥi/",
+        "v.prés.être",
+        "am",
+        "First person singular of 'être'",
+        "Première personne du singulier de 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Location indicator",
+        "Indicateur de lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "train",
+        "/tʁɛ̃/",
+        "n.m.",
+        "process",
+        "Ongoing action",
+        "Action en cours",
+        [
+            "course"
+        ],
+        [
+            "cours"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates relationship",
+        "Indique la relation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mourir",
+        "/mu.ʁiʁ/",
+        "v.inf.",
+        "to die",
+        "Cease living",
+        "Cesser de vivre",
+        [
+            "perish"
+        ],
+        [
+            "périr"
+        ],
+        [
+            "live"
+        ],
+        [
+            "vivre"
+        ]
+    ]
+]

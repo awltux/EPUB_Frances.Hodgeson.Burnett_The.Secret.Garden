@@ -1,0 +1,793 @@
+[
+    [
+        "Quand",
+        "/kɑ̃/",
+        "conj. temp.",
+        "When",
+        "At what time?",
+        "À quel moment ?",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article feminine singular",
+        "Article défini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "porte",
+        "/pɔʁt/",
+        "n. fem. sing.",
+        "door",
+        "Entrance to a building",
+        "Entrée d'un bâtiment",
+        [
+            "entrance"
+        ],
+        [
+            "entrée"
+        ],
+        [
+            "exit"
+        ],
+        [
+            "sortie"
+        ]
+    ],
+    [
+        "s'ouvrit",
+        "/s‿uvʁi/",
+        "v. pronom. passé simple; ouvrir",
+        "opened",
+        "Became open",
+        "Devenu ouvert",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article masculine singular",
+        "Article indéfini masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "corbeau",
+        "/kɔʁ.bo/",
+        "n. masc. sing.",
+        "raven",
+        "A large black bird",
+        "Grand oiseau noir",
+        [
+            "crow"
+        ],
+        [
+            "freux"
+        ],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Referring to a male",
+        "Se référant à un homme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "salua",
+        "/sa.ly.a/",
+        "v. passé simple; saluer",
+        "greeted",
+        "Offered greetings",
+        "Offert des salutations",
+        [
+            "welcomed"
+        ],
+        [
+            "accueilli"
+        ],
+        [],
+        []
+    ],
+    [
+        "bruyamment",
+        "/bʁɥi.ja.mɑ̃/",
+        "adv.",
+        "noisily",
+        "In a loud manner",
+        "D'une manière bruyante",
+        [
+            "loudly"
+        ],
+        [
+            "fortement"
+        ],
+        [
+            "quietly"
+        ],
+        [
+            "silencieusement"
+        ]
+    ],
+    [
+        "M",
+        "/m/",
+        "n. masc. sing.",
+        "Mr.",
+        "Formal title",
+        "Titre formel",
+        [
+            "Mister"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Roach",
+        "/roʃ/",
+        "nom propre",
+        "Roach",
+        "Last name",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "faillit",
+        "/fa.ji/",
+        "v. défectif - faillir",
+        "almost",
+        "Nearly",
+        "Quasiment",
+        [
+            "nearly",
+            "close to"
+        ],
+        [
+            "presque"
+        ],
+        [],
+        []
+    ],
+    [
+        "faire",
+        "/fɛʁ/",
+        "v. inf.",
+        "to do",
+        "To perform",
+        "Exécuter",
+        [
+            "perform"
+        ],
+        [
+            "exécuter"
+        ],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indéf. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bond",
+        "/bɔ̃/",
+        "n. masc. sing.",
+        "jump",
+        "Leap",
+        "Saut",
+        [
+            "leap"
+        ],
+        [
+            "saut"
+        ],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Within",
+        "Dedans",
+        [
+            "within"
+        ],
+        [
+            "dedans"
+        ],
+        [],
+        []
+    ],
+    [
+        "arrière",
+        "/a.ʁjɛʁ/",
+        "adv.",
+        "back",
+        "Rearward",
+        "Derrière",
+        [
+            "behind"
+        ],
+        [
+            "derrière"
+        ],
+        [
+            "forward"
+        ],
+        [
+            "avant"
+        ]
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "nom propre",
+        "Colin",
+        "Given name",
+        "Prénom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'était",
+        "/ne.te/",
+        "v. impf. être",
+        "was not",
+        "Was not",
+        "N'était pas",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pa/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "au",
+        "/o/",
+        "art. contr.",
+        "at the",
+        "contraction à + le",
+        "à + le",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lit",
+        "/li/",
+        "n. masc. sing.",
+        "bed",
+        "Furniture to sleep on",
+        "Meuble pour dormir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third person pronoun",
+        "Pronom de troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.te/",
+        "v. impf. être",
+        "was",
+        "To be in the past",
+        "Être au passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "assis",
+        "/a.si/",
+        "adj. masc. sing.",
+        "seated",
+        "In a sitting position",
+        "En position assise",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside of",
+        "À l'intérieur de",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fauteuil",
+        "/fotœj/",
+        "n. masc. sing.",
+        "armchair",
+        "Comfortable seat",
+        "Siège confortable",
+        [
+            "chair"
+        ],
+        [
+            "siège"
+        ],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "agneau",
+        "/aɲo/",
+        "n. masc. sing.",
+        "lamb",
+        "Young sheep",
+        "Jeune mouton",
+        [
+            "sheep"
+        ],
+        [
+            "mouton"
+        ],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "next to",
+        "Beside",
+        "Près de",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "côté",
+        "/kote/",
+        "n. masc. sing.",
+        "side",
+        "Flank",
+        "Flanc",
+        [
+            "beside"
+        ],
+        [
+            "flanc"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing relationships",
+        "Exprimant des relations",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Masculine personal pronoun",
+        "Pronom personnel masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connecting words",
+        "Liant des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/dikɔn/",
+        "noun",
+        "Dickon",
+        "Proper name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him",
+        "Indirect object pronoun",
+        "Pronom personnel COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "donnait",
+        "/dɔnɛ/",
+        "v. donner, impf.",
+        "was giving",
+        "Past action of providing",
+        "Action passée de fournir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "du",
+        "/dy/",
+        "art. part.",
+        "some",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lait",
+        "/lɛ/",
+        "n. masc.",
+        "milk",
+        "White liquid",
+        "Liquide blanc",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "A",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "écureuil",
+        "/e.ky.ʁœj/",
+        "n. masc. sing.",
+        "squirrel",
+        "A rodent with a bushy tail",
+        "rongeur avec une queue touffue",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. être, impf.",
+        "was",
+        "State of being",
+        "État d'être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "assis",
+        "/a.si/",
+        "adj. past part.",
+        "seated",
+        "In a sitting position",
+        "Dans une position assise",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sur",
+        "/syʁ/",
+        "prep.",
+        "on",
+        "Above and touching",
+        "Au-dessus et en contact",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dos",
+        "/do/",
+        "n. masc. sing.",
+        "back",
+        "Posterior of torso",
+        "Partie du corps",
+        [
+            "rear"
+        ],
+        [
+            "arrière"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates origin",
+        "Indique l'origine",
+        [
+            "from"
+        ],
+        [
+            "à partir de"
+        ],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/dikɔn/",
+        "n. prop.",
+        "Dickon",
+        "Proper noun",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "grignotant",
+        "/ɡʁiɲɔtɑ̃/",
+        "v. prés. part. grignoter",
+        "nibbling",
+        "Eating in small bites",
+        "Manger à petites bouchées",
+        [
+            "munching"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "noix",
+        "/nwa/",
+        "n. fem. sing.",
+        "nut",
+        "Type of fruit",
+        "Type de fruit",
+        [
+            "kernel"
+        ],
+        [
+            "amande"
+        ],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n. prop.",
+        "Marie",
+        "Proper noun",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "était",
+        "/e.tɛ/",
+        "v. impf. être",
+        "was",
+        "Past tense of to be",
+        "Passé de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "assise",
+        "/a.siz/",
+        "v. past part. asseoir",
+        "seated",
+        "Sitting down",
+        "Être en position assise",
+        [],
+        [
+            "posée"
+        ],
+        [],
+        []
+    ],
+    [
+        "par",
+        "/paʁ/",
+        "prep.",
+        "by",
+        "Indicates location",
+        "Indique un lieu",
+        [
+            "near"
+        ],
+        [
+            "près"
+        ],
+        [],
+        []
+    ],
+    [
+        "terre",
+        "/tɛʁ/",
+        "n. fem. sing.",
+        "ground",
+        "The earth's surface",
+        "Surface de la terre",
+        [
+            "land"
+        ],
+        [
+            "sol"
+        ],
+        [
+            "sky"
+        ],
+        [
+            "ciel"
+        ]
+    ],
+    [
+        "observant",
+        "/ɔp.sɛʁ.vɑ̃/",
+        "v. pres. part. observer",
+        "observing",
+        "Watching carefully",
+        "Regardant attentivement",
+        [
+            "watching"
+        ],
+        [
+            "regardant"
+        ],
+        [],
+        []
+    ]
+]

@@ -1,0 +1,688 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron. pers.",
+        "He",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "adv. de lieu",
+        "there",
+        "Location",
+        "Emplacement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir, 3rd pers. sing. pres.",
+        "has",
+        "To have",
+        "Posséder",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "déjà",
+        "/deʒa/",
+        "adv.",
+        "already",
+        "Previously",
+        "Auparavant",
+        [
+            "previously",
+            "beforehand"
+        ],
+        [
+            "auparavant"
+        ],
+        [
+            "not yet"
+        ],
+        [
+            "pas encore"
+        ]
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. plur.",
+        "some",
+        "Plural indefinite article",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "muguets",
+        "/my.ɡɛ/",
+        "n. masc. plur.",
+        "lilies of the valley",
+        "Flower",
+        "Fleur",
+        [
+            "May bells"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "ici",
+        "/i.si/",
+        "adv. de lieu",
+        "here",
+        "In this place",
+        "Dans cet endroit",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Ils",
+        "/il/",
+        "pron. pers. masc. plur.",
+        "They",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "auront",
+        "/o.ʁɔ̃/",
+        "v. avoir, future",
+        "will have",
+        "Future auxiliary verb",
+        "Auxiliaire du futur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "trop",
+        "/tʁo/",
+        "adv.",
+        "too",
+        "Excessively",
+        "Excessivement",
+        [
+            "excessively"
+        ],
+        [
+            "excessivement"
+        ],
+        [
+            "enough"
+        ],
+        [
+            "suffisamment"
+        ]
+    ],
+    [
+        "poussé",
+        "/pu.se/",
+        "v. pousser, past part.",
+        "grown",
+        "Developed",
+        "Développé",
+        [
+            "developed"
+        ],
+        [
+            "développé"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article, plural",
+        "Article défini, pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "uns",
+        "/œ̃/",
+        "pron. indef. masc. pl.",
+        "ones",
+        "Indefinite pronoun, masculine plural",
+        "Pronom indéfini, masculin pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "près",
+        "/pʁɛ/",
+        "adv.",
+        "near",
+        "Close to",
+        "Proche de",
+        [
+            "close"
+        ],
+        [
+            "proche"
+        ],
+        [
+            "far"
+        ],
+        [
+            "loin"
+        ]
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. pl.",
+        "of the",
+        "Contraction of de + les",
+        "Contracté de de + les",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "autres",
+        "/otʁ/",
+        "pron. indef. pl.",
+        "others",
+        "Different people",
+        "Différentes personnes",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj.",
+        "but",
+        "Contrasting conjunction",
+        "Conjonction de contraste",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [
+            "and"
+        ],
+        [
+            "et"
+        ]
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers.",
+        "it",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "pron. adv.",
+        "there",
+        "Adverbial pronoun",
+        "Pronom adverbial",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "pron. pers.",
+        "of them",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v.",
+        "has",
+        "avoir - present tense",
+        "avoir - temps présent",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "beaucoup",
+        "/bo.ku/",
+        "adv.",
+        "a lot",
+        "Many",
+        "Nombreux",
+        [
+            "many",
+            "much"
+        ],
+        [
+            "nombreux"
+        ],
+        [
+            "few"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "Les",
+        "/le/",
+        "art. def. pl.",
+        "The",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "autres",
+        "/otʁ/",
+        "adj.",
+        "others",
+        "Different",
+        "Différent",
+        [
+            "different"
+        ],
+        [
+            "différents"
+        ],
+        [],
+        []
+    ],
+    [
+        "mettent",
+        "/mɛt/",
+        "v.",
+        "put",
+        "mettre - present tense",
+        "mettre - temps présent",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "deux",
+        "/dø/",
+        "num.",
+        "two",
+        "Number",
+        "Nombre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ans",
+        "/ɑ̃/",
+        "n. masc. plur.",
+        "years",
+        "Units of time",
+        "Unités de temps",
+        [
+            "age"
+        ],
+        [
+            "âge"
+        ],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction",
+        "Direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fleurir",
+        "/flœ.ʁiʁ/",
+        "v. infin.",
+        "to bloom",
+        "To blossom",
+        "S'épanouir",
+        [
+            "blossom"
+        ],
+        [
+            "éclore"
+        ],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "from",
+        "Origin",
+        "Origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "partir",
+        "/paʁ.tiʁ/",
+        "v. infin.",
+        "to start",
+        "To begin",
+        "Commencer",
+        [
+            "begin"
+        ],
+        [
+            "commencer"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Belonging to",
+        "Appartenance à",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "graines",
+        "/ɡʁɛn/",
+        "n. fem. plur.",
+        "seeds",
+        "Plant embryos",
+        "Embryons de plantes",
+        [
+            "kernels"
+        ],
+        [
+            "noyaux"
+        ],
+        [],
+        []
+    ],
+    [
+        "mais",
+        "/mɛ/",
+        "conj.",
+        "but",
+        "However",
+        "Cependant",
+        [
+            "however"
+        ],
+        [
+            "cependant"
+        ],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "peux",
+        "/pø/",
+        "v. pouvoir, 1st sing. pres. indic.",
+        "can",
+        "Ability",
+        "Capacité",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "t'",
+        "/tə/",
+        "pron. pers.",
+        "you",
+        "Pronoun referring to the listener",
+        "Pronom personnel référant à l'auditeur",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "apporter",
+        "/a.pɔʁ.te/",
+        "v. apporter, infinitive",
+        "bring",
+        "To carry",
+        "Transporter",
+        [
+            "carry"
+        ],
+        [
+            "transporter"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "plants",
+        "/plɑ̃/",
+        "n. masc. pl.",
+        "plants",
+        "Young vegetation",
+        "Jeune végétation",
+        [
+            "seedlings"
+        ],
+        [
+            "jeunes pousses"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "from",
+        "Origin or source",
+        "Origine ou source",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "notre",
+        "/nɔtʁ/",
+        "adj. possess. masc./fem. sing.",
+        "our",
+        "Belonging to us",
+        "Appartenant à nous",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Cultivated area",
+        "Zone cultivée",
+        [
+            "yard"
+        ],
+        [
+            "cour"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Belonging to",
+        "Appartenance",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cottage",
+        "/kɔ.taʒ/",
+        "n. masc. sing.",
+        "cottage",
+        "Small house",
+        "Petite maison",
+        [
+            "cabin"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Pourquoi",
+        "/puʁ.kwa/",
+        "adv. interr.",
+        "Why",
+        "Reason seeking",
+        "Raison recherchée",
+        [
+            "how come"
+        ],
+        [
+            "comment se fait-il"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "pron. pers. m. pl.",
+        "them",
+        "Direct object pronoun",
+        "Pronom COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. vouloir",
+        "want",
+        "Desire",
+        "Désirer",
+        [
+            "desire"
+        ],
+        [
+            "désirer"
+        ],
+        [
+            "dislike"
+        ],
+        [
+            "détester"
+        ]
+    ],
+    [
+        "-tu",
+        "/ty/",
+        "pron. pers.",
+        "you",
+        "Singular you",
+        "Tu",
+        [],
+        [],
+        [],
+        []
+    ]
+]

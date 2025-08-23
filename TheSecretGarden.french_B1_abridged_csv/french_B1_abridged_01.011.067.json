@@ -1,0 +1,551 @@
+[
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n. prop. fem. sing.",
+        "Marie",
+        "Common feminine name",
+        "Nom féminin courant",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "voulait",
+        "/vu.lɛ/",
+        "v. vouloir - impf.",
+        "wanted",
+        "Expressed a desire",
+        "Exprimait un désir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Masculine singular pronoun",
+        "Pronom personnel masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "quitter",
+        "/ki.te/",
+        "v.inf. quitter",
+        "leave",
+        "To go away from",
+        "S'éloigner de",
+        [
+            "abandon"
+        ],
+        [
+            "abandonner"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Masculine singular pronoun",
+        "Pronom personnel masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ressemblait",
+        "/ʁə.sɑ̃.blɛ/",
+        "v. ressembler - impf.",
+        "resembled",
+        "To be similar to",
+        "Être similaire à",
+        [
+            "looked like"
+        ],
+        [
+            "avait l'air de"
+        ],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Toward",
+        "Vers",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fée",
+        "/fe/",
+        "n. fem. sing.",
+        "fairy",
+        "Mythical creature",
+        "Créature mythique",
+        [
+            "sprite",
+            "enchantress"
+        ],
+        [
+            "magicienne"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "prep. + art. def.",
+        "of the",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "bois",
+        "/bwa/",
+        "n. masc. plur.",
+        "woods",
+        "Forest area",
+        "Zone forestière",
+        [
+            "forest"
+        ],
+        [
+            "forêt"
+        ],
+        [],
+        []
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. rel.",
+        "who",
+        "Relative pronoun",
+        "Pronom relatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pourrait",
+        "/pu.ʁɛ/",
+        "v. cond.",
+        "could",
+        "Conditional tense of pouvoir",
+        "Conditionnel de pouvoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "être",
+        "/ɛtʁ/",
+        "v. inf.",
+        "to be",
+        "Infinitive of être",
+        "Infinitif de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "partie",
+        "/paʁ.ti/",
+        "v. past part. aller",
+        "left",
+        "Departed",
+        "Quitté",
+        [
+            "departed"
+        ],
+        [
+            "quitté"
+        ],
+        [
+            "arrived"
+        ],
+        [
+            "arrivé"
+        ]
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "at",
+        "Indicates location or time",
+        "Indique lieu ou temps",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "son",
+        "/sɔ̃/",
+        "adj. poss. masc. sing.",
+        "his",
+        "Belonging to him",
+        "Appartenant à lui",
+        [
+            "belonging to him"
+        ],
+        [
+            "lui appartenant"
+        ],
+        [],
+        []
+    ],
+    [
+        "retour",
+        "/ʁə.tuʁ/",
+        "n. masc. sing.",
+        "return",
+        "Coming back",
+        "Revenir",
+        [
+            "arrival"
+        ],
+        [
+            "arrivée"
+        ],
+        [
+            "departure"
+        ],
+        [
+            "départ"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third-person singular pronoun",
+        "Pronom personnel troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "semblait",
+        "/sɑ̃.blɛ/",
+        "v. imp. sembler",
+        "seemed",
+        "Appeared to be",
+        "Paraissait être",
+        [
+            "appeared"
+        ],
+        [
+            "paraissait"
+        ],
+        [],
+        []
+    ],
+    [
+        "trop",
+        "/tʁo/",
+        "adv.",
+        "too",
+        "Excessively",
+        "Excessivement",
+        [
+            "excessively"
+        ],
+        [
+            "excessivement"
+        ],
+        [
+            "enough"
+        ],
+        [
+            "assez"
+        ]
+    ],
+    [
+        "beau",
+        "/bo/",
+        "adj. masc. sing.",
+        "good",
+        "Attractive",
+        "Attrayant",
+        [
+            "handsome"
+        ],
+        [
+            "joli"
+        ],
+        [
+            "ugly"
+        ],
+        [
+            "laid"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "Intended direction",
+        "Direction intentionnelle",
+        [
+            "to"
+        ],
+        [
+            "vers"
+        ],
+        [],
+        []
+    ],
+    [
+        "être",
+        "/ɛtʁ/",
+        "v. inf.",
+        "to be",
+        "Existence",
+        "Exister",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vrai",
+        "/vʁɛ/",
+        "adj. masc. sing.",
+        "true",
+        "Accurate",
+        "Exact",
+        [
+            "real"
+        ],
+        [
+            "réel"
+        ],
+        [
+            "false"
+        ],
+        [
+            "faux"
+        ]
+    ],
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Female pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "alla",
+        "/ala/",
+        "v. aller, p. simple",
+        "went",
+        "Past tense of go",
+        "Passé simple de aller",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Direction",
+        "Direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mi-chemin",
+        "/mi.ʃə.mɛ̃/",
+        "n. masc. sing.",
+        "halfway",
+        "Middle point",
+        "Point médian",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Belonging to",
+        "Appartenance",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "porte",
+        "/pɔʁt/",
+        "n. fem. sing.",
+        "door",
+        "Entrance",
+        "Entrée",
+        [
+            "entrance"
+        ],
+        [
+            "entrée"
+        ],
+        [],
+        []
+    ],
+    [
+        "puis",
+        "/pɥi/",
+        "adv.",
+        "then",
+        "Next in sequence",
+        "Ensuite",
+        [
+            "afterwards"
+        ],
+        [
+            "ensuite"
+        ],
+        [
+            "before"
+        ],
+        [
+            "avant"
+        ]
+    ],
+    [
+        "s'arrêta",
+        "/sa.ʁɛ.ta/",
+        "v. refl. passé simple; arrêter",
+        "stopped",
+        "Ceased moving",
+        "Cessa de bouger",
+        [
+            "halted"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "revint",
+        "/ʁə.vɛ̃/",
+        "v. passé simple; revenir",
+        "returned",
+        "Came back",
+        "Retourna",
+        [
+            "came back"
+        ],
+        [],
+        [],
+        []
+    ]
+]

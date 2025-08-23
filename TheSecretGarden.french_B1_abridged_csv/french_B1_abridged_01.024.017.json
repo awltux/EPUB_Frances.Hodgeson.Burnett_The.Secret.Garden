@@ -1,0 +1,365 @@
+[
+    [
+        "Les",
+        "/le/",
+        "art. def. pl.",
+        "The",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. f. pl.",
+        "Things",
+        "Items, matters",
+        "Articles, affaires",
+        [
+            "items",
+            "matters"
+        ],
+        [
+            "articles",
+            "affaires"
+        ],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "me",
+        "/mə/",
+        "pron. pers.",
+        "me",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "contrarient",
+        "/kɔ̃.tʁa.ʁj/",
+        "v. contrarier",
+        "bother",
+        "To upset or annoy",
+        "Déranger ou ennuyer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative reinforcement",
+        "Renforcement négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aussi",
+        "/o.si/",
+        "adv.",
+        "as",
+        "To the same extent",
+        "Dans la même mesure",
+        [
+            "also"
+        ],
+        [
+            "également"
+        ],
+        [
+            "less"
+        ],
+        [
+            "moins"
+        ]
+    ],
+    [
+        "souvent",
+        "/su.vɑ̃/",
+        "adv.",
+        "often",
+        "Frequently",
+        "Fréquemment",
+        [
+            "frequently"
+        ],
+        [
+            "fréquemment"
+        ],
+        [
+            "rarely"
+        ],
+        [
+            "rarement"
+        ]
+    ],
+    [
+        "maintenant",
+        "/mɛ̃t.nɑ̃/",
+        "adv. time",
+        "now",
+        "At the present time",
+        "Au moment présent",
+        [
+            "currently",
+            "presently"
+        ],
+        [
+            "actuellement"
+        ],
+        [
+            "later"
+        ],
+        [
+            "plus tard"
+        ]
+    ],
+    [
+        "répondit",
+        "/ʁe.pɔ̃.di/",
+        "v. répondre",
+        "replied",
+        "Answered",
+        "A répondu",
+        [
+            "answered"
+        ],
+        [
+            "rétorqua"
+        ],
+        [
+            "questioned"
+        ],
+        [
+            "demanda"
+        ]
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. proper masc. sing.",
+        "Colin",
+        "A male name",
+        "Un nom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. reflexive",
+        "himself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "souvenant",
+        "/suv.nɑ̃/",
+        "v. souvenir",
+        "remembering",
+        "Recalling",
+        "Se rappeler",
+        [
+            "recalling"
+        ],
+        [
+            "se rappeler"
+        ],
+        [
+            "forgetting"
+        ],
+        [
+            "oublier"
+        ]
+    ],
+    [
+        "qu'il",
+        "/kil/",
+        "conj.",
+        "that he",
+        "Introducing a clause",
+        "Introduisant une clause",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "si"
+        ]
+    ],
+    [
+        "devait",
+        "/də.vɛ/",
+        "v. devoir",
+        "had to",
+        "Owed to",
+        "Obligation",
+        [
+            "should"
+        ],
+        [
+            "aurait dû"
+        ],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "paraître",
+        "/pa.ʁɛtʁ/",
+        "v. infinitive",
+        "to seem",
+        "To give an impression",
+        "Donner une impression",
+        [
+            "appear"
+        ],
+        [
+            "apparaître"
+        ],
+        [],
+        []
+    ],
+    [
+        "trop",
+        "/tʁo/",
+        "adv.",
+        "too",
+        "Excessively",
+        "Excessivement",
+        [
+            "excessively"
+        ],
+        [
+            "excessivement"
+        ],
+        [
+            "enough"
+        ],
+        [
+            "assez"
+        ]
+    ],
+    [
+        "bien",
+        "/bjɛ̃/",
+        "adv.",
+        "good",
+        "In a good way",
+        "De manière positive",
+        [
+            "well"
+        ],
+        [
+            "correctement"
+        ],
+        [
+            "badly"
+        ],
+        [
+            "mal"
+        ]
+    ],
+    [
+        "C'est",
+        "/sɛ/",
+        "c'être",
+        "It is",
+        "Confirmation",
+        "Confirmation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'air",
+        "/lɛʁ/",
+        "n. masc. sing.",
+        "the air",
+        "Atmosphere",
+        "Atmosphère",
+        [
+            "atmosphere"
+        ],
+        [
+            "atmosphère"
+        ],
+        [],
+        []
+    ],
+    [
+        "frais",
+        "/fʁɛ/",
+        "adj. masc. sing.",
+        "fresh",
+        "New; Recently made or obtained",
+        "Nouveau; Récemment fait ou obtenu",
+        [
+            "new"
+        ],
+        [
+            "nouveau"
+        ],
+        [
+            "stale"
+        ],
+        [
+            "vicié"
+        ]
+    ]
+]

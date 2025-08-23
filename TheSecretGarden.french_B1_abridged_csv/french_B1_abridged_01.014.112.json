@@ -1,0 +1,580 @@
+[
+    [
+        "Ils",
+        "/il/",
+        "pron. pers. masc. plur.",
+        "They",
+        "A group of people",
+        "Un groupe de personnes",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veulent",
+        "/vœl/",
+        "v. vouloir",
+        "want",
+        "To desire",
+        "Désirer",
+        [
+            "desire"
+        ],
+        [
+            "désirer"
+        ],
+        [],
+        []
+    ],
+    [
+        "toujours",
+        "/tu.ʒuʁ/",
+        "adv.",
+        "always",
+        "At all times",
+        "En tout temps",
+        [
+            "constantly"
+        ],
+        [
+            "constamment"
+        ],
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ]
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. sub.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers. sing.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mange",
+        "/mɑ̃ʒ/",
+        "v. manger",
+        "eat",
+        "To consume food",
+        "Consommer de la nourriture",
+        [
+            "devour"
+        ],
+        [
+            "dévorer"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indef. plur.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "choses",
+        "/ʃoz/",
+        "n. f. plur.",
+        "things",
+        "Objects or items",
+        "Objets ou articles",
+        [
+            "items"
+        ],
+        [
+            "articles"
+        ],
+        [],
+        []
+    ],
+    [
+        "quand",
+        "/kɑ̃/",
+        "adv. de temps",
+        "when",
+        "At what time?",
+        "À quel moment ?",
+        [
+            "while"
+        ],
+        [
+            "lorsque"
+        ],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers. subj.",
+        "I",
+        "First-person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "n'",
+        "/nə/",
+        "part. nég.",
+        "not",
+        "Indicates negation",
+        "Indique la négation",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "pron. pers.",
+        "of it",
+        "Pronoun replacing a noun",
+        "Pronom remplaçant un nom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veux",
+        "/vø/",
+        "v. vouloir",
+        "want",
+        "To desire",
+        "Désirer",
+        [
+            "desire"
+        ],
+        [
+            "désirer"
+        ],
+        [
+            "dislike"
+        ],
+        [
+            "détester"
+        ]
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. nég.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire",
+        "said",
+        "To utter words",
+        "Prononcer des mots",
+        [
+            "stated"
+        ],
+        [
+            "déclaré"
+        ],
+        [],
+        []
+    ],
+    [
+        "Colin",
+        "/kɔ.lɛ̃/",
+        "n. propre",
+        "Colin",
+        "A given name",
+        "Un prénom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "alors",
+        "/a.lɔʁ/",
+        "adv.",
+        "then",
+        "At that time",
+        "À ce moment-là",
+        [
+            "so"
+        ],
+        [
+            "donc"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "art. def. fem. sing.",
+        "the",
+        "Definite article, feminine singular",
+        "Article défini, féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "infirmière",
+        "/ɛ̃.fiʁ.mjɛʁ/",
+        "n. fem. sing.",
+        "nurse",
+        "Medical professional",
+        "Professionnel de santé",
+        [
+            "caregiver"
+        ],
+        [
+            "soignante"
+        ],
+        [],
+        []
+    ],
+    [
+        "apportait",
+        "/a.pɔʁ.tɛ/",
+        "v. imparf. apporter",
+        "was bringing",
+        "Past action, to bring",
+        "Action passée, apporter",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article, masculine singular",
+        "Article défini, masculin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "thé",
+        "/te/",
+        "n. masc. sing.",
+        "tea",
+        "Hot beverage",
+        "Boisson chaude",
+        [
+            "beverage"
+        ],
+        [
+            "boisson"
+        ],
+        [],
+        []
+    ],
+    [
+        "Maintenant",
+        "/mɛ̃t.nɑ̃/",
+        "adv.",
+        "Now",
+        "At the present time",
+        "Au moment présent",
+        [
+            "presently"
+        ],
+        [
+            "actuellement"
+        ],
+        [
+            "later"
+        ],
+        [
+            "plus tard"
+        ]
+    ],
+    [
+        "si",
+        "/si/",
+        "conj.",
+        "if",
+        "Conditional conjunction",
+        "Conjonction de condition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers.",
+        "you",
+        "Second person singular pronoun",
+        "Pronom personnel, deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "manges",
+        "/mɑ̃ʒ/",
+        "v. Prés. ind. manger",
+        "eat",
+        "Consume food",
+        "Consommer de la nourriture",
+        [
+            "devour",
+            "consume"
+        ],
+        [
+            "dévorer",
+            "consommer"
+        ],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person singular pronoun",
+        "Pronom personnel première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "mangerai",
+        "/mɑ̃ʒ.ʁe/",
+        "v. Futur simple manger",
+        "will eat",
+        "Future tense of eating",
+        "Futur du verbe manger",
+        [
+            "consume",
+            "devour"
+        ],
+        [
+            "consommer",
+            "dévorer"
+        ],
+        [],
+        []
+    ],
+    [
+        "Ces",
+        "/se/",
+        "adj. dem. plur.",
+        "These",
+        "Plural demonstrative adjective",
+        "Adjectif démonstratif pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "muffins",
+        "/mœ.fɛ̃/",
+        "n. masc. plur.",
+        "muffins",
+        "Small baked goods",
+        "Petites pâtisseries cuites au four",
+        [
+            "cupcakes"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "ont",
+        "/ɔ̃/",
+        "v. Prés. ind. avoir",
+        "have",
+        "To possess",
+        "Posséder",
+        [
+            "possess"
+        ],
+        [
+            "posséder"
+        ],
+        [],
+        []
+    ],
+    [
+        "l'air",
+        "/lɛʁ/",
+        "n. masc. sing.",
+        "look",
+        "Appearance",
+        "Apparence",
+        [
+            "appearance",
+            "aspect"
+        ],
+        [
+            "apparence",
+            "aspect"
+        ],
+        [],
+        []
+    ],
+    [
+        "bons",
+        "/bɔ̃/",
+        "adj. masc. plur.",
+        "good",
+        "Of high quality",
+        "De haute qualité",
+        [
+            "tasty",
+            "delicious"
+        ],
+        [
+            "savoureux",
+            "délicieux"
+        ],
+        [
+            "bad"
+        ],
+        [
+            "mauvais"
+        ],
+        [
+            "bad"
+        ],
+        [
+            "mauvais"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chauds",
+        "/ʃo/",
+        "adj. masc. plur.",
+        "warm",
+        "Not cold",
+        "Non froid",
+        [
+            "hot"
+        ],
+        [
+            "brûlants"
+        ],
+        [
+            "cold"
+        ],
+        [
+            "froids"
+        ]
+    ],
+    [
+        "Parle-moi",
+        "/paʁl.mwa/",
+        "v. parler, imperative",
+        "Tell me",
+        "Inform me",
+        "Informe-moi",
+        [
+            "explain to me"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. def. plur.",
+        "of the",
+        "Partitive article",
+        "Article partitif",
+        [
+            "about the"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Rajahs",
+        "/ʁa.ʒa/",
+        "n. masc. plur.",
+        "Rajás",
+        "Indian Kings",
+        "Rois indiens",
+        [
+            "kings"
+        ],
+        [],
+        [],
+        []
+    ]
+]

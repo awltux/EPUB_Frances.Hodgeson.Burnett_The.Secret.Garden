@@ -1,0 +1,486 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pron.pers. masc. sing.",
+        "It",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "est",
+        "/ɛ/",
+        "v. être, 3rd pers. sing. pres.",
+        "is",
+        "To be",
+        "Être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "temps",
+        "/tɑ̃/",
+        "n. masc. sing.",
+        "time",
+        "Duration",
+        "Durée",
+        [
+            "moment",
+            "period"
+        ],
+        [
+            "moment",
+            "période"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "to",
+        "Preposition",
+        "Préposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "se",
+        "/sə/",
+        "pron. réfl.",
+        "oneself",
+        "Reflexive pronoun",
+        "Pronom réfléchi",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "lever",
+        "/ləve/",
+        "v. inf. se lever",
+        "to get up",
+        "To arise",
+        "Se mettre debout",
+        [
+            "arise",
+            "awaken"
+        ],
+        [
+            "se réveiller",
+            "s'éveiller"
+        ],
+        [
+            "lie down"
+        ],
+        [
+            "se coucher"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire, 3rd pers. sing. passé simple",
+        "said",
+        "To say",
+        "Dire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marthe",
+        "/maʁt/",
+        "n.prop.",
+        "Martha",
+        "A female name",
+        "Nom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Mme",
+        "/madam/",
+        "n. title",
+        "Mrs.",
+        "Title of respect",
+        "Titre de respect",
+        [
+            "Madam"
+        ],
+        [
+            "Madame"
+        ],
+        [],
+        []
+    ],
+    [
+        "Medlock",
+        "/medlɔk/",
+        "n. proper",
+        "Medlock",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "veut",
+        "/vø/",
+        "v. vouloir",
+        "wants",
+        "Desires",
+        "Désire",
+        [
+            "desires"
+        ],
+        [
+            "désire"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. subordinating",
+        "that",
+        "Introduces a subordinate clause",
+        "Introduit une proposition subordonnée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "j'apporte",
+        "/ʒ‿apɔʁt/",
+        "v. apporter",
+        "I bring",
+        "To carry something",
+        "Porter quelque chose",
+        [
+            "carry"
+        ],
+        [
+            "transporter"
+        ],
+        [],
+        []
+    ],
+    [
+        "ton",
+        "/tɔ̃/",
+        "adj. poss. masc. sing.",
+        "your",
+        "Belonging to you",
+        "Qui t'appartient",
+        [
+            "thy"
+        ],
+        [
+            "tien"
+        ],
+        [],
+        []
+    ],
+    [
+        "petit-déjeuner",
+        "/pə.ti.de.ʒœ.ne/",
+        "n. masc. sing.",
+        "breakfast",
+        "Morning meal",
+        "Repas du matin",
+        [
+            "morning meal"
+        ],
+        [
+            "repas matinal"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside",
+        "À l'intérieur",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [
+            "out"
+        ],
+        [
+            "dehors"
+        ]
+    ],
+    [
+        "la",
+        "/la/",
+        "art. def. fem. sing.",
+        "the",
+        "Feminine definite article",
+        "Article défini féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pièce",
+        "/pjɛs/",
+        "n. fem. sing.",
+        "room",
+        "A space in a building",
+        "Espace dans un bâtiment",
+        [
+            "chamber",
+            "area"
+        ],
+        [
+            "chambre",
+            "salle"
+        ],
+        [],
+        []
+    ],
+    [
+        "d'",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates possession or origin",
+        "Indique la possession ou l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Indicates direction or location",
+        "Indique la direction ou l'emplacement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "côté",
+        "/ko.te/",
+        "n. masc. sing.",
+        "side",
+        "A surface or part",
+        "Une surface ou une partie",
+        [
+            "edge"
+        ],
+        [
+            "bord"
+        ],
+        [],
+        []
+    ],
+    [
+        "C'est",
+        "/sɛ/",
+        "c'être",
+        "It is",
+        "Contraction of cela est",
+        "Contraction de cela est",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ta",
+        "/ta/",
+        "adj. poss. fem. sing.",
+        "your",
+        "Belonging to you",
+        "Qui t'appartient",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "chambre",
+        "/ʃɑ̃bʁ/",
+        "n. fem. sing.",
+        "room",
+        "Bedroom",
+        "Pièce pour dormir",
+        [
+            "bedroom"
+        ],
+        [
+            "pièce"
+        ],
+        [],
+        []
+    ],
+    [
+        "d'enfant",
+        "/dɑ̃.fɑ̃/",
+        "n. masc. sing.",
+        "childhood",
+        "Time of being a child",
+        "Période de l'enfance",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "maintenant",
+        "/mɛ̃t.nɑ̃/",
+        "adv.",
+        "now",
+        "At the present time",
+        "Au moment présent",
+        [
+            "currently",
+            "presently"
+        ],
+        [
+            "actuellement",
+            "présentement"
+        ],
+        [
+            "later"
+        ],
+        [
+            "plus tard"
+        ]
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vais",
+        "/vɛ/",
+        "v. aller",
+        "go",
+        "To move",
+        "Se déplacer",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "t'",
+        "/tə/",
+        "pron. pers.",
+        "you",
+        "Second person singular pronoun",
+        "Deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aider",
+        "/e.de/",
+        "v. aider",
+        "help",
+        "To assist",
+        "Assister",
+        [
+            "assist",
+            "support"
+        ],
+        [
+            "assister",
+            "soutenir"
+        ],
+        [
+            "hinder"
+        ],
+        [
+            "nuire"
+        ]
+    ],
+    [
+        "avec",
+        "/a.vɛk/",
+        "prep.",
+        "with",
+        "In the company of",
+        "En compagnie de",
+        [],
+        [],
+        [
+            "without"
+        ],
+        [
+            "sans"
+        ]
+    ],
+    [
+        "tes",
+        "/te/",
+        "adj. poss.",
+        "your",
+        "Belonging to you (singular)",
+        "Appartenant à vous (singulier)",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vêtements",
+        "/vɛt.mɑ̃/",
+        "n. masc. pl.",
+        "clothes",
+        "Garments",
+        "Habits",
+        [
+            "attire",
+            "apparel"
+        ],
+        [
+            "habits",
+            "effets"
+        ],
+        [],
+        []
+    ]
+]

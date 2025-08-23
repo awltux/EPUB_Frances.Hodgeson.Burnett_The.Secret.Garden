@@ -1,0 +1,334 @@
+[
+    [
+        "Le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "The",
+        "Masculine definite article",
+        "Article défini masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jeune",
+        "/ʒœn/",
+        "adj. masc. sing.",
+        "young",
+        "Not old",
+        "Pas vieux",
+        [
+            "youthful"
+        ],
+        [
+            "juvénile"
+        ],
+        [
+            "old"
+        ],
+        [
+            "vieux"
+        ]
+    ],
+    [
+        "homme",
+        "/ɔm/",
+        "n. masc. sing.",
+        "man",
+        "Adult male",
+        "Adulte mâle",
+        [
+            "male"
+        ],
+        [
+            "mâle"
+        ],
+        [
+            "woman"
+        ],
+        [
+            "femme"
+        ]
+    ],
+    [
+        "Barney",
+        "/baʁ.nɛ/",
+        "n. prop.",
+        "Barney",
+        "Proper name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "la",
+        "/la/",
+        "pron. pers. fem. sing.",
+        "her",
+        "Feminine direct object pronoun",
+        "Pronom personnel féminin COD",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "regarda",
+        "/ʁə.ɡaʁ.da/",
+        "v. regarder, p. simple",
+        "looked at",
+        "Gazed at",
+        "Observa",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tristement",
+        "/tʁist.mɑ̃/",
+        "adv.",
+        "sadly",
+        "In a sorrowful way",
+        "D'une manière triste",
+        [
+            "sorrowfully"
+        ],
+        [
+            "doucereusement"
+        ],
+        [
+            "happily"
+        ],
+        [
+            "joyeusement"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Plural definite article",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "yeux",
+        "/jø/",
+        "n. masc. pl.",
+        "eyes",
+        "Organs of sight",
+        "Organes de la vue",
+        [
+            "orbs"
+        ],
+        [
+            "prunelles"
+        ],
+        [],
+        []
+    ],
+    [
+        "brillants",
+        "/bʁi.jɑ̃/",
+        "adj. masc. plur.",
+        "bright",
+        "Shining intensely",
+        "Scintillants",
+        [
+            "radiant",
+            "shining"
+        ],
+        [
+            "éclatants",
+            "scintillants"
+        ],
+        [
+            "dull"
+        ],
+        [
+            "ternes"
+        ]
+    ],
+    [
+        "Pauvre",
+        "/povʁ/",
+        "adj.",
+        "Poor",
+        "Deserving pity",
+        "Malheureuse",
+        [
+            "unfortunate"
+        ],
+        [
+            "malheureux"
+        ],
+        [
+            "rich"
+        ],
+        [
+            "riche"
+        ]
+    ],
+    [
+        "petite",
+        "/pə.tit/",
+        "adj. fem. sing.",
+        "little",
+        "Small in size",
+        "Menue",
+        [
+            "small",
+            "tiny"
+        ],
+        [
+            "menue",
+            "minuscule"
+        ],
+        [
+            "big"
+        ],
+        [
+            "grand"
+        ]
+    ],
+    [
+        "dit-il",
+        "/di.til/",
+        "v.",
+        "he said",
+        "Expression of speech",
+        "Il a exprimé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third-person pronoun",
+        "3e personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "reste",
+        "/ʁɛst/",
+        "v. rester",
+        "remains",
+        "What is left",
+        "Ce qui demeure",
+        [
+            "endures"
+        ],
+        [
+            "demeure"
+        ],
+        [],
+        []
+    ],
+    [
+        "plus",
+        "/plys/",
+        "adv.",
+        "more",
+        "Additional amount",
+        "Montant supplémentaire",
+        [
+            "additional"
+        ],
+        [
+            "supplémentaire"
+        ],
+        [
+            "less"
+        ],
+        [
+            "moins"
+        ]
+    ],
+    [
+        "personne",
+        "/pɛʁ.sɔn/",
+        "n.f.",
+        "nobody",
+        "No one",
+        "Aucun individu",
+        [
+            "no one"
+        ],
+        [
+            "aucun"
+        ],
+        [
+            "everybody"
+        ],
+        [
+            "tout le monde"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "to",
+        "Intention",
+        "Intention",
+        [
+            "towards"
+        ],
+        [
+            "vers"
+        ],
+        [],
+        []
+    ],
+    [
+        "venir",
+        "/və.niʁ/",
+        "v.inf.",
+        "come",
+        "To arrive",
+        "Arriver",
+        [
+            "approach"
+        ],
+        [
+            "approcher"
+        ],
+        [
+            "leave"
+        ],
+        [
+            "partir"
+        ]
+    ]
+]

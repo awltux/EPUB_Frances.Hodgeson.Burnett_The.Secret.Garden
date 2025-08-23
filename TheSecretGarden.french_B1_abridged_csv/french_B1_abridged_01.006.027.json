@@ -1,0 +1,558 @@
+[
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Feminine pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "l'",
+        "/lə/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Pronoun before vowel",
+        "Pronom devant voyelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/avɛ/",
+        "v. avoir, impf.",
+        "had",
+        "Past auxiliary",
+        "Auxiliaire du passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "entendu",
+        "/ɑ̃.tɑ̃.dy/",
+        "v. entendre, p.p.",
+        "heard",
+        "Past participle of hear",
+        "Participe passé de entendre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "deux",
+        "/dø/",
+        "num. card.",
+        "two",
+        "Number 2",
+        "Numéro 2",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fois",
+        "/fwa/",
+        "n. fem. sing.",
+        "times",
+        "Occurrences",
+        "Occurrences",
+        [
+            "instance"
+        ],
+        [
+            "occurrence"
+        ],
+        [],
+        []
+    ],
+    [
+        "maintenant",
+        "/mɛ̃t.nɑ̃/",
+        "adv. de temps",
+        "now",
+        "At the present time",
+        "Au moment présent",
+        [
+            "currently"
+        ],
+        [
+            "actuellement"
+        ],
+        [
+            "later"
+        ],
+        [
+            "plus tard"
+        ]
+    ],
+    [
+        "découvrirait",
+        "/de.ku.vʁi.ʁɛ/",
+        "v. découvrir, cond. prés.",
+        "would discover",
+        "Future in the past",
+        "Futur dans le passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "qui",
+        "/ki/",
+        "pron. interr.",
+        "who",
+        "Interrogative pronoun",
+        "Pronom interrogatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "!",
+        "/!/",
+        "ponctuation",
+        "exclamation point",
+        "Emphasis",
+        "Emphase",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "c'était",
+        "/sɛ.tɛ/",
+        "v. impers. être",
+        "it was",
+        "Past tense statement",
+        "Affirmation au passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Malgré",
+        "/mal.ɡʁe/",
+        "prep.",
+        "Despite",
+        "Notwithstanding",
+        "En dépit de",
+        [
+            "in spite of",
+            "regardless of"
+        ],
+        [
+            "en dépit de",
+            "nonobstant"
+        ],
+        [
+            "because of"
+        ],
+        [
+            "à cause de"
+        ]
+    ],
+    [
+        "Mme",
+        "/madam/",
+        "n.f.",
+        "Mrs.",
+        "Title for a married woman",
+        "Titre pour une femme mariée",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Medlock",
+        "/med.lɔk/",
+        "nom propre",
+        "Medlock",
+        "Proper name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cela",
+        "/sə.la/",
+        "pron. dém.",
+        "that",
+        "Demonstrative pronoun",
+        "Pronom démonstratif",
+        [
+            "that thing"
+        ],
+        [
+            "cette chose"
+        ],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/avɛ/",
+        "v. avoir, aux.",
+        "had been",
+        "Auxiliary verb",
+        "Verbe auxiliaire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "été",
+        "/e.te/",
+        "v. être, p. passé",
+        "been",
+        "Past participle of être",
+        "Participe passé de être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indéf. fém.",
+        "a",
+        "Indefinite article feminine",
+        "Article indéfini féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "matinée",
+        "/ma.ti.ne/",
+        "n. f.",
+        "morning",
+        "Morning time",
+        "Heure du matin",
+        [
+            "forenoon"
+        ],
+        [
+            "avant-midi"
+        ],
+        [
+            "evening"
+        ],
+        [
+            "soirée"
+        ]
+    ],
+    [
+        "intéressante",
+        "/ɛ̃.te.ʁɛ.sɑ̃t/",
+        "adj. fem. sing.",
+        "interesting",
+        "Fascinating",
+        "Captivant",
+        [
+            "fascinating",
+            "engaging"
+        ],
+        [
+            "captivante",
+            "passionnante"
+        ],
+        [
+            "boring"
+        ],
+        [
+            "ennuyeuse"
+        ]
+    ],
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Female pronoun",
+        "Pronom féminin",
+        [
+            "her"
+        ],
+        [
+            "la"
+        ],
+        [
+            "he"
+        ],
+        [
+            "il"
+        ]
+    ],
+    [
+        "avait",
+        "/a.vɛ/",
+        "v. avoir, imparfait",
+        "had",
+        "Past tense auxiliary",
+        "Auxiliaire du passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "exploré",
+        "/ɛks.plɔ.ʁe/",
+        "v. explorer, p. passé",
+        "explored",
+        "Investigated",
+        "Examiné",
+        [
+            "investigated",
+            "examined"
+        ],
+        [
+            "examiné",
+            "étudié"
+        ],
+        [],
+        []
+    ],
+    [
+        "joué",
+        "/ʒwe/",
+        "v. jouer, p. passé",
+        "played",
+        "Participated in a game",
+        "Participé à un jeu",
+        [
+            "acted",
+            "performed"
+        ],
+        [
+            "agi",
+            "interprété"
+        ],
+        [],
+        []
+    ],
+    [
+        "avec",
+        "/a.vɛk/",
+        "prep.",
+        "with",
+        "Accompanied by",
+        "Accompagné de",
+        [
+            "alongside"
+        ],
+        [
+            "ensemble"
+        ],
+        [
+            "without"
+        ],
+        [
+            "sans"
+        ]
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. pl.",
+        "some",
+        "Indefinite article plural",
+        "Article indéfini pluriel",
+        [
+            "several"
+        ],
+        [
+            "plusieurs"
+        ],
+        [],
+        []
+    ],
+    [
+        "éléphants",
+        "/e.le.fɑ̃/",
+        "n. masc. pl.",
+        "elephants",
+        "Large mammal",
+        "Grand mammifère",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [
+            "also"
+        ],
+        [
+            "aussi"
+        ],
+        [
+            "but"
+        ],
+        [
+            "mais"
+        ]
+    ],
+    [
+        "vu",
+        "/vy/",
+        "v. past part. voir",
+        "seen",
+        "Observed",
+        "Observé",
+        [
+            "spotted"
+        ],
+        [
+            "aperçu"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "souris",
+        "/su.ʁi/",
+        "n. f. pl.",
+        "mice",
+        "Rodents",
+        "Rongeurs",
+        [
+            "rats"
+        ],
+        [
+            "rats"
+        ],
+        [],
+        []
+    ],
+    [
+        "Cela",
+        "/sə.la/",
+        "pron. dem.",
+        "That",
+        "Referring to something",
+        "Se référant à quelque chose",
+        [
+            "it"
+        ],
+        [
+            "ceci"
+        ],
+        [],
+        []
+    ],
+    [
+        "avait",
+        "/a.vɛ/",
+        "v. aux. imparf. avoir",
+        "had been",
+        "Past tense auxiliary",
+        "Auxiliaire du passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "été",
+        "/e.te/",
+        "v. past part. être",
+        "been",
+        "Past participle of 'to be'",
+        "Participe passé de 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "an",
+        "Indefinite article feminine singular",
+        "Article indéfini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aventure",
+        "/a.vɑ̃.tyʁ/",
+        "n. f. sing.",
+        "adventure",
+        "Exciting experience",
+        "Expérience excitante",
+        [
+            "experience"
+        ],
+        [
+            "expérience"
+        ],
+        [],
+        []
+    ],
+    [
+        "été",
+        "/e.te/",
+        "v. past part. être",
+        "been",
+        "Past participle of 'to be'",
+        "Participe passé de 'être'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "an",
+        "Indefinite article feminine singular",
+        "Article indéfini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ]
+]

@@ -1,0 +1,176 @@
+[
+    [
+        "Tu",
+        "/ty/",
+        "pron. pers. sing.",
+        "You",
+        "Singular pronoun",
+        "Pronom singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "es",
+        "/ɛ/",
+        "v. être, prés. ind. 2nd sing.",
+        "are",
+        "To be",
+        "Être",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "réelle",
+        "/ʁe.ɛl/",
+        "adj. fem. sing.",
+        "real",
+        "Authentic",
+        "Authentique",
+        [
+            "genuine",
+            "true"
+        ],
+        [
+            "authentique",
+            "vrai"
+        ],
+        [
+            "fake"
+        ],
+        [
+            "faux"
+        ]
+    ],
+    [
+        "n'est-ce",
+        "/nɛs/",
+        "exp.",
+        "isn't it",
+        "Tag question",
+        "Question d'accord",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers. sing.",
+        "I",
+        "First person singular",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fais",
+        "/fɛ/",
+        "v. faire, impératif",
+        "make",
+        "To create",
+        "Créer",
+        [
+            "do",
+            "perform"
+        ],
+        [
+            "réaliser",
+            "exécuter"
+        ],
+        [],
+        []
+    ],
+    [
+        "des",
+        "/de/",
+        "art. indéf. plur.",
+        "some",
+        "Indefinite article, plural",
+        "Article indéfini, pluriel",
+        [
+            "few"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "rêves",
+        "/rɛv/",
+        "n. masc. plur.",
+        "dreams",
+        "A series of thoughts, images, and sensations occurring in a person's mind during sleep",
+        "Série de pensées, d'images et de sensations se produisant dans l'esprit d'une personne pendant son sommeil",
+        [
+            "visions"
+        ],
+        [
+            "songes"
+        ],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "adv.",
+        "so",
+        "To such a great extent",
+        "À tel point",
+        [
+            "very"
+        ],
+        [
+            "tellement"
+        ],
+        [],
+        []
+    ],
+    [
+        "réels",
+        "/ʁe.ɛl/",
+        "adj. masc. plur.",
+        "real",
+        "Actually existing or occurring; not imagined or pretended",
+        "Existant ou se produisant réellement; pas imaginé ou simulé",
+        [
+            "genuine",
+            "authentic"
+        ],
+        [
+            "authentiques",
+            "véritables"
+        ],
+        [
+            "fake",
+            "imaginary"
+        ],
+        [
+            "faux",
+            "imaginaire"
+        ]
+    ]
+]

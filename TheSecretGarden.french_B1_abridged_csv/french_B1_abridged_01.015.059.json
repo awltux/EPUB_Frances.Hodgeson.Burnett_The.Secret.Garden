@@ -1,0 +1,284 @@
+[
+    [
+        "Il",
+        "/il/",
+        "pers. pron. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "neg. particle",
+        "not",
+        "Negative marker",
+        "Marqueur négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "devrait",
+        "/də.vʁɛ/",
+        "v. cond. present; devoir",
+        "should",
+        "Ought to",
+        "Obligation",
+        [
+            "must"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "penser",
+        "/pɑ̃.se/",
+        "v. infinitive",
+        "think",
+        "To have a belief",
+        "Réfléchir",
+        [
+            "believe"
+        ],
+        [
+            "croire"
+        ],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "prep.",
+        "like",
+        "Similar to",
+        "Similaire à",
+        [
+            "as"
+        ],
+        [
+            "tel"
+        ],
+        [
+            "unlike"
+        ],
+        [
+            "différent"
+        ]
+    ],
+    [
+        "ça",
+        "/sa/",
+        "pron. dem.",
+        "that",
+        "Referring to something",
+        "Se référant à quelque chose",
+        [
+            "this"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. dire - past historic 3rd person sing.",
+        "said",
+        "Spoken words",
+        "Paroles prononcées",
+        [
+            "stated"
+        ],
+        [
+            "déclaré"
+        ],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/dikɔn/",
+        "proper noun",
+        "Dickon",
+        "Character name",
+        "Nom de personnage",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Aucun",
+        "/okœ̃/",
+        "adj. indef. masc. sing.",
+        "No",
+        "Not any",
+        "Pas un seul",
+        [
+            "none"
+        ],
+        [
+            "nul"
+        ],
+        [
+            "some"
+        ],
+        [
+            "certains"
+        ]
+    ],
+    [
+        "garçon",
+        "/gaʁ.sɔ̃/",
+        "n. masc. sing.",
+        "boy",
+        "Male child",
+        "Enfant mâle",
+        [
+            "lad"
+        ],
+        [
+            "jeune homme"
+        ],
+        [
+            "girl"
+        ],
+        [
+            "fille"
+        ]
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative particle",
+        "Particule négative",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pourrait",
+        "/pu.ʁɛ/",
+        "v. pouvoir - conditional tense",
+        "could",
+        "Past ability",
+        "Capacité passée",
+        [
+            "might"
+        ],
+        [
+            "devrait"
+        ],
+        [],
+        []
+    ],
+    [
+        "guérir",
+        "/ge.ʁiʁ/",
+        "v. inf.",
+        "to heal",
+        "Become healthy",
+        "Devenir sain",
+        [
+            "recover",
+            "cure"
+        ],
+        [
+            "rétablir",
+            "soigner"
+        ],
+        [
+            "worsen"
+        ],
+        [
+            "aggraver"
+        ]
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "by",
+        "Expressing means",
+        "Exprimant un moyen",
+        [
+            "through"
+        ],
+        [
+            "à travers"
+        ],
+        [],
+        []
+    ],
+    [
+        "pensant",
+        "/pɑ̃.sɑ̃/",
+        "v. gér. penser",
+        "thinking",
+        "Act of considering",
+        "Action de considérer",
+        [
+            "believing",
+            "reasoning"
+        ],
+        [
+            "croyant",
+            "raisonnant"
+        ],
+        [],
+        []
+    ],
+    [
+        "ainsi",
+        "/ɛ̃.si/",
+        "adv.",
+        "so",
+        "In this way",
+        "De cette manière",
+        [
+            "thus",
+            "therefore"
+        ],
+        [
+            "donc",
+            "par conséquent"
+        ],
+        [
+            "differently"
+        ],
+        [
+            "autrement"
+        ]
+    ]
+]

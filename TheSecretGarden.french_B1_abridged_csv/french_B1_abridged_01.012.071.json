@@ -1,0 +1,790 @@
+[
+    [
+        "Mme",
+        "/madam/",
+        "n.f.",
+        "Madam",
+        "French title for a woman",
+        "Titre honorifique féminin français",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Medlock",
+        "/mɛdlɔk/",
+        "nom propre",
+        "Medlock",
+        "Surname",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "dit",
+        "/di/",
+        "v.",
+        "said",
+        "Past tense of say",
+        "Passé de dire",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Monsieur",
+        "/mə.sjø/",
+        "n.m.",
+        "Mister",
+        "French title for a man",
+        "Titre honorifique masculin français",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Craven",
+        "/kʁa.vɛn/",
+        "nom propre",
+        "Craven",
+        "Surname",
+        "Nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First-person pronoun",
+        "Pronom personnel première personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "comprends",
+        "/kɔ̃.pʁɑ̃/",
+        "v. comprendre, 1st person sing. present",
+        "understand",
+        "Grasp meaning",
+        "Saisir le sens",
+        [
+            "comprehend"
+        ],
+        [
+            "saisis"
+        ],
+        [],
+        []
+    ],
+    [
+        "Mme",
+        "/madam/",
+        "n.f. sing.",
+        "Mrs.",
+        "Title for a married woman",
+        "Titre pour une femme mariée",
+        [
+            "madame"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Sowerby",
+        "/so.ɛʁ.bi/",
+        "nom propre",
+        "Sowerby",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers.",
+        "She",
+        "Third-person pronoun",
+        "Pronom personnel troisième personne",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "doit",
+        "/dwa/",
+        "v. devoir, 3rd person sing. present",
+        "must",
+        "Obligation",
+        "Obligation",
+        [
+            "should"
+        ],
+        [
+            "faudrait"
+        ],
+        [],
+        []
+    ],
+    [
+        "devenir",
+        "/də.və.niʁ/",
+        "v. infinitive",
+        "become",
+        "To start to be",
+        "Commencer à être",
+        [
+            "turn"
+        ],
+        [
+            "changer"
+        ],
+        [],
+        []
+    ],
+    [
+        "moins",
+        "/mwɛ̃/",
+        "adv.",
+        "less",
+        "To a smaller extent",
+        "Dans une moindre mesure",
+        [
+            "fewer"
+        ],
+        [
+            "inférieur"
+        ],
+        [
+            "more"
+        ],
+        [
+            "plus"
+        ]
+    ],
+    [
+        "délicate",
+        "/de.li.kat/",
+        "adj. fem. sing.",
+        "delicate",
+        "Fragile",
+        "Fragile",
+        [
+            "fragile",
+            "dainty"
+        ],
+        [
+            "fragile",
+            "frêle"
+        ],
+        [
+            "robust"
+        ],
+        [
+            "robuste"
+        ]
+    ],
+    [
+        "avant",
+        "/a.vɑ̃/",
+        "prep.",
+        "before",
+        "Preceding in time",
+        "Précédant dans le temps",
+        [
+            "prior to"
+        ],
+        [
+            "préalablement à"
+        ],
+        [
+            "after"
+        ],
+        [
+            "après"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "leçons",
+        "/lə.sɔ̃/",
+        "n. fem. plur.",
+        "lessons",
+        "Learning exercises",
+        "Exercices d'apprentissage",
+        [
+            "classes"
+        ],
+        [
+            "cours"
+        ],
+        [],
+        []
+    ],
+    [
+        "Donnez-lui",
+        "/dɔ.ne.lɥi/",
+        "v.",
+        "Give him/her",
+        "To provide something",
+        "Fournir quelque chose",
+        [
+            "provide",
+            "offer"
+        ],
+        [
+            "fournir",
+            "offrir"
+        ],
+        [
+            "take"
+        ],
+        [
+            "prendre"
+        ]
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indef. fem. sing.",
+        "a",
+        "Indefinite article feminine singular",
+        "Article indéfini féminin singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nourriture",
+        "/nu.ʁi.tyʁ/",
+        "n. fem. sing.",
+        "food",
+        "Substance for nourishment",
+        "Substance pour l'alimentation",
+        [
+            "sustenance",
+            "meal"
+        ],
+        [
+            "aliment",
+            "repas"
+        ],
+        [],
+        []
+    ],
+    [
+        "saine",
+        "/sɛn/",
+        "adj. fem. sing.",
+        "healthy",
+        "Beneficial to health",
+        "Bénéfique pour la santé",
+        [
+            "wholesome",
+            "fit"
+        ],
+        [
+            "salubre",
+            "bon pour la santé"
+        ],
+        [
+            "unhealthy"
+        ],
+        [
+            "malsain"
+        ]
+    ],
+    [
+        "Donnez",
+        "/dɔ.ne/",
+        "v.",
+        "give",
+        "provide",
+        [],
+        [],
+        [],
+        [],
+        [
+            "prendre"
+        ]
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him/her",
+        "personal pronoun",
+        [],
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Laissez-la",
+        "/le.se.la/",
+        "v. laisser + pron. obj.",
+        "Let her",
+        "Allow her",
+        "Permettez-lui",
+        [
+            "allow her"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "courir",
+        "/ku.ʁiʁ/",
+        "v. inf.",
+        "to run",
+        "Move quickly by foot",
+        "Se déplacer rapidement à pied",
+        [
+            "sprint"
+        ],
+        [
+            "galoper"
+        ],
+        [
+            "walk"
+        ],
+        []
+    ],
+    [
+        "librement",
+        "/li.bʁə.mɑ̃/",
+        "adv.",
+        "freely",
+        "Without restriction",
+        "Sans restriction",
+        [
+            "independently"
+        ],
+        [
+            "indépendamment"
+        ],
+        [
+            "restricted"
+        ],
+        [
+            "restreint"
+        ]
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside",
+        "À l'intérieur",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur de"
+        ],
+        [
+            "outside"
+        ],
+        [
+            "à l'extérieur de"
+        ]
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Area for plants",
+        "Espace pour les plantes",
+        [
+            "yard"
+        ],
+        [
+            "espace vert"
+        ],
+        [],
+        []
+    ],
+    [
+        "Ne",
+        "/nə/",
+        "adv. neg.",
+        "Don't",
+        "Negative marker",
+        "Marqueur négatif",
+        [
+            "not"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "vous",
+        "/vu/",
+        "pron. pers.",
+        "you",
+        "Plural or formal 'you'",
+        "Forme plurielle ou formelle de 'tu'",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "occupez",
+        "/ɔkype/",
+        "v. impér. pr. 2nd plur. occuper",
+        "occupy",
+        "Take up space or time",
+        "Prendre de l'espace ou du temps",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pas",
+        "/pa/",
+        "adv. neg.",
+        "not",
+        "Negation",
+        "Négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "trop",
+        "/tʁo/",
+        "adv.",
+        "too much",
+        "Excessively",
+        "Excessivement",
+        [
+            "excessively"
+        ],
+        [
+            "excessivement"
+        ],
+        [
+            "little"
+        ],
+        [
+            "peu"
+        ]
+    ],
+    [
+        "d'elle",
+        "/d‿ɛl/",
+        "pron. pers.",
+        "of her",
+        "Referring to a female",
+        "Se référant à une femme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "She",
+        "Female pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [
+            "he"
+        ],
+        [
+            "il"
+        ]
+    ],
+    [
+        "a",
+        "/a/",
+        "v. pr. ind. 3rd sing. avoir",
+        "has",
+        "Possesses",
+        "Possède",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "besoin",
+        "/bəzwɛ̃/",
+        "n. masc. sing.",
+        "need",
+        "Requirement",
+        "Nécessité",
+        [
+            "necessity"
+        ],
+        [
+            "nécessité"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Indicates possession",
+        "Indique la possession",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "liberté",
+        "/li.bɛʁ.te/",
+        "n. fem. sing.",
+        "freedom",
+        "State of being free",
+        "État d'être libre",
+        [
+            "autonomy",
+            "independence"
+        ],
+        [
+            "autonomie",
+            "indépendance"
+        ],
+        [
+            "captivity"
+        ],
+        [
+            "captivité"
+        ]
+    ],
+    [
+        "Mme",
+        "/madam/",
+        "n. form of address",
+        "Mrs.",
+        "Formal title for a woman",
+        "Titre honorifique pour une femme",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Sowerby",
+        "/so.ɛʁ.bi/",
+        "n. proper",
+        "Sowerby",
+        "A surname",
+        "Un nom de famille",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "peut",
+        "/pø/",
+        "v. pouvoir",
+        "can",
+        "To be able to",
+        "Être capable de",
+        [
+            "may"
+        ],
+        [
+            "pourrait"
+        ],
+        [],
+        []
+    ],
+    [
+        "lui",
+        "/lɥi/",
+        "pron. pers.",
+        "him/her",
+        "Indirect object pronoun",
+        "Pronom personnel COD/COI",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rendre",
+        "/ʁɑ̃dʁ/",
+        "v. rendre",
+        "to return",
+        "Give something back",
+        "Redonner quelque chose",
+        [
+            "give back"
+        ],
+        [
+            "redonner"
+        ],
+        [
+            "keep"
+        ],
+        [
+            "garder"
+        ]
+    ],
+    [
+        "visite",
+        "/vi.zit/",
+        "n. fem. sing.",
+        "visit",
+        "Act of going to see someone",
+        "Action d'aller voir quelqu'un",
+        [
+            "call"
+        ],
+        [
+            "appel"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Female pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "peut",
+        "/pø/",
+        "v. pouvoir",
+        "can",
+        "Ability",
+        "Capacité",
+        [
+            "is able to"
+        ],
+        [
+            "capable"
+        ],
+        [],
+        []
+    ],
+    [
+        "aller",
+        "/ale/",
+        "v. aller",
+        "go",
+        "Move",
+        "Bouger",
+        [
+            "move"
+        ],
+        [
+            "bouger"
+        ],
+        [
+            "stay"
+        ],
+        [
+            "rester"
+        ]
+    ],
+    [
+        "au",
+        "/o/",
+        "prep. à + art. le",
+        "to the",
+        "Direction",
+        "Direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "cottage",
+        "/kɔ.taʒ/",
+        "n. masc. sing.",
+        "cottage",
+        "Small house",
+        "Petite maison",
+        [
+            "cabin"
+        ],
+        [
+            "cabane"
+        ],
+        [],
+        []
+    ]
+]

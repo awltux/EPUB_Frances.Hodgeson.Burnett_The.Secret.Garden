@@ -1,0 +1,653 @@
+[
+    [
+        "C'est",
+        "/sɛ/",
+        "c'être",
+        "It is",
+        "Identification phrase",
+        "Phrase d'identification",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "frère",
+        "/fʁɛʁ/",
+        "n. masc. sing.",
+        "brother",
+        "Male sibling",
+        "Parent du même lit",
+        [
+            "sibling"
+        ],
+        [
+            "parent"
+        ],
+        [
+            "sister"
+        ],
+        [
+            "sœur"
+        ]
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Possessive preposition",
+        "Préposition possessive",
+        [
+            "belonging to"
+        ],
+        [
+            "appartenant à"
+        ],
+        [],
+        []
+    ],
+    [
+        "Marthe",
+        "/maʁt/",
+        "n.prop.",
+        "Marthe",
+        "Proper noun: name",
+        "Nom propre",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "he",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "a",
+        "/a/",
+        "v. avoir",
+        "has",
+        "Conjugation of avoir",
+        "Conjugaison de avoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "douze",
+        "/duz/",
+        "adj. num.",
+        "twelve",
+        "Number after eleven",
+        "Nombre après onze",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ans",
+        "/ɑ̃/",
+        "n. masc. plur.",
+        "years",
+        "Units of time",
+        "Unité de temps",
+        [
+            "year"
+        ],
+        [
+            "année"
+        ],
+        [],
+        []
+    ],
+    [
+        "expliqua-t-elle",
+        "/ɛks.pli.ka.t‿ɛl/",
+        "v. expliquerv - past historic 3rd person sing.",
+        "she explained",
+        "She made clear",
+        "Elle a clarifié",
+        [
+            "clarified"
+        ],
+        [
+            "clarifié"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Subject pronoun",
+        "Pronom sujet",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ressemble",
+        "/ʁə.sɑ̃bl/",
+        "v. ressembler - present 3rd person sing.",
+        "resembles",
+        "Looks like",
+        "Paraît",
+        [
+            "look like"
+        ],
+        [
+            "similaire"
+        ],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Preposition",
+        "Préposition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "personne",
+        "/pɛʁ.sɔn/",
+        "pron. indef.",
+        "anyone",
+        "Any person",
+        "Quelqu'un",
+        [],
+        [],
+        [
+            "no one"
+        ],
+        [
+            "personnes"
+        ]
+    ],
+    [
+        "d'autre",
+        "/dotʁ/",
+        "adj.",
+        "other",
+        "Additional",
+        "Supplémentaire",
+        [
+            "another"
+        ],
+        [
+            "supplémentaire"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Third-person singular pronoun",
+        "Pronom de la troisième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "peut",
+        "/pø/",
+        "v. pouvoir",
+        "can",
+        "Is able to",
+        "Est capable de",
+        [
+            "may"
+        ],
+        [
+            "pourrait"
+        ],
+        [],
+        []
+    ],
+    [
+        "charmer",
+        "/ʃaʁme/",
+        "v. inf.",
+        "charm",
+        "To delight",
+        "Enchanter",
+        [
+            "enchant"
+        ],
+        [
+            "enchanter"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "renards",
+        "/ʁə.naʁ/",
+        "n. masc. pl.",
+        "foxes",
+        "Canine animals",
+        "Animaux canins",
+        [
+            "cunning person"
+        ],
+        [
+            "rusé"
+        ],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. pl.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "écureuils",
+        "/e.ky.ʁœj/",
+        "n. masc. pl.",
+        "squirrels",
+        "Rodent animals",
+        "Animaux rongeurs",
+        [
+            "rodent"
+        ],
+        [
+            "rongeur"
+        ],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connects elements",
+        "Relie des éléments",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "oiseaux",
+        "/wa.zo/",
+        "n. masc. plur.",
+        "birds",
+        "Feathered creatures",
+        "Créatures à plumes",
+        [
+            "fowl"
+        ],
+        [
+            "volaille"
+        ],
+        [],
+        []
+    ],
+    [
+        "comme",
+        "/kɔm/",
+        "prep.",
+        "like",
+        "Similar to",
+        "Semblable à",
+        [
+            "as"
+        ],
+        [
+            "tel"
+        ],
+        [
+            "unlike"
+        ],
+        [
+            "contrairement à"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "indigènes",
+        "/ɛ̃.di.ʒɛn/",
+        "n. plur.",
+        "natives",
+        "Original inhabitants",
+        "Habitants originaux",
+        [
+            "aborigines"
+        ],
+        [
+            "autochtones"
+        ],
+        [
+            "immigrants"
+        ],
+        [
+            "immigrés"
+        ]
+    ],
+    [
+        "en",
+        "/ɑ̃/",
+        "prep.",
+        "in",
+        "Location",
+        "Emplacement",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Inde",
+        "/ɛ̃d/",
+        "n.prop.",
+        "India",
+        "Asian country",
+        "Pays d'Asie",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "charment",
+        "/ʃaʁm/",
+        "v. prés. ind.",
+        "charm",
+        "Delight greatly",
+        "Ravir grandement",
+        [
+            "enchant"
+        ],
+        [
+            "enchanter"
+        ],
+        [],
+        [],
+        "charmer"
+    ],
+    [
+        "les",
+        "/le/",
+        "art. def. plur.",
+        "the",
+        "Definite article plural",
+        "Article défini pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "serpents",
+        "/sɛʁ.pɑ̃/",
+        "n. masc. pl.",
+        "snakes",
+        "Reptiles",
+        "Reptiles",
+        [
+            "reptiles"
+        ],
+        [
+            "reptiles"
+        ],
+        [],
+        []
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "joue",
+        "/ʒu/",
+        "v. jouer",
+        "plays",
+        "Engages in an activity",
+        "Participe à une activité",
+        [
+            "performs"
+        ],
+        [
+            "exécute"
+        ],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indéf. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "air",
+        "/ɛʁ/",
+        "n. masc. sing.",
+        "tune",
+        "melody",
+        "Mélodie",
+        [
+            "melody"
+        ],
+        [
+            "mélodie"
+        ],
+        [],
+        []
+    ],
+    [
+        "doux",
+        "/du/",
+        "adj. masc. sing.",
+        "soft",
+        "Gentle, mild",
+        "Agréable, léger",
+        [
+            "gentle",
+            "calm"
+        ],
+        [
+            "agréable",
+            "calme"
+        ],
+        [
+            "harsh"
+        ],
+        [
+            "dur"
+        ]
+    ],
+    [
+        "sur",
+        "/syʁ/",
+        "prep.",
+        "on",
+        "Upon",
+        "Dessus",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indéf. fem. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "flûte",
+        "/flyt/",
+        "n. fem. sing.",
+        "flute",
+        "Wind instrument",
+        "Instrument à vent",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connective word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ils",
+        "/il/",
+        "pron. pers. masc. plur.",
+        "they",
+        "Third person plural",
+        "Troisième personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "viennent",
+        "/vjɛn/",
+        "v. venir",
+        "come",
+        "To arrive",
+        "Arriver",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "écouter",
+        "/e.ku.te/",
+        "v. inf.",
+        "listen",
+        "To hear attentively",
+        "Entendre attentivement",
+        [
+            "hear"
+        ],
+        [
+            "entendre"
+        ],
+        [],
+        []
+    ]
+]

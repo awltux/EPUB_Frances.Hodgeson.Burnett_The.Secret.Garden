@@ -1,0 +1,370 @@
+[
+    [
+        "Nous",
+        "/nu/",
+        "pron. pers.",
+        "We",
+        "First person plural pronoun",
+        "Pronom personnel première personne du pluriel",
+        [
+            "Us"
+        ],
+        [
+            "On"
+        ],
+        [
+            "They"
+        ],
+        [
+            "Ils"
+        ]
+    ],
+    [
+        "l'",
+        "/lə/",
+        "pron. obj.",
+        "him",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "amènerons",
+        "/amɛnʁɔ̃/",
+        "v. future, amener",
+        "will bring",
+        "To take someone somewhere",
+        "Emmener quelqu'un quelque part",
+        [
+            "escort"
+        ],
+        [
+            "accompagner"
+        ],
+        [],
+        []
+    ],
+    [
+        "ici",
+        "/i.si/",
+        "adv. lieu",
+        "here",
+        "In this place",
+        "Dans ce lieu",
+        [
+            "nearby"
+        ],
+        [
+            "près"
+        ],
+        [
+            "there"
+        ],
+        [
+            "là-bas"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "one",
+        "A single",
+        "Unique",
+        [
+            "single"
+        ],
+        [
+            "seul"
+        ],
+        [
+            "multiple"
+        ],
+        [
+            "multiple"
+        ]
+    ],
+    [
+        "jour",
+        "/ʒuʁ/",
+        "n. masc. sing.",
+        "day",
+        "Unit of time",
+        "Unité de temps",
+        [
+            "date"
+        ],
+        [
+            "date"
+        ],
+        [
+            "night"
+        ],
+        [
+            "nuit"
+        ]
+    ],
+    [
+        "dit",
+        "/di/",
+        "v. past, dire",
+        "said",
+        "To utter words",
+        "Prononcer des mots",
+        [
+            "stated"
+        ],
+        [
+            "déclaré"
+        ],
+        [],
+        []
+    ],
+    [
+        "Dickon",
+        "/di.kɔn/",
+        "n. prop.",
+        "Dickon",
+        "A name",
+        "Un nom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Pronom personnel première personne singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pourrais",
+        "/pu.ʁɛ/",
+        "v. cond. présent; pouvoir",
+        "could",
+        "Conditional form of 'can'",
+        "Conditionnel de 'pouvoir'",
+        [
+            "might"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "pousser",
+        "/pu.se/",
+        "v. inf.",
+        "push",
+        "To exert force on",
+        "Exercer une force sur",
+        [
+            "shove"
+        ],
+        [
+            "tirer"
+        ],
+        [],
+        []
+    ],
+    [
+        "son",
+        "/sɔ̃/",
+        "adj. poss.",
+        "his",
+        "Belonging to him",
+        "Qui lui appartient",
+        [
+            "her"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "landau",
+        "/lɑ̃.do/",
+        "n. masc. sing.",
+        "pram",
+        "Baby carriage",
+        "Voiture d'enfant",
+        [
+            "carriage"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Regarde",
+        "/ʁə.ɡaʁd/",
+        "v. impératif; regarder",
+        "Look",
+        "To observe",
+        "Observer",
+        [
+            "see"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. déf. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rouge-gorge",
+        "/ʁuʒ.ɡɔʁʒ/",
+        "n. masc. sing.",
+        "robin",
+        "Small bird with red breast",
+        "Petit oiseau à poitrine rouge",
+        [
+            "bird"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "travailler",
+        "/tʁa.va.je/",
+        "v. infin.",
+        "to work",
+        "Engage in labor",
+        "S'engager dans le labeur",
+        [
+            "labor",
+            "toil"
+        ],
+        [
+            "œuvrer"
+        ],
+        [
+            "rest",
+            "idle"
+        ],
+        [
+            "paresser"
+        ]
+    ],
+    [
+        "Il",
+        "/il/",
+        "pron. pers. masc. sing.",
+        "He",
+        "Male pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sait",
+        "/sɛ/",
+        "v. connaître",
+        "knows",
+        "Understands",
+        "Comprend",
+        [
+            "understands"
+        ],
+        [
+            "comprend"
+        ],
+        [
+            "unknowing"
+        ],
+        [
+            "ignore"
+        ]
+    ],
+    [
+        "comment",
+        "/kɔ.mɑ̃/",
+        "adv.",
+        "how",
+        "In what way",
+        "De quelle manière",
+        [
+            "how"
+        ],
+        [
+            "de quelle façon"
+        ],
+        [],
+        []
+    ],
+    [
+        "construire",
+        "/kɔ̃s.tʁɥiʁ/",
+        "v. infin.",
+        "to build",
+        "Create something",
+        "Créer quelque chose",
+        [
+            "construct",
+            "make"
+        ],
+        [
+            "bâtir",
+            "faire"
+        ],
+        [
+            "destroy",
+            "demolish"
+        ],
+        [
+            "détruire",
+            "démolir"
+        ]
+    ],
+    [
+        "ce",
+        "/sə/",
+        "adj. dem. masc. sing.",
+        "this",
+        "Demonstrative adjective",
+        "Adjectif démonstratif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nid",
+        "/ni/",
+        "n. masc. sing.",
+        "nest",
+        "Bird's home",
+        "Maison d'oiseau",
+        [
+            "roost"
+        ],
+        [
+            "couvée"
+        ],
+        [],
+        []
+    ]
+]

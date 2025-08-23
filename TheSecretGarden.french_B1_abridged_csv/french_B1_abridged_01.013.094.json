@@ -1,0 +1,782 @@
+[
+    [
+        "Si",
+        "/si/",
+        "conj.",
+        "If",
+        "Conditional conjunction",
+        "Condition",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers.",
+        "you",
+        "Singular subject pronoun",
+        "Pronom personnel sujet singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ne",
+        "/nə/",
+        "adv. neg.",
+        "not",
+        "Negation marker",
+        "Négation",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "les",
+        "/le/",
+        "pron. obj.",
+        "them",
+        "Pronoun",
+        "Pronom",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "obliges",
+        "/ɔ.bliʒ/",
+        "v. tr.",
+        "force",
+        "To compel",
+        "Contraindre",
+        [],
+        [],
+        [],
+        [],
+        "obliger"
+    ],
+    [
+        "pas",
+        "/pɑ/",
+        "adv. neg.",
+        "not",
+        "Negative adverb",
+        "Adverbe négatif",
+        [],
+        [],
+        [
+            "yes"
+        ],
+        [
+            "oui"
+        ]
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "to",
+        "Preposition of direction",
+        "Préposition de direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "t'emmener",
+        "/tɑ̃.mə.ne/",
+        "v. pron.",
+        "take you",
+        "To bring along",
+        "Accompagner",
+        [
+            "escort"
+        ],
+        [
+            "accompagner"
+        ],
+        [],
+        [],
+        "emmener"
+    ],
+    [
+        "au",
+        "/o/",
+        "art. contracté (à + le)",
+        "to the",
+        "Direction indicator",
+        "Indicateur de direction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁ.dɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Outdoor space",
+        "Espace extérieur",
+        [
+            "yard"
+        ],
+        [
+            "cour"
+        ],
+        [],
+        []
+    ],
+    [
+        "implora",
+        "/ɛ̃.plɔ.ʁa/",
+        "v. impér. implorer",
+        "pleaded",
+        "Begged earnestly",
+        "Supplié avec ferveur",
+        [
+            "begged"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n.prop. fem. sing.",
+        "Marie",
+        "Female name",
+        "Nom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "peut-être",
+        "/pø.t‿ɛtʁ/",
+        "adv.",
+        "maybe",
+        "Possibly",
+        "Possiblement",
+        [
+            "perhaps",
+            "possibly"
+        ],
+        [
+            "probablement",
+            "éventuellement"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "je",
+        "/ʒə/",
+        "pron. pers.",
+        "I",
+        "First person singular pronoun",
+        "Première personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "peux",
+        "/pø/",
+        "v. pouvoir",
+        "can",
+        "Ability",
+        "Capacité",
+        [
+            "is able to"
+        ],
+        [
+            "capable"
+        ],
+        [
+            "cannot"
+        ],
+        [
+            "incapable"
+        ]
+    ],
+    [
+        "trouver",
+        "/tʁuve/",
+        "v. infinitive",
+        "to find",
+        "Locate",
+        "Localiser",
+        [
+            "discover"
+        ],
+        [
+            "découvrir"
+        ],
+        [
+            "lose"
+        ],
+        [
+            "perdre"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "moyen",
+        "/mwajɛ̃/",
+        "n. masc. sing.",
+        "way",
+        "Method",
+        "Méthode",
+        [
+            "method"
+        ],
+        [
+            "méthode"
+        ],
+        [],
+        []
+    ],
+    [
+        "d'y",
+        "/di/",
+        "prep. + pron.",
+        "to go there",
+        "Refer to a place",
+        "Référence à un lieu",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "entrer",
+        "/ɑ̃tʁe/",
+        "v. infinitive",
+        "to enter",
+        "Go inside",
+        "Aller à l'intérieur",
+        [
+            "access"
+        ],
+        [
+            "accéder"
+        ],
+        [
+            "exit"
+        ],
+        [
+            "sortir"
+        ]
+    ],
+    [
+        "Et",
+        "/e/",
+        "conj. coord.",
+        "And",
+        "Conjunction",
+        "Conjonction",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "si",
+        "/si/",
+        "conj. cond.",
+        "If",
+        "Conditional conjunction",
+        "Conjonction conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "docteur",
+        "/dɔk.tœʁ/",
+        "n. masc.",
+        "doctor",
+        "Medical professional",
+        "Professionnel de la santé",
+        [
+            "physician"
+        ],
+        [
+            "médecin"
+        ],
+        [],
+        []
+    ],
+    [
+        "veut",
+        "/vø/",
+        "v. verb, vouloir",
+        "wants",
+        "Desires",
+        "Désirs",
+        [
+            "desires"
+        ],
+        [
+            "désire"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj. subordinating",
+        "that",
+        "Subordinating conjunction",
+        "Conjonction de subordination",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "tu",
+        "/ty/",
+        "pron. pers. sing.",
+        "you",
+        "Second person singular pronoun",
+        "Pronom personnel deuxième personne du singulier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "sortes",
+        "/sɔʁt/",
+        "v. verb, sortir",
+        "go out",
+        "To exit",
+        "Quitter",
+        [
+            "exit"
+        ],
+        [
+            "quitter"
+        ],
+        [],
+        []
+    ],
+    [
+        "dans",
+        "/dɑ̃/",
+        "prep.",
+        "in",
+        "Inside",
+        "À l'intérieur",
+        [
+            "inside"
+        ],
+        [
+            "à l'intérieur"
+        ],
+        [],
+        []
+    ],
+    [
+        "ton",
+        "/tɔ̃/",
+        "adj. poss. masc. sing.",
+        "your",
+        "Belonging to you",
+        "Qui t'appartient",
+        [
+            "yours"
+        ],
+        [
+            "le tien"
+        ],
+        [],
+        []
+    ],
+    [
+        "fauteuil",
+        "/fo.tœj/",
+        "n. masc.",
+        "armchair",
+        "Comfortable seat",
+        "Siège confortable",
+        [
+            "chair"
+        ],
+        [
+            "siège"
+        ],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "us",
+        "First person plural pronoun",
+        "Pronom personnel première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pourrions",
+        "/pu.ʁjɔ̃/",
+        "v. cond. pr. 1st person plural, pouvoir",
+        "could",
+        "Conditional tense of to be able",
+        "Conditionnel du verbe pouvoir",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "trouver",
+        "/tʁu.ve/",
+        "v. inf.",
+        "to find",
+        "Discover",
+        "Découvrir",
+        [
+            "discover"
+        ],
+        [
+            "découvrir"
+        ],
+        [
+            "lose"
+        ],
+        [
+            "perdre"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "garçon",
+        "/ɡaʁ.sɔ̃/",
+        "n. masc. sing.",
+        "boy",
+        "Male child",
+        "Enfant mâle",
+        [
+            "lad"
+        ],
+        [
+            "jeune homme"
+        ],
+        [
+            "girl"
+        ],
+        [
+            "fille"
+        ]
+    ],
+    [
+        "pour",
+        "/puʁ/",
+        "prep.",
+        "for",
+        "Intended to benefit",
+        "Pour bénéficier",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "te",
+        "/tə/",
+        "pron. pers.",
+        "you",
+        "Pronoun, object of verb",
+        "Pronom personnel, complément",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pousser",
+        "/pu.se/",
+        "v. inf.",
+        "to push",
+        "Exert force to move",
+        "Exercer une force pour déplacer",
+        [
+            "shove"
+        ],
+        [
+            "bousculer"
+        ],
+        [
+            "pull"
+        ],
+        [
+            "tirer"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj.",
+        "and",
+        "Connecting words",
+        "Relie des mots",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "nous",
+        "/nu/",
+        "pron. pers.",
+        "us",
+        "Pronoun, plural first person",
+        "Pronom, première personne du pluriel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "pourrions",
+        "/pu.ʁjɔ̃/",
+        "v. cond. pr. aller",
+        "could",
+        "Conditional ability",
+        "Capacité conditionnelle",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "y",
+        "/i/",
+        "adv. lieu",
+        "there",
+        "To that place",
+        "À cet endroit",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "aller",
+        "/a.le/",
+        "v. infin.",
+        "to go",
+        "Move to a place",
+        "Se déplacer",
+        [
+            "leave",
+            "travel"
+        ],
+        [
+            "partir",
+            "voyager"
+        ],
+        [
+            "stay"
+        ],
+        [
+            "rester"
+        ]
+    ],
+    [
+        "seuls",
+        "/sœl/",
+        "adj. masc. plur.",
+        "alone",
+        "Without company",
+        "Sans compagnie",
+        [
+            "isolated"
+        ],
+        [
+            "isolés"
+        ],
+        [
+            "together"
+        ],
+        [
+            "ensemble"
+        ]
+    ],
+    [
+        "et",
+        "/e/",
+        "conj. coord.",
+        "and",
+        "Connects words or phrases",
+        "Relie des mots ou des phrases",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ce",
+        "/sə/",
+        "pron. dém.",
+        "this",
+        "Referring to something",
+        "Se référant à quelque chose",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "serait",
+        "/sə.ʁɛ/",
+        "v. cond. pr. être",
+        "would be",
+        "Conditional state",
+        "État conditionnel",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "toujours",
+        "/tu.ʒuʁ/",
+        "adv. temps",
+        "always",
+        "At all times",
+        "À tout moment",
+        [
+            "forever"
+        ],
+        [
+            "éternellement"
+        ],
+        [
+            "never"
+        ],
+        [
+            "jamais"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indéf. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "jardin",
+        "/ʒaʁdɛ̃/",
+        "n. masc. sing.",
+        "garden",
+        "Cultivated land",
+        "Terre cultivée",
+        [
+            "yard",
+            "park"
+        ],
+        [
+            "parc",
+            "cour"
+        ],
+        [],
+        []
+    ],
+    [
+        "secret",
+        "/sə.kʁɛ/",
+        "adj. masc. sing.",
+        "secret",
+        "Confidential",
+        "Confidentiel",
+        [
+            "hidden",
+            "private"
+        ],
+        [
+            "caché",
+            "privé"
+        ],
+        [
+            "public"
+        ],
+        [
+            "public"
+        ]
+    ]
+]

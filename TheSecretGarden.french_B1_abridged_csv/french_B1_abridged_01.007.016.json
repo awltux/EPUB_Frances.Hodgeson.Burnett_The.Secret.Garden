@@ -1,0 +1,581 @@
+[
+    [
+        "Le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "The",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rouge-gorge",
+        "/ʁuʒ.ɡɔʁʒ/",
+        "n. masc. sing.",
+        "robin",
+        "Small bird",
+        "Petit oiseau",
+        [
+            "redbreast"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "sauta",
+        "/so.ta/",
+        "v. past simple",
+        "jumped",
+        "Leapt",
+        "Bondit",
+        [
+            "leapt"
+        ],
+        [
+            "bondit"
+        ],
+        [],
+        [],
+        "sauter"
+    ],
+    [
+        "au-dessus",
+        "/o.də.sy/",
+        "adv. of place",
+        "above",
+        "Over",
+        "Par-dessus",
+        [
+            "over"
+        ],
+        [],
+        [
+            "below"
+        ],
+        [
+            "au-dessous"
+        ]
+    ],
+    [
+        "d'un",
+        "/dœ̃/",
+        "art. indef. masc. sing.",
+        "of a",
+        "Partitive article",
+        "Article partitif",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "coin",
+        "/kwɛ̃/",
+        "n. masc. sing.",
+        "corner",
+        "Angle",
+        "Angle",
+        [
+            "nook"
+        ],
+        [
+            "recoin"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Possession",
+        "Appartenance",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "terre",
+        "/tɛʁ/",
+        "n. fem. sing.",
+        "earth",
+        "Ground",
+        "Sol",
+        [
+            "soil"
+        ],
+        [
+            "sol"
+        ],
+        [],
+        []
+    ],
+    [
+        "fraîchement",
+        "/fʁɛʃ.mɑ̃/",
+        "adv.",
+        "freshly",
+        "Recently",
+        "Récemment",
+        [
+            "newly"
+        ],
+        [
+            "récemment"
+        ],
+        [],
+        []
+    ],
+    [
+        "retournée",
+        "/ʁə.tuʁ.ne/",
+        "v. past part. retourner",
+        "returned",
+        "Went back",
+        "Allé en arrière",
+        [
+            "went back"
+        ],
+        [
+            "revenu"
+        ],
+        [],
+        []
+    ],
+    [
+        "Marie",
+        "/ma.ʁi/",
+        "n. propre fém.",
+        "Marie",
+        "A common name",
+        "Nom commun",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "remarqua",
+        "/ʁə.maʁ.ka/",
+        "v. simple past remarquer",
+        "noticed",
+        "Observed",
+        "Observé",
+        [
+            "observed",
+            "saw"
+        ],
+        [
+            "observa",
+            "vit"
+        ],
+        [],
+        []
+    ],
+    [
+        "quelque",
+        "/kɛl.kə/",
+        "adj. indef.",
+        "some",
+        "An unspecified amount",
+        "Une quantité non précisée",
+        [
+            "certain"
+        ],
+        [
+            "certains"
+        ],
+        [],
+        []
+    ],
+    [
+        "chose",
+        "/ʃoz/",
+        "n. fém.",
+        "thing",
+        "An object",
+        "Un objet",
+        [
+            "object"
+        ],
+        [
+            "objet"
+        ],
+        [],
+        []
+    ],
+    [
+        "à",
+        "/a/",
+        "prep.",
+        "at",
+        "Indicates location",
+        "Indique le lieu",
+        [
+            "in"
+        ],
+        [
+            "dans"
+        ],
+        [],
+        []
+    ],
+    [
+        "moitié",
+        "/mwa.tje/",
+        "n. fém.",
+        "half",
+        "One of two equal parts",
+        "Une des deux parties égales",
+        [
+            "portion"
+        ],
+        [
+            "partie"
+        ],
+        [],
+        []
+    ],
+    [
+        "enfoui",
+        "/ɑ̃.fwi/",
+        "adj.",
+        "buried",
+        "Covered by earth",
+        "Couvert de terre",
+        [
+            "hidden"
+        ],
+        [
+            "caché"
+        ],
+        [
+            "exposed"
+        ],
+        [
+            "découvert"
+        ]
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "anneau",
+        "/a.no/",
+        "n. masc. sing.",
+        "ring",
+        "Circular band",
+        "Bande circulaire",
+        [
+            "circle"
+        ],
+        [
+            "cercle"
+        ],
+        [],
+        []
+    ],
+    [
+        "rouillé",
+        "/ʁu.je/",
+        "adj.",
+        "rusty",
+        "Covered with rust",
+        "Couvert de rouille",
+        [
+            "corroded"
+        ],
+        [
+            "corrodé"
+        ],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin",
+        "Exprimant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "fer",
+        "/fɛʁ/",
+        "n. masc. sing.",
+        "iron",
+        "Metallic element",
+        "Élément métallique",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ou",
+        "/u/",
+        "conj.",
+        "or",
+        "Connecting alternatives",
+        "Connectant des alternatives",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "de",
+        "/də/",
+        "prep.",
+        "of",
+        "Expressing origin",
+        "Exprimant l'origine",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "laiton",
+        "/lɛ.tɔ̃/",
+        "n. masc. sing.",
+        "brass",
+        "Alloy of copper and zinc",
+        "Alliage de cuivre et de zinc",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "Alors",
+        "/a.lɔʁ/",
+        "adv.",
+        "So",
+        "Therefore",
+        "Donc",
+        [
+            "therefore"
+        ],
+        [
+            "donc"
+        ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Connector word",
+        "Mot de liaison",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "art. def. masc. sing.",
+        "the",
+        "Definite article",
+        "Article défini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "rouge-gorge",
+        "/ʁuʒ.ɡɔʁʒ/",
+        "n. masc. sing.",
+        "robin",
+        "Small bird",
+        "Petit oiseau",
+        [
+            "redbreast"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "s'envola",
+        "/sɑ̃.vɔ.la/",
+        "v. pronom. passé simple",
+        "flew away",
+        "Took flight",
+        "A pris son envol",
+        [],
+        [
+            "partir"
+        ],
+        [],
+        []
+    ],
+    [
+        "vers",
+        "/vɛʁ/",
+        "prep.",
+        "towards",
+        "Directional preposition",
+        "Préposition directionnelle",
+        [
+            "to"
+        ],
+        [],
+        [],
+        []
+    ],
+    [
+        "un",
+        "/œ̃/",
+        "art. indef. masc. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "arbre",
+        "/aʁbʁ/",
+        "n. masc. sing.",
+        "tree",
+        "Tall plant",
+        "Plante haute",
+        [
+            "plant"
+        ],
+        [
+            "végétation"
+        ],
+        [],
+        []
+    ],
+    [
+        "elle",
+        "/ɛl/",
+        "pron. pers. fem. sing.",
+        "she",
+        "Feminine pronoun",
+        "Pronom féminin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "le",
+        "/lə/",
+        "pron. pers. masc. sing.",
+        "him",
+        "Masculine pronoun",
+        "Pronom masculin",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "ramassa",
+        "/ʁa.ma.sa/",
+        "v. imparfait, ramasser",
+        "picked up",
+        "Gathered together",
+        "Assembla",
+        [
+            "collected",
+            "gathered"
+        ],
+        [
+            "assembla",
+            "groupa"
+        ],
+        [],
+        []
+    ],
+    [
+        "C'était",
+        "/se.tɛ/",
+        "v. imparfait, être",
+        "It was",
+        "Past tense statement",
+        "Passé",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "une",
+        "/yn/",
+        "art. indéf. fém. sing.",
+        "a",
+        "Indefinite article",
+        "Article indéfini",
+        [],
+        [],
+        [],
+        []
+    ],
+    [
+        "vieille",
+        "/vjɛj/",
+        "adj. fém. sing.",
+        "old",
+        "Aged or worn",
+        "Âgée",
+        [
+            "ancient"
+        ],
+        [
+            "ancienne"
+        ],
+        [
+            "new"
+        ],
+        [
+            "neuve"
+        ]
+    ],
+    [
+        "clé",
+        "/kle/",
+        "n. fém. sing.",
+        "key",
+        "Instrument to open a lock",
+        "Instrument pour ouvrir une serrure",
+        [
+            "solution"
+        ],
+        [
+            "solution"
+        ],
+        [],
+        []
+    ]
+]
