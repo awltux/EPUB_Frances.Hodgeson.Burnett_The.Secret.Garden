@@ -1,0 +1,113 @@
+{
+    "text": "\u00ab Dickon les apportera lui-m\u00eame. Il aimera la promenade. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Dickon",
+            "start": 0.119,
+            "end": 0.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.579,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 0.579,
+            "end": 0.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.719,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "apportera",
+            "start": 0.719,
+            "end": 1.24,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.24,
+            "end": 1.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "lui-m\u00eame.",
+            "start": 1.259,
+            "end": 1.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.979,
+            "end": 1.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 1.979,
+            "end": 2.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.119,
+            "end": 2.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aimera",
+            "start": 2.119,
+            "end": 2.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.399,
+            "end": 2.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 2.399,
+            "end": 2.499,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.499,
+            "end": 2.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "promenade.",
+            "start": 2.519,
+            "end": 3.119,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

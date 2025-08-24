@@ -1,0 +1,71 @@
+{
+    "text": "\"Chante la Doxologie,\" grogna Ben.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Chante",
+            "start": 0.099,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 0.359,
+            "end": 0.499,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.499,
+            "end": 0.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Doxologie,",
+            "start": 0.5,
+            "end": 1.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.179,
+            "end": 1.36,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "grogna",
+            "start": 1.36,
+            "end": 1.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.719,
+            "end": 1.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben.",
+            "start": 1.719,
+            "end": 2.019,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

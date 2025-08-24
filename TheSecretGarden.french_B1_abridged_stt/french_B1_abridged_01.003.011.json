@@ -1,0 +1,407 @@
+{
+    "text": "La lourde porte de ch\u00eane s'ouvrit sur un vaste hall, faiblement \u00e9clair\u00e9. Des portraits et des armures se profilaient, donnant \u00e0 Marie un sentiment de petitesse et de perte.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "La",
+            "start": 0.099,
+            "end": 0.28,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.28,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "lourde",
+            "start": 0.28,
+            "end": 0.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.599,
+            "end": 0.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "porte",
+            "start": 0.659,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 0.939,
+            "end": 1.12,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.12,
+            "end": 1.12,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ch\u00eane",
+            "start": 1.12,
+            "end": 1.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.579,
+            "end": 1.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'ouvrit",
+            "start": 1.579,
+            "end": 1.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.979,
+            "end": 1.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sur",
+            "start": 1.979,
+            "end": 2.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.119,
+            "end": 2.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 2.119,
+            "end": 2.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.279,
+            "end": 2.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vaste",
+            "start": 2.279,
+            "end": 2.7,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.7,
+            "end": 2.7,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "hall,",
+            "start": 2.7,
+            "end": 3.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.059,
+            "end": 3.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "faiblement",
+            "start": 3.419,
+            "end": 3.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.879,
+            "end": 3.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9clair\u00e9.",
+            "start": 3.879,
+            "end": 4.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.46,
+            "end": 5.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Des",
+            "start": 5.139,
+            "end": 5.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.299,
+            "end": 5.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "portraits",
+            "start": 5.299,
+            "end": 5.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.939,
+            "end": 5.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 5.94,
+            "end": 6.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.059,
+            "end": 6.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 6.079,
+            "end": 6.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.199,
+            "end": 6.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "armures",
+            "start": 6.239,
+            "end": 6.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.699,
+            "end": 6.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 6.699,
+            "end": 6.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.839,
+            "end": 6.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "profilaient,",
+            "start": 6.839,
+            "end": 7.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.56,
+            "end": 7.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "donnant",
+            "start": 7.859,
+            "end": 8.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.199,
+            "end": 8.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 8.199,
+            "end": 8.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.279,
+            "end": 8.34,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 8.34,
+            "end": 8.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.739,
+            "end": 8.739,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 8.739,
+            "end": 8.84,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.84,
+            "end": 8.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sentiment",
+            "start": 8.899,
+            "end": 9.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.359,
+            "end": 9.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 9.359,
+            "end": 9.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.479,
+            "end": 9.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "petitesse",
+            "start": 9.479,
+            "end": 10.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.159,
+            "end": 10.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 10.42,
+            "end": 10.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.559,
+            "end": 10.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 10.579,
+            "end": 10.64,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.64,
+            "end": 10.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "perte.",
+            "start": 10.699,
+            "end": 11.199,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

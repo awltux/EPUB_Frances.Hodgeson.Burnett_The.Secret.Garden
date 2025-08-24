@@ -1,0 +1,99 @@
+{
+    "text": "\u00ab Oui, oui, monsieur ! \u00bb acquies\u00e7a Ben.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.159,
+            "end": 0.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.399,
+            "end": 0.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Oui,",
+            "start": 0.399,
+            "end": 0.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.539,
+            "end": 0.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "oui,",
+            "start": 0.539,
+            "end": 0.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.999,
+            "end": 1.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "monsieur",
+            "start": 1.279,
+            "end": 1.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.74,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "! \u00bb",
+            "start": 1.74,
+            "end": 2.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.74,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "acquies\u00e7a",
+            "start": 1.279,
+            "end": 1.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.74,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben.",
+            "start": 1.74,
+            "end": 2.079,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

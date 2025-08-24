@@ -1,0 +1,71 @@
+{
+    "text": "Ben toucha son front respectueusement.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ben",
+            "start": 0.099,
+            "end": 0.34,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.34,
+            "end": 0.34,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "toucha",
+            "start": 0.34,
+            "end": 0.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.599,
+            "end": 0.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "son",
+            "start": 0.599,
+            "end": 0.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.799,
+            "end": 0.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "front",
+            "start": 0.799,
+            "end": 1.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.0,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "respectueusement.",
+            "start": 1.0,
+            "end": 1.919,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

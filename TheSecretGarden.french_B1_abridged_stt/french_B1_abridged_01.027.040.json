@@ -1,0 +1,78 @@
+{
+    "text": "\"Les deux ?\" sugg\u00e9ra Mme Medlock.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Les",
+            "start": 0.159,
+            "end": 0.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.379,
+            "end": 0.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "deux",
+            "start": 0.379,
+            "end": 0.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.659,
+            "end": 1.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 0.659,
+            "end": 1.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "sugg\u00e9ra",
+            "start": 1.019,
+            "end": 1.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.459,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mme",
+            "start": 1.459,
+            "end": 1.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.74,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Medlock.",
+            "start": 1.74,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

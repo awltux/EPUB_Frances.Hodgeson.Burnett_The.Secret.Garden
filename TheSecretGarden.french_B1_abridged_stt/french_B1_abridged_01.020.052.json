@@ -1,0 +1,197 @@
+{
+    "text": "\u00ab C'est l\u00e0 que le rouge-gorge a vol\u00e9 par-dessus le mur, \u00bb murmura Marie.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.0,
+            "end": 0.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.119,
+            "end": 0.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "C'est",
+            "start": 0.119,
+            "end": 0.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.319,
+            "end": 0.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l\u00e0",
+            "start": 0.319,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 0.439,
+            "end": 0.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.56,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 0.579,
+            "end": 0.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.699,
+            "end": 0.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rouge-gorge",
+            "start": 0.699,
+            "end": 1.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.199,
+            "end": 1.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "a",
+            "start": 1.199,
+            "end": 1.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.319,
+            "end": 1.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vol\u00e9",
+            "start": 1.319,
+            "end": 1.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.599,
+            "end": 1.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "par-dessus",
+            "start": 1.599,
+            "end": 2.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.059,
+            "end": 2.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 2.059,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.259,
+            "end": 2.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mur,",
+            "start": 2.279,
+            "end": 2.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.659,
+            "end": 3.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 2.659,
+            "end": 3.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.019,
+            "end": 3.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "murmura",
+            "start": 3.019,
+            "end": 3.48,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.48,
+            "end": 3.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 3.48,
+            "end": 3.879,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

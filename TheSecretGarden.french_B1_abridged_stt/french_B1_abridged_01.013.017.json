@@ -1,0 +1,92 @@
+{
+    "text": "\u00ab Non. \u00bb, r\u00e9pondit Marie en murmurant. \u00ab L'es-tu ? \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Non.",
+            "start": 0.34,
+            "end": 0.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.579,
+            "end": 1.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9pondit",
+            "start": 1.059,
+            "end": 1.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.459,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 1.459,
+            "end": 1.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.759,
+            "end": 1.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "en",
+            "start": 1.759,
+            "end": 1.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.899,
+            "end": 1.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "murmurant.",
+            "start": 1.899,
+            "end": 2.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.419,
+            "end": 2.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "L'es-tu",
+            "start": 2.779,
+            "end": 3.32,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 2.779,
+            "end": 3.32,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

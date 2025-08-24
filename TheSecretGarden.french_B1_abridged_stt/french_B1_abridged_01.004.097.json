@@ -1,0 +1,232 @@
+{
+    "text": "Ben ramassa sa b\u00eache. \u00ab Il y en avait il y a dix ans. \u00bb, marmonna-t-il.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ben",
+            "start": 0.099,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ramassa",
+            "start": 0.479,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sa",
+            "start": 0.939,
+            "end": 1.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.1,
+            "end": 1.1,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "b\u00eache.",
+            "start": 1.1,
+            "end": 1.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.519,
+            "end": 2.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 2.119,
+            "end": 2.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.219,
+            "end": 2.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 2.24,
+            "end": 2.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.279,
+            "end": 2.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "y",
+            "start": 2.319,
+            "end": 2.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.419,
+            "end": 2.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "en",
+            "start": 2.44,
+            "end": 2.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.719,
+            "end": 2.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avait",
+            "start": 2.74,
+            "end": 2.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.859,
+            "end": 2.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "il",
+            "start": 2.899,
+            "end": 2.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.939,
+            "end": 2.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "y",
+            "start": 2.939,
+            "end": 3.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.059,
+            "end": 3.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "a",
+            "start": 3.059,
+            "end": 3.24,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.24,
+            "end": 3.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dix",
+            "start": 3.24,
+            "end": 3.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.479,
+            "end": 3.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ans.",
+            "start": 3.899,
+            "end": 4.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.899,
+            "end": 3.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 3.899,
+            "end": 4.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": ",",
+            "start": 3.899,
+            "end": 4.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.899,
+            "end": 3.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "marmonna-t-il.",
+            "start": 3.899,
+            "end": 4.759,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

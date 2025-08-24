@@ -1,0 +1,57 @@
+{
+    "text": "Marthe sugg\u00e9ra la biblioth\u00e8que.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marthe",
+            "start": 0.099,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sugg\u00e9ra",
+            "start": 0.5,
+            "end": 0.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.919,
+            "end": 0.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 0.919,
+            "end": 1.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.019,
+            "end": 1.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "biblioth\u00e8que.",
+            "start": 1.059,
+            "end": 1.84,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

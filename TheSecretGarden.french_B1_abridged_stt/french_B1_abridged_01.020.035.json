@@ -1,0 +1,295 @@
+{
+    "text": "Ils rirent parce qu'ils adoraient cette id\u00e9e. Plus tard, l'infirmi\u00e8re habilla Colin. Il s'assit et aida, parlant et riant avec Marie.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ils",
+            "start": 0.079,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rirent",
+            "start": 0.299,
+            "end": 0.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.879,
+            "end": 0.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parce",
+            "start": 0.879,
+            "end": 1.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.079,
+            "end": 1.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'ils",
+            "start": 1.079,
+            "end": 1.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.319,
+            "end": 1.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "adoraient",
+            "start": 1.319,
+            "end": 1.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.999,
+            "end": 2.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cette",
+            "start": 2.039,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.259,
+            "end": 2.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "id\u00e9e.",
+            "start": 2.279,
+            "end": 2.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.639,
+            "end": 3.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Plus",
+            "start": 3.179,
+            "end": 3.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.319,
+            "end": 3.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tard,",
+            "start": 3.399,
+            "end": 3.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.779,
+            "end": 4.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'infirmi\u00e8re",
+            "start": 4.0,
+            "end": 4.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.679,
+            "end": 4.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "habilla",
+            "start": 4.679,
+            "end": 5.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.039,
+            "end": 5.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin.",
+            "start": 5.079,
+            "end": 5.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.559,
+            "end": 6.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 6.059,
+            "end": 6.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.259,
+            "end": 6.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'assit",
+            "start": 6.259,
+            "end": 6.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.98,
+            "end": 6.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 6.98,
+            "end": 7.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.139,
+            "end": 7.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aida,",
+            "start": 7.139,
+            "end": 7.6,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.6,
+            "end": 7.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parlant",
+            "start": 7.899,
+            "end": 8.42,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.42,
+            "end": 8.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 8.42,
+            "end": 8.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.56,
+            "end": 8.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "riant",
+            "start": 8.579,
+            "end": 8.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.979,
+            "end": 8.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 8.979,
+            "end": 9.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.239,
+            "end": 9.26,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 9.26,
+            "end": 9.659,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

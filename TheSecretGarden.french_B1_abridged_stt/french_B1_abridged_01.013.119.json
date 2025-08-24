@@ -1,0 +1,351 @@
+{
+    "text": "Il acquies\u00e7a. \u00ab Elle dort dans l'autre pi\u00e8ce. L'infirmi\u00e8re est avec sa s\u0153ur et Marthe s'occupe de moi. Marthe te dira quand venir ici. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Il",
+            "start": 0.079,
+            "end": 0.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.219,
+            "end": 0.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "acquies\u00e7a.",
+            "start": 0.219,
+            "end": 0.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.819,
+            "end": 1.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 1.399,
+            "end": 1.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.399,
+            "end": 1.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Elle",
+            "start": 1.399,
+            "end": 1.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.559,
+            "end": 1.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dort",
+            "start": 1.599,
+            "end": 1.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.839,
+            "end": 1.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dans",
+            "start": 1.839,
+            "end": 1.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.959,
+            "end": 1.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'autre",
+            "start": 1.979,
+            "end": 2.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.319,
+            "end": 2.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pi\u00e8ce.",
+            "start": 2.319,
+            "end": 2.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.819,
+            "end": 3.22,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "L'infirmi\u00e8re",
+            "start": 3.22,
+            "end": 3.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.819,
+            "end": 3.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 3.819,
+            "end": 3.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.959,
+            "end": 3.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 3.959,
+            "end": 4.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.179,
+            "end": 4.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sa",
+            "start": 4.199,
+            "end": 4.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.439,
+            "end": 4.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s\u0153ur",
+            "start": 4.46,
+            "end": 4.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.779,
+            "end": 5.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 5.159,
+            "end": 5.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.279,
+            "end": 5.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marthe",
+            "start": 5.359,
+            "end": 5.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.719,
+            "end": 5.9,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'occupe",
+            "start": 5.9,
+            "end": 6.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.239,
+            "end": 6.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 6.239,
+            "end": 6.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.379,
+            "end": 6.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "moi.",
+            "start": 6.379,
+            "end": 6.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.679,
+            "end": 7.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marthe",
+            "start": 7.259,
+            "end": 7.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.599,
+            "end": 7.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "te",
+            "start": 7.679,
+            "end": 7.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.759,
+            "end": 7.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dira",
+            "start": 7.799,
+            "end": 8.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.039,
+            "end": 8.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "quand",
+            "start": 8.079,
+            "end": 8.26,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.26,
+            "end": 8.26,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "venir",
+            "start": 8.26,
+            "end": 8.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.579,
+            "end": 8.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ici.",
+            "start": 8.579,
+            "end": 8.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.98,
+            "end": 8.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 8.98,
+            "end": 8.98,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

@@ -1,0 +1,183 @@
+{
+    "text": "\u00ab Il ne l'est pas! \u00bb cria Marie. \u00ab Il n'a pas de bosse! J'ai regard\u00e9! \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Il",
+            "start": 0.28,
+            "end": 0.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.459,
+            "end": 0.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 0.459,
+            "end": 0.54,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.54,
+            "end": 0.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'est",
+            "start": 0.599,
+            "end": 0.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.879,
+            "end": 0.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas!",
+            "start": 0.879,
+            "end": 1.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.179,
+            "end": 1.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cria",
+            "start": 1.539,
+            "end": 1.86,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.86,
+            "end": 1.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.899,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.259,
+            "end": 2.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 2.599,
+            "end": 2.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.699,
+            "end": 2.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "n'a",
+            "start": 2.759,
+            "end": 2.96,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.96,
+            "end": 2.96,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 2.96,
+            "end": 3.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.059,
+            "end": 3.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 3.099,
+            "end": 3.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.219,
+            "end": 3.22,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bosse!",
+            "start": 3.22,
+            "end": 3.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.719,
+            "end": 3.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "J'ai",
+            "start": 3.98,
+            "end": 4.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.159,
+            "end": 4.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "regard\u00e9!",
+            "start": 4.179,
+            "end": 4.779,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

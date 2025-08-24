@@ -1,0 +1,99 @@
+{
+    "text": "\"Eh bien,\" dit Mme Medlock. \"Qu'en penses-tu?\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Eh",
+            "start": 0.159,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien,",
+            "start": 0.299,
+            "end": 0.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.519,
+            "end": 0.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 0.819,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mme",
+            "start": 0.939,
+            "end": 1.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.199,
+            "end": 1.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Medlock.",
+            "start": 1.199,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Qu'en",
+            "start": 1.86,
+            "end": 2.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.059,
+            "end": 2.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "penses-tu?",
+            "start": 2.079,
+            "end": 2.58,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

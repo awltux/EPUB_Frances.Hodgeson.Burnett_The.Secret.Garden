@@ -1,0 +1,99 @@
+{
+    "text": "Elle s'approcha. Il lui toucha la main.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Elle",
+            "start": 0.079,
+            "end": 0.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.279,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'approcha.",
+            "start": 0.28,
+            "end": 0.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.839,
+            "end": 1.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 1.159,
+            "end": 1.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.259,
+            "end": 1.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "lui",
+            "start": 1.279,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "toucha",
+            "start": 1.419,
+            "end": 1.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.719,
+            "end": 1.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 1.719,
+            "end": 1.84,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.84,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "main.",
+            "start": 1.86,
+            "end": 2.079,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

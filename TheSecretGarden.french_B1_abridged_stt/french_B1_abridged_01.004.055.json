@@ -1,0 +1,141 @@
+{
+    "text": "\"Si tu veux. Mais il n'y a rien \u00e0 voir.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Si",
+            "start": 0.199,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tu",
+            "start": 0.359,
+            "end": 0.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.5,
+            "end": 0.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "veux.",
+            "start": 0.5,
+            "end": 0.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.759,
+            "end": 1.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mais",
+            "start": 1.019,
+            "end": 1.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.179,
+            "end": 1.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "il",
+            "start": 1.179,
+            "end": 1.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.339,
+            "end": 1.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "n'y",
+            "start": 1.339,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "a",
+            "start": 1.419,
+            "end": 1.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.5,
+            "end": 1.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rien",
+            "start": 1.5,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 1.699,
+            "end": 1.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.799,
+            "end": 1.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voir.",
+            "start": 1.799,
+            "end": 2.199,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

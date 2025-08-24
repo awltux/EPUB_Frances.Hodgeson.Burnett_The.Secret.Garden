@@ -1,0 +1,99 @@
+{
+    "text": "\u00ab Penses-tu qu'il veut qu'il meure ? \u00bb chuchota Marie.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Penses-tu",
+            "start": 0.14,
+            "end": 0.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.539,
+            "end": 0.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'il",
+            "start": 0.539,
+            "end": 0.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.719,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "veut",
+            "start": 0.719,
+            "end": 0.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.879,
+            "end": 0.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'il",
+            "start": 0.879,
+            "end": 1.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.139,
+            "end": 1.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "meure?",
+            "start": 1.139,
+            "end": 1.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.519,
+            "end": 1.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chuchota",
+            "start": 1.919,
+            "end": 2.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.379,
+            "end": 2.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 2.399,
+            "end": 2.779,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

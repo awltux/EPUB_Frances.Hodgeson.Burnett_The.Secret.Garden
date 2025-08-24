@@ -1,0 +1,267 @@
+{
+    "text": "Dickon retourna au jardin avec ses animaux, et Marie resta avec Colin. Il resta silencieux avant le d\u00e9jeuner, pensant.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Dickon",
+            "start": 0.099,
+            "end": 0.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.5,
+            "end": 0.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "retourna",
+            "start": 0.519,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 0.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "au",
+            "start": 0.959,
+            "end": 1.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.039,
+            "end": 1.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin",
+            "start": 1.079,
+            "end": 1.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.439,
+            "end": 1.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 1.439,
+            "end": 1.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.659,
+            "end": 1.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ses",
+            "start": 1.659,
+            "end": 1.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.839,
+            "end": 1.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "animaux,",
+            "start": 1.839,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.259,
+            "end": 2.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 2.639,
+            "end": 2.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.739,
+            "end": 2.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 2.779,
+            "end": 3.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.039,
+            "end": 3.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "resta",
+            "start": 3.059,
+            "end": 3.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.419,
+            "end": 3.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 3.419,
+            "end": 3.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.659,
+            "end": 3.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin.",
+            "start": 3.72,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.059,
+            "end": 4.4,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 4.4,
+            "end": 4.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.559,
+            "end": 4.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "resta",
+            "start": 4.599,
+            "end": 4.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.919,
+            "end": 4.92,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "silencieux",
+            "start": 4.92,
+            "end": 5.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.46,
+            "end": 5.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avant",
+            "start": 5.46,
+            "end": 5.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.699,
+            "end": 5.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 5.699,
+            "end": 5.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.779,
+            "end": 5.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u00e9jeuner,",
+            "start": 5.819,
+            "end": 6.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.379,
+            "end": 6.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pensant.",
+            "start": 6.399,
+            "end": 6.939,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

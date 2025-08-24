@@ -1,0 +1,239 @@
+{
+    "text": "Si elle et Colin \u00e9taient amis, elle partagerait ces cadeaux. Mais il \u00e9tait grincheux et fatigu\u00e9 aujourd'hui.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Si",
+            "start": 0.119,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elle",
+            "start": 0.319,
+            "end": 0.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.459,
+            "end": 0.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 0.479,
+            "end": 0.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.62,
+            "end": 0.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin",
+            "start": 0.62,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 0.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9taient",
+            "start": 0.959,
+            "end": 1.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.299,
+            "end": 1.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "amis,",
+            "start": 1.299,
+            "end": 1.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.72,
+            "end": 1.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elle",
+            "start": 1.759,
+            "end": 1.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.919,
+            "end": 1.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "partagerait",
+            "start": 1.919,
+            "end": 2.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.46,
+            "end": 2.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ces",
+            "start": 2.46,
+            "end": 2.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.619,
+            "end": 2.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cadeaux.",
+            "start": 2.619,
+            "end": 3.06,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.06,
+            "end": 3.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mais",
+            "start": 3.439,
+            "end": 3.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.619,
+            "end": 3.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "il",
+            "start": 3.639,
+            "end": 3.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 3.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9tait",
+            "start": 3.779,
+            "end": 4.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.019,
+            "end": 4.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "grincheux",
+            "start": 4.019,
+            "end": 4.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.619,
+            "end": 4.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 4.619,
+            "end": 4.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.759,
+            "end": 4.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fatigu\u00e9",
+            "start": 4.759,
+            "end": 5.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.279,
+            "end": 5.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aujourd'hui.",
+            "start": 5.279,
+            "end": 5.939,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

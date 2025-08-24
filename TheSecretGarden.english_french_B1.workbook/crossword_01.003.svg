@@ -1,0 +1,267 @@
+<svg width="710" height="1108" viewBox="0 0 710 1108" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .cell { fill: white; stroke: black; stroke-width: 3px; }
+    .number { font-family: sans-serif; font-weight: bold; }
+    .across-num { font-size: 8px; }
+    .down-num { font-size: 8px; }
+    .clue-title { font-family: sans-serif; font-weight: bold; font-size: 18px; }
+    .clue-text { font-family: sans-serif; font-size: 14px; }
+  </style>
+  <rect x="10" y="130" width="30" height="30" class="cell" />
+  <text x="12" y="158" class="number down-num">3</text>
+  <rect x="10" y="160" width="30" height="30" class="cell" />
+  <rect x="10" y="190" width="30" height="30" class="cell" />
+  <rect x="10" y="220" width="30" height="30" class="cell" />
+  <rect x="10" y="250" width="30" height="30" class="cell" />
+  <rect x="10" y="280" width="30" height="30" class="cell" />
+  <rect x="10" y="310" width="30" height="30" class="cell" />
+  <rect x="10" y="340" width="30" height="30" class="cell" />
+  <rect x="10" y="370" width="30" height="30" class="cell" />
+  <text x="12" y="380" class="number across-num">13</text>
+  <rect x="10" y="400" width="30" height="30" class="cell" />
+  <rect x="10" y="610" width="30" height="30" class="cell" />
+  <text x="12" y="620" class="number across-num">19</text>
+  <rect x="40" y="370" width="30" height="30" class="cell" />
+  <rect x="40" y="610" width="30" height="30" class="cell" />
+  <rect x="70" y="370" width="30" height="30" class="cell" />
+  <rect x="70" y="460" width="30" height="30" class="cell" />
+  <text x="72" y="488" class="number down-num">17</text>
+  <rect x="70" y="490" width="30" height="30" class="cell" />
+  <rect x="70" y="520" width="30" height="30" class="cell" />
+  <rect x="70" y="550" width="30" height="30" class="cell" />
+  <rect x="70" y="580" width="30" height="30" class="cell" />
+  <rect x="70" y="610" width="30" height="30" class="cell" />
+  <rect x="70" y="640" width="30" height="30" class="cell" />
+  <rect x="70" y="670" width="30" height="30" class="cell" />
+  <rect x="100" y="370" width="30" height="30" class="cell" />
+  <rect x="100" y="610" width="30" height="30" class="cell" />
+  <rect x="130" y="220" width="30" height="30" class="cell" />
+  <text x="132" y="248" class="number down-num">5</text>
+  <rect x="130" y="250" width="30" height="30" class="cell" />
+  <rect x="130" y="280" width="30" height="30" class="cell" />
+  <rect x="130" y="310" width="30" height="30" class="cell" />
+  <rect x="130" y="340" width="30" height="30" class="cell" />
+  <rect x="130" y="370" width="30" height="30" class="cell" />
+  <rect x="130" y="400" width="30" height="30" class="cell" />
+  <rect x="130" y="430" width="30" height="30" class="cell" />
+  <rect x="130" y="460" width="30" height="30" class="cell" />
+  <rect x="130" y="490" width="30" height="30" class="cell" />
+  <rect x="130" y="610" width="30" height="30" class="cell" />
+  <rect x="160" y="370" width="30" height="30" class="cell" />
+  <rect x="160" y="610" width="30" height="30" class="cell" />
+  <rect x="190" y="280" width="30" height="30" class="cell" />
+  <text x="192" y="308" class="number down-num">8</text>
+  <rect x="190" y="310" width="30" height="30" class="cell" />
+  <text x="192" y="320" class="number across-num">11</text>
+  <rect x="190" y="340" width="30" height="30" class="cell" />
+  <rect x="190" y="370" width="30" height="30" class="cell" />
+  <rect x="190" y="400" width="30" height="30" class="cell" />
+  <rect x="190" y="430" width="30" height="30" class="cell" />
+  <rect x="190" y="460" width="30" height="30" class="cell" />
+  <rect x="190" y="490" width="30" height="30" class="cell" />
+  <rect x="190" y="520" width="30" height="30" class="cell" />
+  <rect x="190" y="550" width="30" height="30" class="cell" />
+  <rect x="190" y="580" width="30" height="30" class="cell" />
+  <rect x="190" y="610" width="30" height="30" class="cell" />
+  <rect x="220" y="310" width="30" height="30" class="cell" />
+  <rect x="220" y="370" width="30" height="30" class="cell" />
+  <rect x="220" y="610" width="30" height="30" class="cell" />
+  <rect x="250" y="310" width="30" height="30" class="cell" />
+  <rect x="250" y="610" width="30" height="30" class="cell" />
+  <rect x="280" y="190" width="30" height="30" class="cell" />
+  <text x="282" y="200" class="number across-num">4</text>
+  <rect x="280" y="280" width="30" height="30" class="cell" />
+  <text x="282" y="308" class="number down-num">9</text>
+  <rect x="280" y="310" width="30" height="30" class="cell" />
+  <rect x="280" y="340" width="30" height="30" class="cell" />
+  <rect x="280" y="370" width="30" height="30" class="cell" />
+  <rect x="280" y="400" width="30" height="30" class="cell" />
+  <rect x="280" y="430" width="30" height="30" class="cell" />
+  <rect x="280" y="460" width="30" height="30" class="cell" />
+  <rect x="280" y="490" width="30" height="30" class="cell" />
+  <rect x="280" y="520" width="30" height="30" class="cell" />
+  <rect x="280" y="550" width="30" height="30" class="cell" />
+  <rect x="310" y="190" width="30" height="30" class="cell" />
+  <rect x="310" y="310" width="30" height="30" class="cell" />
+  <rect x="310" y="640" width="30" height="30" class="cell" />
+  <text x="312" y="650" class="number across-num">20</text>
+  <rect x="340" y="190" width="30" height="30" class="cell" />
+  <rect x="340" y="250" width="30" height="30" class="cell" />
+  <text x="342" y="278" class="number down-num">6</text>
+  <rect x="340" y="280" width="30" height="30" class="cell" />
+  <rect x="340" y="310" width="30" height="30" class="cell" />
+  <rect x="340" y="340" width="30" height="30" class="cell" />
+  <rect x="340" y="370" width="30" height="30" class="cell" />
+  <rect x="340" y="400" width="30" height="30" class="cell" />
+  <rect x="340" y="430" width="30" height="30" class="cell" />
+  <rect x="340" y="460" width="30" height="30" class="cell" />
+  <rect x="340" y="490" width="30" height="30" class="cell" />
+  <rect x="340" y="520" width="30" height="30" class="cell" />
+  <rect x="340" y="550" width="30" height="30" class="cell" />
+  <rect x="340" y="640" width="30" height="30" class="cell" />
+  <rect x="370" y="190" width="30" height="30" class="cell" />
+  <rect x="370" y="310" width="30" height="30" class="cell" />
+  <rect x="370" y="640" width="30" height="30" class="cell" />
+  <rect x="400" y="10" width="30" height="30" class="cell" />
+  <text x="402" y="20" class="number across-num">1</text>
+  <rect x="400" y="190" width="30" height="30" class="cell" />
+  <rect x="400" y="310" width="30" height="30" class="cell" />
+  <rect x="400" y="430" width="30" height="30" class="cell" />
+  <text x="402" y="440" class="number across-num">16</text>
+  <rect x="400" y="580" width="30" height="30" class="cell" />
+  <text x="402" y="590" class="number across-num">18</text>
+  <rect x="400" y="640" width="30" height="30" class="cell" />
+  <rect x="430" y="10" width="30" height="30" class="cell" />
+  <rect x="430" y="190" width="30" height="30" class="cell" />
+  <rect x="430" y="250" width="30" height="30" class="cell" />
+  <text x="432" y="278" class="number down-num">7</text>
+  <rect x="430" y="280" width="30" height="30" class="cell" />
+  <text x="432" y="290" class="number across-num">10</text>
+  <rect x="430" y="310" width="30" height="30" class="cell" />
+  <rect x="430" y="340" width="30" height="30" class="cell" />
+  <rect x="430" y="370" width="30" height="30" class="cell" />
+  <rect x="430" y="400" width="30" height="30" class="cell" />
+  <rect x="430" y="430" width="30" height="30" class="cell" />
+  <rect x="430" y="460" width="30" height="30" class="cell" />
+  <rect x="430" y="490" width="30" height="30" class="cell" />
+  <rect x="430" y="580" width="30" height="30" class="cell" />
+  <rect x="430" y="640" width="30" height="30" class="cell" />
+  <rect x="460" y="10" width="30" height="30" class="cell" />
+  <rect x="460" y="190" width="30" height="30" class="cell" />
+  <rect x="460" y="280" width="30" height="30" class="cell" />
+  <rect x="460" y="430" width="30" height="30" class="cell" />
+  <rect x="460" y="580" width="30" height="30" class="cell" />
+  <rect x="460" y="640" width="30" height="30" class="cell" />
+  <rect x="490" y="10" width="30" height="30" class="cell" />
+  <rect x="490" y="190" width="30" height="30" class="cell" />
+  <rect x="490" y="280" width="30" height="30" class="cell" />
+  <rect x="490" y="430" width="30" height="30" class="cell" />
+  <rect x="490" y="580" width="30" height="30" class="cell" />
+  <rect x="490" y="640" width="30" height="30" class="cell" />
+  <rect x="520" y="10" width="30" height="30" class="cell" />
+  <text x="522" y="38" class="number down-num">2</text>
+  <rect x="520" y="40" width="30" height="30" class="cell" />
+  <rect x="520" y="70" width="30" height="30" class="cell" />
+  <rect x="520" y="100" width="30" height="30" class="cell" />
+  <rect x="520" y="130" width="30" height="30" class="cell" />
+  <rect x="520" y="160" width="30" height="30" class="cell" />
+  <rect x="520" y="190" width="30" height="30" class="cell" />
+  <rect x="520" y="220" width="30" height="30" class="cell" />
+  <rect x="520" y="250" width="30" height="30" class="cell" />
+  <rect x="520" y="280" width="30" height="30" class="cell" />
+  <rect x="520" y="310" width="30" height="30" class="cell" />
+  <rect x="520" y="430" width="30" height="30" class="cell" />
+  <rect x="520" y="580" width="30" height="30" class="cell" />
+  <rect x="520" y="640" width="30" height="30" class="cell" />
+  <rect x="550" y="10" width="30" height="30" class="cell" />
+  <rect x="550" y="190" width="30" height="30" class="cell" />
+  <rect x="550" y="280" width="30" height="30" class="cell" />
+  <rect x="550" y="400" width="30" height="30" class="cell" />
+  <text x="552" y="428" class="number down-num">15</text>
+  <rect x="550" y="430" width="30" height="30" class="cell" />
+  <rect x="550" y="460" width="30" height="30" class="cell" />
+  <rect x="550" y="490" width="30" height="30" class="cell" />
+  <rect x="550" y="520" width="30" height="30" class="cell" />
+  <rect x="550" y="550" width="30" height="30" class="cell" />
+  <rect x="550" y="580" width="30" height="30" class="cell" />
+  <rect x="550" y="610" width="30" height="30" class="cell" />
+  <rect x="550" y="640" width="30" height="30" class="cell" />
+  <rect x="580" y="10" width="30" height="30" class="cell" />
+  <rect x="580" y="280" width="30" height="30" class="cell" />
+  <rect x="580" y="430" width="30" height="30" class="cell" />
+  <rect x="580" y="580" width="30" height="30" class="cell" />
+  <rect x="610" y="10" width="30" height="30" class="cell" />
+  <rect x="610" y="280" width="30" height="30" class="cell" />
+  <rect x="610" y="340" width="30" height="30" class="cell" />
+  <text x="612" y="368" class="number down-num">12</text>
+  <rect x="610" y="370" width="30" height="30" class="cell" />
+  <rect x="610" y="400" width="30" height="30" class="cell" />
+  <rect x="610" y="430" width="30" height="30" class="cell" />
+  <rect x="610" y="460" width="30" height="30" class="cell" />
+  <rect x="610" y="490" width="30" height="30" class="cell" />
+  <rect x="610" y="520" width="30" height="30" class="cell" />
+  <rect x="610" y="550" width="30" height="30" class="cell" />
+  <rect x="610" y="580" width="30" height="30" class="cell" />
+  <rect x="640" y="10" width="30" height="30" class="cell" />
+  <rect x="640" y="280" width="30" height="30" class="cell" />
+  <rect x="640" y="430" width="30" height="30" class="cell" />
+  <rect x="670" y="280" width="30" height="30" class="cell" />
+  <rect x="670" y="370" width="30" height="30" class="cell" />
+  <text x="672" y="398" class="number down-num">14</text>
+  <rect x="670" y="400" width="30" height="30" class="cell" />
+  <rect x="670" y="430" width="30" height="30" class="cell" />
+  <rect x="670" y="460" width="30" height="30" class="cell" />
+  <rect x="670" y="490" width="30" height="30" class="cell" />
+  <rect x="670" y="520" width="30" height="30" class="cell" />
+  <rect x="670" y="550" width="30" height="30" class="cell" />
+  <rect x="670" y="580" width="30" height="30" class="cell" />
+  <rect x="670" y="610" width="30" height="30" class="cell" />
+  <text x="30" y="750" class="clue-title">Across</text>
+  <text y="770" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">1. Loud, deep sound</tspan>
+  </text>
+  <text y="790" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">4. Unit of distance</tspan>
+  </text>
+  <text y="810" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">10. Painted white</tspan>
+  </text>
+  <text y="830" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">11. A set of steps</tspan>
+  </text>
+  <text y="850" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">13. Stylish</tspan>
+  </text>
+  <text y="870" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">16. Eventually</tspan>
+  </text>
+  <text y="890" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">18. With a steady gaze</tspan>
+  </text>
+  <text y="910" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">19. Ascended</tspan>
+  </text>
+  <text y="930" class="clue-text">
+    <tspan x="30" dy="0em" fill="black">20. Made a loud, deep sound</tspan>
+  </text>
+  <text x="375.0" y="750" class="clue-title">Down</text>
+  <text y="770" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">2. Alleviation</tspan>
+  </text>
+  <text y="790" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">3. Not smooth</tspan>
+  </text>
+  <text y="810" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">5. Displayed</tspan>
+  </text>
+  <text y="830" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">6. Inner part</tspan>
+  </text>
+  <text y="850" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">7. Absence of light</tspan>
+  </text>
+  <text y="870" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">8. Extensive</tspan>
+  </text>
+  <text y="890" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">9. Faintly</tspan>
+  </text>
+  <text y="910" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">12. Hit rapidly</tspan>
+  </text>
+  <text y="930" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">14. Lack of size</tspan>
+  </text>
+  <text y="950" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">15. An emotion</tspan>
+  </text>
+  <text y="970" class="clue-text">
+    <tspan x="375.0" dy="0em" fill="black">17. Midday meal</tspan>
+  </text>
+ <text y="1010" class="solution-text">
+   <tspan x="10" dy="0em" fill="grey">renuejéd .71 ,tnemitnes .51 ,essetitep .41 ,tiatteuof .21 ,tnemelbiaf .9 ,erialucatnet .8 ,étirucsbo .7</tspan>
+   <tspan x="10" dy="1.2em" fill="grey">,rueirétni'l .6 ,tneiartnom .5 ,eétnedicca .3 ,tnemegaluos .2 :NWOD    tiassigur .02 ,tnerètnom .91</tspan>
+   <tspan x="10" dy="1.2em" fill="grey">,tnemexif .81 ,tnemelanif .61 ,etnagélé .31 ,sreilacse .11 ,seihcnalb .01 ,sertèmolik .4 ,tnassigur .1</tspan>
+   <tspan x="10" dy="1.2em" fill="grey">:SSORCA</tspan>
+ </text>
+</svg>

@@ -1,0 +1,85 @@
+{
+    "text": "\u00ab C\u2019est certainement nouveau, et mieux qu\u2019avant. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "C\u2019est",
+            "start": 0.099,
+            "end": 0.4,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.4,
+            "end": 0.4,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "certainement",
+            "start": 0.4,
+            "end": 1.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.019,
+            "end": 1.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "nouveau,",
+            "start": 1.019,
+            "end": 1.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.559,
+            "end": 1.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 1.559,
+            "end": 1.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.719,
+            "end": 1.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mieux",
+            "start": 1.719,
+            "end": 1.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.919,
+            "end": 1.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu\u2019avant.",
+            "start": 1.919,
+            "end": 2.34,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

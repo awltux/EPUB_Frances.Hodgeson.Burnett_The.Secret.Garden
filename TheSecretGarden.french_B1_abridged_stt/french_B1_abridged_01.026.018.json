@@ -1,0 +1,99 @@
+{
+    "text": "Dickon chanta, sa voix claire et forte :",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Dickon",
+            "start": 0.079,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chanta,",
+            "start": 0.459,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sa",
+            "start": 0.939,
+            "end": 1.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.059,
+            "end": 1.1,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voix",
+            "start": 1.1,
+            "end": 1.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.279,
+            "end": 1.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "claire",
+            "start": 1.279,
+            "end": 1.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.559,
+            "end": 1.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 1.579,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "forte:",
+            "start": 1.699,
+            "end": 2.139,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

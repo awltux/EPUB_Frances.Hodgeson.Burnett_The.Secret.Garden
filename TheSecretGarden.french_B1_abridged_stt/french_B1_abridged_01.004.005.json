@@ -1,0 +1,309 @@
+{
+    "text": "Marthe haussa les \u00e9paules. \"Tu t'y habitueras. C'est charmant au printemps, plein de fleurs odorantes. Je ne voudrais vivre nulle part ailleurs.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marthe",
+            "start": 0.099,
+            "end": 0.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.539,
+            "end": 0.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "haussa",
+            "start": 0.539,
+            "end": 0.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.859,
+            "end": 0.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 0.859,
+            "end": 0.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.999,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9paules.",
+            "start": 1.0,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Tu",
+            "start": 1.979,
+            "end": 2.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.099,
+            "end": 2.2,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "t'y",
+            "start": 2.2,
+            "end": 2.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.339,
+            "end": 2.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "habitueras.",
+            "start": 2.339,
+            "end": 3.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.1,
+            "end": 3.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "C'est",
+            "start": 3.639,
+            "end": 3.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.859,
+            "end": 3.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "charmant",
+            "start": 3.859,
+            "end": 4.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.279,
+            "end": 4.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "au",
+            "start": 4.279,
+            "end": 4.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.419,
+            "end": 4.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "printemps,",
+            "start": 4.42,
+            "end": 4.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.98,
+            "end": 5.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plein",
+            "start": 5.239,
+            "end": 5.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.539,
+            "end": 5.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 5.539,
+            "end": 5.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.679,
+            "end": 5.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fleurs",
+            "start": 5.699,
+            "end": 5.94,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.94,
+            "end": 5.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "odorantes.",
+            "start": 5.94,
+            "end": 6.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.619,
+            "end": 6.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 6.899,
+            "end": 7.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.0,
+            "end": 7.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 7.019,
+            "end": 7.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.119,
+            "end": 7.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voudrais",
+            "start": 7.119,
+            "end": 7.48,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.48,
+            "end": 7.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vivre",
+            "start": 7.48,
+            "end": 7.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.879,
+            "end": 7.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "nulle",
+            "start": 7.879,
+            "end": 8.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.159,
+            "end": 8.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "part",
+            "start": 8.159,
+            "end": 8.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.319,
+            "end": 8.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ailleurs.",
+            "start": 8.319,
+            "end": 8.94,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

@@ -1,0 +1,176 @@
+{
+    "text": "\u00ab M. Craven est de retour, \u00bb dit-elle. \u00ab Il veut te voir. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "M.",
+            "start": 0.179,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Craven",
+            "start": 0.419,
+            "end": 0.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.74,
+            "end": 0.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 0.74,
+            "end": 0.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.879,
+            "end": 0.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 0.879,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "retour,",
+            "start": 0.939,
+            "end": 1.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.479,
+            "end": 1.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 1.48,
+            "end": 1.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.959,
+            "end": 2.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit-elle.",
+            "start": 2.119,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.259,
+            "end": 2.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 2.259,
+            "end": 2.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.399,
+            "end": 2.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 2.399,
+            "end": 2.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.519,
+            "end": 2.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "veut",
+            "start": 2.519,
+            "end": 2.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.859,
+            "end": 2.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "te",
+            "start": 2.859,
+            "end": 2.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.859,
+            "end": 2.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voir.",
+            "start": 2.859,
+            "end": 2.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 2.859,
+            "end": 2.859,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

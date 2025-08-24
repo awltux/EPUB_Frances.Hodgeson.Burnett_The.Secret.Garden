@@ -1,0 +1,183 @@
+{
+    "text": "\u00ab Je me suis perdue et j'ai entendu quelqu'un pleurer. \u00bb, expliqua Marie.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.179,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 0.28,
+            "end": 0.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.339,
+            "end": 0.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "me",
+            "start": 0.379,
+            "end": 0.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.579,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "suis",
+            "start": 0.579,
+            "end": 0.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.979,
+            "end": 1.36,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "perdue",
+            "start": 1.36,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 1.459,
+            "end": 1.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.599,
+            "end": 1.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "j'ai",
+            "start": 1.62,
+            "end": 1.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.979,
+            "end": 1.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "entendu",
+            "start": 1.979,
+            "end": 2.38,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.38,
+            "end": 2.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "quelqu'un",
+            "start": 2.399,
+            "end": 2.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.859,
+            "end": 3.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pleurer.",
+            "start": 3.319,
+            "end": 3.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 3.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb,",
+            "start": 3.779,
+            "end": 4.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 3.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "expliqua",
+            "start": 3.779,
+            "end": 4.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 3.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 3.779,
+            "end": 4.159,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

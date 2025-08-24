@@ -1,0 +1,71 @@
+{
+    "text": "\u00ab J'en ai moi-m\u00eame. \u00bb, dit Marthe.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "J'en",
+            "start": 0.119,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ai",
+            "start": 0.319,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "moi-m\u00eame.",
+            "start": 0.419,
+            "end": 0.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.999,
+            "end": 1.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 1.419,
+            "end": 1.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.599,
+            "end": 1.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marthe.",
+            "start": 1.599,
+            "end": 2.079,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

@@ -1,0 +1,113 @@
+{
+    "text": "Elle se tenait \u00e0 l'int\u00e9rieur du jardin secret.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Elle",
+            "start": 0.079,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 0.259,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tenait",
+            "start": 0.439,
+            "end": 0.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.719,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 0.719,
+            "end": 0.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.799,
+            "end": 0.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'int\u00e9rieur",
+            "start": 0.819,
+            "end": 1.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.339,
+            "end": 1.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "du",
+            "start": 1.339,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin",
+            "start": 1.459,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "secret.",
+            "start": 1.759,
+            "end": 2.239,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

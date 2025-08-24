@@ -1,0 +1,57 @@
+{
+    "text": "\u00ab Pourrais-tu ? \u00bb demanda Marie, effray\u00e9e.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Pourrais-tu ?",
+            "start": 0.159,
+            "end": 0.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.699,
+            "end": 1.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda",
+            "start": 1.179,
+            "end": 1.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.539,
+            "end": 1.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie,",
+            "start": 1.559,
+            "end": 1.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.939,
+            "end": 1.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "effray\u00e9e.",
+            "start": 1.939,
+            "end": 2.499,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

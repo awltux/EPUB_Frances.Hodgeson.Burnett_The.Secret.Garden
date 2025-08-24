@@ -1,0 +1,281 @@
+{
+    "text": "Une procession se forma. Colin menait, avec Dickon et Marie \u00e0 ses c\u00f4t\u00e9s. Ben suivait, et les animaux tra\u00eenaient derri\u00e8re.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Une",
+            "start": 0.079,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "procession",
+            "start": 0.259,
+            "end": 0.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.779,
+            "end": 0.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 0.799,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 0.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "forma.",
+            "start": 0.959,
+            "end": 1.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.359,
+            "end": 1.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin",
+            "start": 1.759,
+            "end": 2.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.079,
+            "end": 2.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "menait,",
+            "start": 2.099,
+            "end": 2.499,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.499,
+            "end": 2.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 2.72,
+            "end": 2.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.939,
+            "end": 2.96,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon",
+            "start": 2.96,
+            "end": 3.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.379,
+            "end": 3.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 3.379,
+            "end": 3.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.479,
+            "end": 3.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 3.48,
+            "end": 3.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.799,
+            "end": 3.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 3.819,
+            "end": 3.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.899,
+            "end": 3.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ses",
+            "start": 3.899,
+            "end": 4.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.039,
+            "end": 4.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "c\u00f4t\u00e9s.",
+            "start": 4.039,
+            "end": 4.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.46,
+            "end": 4.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben",
+            "start": 4.799,
+            "end": 5.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.059,
+            "end": 5.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "suivait,",
+            "start": 5.059,
+            "end": 5.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.56,
+            "end": 5.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 5.759,
+            "end": 5.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.859,
+            "end": 5.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 5.859,
+            "end": 5.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.98,
+            "end": 6.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "animaux",
+            "start": 6.019,
+            "end": 6.42,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.42,
+            "end": 6.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tra\u00eenaient",
+            "start": 6.42,
+            "end": 6.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.939,
+            "end": 6.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "derri\u00e8re.",
+            "start": 6.94,
+            "end": 7.56,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

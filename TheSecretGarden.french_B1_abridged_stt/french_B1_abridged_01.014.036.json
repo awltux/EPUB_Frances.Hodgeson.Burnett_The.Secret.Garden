@@ -1,0 +1,309 @@
+{
+    "text": "Une cloche sonna, et Marthe roula son tricot. \"L'infirmi\u00e8re veut probablement que je reste avec lui. J'esp\u00e8re qu'il est de bonne humeur.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Une",
+            "start": 0.079,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cloche",
+            "start": 0.259,
+            "end": 0.54,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.54,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sonna,",
+            "start": 0.579,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 1.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 1.24,
+            "end": 1.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.399,
+            "end": 1.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marthe",
+            "start": 1.399,
+            "end": 1.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.759,
+            "end": 1.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "roula",
+            "start": 1.799,
+            "end": 2.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.099,
+            "end": 2.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "son",
+            "start": 2.099,
+            "end": 2.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.219,
+            "end": 2.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tricot.",
+            "start": 2.24,
+            "end": 2.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.659,
+            "end": 3.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\"L'infirmi\u00e8re",
+            "start": 3.039,
+            "end": 3.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.579,
+            "end": 3.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "veut",
+            "start": 3.579,
+            "end": 3.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.739,
+            "end": 3.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "probablement",
+            "start": 3.74,
+            "end": 4.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.319,
+            "end": 4.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 4.319,
+            "end": 4.4,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.4,
+            "end": 4.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "je",
+            "start": 4.44,
+            "end": 4.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.559,
+            "end": 4.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "reste",
+            "start": 4.579,
+            "end": 4.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.779,
+            "end": 4.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 4.779,
+            "end": 5.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.019,
+            "end": 5.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "lui.",
+            "start": 5.039,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.359,
+            "end": 5.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "J'esp\u00e8re",
+            "start": 5.579,
+            "end": 5.96,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.96,
+            "end": 6.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'il",
+            "start": 6.0,
+            "end": 6.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.159,
+            "end": 6.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 6.159,
+            "end": 6.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.299,
+            "end": 6.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 6.299,
+            "end": 6.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.479,
+            "end": 6.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bonne",
+            "start": 6.5,
+            "end": 6.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.679,
+            "end": 6.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "humeur.\"",
+            "start": 6.679,
+            "end": 7.259,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

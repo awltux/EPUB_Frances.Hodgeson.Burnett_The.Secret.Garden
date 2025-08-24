@@ -1,0 +1,141 @@
+{
+    "text": "\"Colin est-il bossu ?\" demanda Marie. \"Il n'en avait pas l'air.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Colin",
+            "start": 0.119,
+            "end": 0.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.399,
+            "end": 0.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est-il",
+            "start": 0.399,
+            "end": 0.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.699,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bossu?",
+            "start": 0.719,
+            "end": 1.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.119,
+            "end": 1.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda",
+            "start": 1.379,
+            "end": 1.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.72,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.74,
+            "end": 2.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.119,
+            "end": 2.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 2.44,
+            "end": 2.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.559,
+            "end": 2.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "n'en",
+            "start": 2.559,
+            "end": 2.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.719,
+            "end": 2.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avait",
+            "start": 2.72,
+            "end": 2.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.959,
+            "end": 2.96,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 2.96,
+            "end": 3.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.039,
+            "end": 3.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'air.",
+            "start": 3.079,
+            "end": 3.459,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

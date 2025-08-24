@@ -1,0 +1,337 @@
+{
+    "text": "Ce jour-l\u00e0, Marie comprit l'atmosph\u00e8re myst\u00e9rieuse. Le chol\u00e9ra. Les gens mouraient comme des mouches. L'Ayah \u00e9tait morte pendant la nuit. La panique se r\u00e9pandit.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ce",
+            "start": 0.099,
+            "end": 0.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.239,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jour-l\u00e0,",
+            "start": 0.28,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.739,
+            "end": 1.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 1.259,
+            "end": 1.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.559,
+            "end": 1.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "comprit",
+            "start": 1.559,
+            "end": 1.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.879,
+            "end": 1.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'atmosph\u00e8re",
+            "start": 1.879,
+            "end": 2.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.479,
+            "end": 2.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "myst\u00e9rieuse.",
+            "start": 2.519,
+            "end": 3.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.359,
+            "end": 3.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Le",
+            "start": 3.859,
+            "end": 3.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.979,
+            "end": 4.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chol\u00e9ra.",
+            "start": 4.099,
+            "end": 4.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.719,
+            "end": 5.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Les",
+            "start": 5.359,
+            "end": 5.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.519,
+            "end": 5.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "gens",
+            "start": 5.619,
+            "end": 5.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.839,
+            "end": 5.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mouraient",
+            "start": 5.859,
+            "end": 6.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.319,
+            "end": 6.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "comme",
+            "start": 6.339,
+            "end": 6.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.559,
+            "end": 6.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 6.579,
+            "end": 6.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.719,
+            "end": 6.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mouches.",
+            "start": 6.719,
+            "end": 7.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.139,
+            "end": 7.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "L'Ayah",
+            "start": 7.559,
+            "end": 7.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.979,
+            "end": 8.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9tait",
+            "start": 8.059,
+            "end": 8.38,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.38,
+            "end": 8.38,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "morte",
+            "start": 8.38,
+            "end": 8.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.699,
+            "end": 8.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pendant",
+            "start": 8.779,
+            "end": 9.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.079,
+            "end": 9.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 9.099,
+            "end": 9.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.199,
+            "end": 9.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "nuit.",
+            "start": 9.239,
+            "end": 9.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.539,
+            "end": 10.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "La",
+            "start": 10.179,
+            "end": 10.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.299,
+            "end": 10.38,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "panique",
+            "start": 10.38,
+            "end": 10.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.759,
+            "end": 10.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 10.819,
+            "end": 10.92,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.92,
+            "end": 10.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9pandit.",
+            "start": 10.939,
+            "end": 11.6,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

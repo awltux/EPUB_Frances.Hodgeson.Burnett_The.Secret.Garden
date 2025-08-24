@@ -1,0 +1,421 @@
+{
+    "text": "Un matin pluvieux, Colin, agit\u00e9 \u00e0 l'int\u00e9rieur, dit : \"Maintenant, je suis un vrai gar\u00e7on, mon corps est plein de Magie et je ne peux pas rester immobile.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Un",
+            "start": 0.099,
+            "end": 0.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.219,
+            "end": 0.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "matin",
+            "start": 0.219,
+            "end": 0.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.519,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pluvieux,",
+            "start": 0.579,
+            "end": 1.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.1,
+            "end": 1.36,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin,",
+            "start": 1.36,
+            "end": 1.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.719,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "agit\u00e9",
+            "start": 1.74,
+            "end": 2.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.099,
+            "end": 2.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 2.099,
+            "end": 2.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.159,
+            "end": 2.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'int\u00e9rieur,",
+            "start": 2.159,
+            "end": 2.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.699,
+            "end": 2.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 2.74,
+            "end": 2.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.959,
+            "end": 2.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": ":",
+            "start": 2.959,
+            "end": 3.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.0,
+            "end": 3.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\"",
+            "start": 3.0,
+            "end": 3.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.1,
+            "end": 3.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Maintenant,",
+            "start": 3.579,
+            "end": 4.08,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.08,
+            "end": 4.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "je",
+            "start": 4.259,
+            "end": 4.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.419,
+            "end": 4.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "suis",
+            "start": 4.44,
+            "end": 4.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.619,
+            "end": 4.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 4.619,
+            "end": 4.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.739,
+            "end": 4.9,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vrai",
+            "start": 4.9,
+            "end": 5.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.119,
+            "end": 5.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "gar\u00e7on,",
+            "start": 5.179,
+            "end": 5.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.619,
+            "end": 5.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mon",
+            "start": 5.94,
+            "end": 6.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.119,
+            "end": 6.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "corps",
+            "start": 6.119,
+            "end": 6.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.439,
+            "end": 6.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 6.46,
+            "end": 6.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.659,
+            "end": 6.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plein",
+            "start": 6.659,
+            "end": 6.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.899,
+            "end": 6.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 6.94,
+            "end": 7.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.059,
+            "end": 7.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Magie",
+            "start": 7.059,
+            "end": 7.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.419,
+            "end": 7.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 7.719,
+            "end": 7.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.819,
+            "end": 7.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "je",
+            "start": 7.839,
+            "end": 7.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.959,
+            "end": 7.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 7.98,
+            "end": 8.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.079,
+            "end": 8.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "peux",
+            "start": 8.079,
+            "end": 8.26,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.26,
+            "end": 8.26,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 8.26,
+            "end": 8.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.399,
+            "end": 8.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rester",
+            "start": 8.42,
+            "end": 8.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.819,
+            "end": 8.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "immobile.",
+            "start": 8.859,
+            "end": 9.38,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.38,
+            "end": 9.38,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\"",
+            "start": 9.38,
+            "end": 9.52,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

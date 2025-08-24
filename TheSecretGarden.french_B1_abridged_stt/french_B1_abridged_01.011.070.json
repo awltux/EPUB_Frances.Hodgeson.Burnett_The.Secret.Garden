@@ -1,0 +1,71 @@
+{
+    "text": "Et elle savait qu'elle l'\u00e9tait.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Et",
+            "start": 0.079,
+            "end": 0.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.179,
+            "end": 0.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elle",
+            "start": 0.179,
+            "end": 0.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.399,
+            "end": 0.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "savait",
+            "start": 0.399,
+            "end": 0.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.74,
+            "end": 0.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'elle",
+            "start": 0.74,
+            "end": 0.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.979,
+            "end": 0.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'\u00e9tait.",
+            "start": 0.979,
+            "end": 1.46,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

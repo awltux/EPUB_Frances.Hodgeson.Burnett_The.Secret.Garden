@@ -1,0 +1,323 @@
+{
+    "text": "\u00ab Tr\u00e8s bien, monsieur, \u00bb r\u00e9pondit M. Roach, une vague de soulagement le submergeant que les terres du manoir soient \u00e0 l'abri d'impulsions irr\u00e9fl\u00e9chies.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.079,
+            "end": 0.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.179,
+            "end": 0.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Tr\u00e8s",
+            "start": 0.659,
+            "end": 0.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.799,
+            "end": 0.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien,",
+            "start": 0.859,
+            "end": 1.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.079,
+            "end": 1.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "monsieur,",
+            "start": 1.079,
+            "end": 1.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.559,
+            "end": 1.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9pondit",
+            "start": 1.979,
+            "end": 2.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.339,
+            "end": 2.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "M.",
+            "start": 2.359,
+            "end": 2.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.639,
+            "end": 2.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Roach,",
+            "start": 2.679,
+            "end": 3.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.119,
+            "end": 3.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "une",
+            "start": 3.519,
+            "end": 3.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.679,
+            "end": 3.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vague",
+            "start": 3.74,
+            "end": 3.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.959,
+            "end": 3.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 3.959,
+            "end": 4.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.099,
+            "end": 4.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "soulagement",
+            "start": 4.099,
+            "end": 4.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.559,
+            "end": 4.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 4.559,
+            "end": 4.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.659,
+            "end": 4.739,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "submergeant",
+            "start": 4.739,
+            "end": 5.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.279,
+            "end": 5.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 5.279,
+            "end": 5.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.399,
+            "end": 5.4,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 5.4,
+            "end": 5.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.599,
+            "end": 5.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "terres",
+            "start": 5.599,
+            "end": 5.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.799,
+            "end": 5.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "du",
+            "start": 5.799,
+            "end": 5.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.919,
+            "end": 5.92,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "manoir",
+            "start": 5.92,
+            "end": 6.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.319,
+            "end": 6.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "soient",
+            "start": 6.339,
+            "end": 6.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.599,
+            "end": 6.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 6.599,
+            "end": 6.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.659,
+            "end": 6.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'abri",
+            "start": 6.659,
+            "end": 6.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.999,
+            "end": 7.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'impulsions",
+            "start": 7.019,
+            "end": 7.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.679,
+            "end": 7.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "irr\u00e9fl\u00e9chies.",
+            "start": 7.699,
+            "end": 8.459,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

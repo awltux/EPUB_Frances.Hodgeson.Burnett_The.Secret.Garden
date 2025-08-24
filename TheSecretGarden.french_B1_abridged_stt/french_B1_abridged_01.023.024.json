@@ -1,0 +1,827 @@
+{
+    "text": "Colin regardait tout cela, fascin\u00e9. Il passait des heures dans le jardin, m\u00eame les jours gris. Il regardait les plantes pousser et les insectes se pr\u00e9cipiter. Il apprit des choses sur les taupes, les fourmis, les abeilles, les grenouilles, les oiseaux et les plantes. Dickon ajouta les renards, les loutres, les \u00e9cureuils et bien d'autres choses \u00e0 ses connaissances.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Colin",
+            "start": 0.079,
+            "end": 0.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.46,
+            "end": 0.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "regardait",
+            "start": 0.479,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tout",
+            "start": 0.939,
+            "end": 1.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.139,
+            "end": 1.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cela,",
+            "start": 1.139,
+            "end": 1.499,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.499,
+            "end": 2.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fascin\u00e9.",
+            "start": 2.039,
+            "end": 2.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.699,
+            "end": 3.22,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 3.22,
+            "end": 3.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.339,
+            "end": 3.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "passait",
+            "start": 3.399,
+            "end": 3.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 3.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 3.759,
+            "end": 3.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.959,
+            "end": 4.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "heures",
+            "start": 4.019,
+            "end": 4.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.239,
+            "end": 4.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dans",
+            "start": 4.239,
+            "end": 4.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.379,
+            "end": 4.4,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 4.4,
+            "end": 4.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.46,
+            "end": 4.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin,",
+            "start": 4.519,
+            "end": 5.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.0,
+            "end": 5.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "m\u00eame",
+            "start": 5.46,
+            "end": 5.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.699,
+            "end": 5.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 5.719,
+            "end": 5.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.819,
+            "end": 5.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jours",
+            "start": 5.859,
+            "end": 6.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.079,
+            "end": 6.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "gris.",
+            "start": 6.099,
+            "end": 6.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.479,
+            "end": 6.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 6.98,
+            "end": 7.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.139,
+            "end": 7.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "regardait",
+            "start": 7.159,
+            "end": 7.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.619,
+            "end": 7.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 7.619,
+            "end": 7.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.779,
+            "end": 7.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plantes",
+            "start": 7.799,
+            "end": 8.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.179,
+            "end": 8.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pousser",
+            "start": 8.179,
+            "end": 8.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.659,
+            "end": 8.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 8.979,
+            "end": 9.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.099,
+            "end": 9.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 9.099,
+            "end": 9.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.259,
+            "end": 9.3,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "insectes",
+            "start": 9.3,
+            "end": 9.84,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.84,
+            "end": 10.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 10.079,
+            "end": 10.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.199,
+            "end": 10.26,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pr\u00e9cipiter.",
+            "start": 10.26,
+            "end": 10.96,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.96,
+            "end": 11.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 11.46,
+            "end": 11.6,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.6,
+            "end": 11.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "apprit",
+            "start": 11.619,
+            "end": 11.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.939,
+            "end": 11.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 11.939,
+            "end": 12.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.139,
+            "end": 12.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "choses",
+            "start": 12.159,
+            "end": 12.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.559,
+            "end": 12.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sur",
+            "start": 12.619,
+            "end": 12.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.779,
+            "end": 12.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 12.799,
+            "end": 12.9,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.9,
+            "end": 13.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "taupes,",
+            "start": 13.0,
+            "end": 13.44,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.44,
+            "end": 13.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 13.659,
+            "end": 13.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.779,
+            "end": 13.84,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fourmis,",
+            "start": 13.84,
+            "end": 14.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 14.399,
+            "end": 14.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 14.639,
+            "end": 14.8,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 14.8,
+            "end": 14.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "abeilles,",
+            "start": 14.839,
+            "end": 15.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 15.439,
+            "end": 15.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 15.699,
+            "end": 15.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 15.799,
+            "end": 15.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "grenouilles,",
+            "start": 15.839,
+            "end": 16.52,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 16.52,
+            "end": 16.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 16.799,
+            "end": 16.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 16.939,
+            "end": 16.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "oiseaux",
+            "start": 16.979,
+            "end": 17.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 17.479,
+            "end": 17.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 17.94,
+            "end": 18.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 18.059,
+            "end": 18.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 18.059,
+            "end": 18.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 18.219,
+            "end": 18.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plantes.",
+            "start": 18.219,
+            "end": 18.68,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 18.68,
+            "end": 19.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon",
+            "start": 19.979,
+            "end": 20.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 20.379,
+            "end": 20.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ajouta",
+            "start": 20.379,
+            "end": 20.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 20.879,
+            "end": 21.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 21.059,
+            "end": 21.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 21.179,
+            "end": 21.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "renards,",
+            "start": 21.199,
+            "end": 21.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 21.819,
+            "end": 22.18,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 22.18,
+            "end": 22.3,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 22.3,
+            "end": 22.34,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "loutres,",
+            "start": 22.34,
+            "end": 22.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 22.799,
+            "end": 23.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 23.239,
+            "end": 23.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 23.359,
+            "end": 23.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9cureuils",
+            "start": 23.439,
+            "end": 24.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 24.119,
+            "end": 24.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 24.559,
+            "end": 24.7,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 24.7,
+            "end": 24.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien",
+            "start": 24.719,
+            "end": 24.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 24.939,
+            "end": 24.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'autres",
+            "start": 24.959,
+            "end": 25.26,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 25.26,
+            "end": 25.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "choses",
+            "start": 25.359,
+            "end": 25.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 25.739,
+            "end": 25.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 25.959,
+            "end": 26.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 26.059,
+            "end": 26.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ses",
+            "start": 26.059,
+            "end": 26.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 26.219,
+            "end": 26.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "connaissances.",
+            "start": 26.219,
+            "end": 26.999,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

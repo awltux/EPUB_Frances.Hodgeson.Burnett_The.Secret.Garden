@@ -1,0 +1,295 @@
+{
+    "text": "\u00ab Je ne vais pas \u00eatre une 'pauvre chose'. \u00bb, d\u00e9clara Colin. \u00ab Je me suis tenu debout aujourd'hui ! \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.14,
+            "end": 0.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.239,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 0.259,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 0.319,
+            "end": 0.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.479,
+            "end": 0.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vais",
+            "start": 0.479,
+            "end": 0.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.639,
+            "end": 0.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 0.639,
+            "end": 0.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.859,
+            "end": 0.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00eatre",
+            "start": 0.859,
+            "end": 1.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.099,
+            "end": 1.1,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "une",
+            "start": 1.1,
+            "end": 1.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.559,
+            "end": 1.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "'pauvre",
+            "start": 1.559,
+            "end": 1.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.979,
+            "end": 2.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chose'.",
+            "start": 2.319,
+            "end": 2.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.759,
+            "end": 2.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb,",
+            "start": 2.759,
+            "end": 3.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.119,
+            "end": 3.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u00e9clara",
+            "start": 3.48,
+            "end": 3.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.579,
+            "end": 3.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin.",
+            "start": 3.599,
+            "end": 3.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.679,
+            "end": 3.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 3.679,
+            "end": 3.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.859,
+            "end": 3.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 3.859,
+            "end": 4.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.079,
+            "end": 4.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "me",
+            "start": 4.119,
+            "end": 4.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.5,
+            "end": 4.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "suis",
+            "start": 4.759,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tenu",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "debout",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aujourd'hui",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "!",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 5.359,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

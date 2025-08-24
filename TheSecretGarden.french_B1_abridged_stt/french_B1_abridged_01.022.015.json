@@ -1,0 +1,197 @@
+{
+    "text": "Marie avait parl\u00e9 \u00e0 Ben du r\u00e9tablissement de Colin et de l'importance du jardin.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marie",
+            "start": 0.099,
+            "end": 0.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.479,
+            "end": 0.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avait",
+            "start": 0.479,
+            "end": 0.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.719,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parl\u00e9",
+            "start": 0.719,
+            "end": 1.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.0,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 1.0,
+            "end": 1.12,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.12,
+            "end": 1.12,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben",
+            "start": 1.12,
+            "end": 1.36,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.36,
+            "end": 1.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "du",
+            "start": 1.379,
+            "end": 1.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.459,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9tablissement",
+            "start": 1.459,
+            "end": 2.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.099,
+            "end": 2.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 2.099,
+            "end": 2.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.239,
+            "end": 2.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin",
+            "start": 2.24,
+            "end": 2.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.539,
+            "end": 2.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 2.619,
+            "end": 2.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.719,
+            "end": 2.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 2.72,
+            "end": 2.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.819,
+            "end": 2.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'importance",
+            "start": 2.819,
+            "end": 3.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.419,
+            "end": 3.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "du",
+            "start": 3.419,
+            "end": 3.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.519,
+            "end": 3.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin.",
+            "start": 3.579,
+            "end": 4.039,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

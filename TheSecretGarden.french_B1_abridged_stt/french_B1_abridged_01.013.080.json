@@ -1,0 +1,183 @@
+{
+    "text": "Les mains de Marie se crisp\u00e8rent. Tout serait g\u00e2ch\u00e9 ! Dickon ne reviendrait pas.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Les",
+            "start": 0.099,
+            "end": 0.28,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.28,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mains",
+            "start": 0.299,
+            "end": 0.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.5,
+            "end": 0.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 0.5,
+            "end": 0.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.579,
+            "end": 0.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 0.62,
+            "end": 0.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.899,
+            "end": 0.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 0.899,
+            "end": 1.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.039,
+            "end": 1.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "crisp\u00e8rent.",
+            "start": 1.039,
+            "end": 1.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.759,
+            "end": 2.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Tout",
+            "start": 2.159,
+            "end": 2.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.379,
+            "end": 2.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "serait",
+            "start": 2.379,
+            "end": 2.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.739,
+            "end": 2.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "g\u00e2ch\u00e9!",
+            "start": 2.74,
+            "end": 3.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.339,
+            "end": 3.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon",
+            "start": 3.679,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 4.059,
+            "end": 4.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.179,
+            "end": 4.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "reviendrait",
+            "start": 4.179,
+            "end": 4.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.719,
+            "end": 4.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas.",
+            "start": 4.719,
+            "end": 4.959,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

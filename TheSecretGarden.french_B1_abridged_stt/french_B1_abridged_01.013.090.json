@@ -1,0 +1,197 @@
+{
+    "text": "\u00ab Le printemps arrive-t-il ? \u00bb dit-il. \u00ab Comment est-ce ? On ne le voit pas dans les pi\u00e8ces. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Le",
+            "start": 0.159,
+            "end": 0.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.279,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "printemps",
+            "start": 0.28,
+            "end": 0.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.659,
+            "end": 0.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "arrive-t-il?",
+            "start": 0.659,
+            "end": 1.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.279,
+            "end": 1.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dit-il.",
+            "start": 1.699,
+            "end": 2.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.159,
+            "end": 2.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Comment",
+            "start": 2.619,
+            "end": 2.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.839,
+            "end": 2.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est-ce?",
+            "start": 2.899,
+            "end": 3.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.279,
+            "end": 3.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "On",
+            "start": 3.74,
+            "end": 3.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.879,
+            "end": 3.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 3.879,
+            "end": 3.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.959,
+            "end": 4.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 4.0,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.059,
+            "end": 4.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voit",
+            "start": 4.079,
+            "end": 4.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.299,
+            "end": 4.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 4.299,
+            "end": 4.44,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.44,
+            "end": 4.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dans",
+            "start": 4.44,
+            "end": 4.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.559,
+            "end": 4.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 4.559,
+            "end": 4.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.679,
+            "end": 4.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pi\u00e8ces.",
+            "start": 4.699,
+            "end": 5.179,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

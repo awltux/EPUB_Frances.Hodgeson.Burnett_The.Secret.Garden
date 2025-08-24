@@ -1,0 +1,169 @@
+{
+    "text": "\u00ab Il part pour longtemps. Il ne reviendra pas avant l'automne ou l'hiver. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Il",
+            "start": 0.199,
+            "end": 0.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.519,
+            "end": 0.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "part",
+            "start": 0.519,
+            "end": 0.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.719,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pour",
+            "start": 0.719,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 0.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "longtemps.",
+            "start": 0.959,
+            "end": 1.12,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.12,
+            "end": 2.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 2.139,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.259,
+            "end": 2.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 2.259,
+            "end": 2.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.399,
+            "end": 2.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "reviendra",
+            "start": 2.419,
+            "end": 2.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.819,
+            "end": 2.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 2.819,
+            "end": 2.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.959,
+            "end": 3.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avant",
+            "start": 3.039,
+            "end": 3.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.199,
+            "end": 3.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'automne",
+            "start": 3.199,
+            "end": 3.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.679,
+            "end": 3.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ou",
+            "start": 3.679,
+            "end": 3.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.739,
+            "end": 3.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'hiver.",
+            "start": 3.799,
+            "end": 4.359,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

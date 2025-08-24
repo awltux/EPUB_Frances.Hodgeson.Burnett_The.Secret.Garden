@@ -1,0 +1,85 @@
+{
+    "text": "\u00ab D'o\u00f9 viens-tu ? \u00bb demanda-t-il.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.159,
+            "end": 0.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.319,
+            "end": 0.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "D'o\u00f9",
+            "start": 0.319,
+            "end": 0.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.839,
+            "end": 1.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "viens-tu",
+            "start": 1.179,
+            "end": 2.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.179,
+            "end": 2.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 1.179,
+            "end": 2.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.179,
+            "end": 2.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 1.179,
+            "end": 2.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.179,
+            "end": 2.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda-t-il.",
+            "start": 1.179,
+            "end": 2.019,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

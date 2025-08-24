@@ -1,0 +1,253 @@
+{
+    "text": "Marie pensa que cela ressemblait \u00e0 un dr\u00f4le de d\u00eener, mais il avait l'air heureux de le manger.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marie",
+            "start": 0.079,
+            "end": 0.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.399,
+            "end": 0.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pensa",
+            "start": 0.399,
+            "end": 0.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.799,
+            "end": 0.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 0.799,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cela",
+            "start": 0.959,
+            "end": 1.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.139,
+            "end": 1.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ressemblait",
+            "start": 1.139,
+            "end": 1.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.659,
+            "end": 1.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 1.659,
+            "end": 1.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.74,
+            "end": 1.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 1.759,
+            "end": 1.86,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.86,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dr\u00f4le",
+            "start": 1.86,
+            "end": 2.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.159,
+            "end": 2.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 2.159,
+            "end": 2.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.299,
+            "end": 2.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u00eener,",
+            "start": 2.299,
+            "end": 2.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.739,
+            "end": 2.96,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mais",
+            "start": 2.96,
+            "end": 3.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.119,
+            "end": 3.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "il",
+            "start": 3.139,
+            "end": 3.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.259,
+            "end": 3.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avait",
+            "start": 3.259,
+            "end": 3.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.459,
+            "end": 3.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'air",
+            "start": 3.46,
+            "end": 3.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 3.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "heureux",
+            "start": 3.759,
+            "end": 4.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.139,
+            "end": 4.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 4.139,
+            "end": 4.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.239,
+            "end": 4.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 4.239,
+            "end": 4.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.379,
+            "end": 4.38,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "manger.",
+            "start": 4.38,
+            "end": 4.839,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

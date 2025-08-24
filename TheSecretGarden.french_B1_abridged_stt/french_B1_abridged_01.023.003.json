@@ -1,0 +1,211 @@
+{
+    "text": "Le Dr. Craven h\u00e9sita. \u00ab Je ne suis pas s\u00fbr que ce soit sage. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Le",
+            "start": 0.099,
+            "end": 0.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.219,
+            "end": 0.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dr.",
+            "start": 0.219,
+            "end": 0.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.519,
+            "end": 0.56,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Craven",
+            "start": 0.56,
+            "end": 0.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.899,
+            "end": 0.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "h\u00e9sita.",
+            "start": 0.899,
+            "end": 1.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.379,
+            "end": 2.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 2.099,
+            "end": 2.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.199,
+            "end": 2.2,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 2.2,
+            "end": 2.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.299,
+            "end": 2.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 2.299,
+            "end": 2.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.419,
+            "end": 2.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "suis",
+            "start": 2.419,
+            "end": 2.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.579,
+            "end": 2.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 2.579,
+            "end": 2.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.679,
+            "end": 2.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s\u00fbr",
+            "start": 2.759,
+            "end": 2.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.839,
+            "end": 2.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 2.899,
+            "end": 3.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.019,
+            "end": 3.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ce",
+            "start": 3.019,
+            "end": 3.24,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.24,
+            "end": 3.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "soit",
+            "start": 3.24,
+            "end": 3.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.719,
+            "end": 3.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sage.",
+            "start": 3.719,
+            "end": 3.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.719,
+            "end": 3.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 3.719,
+            "end": 3.719,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

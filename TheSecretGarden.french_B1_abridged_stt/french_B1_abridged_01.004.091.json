@@ -1,0 +1,78 @@
+{
+    "text": "\u00ab Connaissez-vous Dickon ? \u00bb demanda Marie.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.119,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "Connaissez-vous",
+            "start": 0.119,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.739,
+            "end": 0.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon",
+            "start": 0.779,
+            "end": 1.22,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 0.779,
+            "end": 1.22,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 0.779,
+            "end": 1.22,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.22,
+            "end": 1.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda",
+            "start": 1.539,
+            "end": 1.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.899,
+            "end": 1.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.899,
+            "end": 2.239,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

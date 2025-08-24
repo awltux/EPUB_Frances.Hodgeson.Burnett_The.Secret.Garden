@@ -1,0 +1,225 @@
+{
+    "text": "\u00ab Tout ce qu'on me dit, \u00bb r\u00e9pondit Ben. \u00ab On me garde parce que votre M\u00e8re m'aimait bien. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Tout",
+            "start": 0.119,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ce",
+            "start": 0.299,
+            "end": 0.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.399,
+            "end": 0.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'on",
+            "start": 0.399,
+            "end": 0.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.56,
+            "end": 0.56,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "me",
+            "start": 0.56,
+            "end": 0.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.719,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit,",
+            "start": 0.719,
+            "end": 1.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.039,
+            "end": 1.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9pondit",
+            "start": 1.299,
+            "end": 1.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.759,
+            "end": 1.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben.",
+            "start": 1.759,
+            "end": 2.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.119,
+            "end": 2.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "On",
+            "start": 2.519,
+            "end": 2.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.679,
+            "end": 2.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "me",
+            "start": 2.679,
+            "end": 2.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.819,
+            "end": 2.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "garde",
+            "start": 2.819,
+            "end": 3.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.159,
+            "end": 3.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parce",
+            "start": 3.159,
+            "end": 3.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.359,
+            "end": 3.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 3.359,
+            "end": 3.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.46,
+            "end": 3.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "votre",
+            "start": 3.46,
+            "end": 3.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.699,
+            "end": 3.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "M\u00e8re",
+            "start": 3.779,
+            "end": 4.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.019,
+            "end": 4.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "m'aimait",
+            "start": 4.019,
+            "end": 4.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.319,
+            "end": 4.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien.",
+            "start": 4.319,
+            "end": 4.659,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

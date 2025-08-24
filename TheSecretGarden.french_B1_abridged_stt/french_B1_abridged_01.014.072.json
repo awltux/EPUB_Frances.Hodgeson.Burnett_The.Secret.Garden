@@ -1,0 +1,309 @@
+{
+    "text": "\u00ab On ne voit jamais rien si on est malade. \u00bb, dit Colin. Il avait l'air d'\u00e9couter un nouveau son au loin.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.199,
+            "end": 1.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.599,
+            "end": 1.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "On",
+            "start": 1.599,
+            "end": 1.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.679,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 1.74,
+            "end": 1.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.939,
+            "end": 1.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voit",
+            "start": 1.959,
+            "end": 2.24,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.24,
+            "end": 2.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jamais",
+            "start": 2.24,
+            "end": 2.58,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.58,
+            "end": 2.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rien",
+            "start": 2.659,
+            "end": 2.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.759,
+            "end": 2.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "si",
+            "start": 2.779,
+            "end": 2.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.879,
+            "end": 2.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "on",
+            "start": 2.899,
+            "end": 3.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.179,
+            "end": 3.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 3.179,
+            "end": 3.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 4.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "malade.",
+            "start": 4.279,
+            "end": 4.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.439,
+            "end": 4.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 4.44,
+            "end": 4.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": ",",
+            "start": 4.959,
+            "end": 5.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 5.42,
+            "end": 5.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.579,
+            "end": 5.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin.",
+            "start": 5.579,
+            "end": 5.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.779,
+            "end": 5.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 5.799,
+            "end": 5.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.98,
+            "end": 5.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avait",
+            "start": 5.98,
+            "end": 6.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.379,
+            "end": 6.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'air",
+            "start": 6.379,
+            "end": 6.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.519,
+            "end": 6.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'\u00e9couter",
+            "start": 6.519,
+            "end": 6.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.879,
+            "end": 6.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 6.879,
+            "end": 7.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.159,
+            "end": 7.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "nouveau",
+            "start": 7.159,
+            "end": 7.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.299,
+            "end": 7.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "son",
+            "start": 7.319,
+            "end": 7.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.659,
+            "end": 7.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "au",
+            "start": 7.659,
+            "end": 7.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.659,
+            "end": 7.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "loin.",
+            "start": 7.659,
+            "end": 7.659,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

@@ -1,0 +1,197 @@
+{
+    "text": "\"Ils mangent presque rien,\" dit l'infirmi\u00e8re. \"Ils vont mourir de faim ! Et pourtant, regardez-les.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ils",
+            "start": 0.159,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mangent",
+            "start": 0.359,
+            "end": 0.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.659,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "presque",
+            "start": 0.719,
+            "end": 1.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.059,
+            "end": 1.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rien,",
+            "start": 1.059,
+            "end": 1.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.379,
+            "end": 1.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 1.659,
+            "end": 1.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.779,
+            "end": 1.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'infirmi\u00e8re.",
+            "start": 1.779,
+            "end": 2.6,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.6,
+            "end": 2.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ils",
+            "start": 2.799,
+            "end": 2.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.98,
+            "end": 2.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vont",
+            "start": 2.98,
+            "end": 3.22,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.22,
+            "end": 3.22,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mourir",
+            "start": 3.22,
+            "end": 3.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.599,
+            "end": 3.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 3.599,
+            "end": 3.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.799,
+            "end": 3.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "faim!",
+            "start": 3.799,
+            "end": 4.08,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.08,
+            "end": 4.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Et",
+            "start": 4.5,
+            "end": 4.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.659,
+            "end": 4.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pourtant,",
+            "start": 4.659,
+            "end": 5.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.239,
+            "end": 5.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "regardez-les.",
+            "start": 5.46,
+            "end": 6.239,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

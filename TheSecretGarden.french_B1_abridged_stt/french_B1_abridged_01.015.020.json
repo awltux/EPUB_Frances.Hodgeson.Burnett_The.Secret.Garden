@@ -1,0 +1,141 @@
+{
+    "text": "\"Il fait chaud!\" dit Marie. \"Cela va tout faire pousser!\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Il",
+            "start": 0.14,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fait",
+            "start": 0.359,
+            "end": 0.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.56,
+            "end": 0.56,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chaud!",
+            "start": 0.56,
+            "end": 0.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.859,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 1.0,
+            "end": 1.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.159,
+            "end": 1.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.159,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Cela",
+            "start": 1.699,
+            "end": 1.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.919,
+            "end": 1.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "va",
+            "start": 1.919,
+            "end": 2.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.039,
+            "end": 2.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tout",
+            "start": 2.039,
+            "end": 2.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.179,
+            "end": 2.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "faire",
+            "start": 2.179,
+            "end": 2.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.379,
+            "end": 2.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pousser!",
+            "start": 2.379,
+            "end": 2.84,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

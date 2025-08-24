@@ -1,0 +1,169 @@
+{
+    "text": "\"Eh bien, c'est vrai,\" dit Ben, sa voix plus douce que d'habitude.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Eh",
+            "start": 0.179,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien,",
+            "start": 0.299,
+            "end": 0.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.539,
+            "end": 0.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "c'est",
+            "start": 0.539,
+            "end": 0.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.74,
+            "end": 0.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vrai,",
+            "start": 0.74,
+            "end": 1.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.119,
+            "end": 1.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 1.379,
+            "end": 1.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.539,
+            "end": 1.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben,",
+            "start": 1.559,
+            "end": 1.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.819,
+            "end": 1.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sa",
+            "start": 1.819,
+            "end": 1.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.959,
+            "end": 1.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voix",
+            "start": 1.959,
+            "end": 2.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.119,
+            "end": 2.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plus",
+            "start": 2.119,
+            "end": 2.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.279,
+            "end": 2.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "douce",
+            "start": 2.279,
+            "end": 2.44,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.44,
+            "end": 2.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 2.44,
+            "end": 2.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.579,
+            "end": 2.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'habitude.",
+            "start": 2.579,
+            "end": 3.199,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

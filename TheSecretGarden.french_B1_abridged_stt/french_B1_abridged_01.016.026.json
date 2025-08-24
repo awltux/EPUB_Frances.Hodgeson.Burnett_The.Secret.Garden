@@ -1,0 +1,71 @@
+{
+    "text": "\"Tu es \u00e9go\u00efste !\" cria Colin.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Tu",
+            "start": 0.199,
+            "end": 0.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.379,
+            "end": 0.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "es",
+            "start": 0.379,
+            "end": 0.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.539,
+            "end": 0.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9go\u00efste!",
+            "start": 0.539,
+            "end": 1.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.179,
+            "end": 1.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cria",
+            "start": 1.299,
+            "end": 1.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.579,
+            "end": 1.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin.",
+            "start": 1.579,
+            "end": 2.039,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

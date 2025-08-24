@@ -1,0 +1,323 @@
+{
+    "text": "Ils ne tard\u00e8rent pas \u00e0 savourer du th\u00e9 et des toasts sur l'herbe. M\u00eame les oiseaux se joignirent \u00e0 eux, cherchant des miettes.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ils",
+            "start": 0.099,
+            "end": 0.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.219,
+            "end": 0.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 0.239,
+            "end": 0.34,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.34,
+            "end": 0.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tard\u00e8rent",
+            "start": 0.379,
+            "end": 0.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.839,
+            "end": 0.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 0.839,
+            "end": 1.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.1,
+            "end": 1.12,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 1.12,
+            "end": 1.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.259,
+            "end": 1.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "savourer",
+            "start": 1.259,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "du",
+            "start": 1.699,
+            "end": 1.82,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.82,
+            "end": 1.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "th\u00e9",
+            "start": 1.939,
+            "end": 2.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.279,
+            "end": 2.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 2.279,
+            "end": 2.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.399,
+            "end": 2.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 2.399,
+            "end": 2.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.519,
+            "end": 2.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "toasts",
+            "start": 2.619,
+            "end": 3.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.199,
+            "end": 3.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sur",
+            "start": 3.199,
+            "end": 3.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.379,
+            "end": 3.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'herbe.",
+            "start": 3.399,
+            "end": 3.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.859,
+            "end": 4.38,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "M\u00eame",
+            "start": 4.38,
+            "end": 4.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.619,
+            "end": 4.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 4.659,
+            "end": 4.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.799,
+            "end": 4.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "oiseaux",
+            "start": 4.819,
+            "end": 5.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.219,
+            "end": 5.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 5.219,
+            "end": 5.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.339,
+            "end": 5.4,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "joignirent",
+            "start": 5.4,
+            "end": 5.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.899,
+            "end": 5.9,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 5.9,
+            "end": 6.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.0,
+            "end": 6.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "eux,",
+            "start": 6.019,
+            "end": 6.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.259,
+            "end": 6.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cherchant",
+            "start": 6.5,
+            "end": 6.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.899,
+            "end": 6.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 6.899,
+            "end": 7.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.039,
+            "end": 7.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "miettes.",
+            "start": 7.039,
+            "end": 7.519,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

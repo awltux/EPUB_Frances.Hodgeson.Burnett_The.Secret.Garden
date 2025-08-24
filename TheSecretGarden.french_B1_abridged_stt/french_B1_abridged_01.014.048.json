@@ -1,0 +1,260 @@
+{
+    "text": "\u00ab Eh bien, si je t'ordonne de m'amener Mlle Marie, comment Medlock peut-elle te renvoyer si elle le d\u00e9couvre ? \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Eh",
+            "start": 1.48,
+            "end": 1.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.659,
+            "end": 1.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien,",
+            "start": 1.659,
+            "end": 1.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.999,
+            "end": 2.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "si",
+            "start": 2.019,
+            "end": 2.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.139,
+            "end": 2.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "je",
+            "start": 2.159,
+            "end": 2.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.299,
+            "end": 2.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "t'ordonne",
+            "start": 2.299,
+            "end": 2.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.679,
+            "end": 2.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 2.679,
+            "end": 2.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.819,
+            "end": 2.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "m'amener",
+            "start": 2.819,
+            "end": 3.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.159,
+            "end": 3.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mlle",
+            "start": 3.199,
+            "end": 3.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.659,
+            "end": 3.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie,",
+            "start": 3.699,
+            "end": 4.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.1,
+            "end": 4.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "comment",
+            "start": 4.319,
+            "end": 4.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.579,
+            "end": 4.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Medlock",
+            "start": 4.579,
+            "end": 4.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.98,
+            "end": 4.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "peut-elle",
+            "start": 4.98,
+            "end": 5.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.319,
+            "end": 5.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "te",
+            "start": 5.319,
+            "end": 5.42,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.42,
+            "end": 5.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "renvoyer",
+            "start": 5.42,
+            "end": 5.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.819,
+            "end": 5.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "si",
+            "start": 5.879,
+            "end": 5.96,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.96,
+            "end": 5.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elle",
+            "start": 5.98,
+            "end": 6.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.099,
+            "end": 6.099,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 6.099,
+            "end": 6.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.219,
+            "end": 6.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u00e9couvre?",
+            "start": 6.239,
+            "end": 6.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 6.819,
+            "end": 6.819,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

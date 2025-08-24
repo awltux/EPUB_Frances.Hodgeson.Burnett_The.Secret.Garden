@@ -1,0 +1,43 @@
+{
+    "text": "\"Qui... Quoi ?\" balbutia-t-il.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Qui...",
+            "start": 0.259,
+            "end": 0.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.559,
+            "end": 0.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Quoi?",
+            "start": 0.659,
+            "end": 0.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.999,
+            "end": 1.12,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "balbutia-t-il.",
+            "start": 1.12,
+            "end": 1.879,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

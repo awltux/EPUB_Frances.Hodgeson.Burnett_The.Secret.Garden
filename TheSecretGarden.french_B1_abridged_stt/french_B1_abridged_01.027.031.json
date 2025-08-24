@@ -1,0 +1,92 @@
+{
+    "text": "\"Dans le jardin ! Dans le jardin !\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Dans",
+            "start": 0.199,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 0.359,
+            "end": 0.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.519,
+            "end": 0.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin",
+            "start": 0.519,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 1.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dans",
+            "start": 1.24,
+            "end": 1.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.399,
+            "end": 1.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 1.399,
+            "end": 1.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.539,
+            "end": 1.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin",
+            "start": 1.559,
+            "end": 1.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "!",
+            "start": 1.559,
+            "end": 1.999,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

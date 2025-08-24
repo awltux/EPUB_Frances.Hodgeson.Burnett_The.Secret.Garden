@@ -1,0 +1,253 @@
+{
+    "text": "\u00ab Il est de bonne humeur, \u00bb dit-elle au Dr. Craven. \u00ab \u00c7a le rend plus fort. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.179,
+            "end": 0.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.199,
+            "end": 0.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 0.199,
+            "end": 1.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.1,
+            "end": 1.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 1.179,
+            "end": 1.36,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.36,
+            "end": 1.36,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 1.36,
+            "end": 1.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.5,
+            "end": 1.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bonne",
+            "start": 1.519,
+            "end": 1.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.659,
+            "end": 1.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "humeur,",
+            "start": 1.679,
+            "end": 1.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.839,
+            "end": 1.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 1.839,
+            "end": 2.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.399,
+            "end": 2.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit-elle",
+            "start": 2.5,
+            "end": 3.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.0,
+            "end": 3.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "au",
+            "start": 3.0,
+            "end": 3.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.139,
+            "end": 3.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dr.",
+            "start": 3.139,
+            "end": 3.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.579,
+            "end": 3.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Craven.",
+            "start": 3.579,
+            "end": 4.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.139,
+            "end": 4.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 4.619,
+            "end": 4.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.719,
+            "end": 4.739,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00c7a",
+            "start": 4.739,
+            "end": 4.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.899,
+            "end": 4.92,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 4.92,
+            "end": 5.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.039,
+            "end": 5.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rend",
+            "start": 5.039,
+            "end": 5.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.279,
+            "end": 5.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plus",
+            "start": 5.299,
+            "end": 5.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.699,
+            "end": 5.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fort.",
+            "start": 5.699,
+            "end": 5.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.699,
+            "end": 5.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 5.699,
+            "end": 5.699,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

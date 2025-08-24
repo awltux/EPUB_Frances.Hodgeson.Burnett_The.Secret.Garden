@@ -1,0 +1,57 @@
+{
+    "text": "\u00ab J'aime \u00e7a. \u00bb insista Marie.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "J'aime",
+            "start": 0.319,
+            "end": 0.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.599,
+            "end": 0.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e7a.",
+            "start": 0.599,
+            "end": 0.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.859,
+            "end": 1.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "insista",
+            "start": 1.259,
+            "end": 1.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.62,
+            "end": 1.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.639,
+            "end": 1.999,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

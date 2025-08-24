@@ -1,0 +1,113 @@
+{
+    "text": "\u00ab Maintenant, je vais faire le tour du jardin. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Maintenant,",
+            "start": 0.219,
+            "end": 0.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.699,
+            "end": 0.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "je",
+            "start": 0.879,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 0.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vais",
+            "start": 0.979,
+            "end": 1.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.139,
+            "end": 1.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "faire",
+            "start": 1.139,
+            "end": 1.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.279,
+            "end": 1.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 1.279,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tour",
+            "start": 1.439,
+            "end": 1.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.599,
+            "end": 1.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "du",
+            "start": 1.599,
+            "end": 1.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.72,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin.",
+            "start": 1.74,
+            "end": 2.139,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

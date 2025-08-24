@@ -1,0 +1,113 @@
+{
+    "text": "\u00ab Il n'y a pas de raison, \u00bb l'assura Marthe.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Il",
+            "start": 0.199,
+            "end": 0.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.319,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "n'y",
+            "start": 0.359,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "a",
+            "start": 0.459,
+            "end": 0.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.579,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 0.579,
+            "end": 0.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.719,
+            "end": 0.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 0.719,
+            "end": 0.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.819,
+            "end": 0.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "raison,",
+            "start": 0.819,
+            "end": 1.32,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.32,
+            "end": 1.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'assura",
+            "start": 1.699,
+            "end": 2.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.159,
+            "end": 2.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marthe.",
+            "start": 2.159,
+            "end": 2.6,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

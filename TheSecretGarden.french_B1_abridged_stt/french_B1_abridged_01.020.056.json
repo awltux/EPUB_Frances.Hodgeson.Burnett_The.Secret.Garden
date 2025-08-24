@@ -1,0 +1,57 @@
+{
+    "text": "Dickon arr\u00eata la chaise.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Dickon",
+            "start": 0.099,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "arr\u00eata",
+            "start": 0.439,
+            "end": 0.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.779,
+            "end": 0.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 0.779,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 0.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chaise.",
+            "start": 0.959,
+            "end": 1.359,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

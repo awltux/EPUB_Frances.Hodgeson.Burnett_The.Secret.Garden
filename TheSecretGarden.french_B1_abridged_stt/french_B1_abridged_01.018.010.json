@@ -1,0 +1,267 @@
+{
+    "text": "Quand il \u00e9tait excit\u00e9, Dickon parlait un Yorkshire plus large. Marie adorait \u00e7a et essaya de le parler aussi.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Quand",
+            "start": 0.099,
+            "end": 0.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.279,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "il",
+            "start": 0.28,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9tait",
+            "start": 0.419,
+            "end": 0.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.639,
+            "end": 0.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "excit\u00e9,",
+            "start": 0.639,
+            "end": 1.22,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.22,
+            "end": 1.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon",
+            "start": 1.48,
+            "end": 1.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.899,
+            "end": 1.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parlait",
+            "start": 1.899,
+            "end": 2.24,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.24,
+            "end": 2.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 2.259,
+            "end": 2.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.419,
+            "end": 2.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Yorkshire",
+            "start": 2.419,
+            "end": 3.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.039,
+            "end": 3.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plus",
+            "start": 3.039,
+            "end": 3.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.219,
+            "end": 3.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "large.",
+            "start": 3.24,
+            "end": 3.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.659,
+            "end": 3.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 3.839,
+            "end": 4.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.299,
+            "end": 4.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "adorait",
+            "start": 4.299,
+            "end": 4.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.779,
+            "end": 4.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e7a",
+            "start": 4.779,
+            "end": 4.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.939,
+            "end": 5.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 5.199,
+            "end": 5.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.359,
+            "end": 5.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "essaya",
+            "start": 5.42,
+            "end": 5.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.799,
+            "end": 5.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 5.799,
+            "end": 5.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.879,
+            "end": 5.9,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 5.9,
+            "end": 6.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.0,
+            "end": 6.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parler",
+            "start": 6.019,
+            "end": 6.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.299,
+            "end": 6.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aussi.",
+            "start": 6.299,
+            "end": 6.739,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

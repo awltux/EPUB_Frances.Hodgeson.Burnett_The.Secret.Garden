@@ -1,0 +1,169 @@
+{
+    "text": "\u00ab J\u2019esp\u00e8re que les animaux ne vont pas mordre, Ma\u00eetre Colin, \u00bb dit l\u2019infirmi\u00e8re.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "J\u2019esp\u00e8re",
+            "start": 0.159,
+            "end": 0.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.62,
+            "end": 0.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 0.62,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.739,
+            "end": 0.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 0.759,
+            "end": 0.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.899,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "animaux",
+            "start": 0.939,
+            "end": 1.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.259,
+            "end": 1.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 1.299,
+            "end": 1.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.439,
+            "end": 1.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vont",
+            "start": 1.439,
+            "end": 1.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.62,
+            "end": 1.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 1.62,
+            "end": 1.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.819,
+            "end": 1.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mordre,",
+            "start": 1.819,
+            "end": 2.2,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.2,
+            "end": 2.2,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ma\u00eetre",
+            "start": 2.2,
+            "end": 2.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.579,
+            "end": 2.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin,",
+            "start": 2.579,
+            "end": 2.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.959,
+            "end": 3.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 3.24,
+            "end": 3.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.359,
+            "end": 3.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l\u2019infirmi\u00e8re.",
+            "start": 3.399,
+            "end": 4.219,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

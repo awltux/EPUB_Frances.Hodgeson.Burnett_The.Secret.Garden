@@ -1,0 +1,183 @@
+{
+    "text": "\"Je ne pense pas. Vous prenez du poids et votre couleur est meilleure.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Je",
+            "start": 0.199,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.34,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 0.34,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pense",
+            "start": 0.439,
+            "end": 0.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.699,
+            "end": 0.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas.",
+            "start": 0.699,
+            "end": 0.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.979,
+            "end": 1.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Vous",
+            "start": 1.259,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "prenez",
+            "start": 1.419,
+            "end": 1.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.679,
+            "end": 1.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "du",
+            "start": 1.679,
+            "end": 1.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.859,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "poids",
+            "start": 1.86,
+            "end": 2.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.179,
+            "end": 2.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 2.179,
+            "end": 2.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.279,
+            "end": 2.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "votre",
+            "start": 2.279,
+            "end": 2.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.579,
+            "end": 2.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "couleur",
+            "start": 2.579,
+            "end": 2.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.879,
+            "end": 2.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 2.879,
+            "end": 3.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.039,
+            "end": 3.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "meilleure.",
+            "start": 3.039,
+            "end": 3.6,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

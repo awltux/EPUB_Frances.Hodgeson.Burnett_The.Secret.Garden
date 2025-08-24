@@ -1,0 +1,211 @@
+{
+    "text": "Marie haleta. \u00ab Le mur gris change ! C'est comme une brume verte ! \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marie",
+            "start": 0.099,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "haleta.",
+            "start": 0.439,
+            "end": 0.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.879,
+            "end": 1.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 1.339,
+            "end": 1.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.519,
+            "end": 1.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Le",
+            "start": 1.519,
+            "end": 1.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.74,
+            "end": 1.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mur",
+            "start": 1.759,
+            "end": 2.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.059,
+            "end": 2.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "gris",
+            "start": 2.059,
+            "end": 2.6,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.6,
+            "end": 2.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "change",
+            "start": 2.759,
+            "end": 2.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.939,
+            "end": 2.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "!",
+            "start": 2.939,
+            "end": 3.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.119,
+            "end": 3.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "C'est",
+            "start": 3.119,
+            "end": 3.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.259,
+            "end": 3.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "comme",
+            "start": 3.259,
+            "end": 3.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.519,
+            "end": 3.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "une",
+            "start": 3.579,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "brume",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "verte",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "!",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 4.059,
+            "end": 4.059,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

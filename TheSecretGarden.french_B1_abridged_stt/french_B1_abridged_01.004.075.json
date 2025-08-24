@@ -1,0 +1,239 @@
+{
+    "text": "Le rouge-gorge sauta autour, les regardant avec curiosit\u00e9. On aurait dit qu'il en apprenait davantage sur elle.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Le",
+            "start": 0.099,
+            "end": 0.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.239,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rouge-gorge",
+            "start": 0.28,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 0.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sauta",
+            "start": 0.959,
+            "end": 1.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.259,
+            "end": 1.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "autour,",
+            "start": 1.259,
+            "end": 1.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.799,
+            "end": 2.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 2.079,
+            "end": 2.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.219,
+            "end": 2.22,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "regardant",
+            "start": 2.22,
+            "end": 2.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.679,
+            "end": 2.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 2.679,
+            "end": 2.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.98,
+            "end": 2.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "curiosit\u00e9.",
+            "start": 2.98,
+            "end": 3.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 4.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "On",
+            "start": 4.199,
+            "end": 4.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.339,
+            "end": 4.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aurait",
+            "start": 4.339,
+            "end": 4.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.599,
+            "end": 4.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 4.599,
+            "end": 4.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.759,
+            "end": 4.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'il",
+            "start": 4.819,
+            "end": 5.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.0,
+            "end": 5.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "en",
+            "start": 5.0,
+            "end": 5.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.099,
+            "end": 5.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "apprenait",
+            "start": 5.119,
+            "end": 5.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.539,
+            "end": 5.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "davantage",
+            "start": 5.539,
+            "end": 6.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.219,
+            "end": 6.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sur",
+            "start": 6.219,
+            "end": 6.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.419,
+            "end": 6.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elle.",
+            "start": 6.42,
+            "end": 6.739,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

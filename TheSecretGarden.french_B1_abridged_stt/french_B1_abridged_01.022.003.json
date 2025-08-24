@@ -1,0 +1,260 @@
+{
+    "text": "\u00ab Je t'avais dit que tu le pouvais, une fois que tu aurais cess\u00e9 d'avoir peur, \u00bb r\u00e9pondit Dickon.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.159,
+            "end": 0.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.279,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 0.28,
+            "end": 0.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.519,
+            "end": 0.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "t'avais",
+            "start": 0.519,
+            "end": 0.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.639,
+            "end": 0.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 0.639,
+            "end": 0.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.74,
+            "end": 0.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 0.759,
+            "end": 0.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.859,
+            "end": 0.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tu",
+            "start": 0.859,
+            "end": 1.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.0,
+            "end": 1.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 1.019,
+            "end": 1.34,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.34,
+            "end": 1.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pouvais,",
+            "start": 1.519,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "une",
+            "start": 1.719,
+            "end": 1.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.879,
+            "end": 1.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fois",
+            "start": 1.879,
+            "end": 2.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.0,
+            "end": 2.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 2.0,
+            "end": 2.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.119,
+            "end": 2.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tu",
+            "start": 2.119,
+            "end": 2.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.399,
+            "end": 2.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aurais",
+            "start": 2.399,
+            "end": 2.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.72,
+            "end": 2.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cess\u00e9",
+            "start": 2.72,
+            "end": 3.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.079,
+            "end": 3.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'avoir",
+            "start": 3.079,
+            "end": 3.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.479,
+            "end": 3.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "peur,",
+            "start": 3.919,
+            "end": 4.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.279,
+            "end": 4.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 4.279,
+            "end": 4.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9pondit",
+            "start": 4.279,
+            "end": 4.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.819,
+            "end": 4.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon.",
+            "start": 4.819,
+            "end": 4.819,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

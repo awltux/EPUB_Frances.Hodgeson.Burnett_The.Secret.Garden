@@ -1,0 +1,281 @@
+{
+    "text": "\u00ab Vous et moi sommes pareils. \u00bb, dit Ben. \u00ab Nous avons tous les deux l'air aigre et nous avons un mauvais caract\u00e8re. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Vous",
+            "start": 1.199,
+            "end": 1.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.339,
+            "end": 1.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 1.339,
+            "end": 1.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.459,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "moi",
+            "start": 1.459,
+            "end": 1.6,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.6,
+            "end": 1.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sommes",
+            "start": 1.62,
+            "end": 1.86,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.86,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pareils.",
+            "start": 1.86,
+            "end": 2.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.399,
+            "end": 2.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 2.779,
+            "end": 2.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.919,
+            "end": 2.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben.",
+            "start": 2.939,
+            "end": 3.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.239,
+            "end": 3.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Nous",
+            "start": 3.72,
+            "end": 3.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.859,
+            "end": 3.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avons",
+            "start": 3.859,
+            "end": 4.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.119,
+            "end": 4.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tous",
+            "start": 4.119,
+            "end": 4.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.259,
+            "end": 4.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 4.279,
+            "end": 4.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.419,
+            "end": 4.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "deux",
+            "start": 4.42,
+            "end": 4.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.539,
+            "end": 4.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'air",
+            "start": 4.559,
+            "end": 4.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.839,
+            "end": 4.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aigre",
+            "start": 4.859,
+            "end": 5.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.219,
+            "end": 5.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 5.44,
+            "end": 5.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.539,
+            "end": 5.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "nous",
+            "start": 5.559,
+            "end": 5.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.679,
+            "end": 5.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avons",
+            "start": 5.679,
+            "end": 5.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.959,
+            "end": 5.96,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 5.96,
+            "end": 6.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.179,
+            "end": 6.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mauvais",
+            "start": 6.199,
+            "end": 6.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.5,
+            "end": 6.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "caract\u00e8re.",
+            "start": 6.5,
+            "end": 7.259,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

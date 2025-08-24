@@ -1,0 +1,71 @@
+{
+    "text": "Apr\u00e8s un moment, Marie parla.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Apr\u00e8s",
+            "start": 0.079,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 0.419,
+            "end": 0.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.539,
+            "end": 0.56,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "moment,",
+            "start": 0.56,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 1.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 1.139,
+            "end": 1.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.439,
+            "end": 1.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parla.",
+            "start": 1.439,
+            "end": 1.84,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

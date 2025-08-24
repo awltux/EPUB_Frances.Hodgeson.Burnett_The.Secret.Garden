@@ -1,0 +1,183 @@
+{
+    "text": "Marie regarda son visage fatigu\u00e9 et dit : \u00ab D'accord. Ferme les yeux. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marie",
+            "start": 0.099,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "regarda",
+            "start": 0.459,
+            "end": 0.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.819,
+            "end": 0.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "son",
+            "start": 0.819,
+            "end": 0.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.979,
+            "end": 0.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "visage",
+            "start": 0.979,
+            "end": 1.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.319,
+            "end": 1.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fatigu\u00e9",
+            "start": 1.319,
+            "end": 1.86,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.86,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 1.86,
+            "end": 2.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.039,
+            "end": 2.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 2.039,
+            "end": 2.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.319,
+            "end": 2.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": ":",
+            "start": 2.319,
+            "end": 2.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.419,
+            "end": 2.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 2.419,
+            "end": 2.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.519,
+            "end": 2.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "D'accord.",
+            "start": 2.859,
+            "end": 3.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.379,
+            "end": 3.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ferme",
+            "start": 3.519,
+            "end": 3.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.819,
+            "end": 3.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 3.819,
+            "end": 3.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.999,
+            "end": 4.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "yeux.",
+            "start": 4.0,
+            "end": 4.259,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

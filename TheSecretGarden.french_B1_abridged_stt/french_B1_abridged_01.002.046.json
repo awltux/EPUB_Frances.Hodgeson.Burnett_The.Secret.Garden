@@ -1,0 +1,183 @@
+{
+    "text": "Elle fixa la pluie. Le temps gris la rendit somnolente, et elle s'endormit.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Elle",
+            "start": 0.079,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fixa",
+            "start": 0.259,
+            "end": 0.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.579,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 0.579,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.739,
+            "end": 0.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pluie.",
+            "start": 0.74,
+            "end": 1.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.1,
+            "end": 1.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Le",
+            "start": 1.639,
+            "end": 1.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.759,
+            "end": 1.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "temps",
+            "start": 1.799,
+            "end": 1.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.999,
+            "end": 2.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "gris",
+            "start": 2.0,
+            "end": 2.2,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.2,
+            "end": 2.2,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 2.2,
+            "end": 2.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.339,
+            "end": 2.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rendit",
+            "start": 2.339,
+            "end": 2.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.679,
+            "end": 2.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "somnolente,",
+            "start": 2.679,
+            "end": 3.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.359,
+            "end": 3.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 3.699,
+            "end": 3.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.799,
+            "end": 3.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elle",
+            "start": 3.799,
+            "end": 3.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.999,
+            "end": 4.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'endormit.",
+            "start": 4.0,
+            "end": 4.619,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

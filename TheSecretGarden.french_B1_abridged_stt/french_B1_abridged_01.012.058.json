@@ -1,0 +1,99 @@
+{
+    "text": "Son visage anxieux sembla le troubler davantage.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Son",
+            "start": 0.099,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "visage",
+            "start": 0.259,
+            "end": 0.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.62,
+            "end": 0.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "anxieux",
+            "start": 0.62,
+            "end": 1.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.1,
+            "end": 1.1,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sembla",
+            "start": 1.1,
+            "end": 1.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.399,
+            "end": 1.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 1.399,
+            "end": 1.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.539,
+            "end": 1.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "troubler",
+            "start": 1.539,
+            "end": 1.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.879,
+            "end": 1.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "davantage.",
+            "start": 1.879,
+            "end": 2.619,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

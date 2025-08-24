@@ -1,0 +1,225 @@
+{
+    "text": "\u00ab Ta m\u00e8re et Marthe, \u00bb Marie les compta, \u00ab et le rouge-gorge et Ben Weatherstaff. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ta",
+            "start": 0.159,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "m\u00e8re",
+            "start": 0.359,
+            "end": 0.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.62,
+            "end": 0.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 0.62,
+            "end": 0.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.759,
+            "end": 0.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marthe,",
+            "start": 0.759,
+            "end": 1.2,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.2,
+            "end": 1.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 1.48,
+            "end": 1.48,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.48,
+            "end": 1.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 1.48,
+            "end": 1.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.699,
+            "end": 1.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 1.74,
+            "end": 1.86,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.86,
+            "end": 1.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "compta,",
+            "start": 1.879,
+            "end": 2.34,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.34,
+            "end": 2.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 2.48,
+            "end": 2.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.579,
+            "end": 2.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 2.579,
+            "end": 2.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.739,
+            "end": 2.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 2.74,
+            "end": 2.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.919,
+            "end": 2.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rouge-gorge",
+            "start": 2.98,
+            "end": 3.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.319,
+            "end": 3.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 3.319,
+            "end": 3.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.479,
+            "end": 3.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Ben",
+            "start": 3.48,
+            "end": 3.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.699,
+            "end": 3.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Weatherstaff.",
+            "start": 3.699,
+            "end": 4.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.56,
+            "end": 4.56,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 4.56,
+            "end": 4.56,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

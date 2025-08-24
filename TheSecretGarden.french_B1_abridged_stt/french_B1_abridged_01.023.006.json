@@ -1,0 +1,330 @@
+{
+    "text": "\u00ab Moi aussi. \u00bb, r\u00e9pondit Colin, ravi. \u00ab Il n'h\u00e9ritera pas de Misselthwaite maintenant que je ne suis pas en train de mourir. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.119,
+            "end": 0.14,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.14,
+            "end": 0.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Moi",
+            "start": 0.179,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aussi.",
+            "start": 0.299,
+            "end": 0.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.819,
+            "end": 1.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb,",
+            "start": 1.079,
+            "end": 1.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.519,
+            "end": 1.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9pondit",
+            "start": 1.519,
+            "end": 1.96,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.96,
+            "end": 2.2,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin,",
+            "start": 2.2,
+            "end": 2.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.639,
+            "end": 3.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ravi.",
+            "start": 3.019,
+            "end": 3.22,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.22,
+            "end": 3.22,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 3.22,
+            "end": 3.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.759,
+            "end": 3.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 3.779,
+            "end": 3.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.939,
+            "end": 3.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "n'h\u00e9ritera",
+            "start": 3.939,
+            "end": 4.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.039,
+            "end": 4.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 4.039,
+            "end": 4.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.819,
+            "end": 4.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 4.819,
+            "end": 5.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.199,
+            "end": 5.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Misselthwaite",
+            "start": 5.199,
+            "end": 5.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.339,
+            "end": 5.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "maintenant",
+            "start": 5.339,
+            "end": 5.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.419,
+            "end": 5.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 5.44,
+            "end": 5.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.519,
+            "end": 5.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "je",
+            "start": 5.519,
+            "end": 5.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.699,
+            "end": 5.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 5.699,
+            "end": 5.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.879,
+            "end": 5.9,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "suis",
+            "start": 5.9,
+            "end": 5.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.98,
+            "end": 5.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 5.98,
+            "end": 6.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.199,
+            "end": 6.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "en",
+            "start": 6.199,
+            "end": 6.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.319,
+            "end": 6.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "train",
+            "start": 6.319,
+            "end": 6.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.859,
+            "end": 6.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 6.859,
+            "end": 6.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.859,
+            "end": 6.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mourir.",
+            "start": 6.859,
+            "end": 6.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 6.859,
+            "end": 6.859,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

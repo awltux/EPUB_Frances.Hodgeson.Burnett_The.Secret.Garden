@@ -1,0 +1,120 @@
+{
+    "text": "Colin se redressa. \u00ab O\u00f9 ? L\u00e0 ? \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Colin",
+            "start": 0.099,
+            "end": 0.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.399,
+            "end": 0.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 0.399,
+            "end": 0.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.519,
+            "end": 0.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "redressa.",
+            "start": 0.539,
+            "end": 1.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.079,
+            "end": 1.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 1.299,
+            "end": 1.58,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.58,
+            "end": 1.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "O\u00f9",
+            "start": 1.799,
+            "end": 1.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.939,
+            "end": 1.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 1.939,
+            "end": 2.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.939,
+            "end": 1.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "L\u00e0",
+            "start": 1.799,
+            "end": 1.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.939,
+            "end": 1.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 1.939,
+            "end": 2.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 1.939,
+            "end": 2.039,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

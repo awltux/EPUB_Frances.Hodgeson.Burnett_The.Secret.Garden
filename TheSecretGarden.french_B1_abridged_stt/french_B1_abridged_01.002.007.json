@@ -1,0 +1,309 @@
+{
+    "text": "> Ma\u00eetresse Marie, tout le contraire,\n> Comment pousse votre jardin ?\n> Avec des clochettes d'argent et des coquillages,\n> Et des soucis tous en rang.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ma\u00eetresse",
+            "start": 0.119,
+            "end": 0.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.539,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie,",
+            "start": 0.579,
+            "end": 0.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.999,
+            "end": 1.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tout",
+            "start": 1.059,
+            "end": 1.199,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.199,
+            "end": 1.22,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 1.22,
+            "end": 1.32,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.32,
+            "end": 1.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "contraire,",
+            "start": 1.339,
+            "end": 2.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.039,
+            "end": 2.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Comment",
+            "start": 2.379,
+            "end": 2.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.799,
+            "end": 2.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pousse",
+            "start": 2.799,
+            "end": 3.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.059,
+            "end": 3.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "votre",
+            "start": 3.079,
+            "end": 3.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.359,
+            "end": 3.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin?",
+            "start": 3.419,
+            "end": 3.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.859,
+            "end": 4.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Avec",
+            "start": 4.539,
+            "end": 4.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.879,
+            "end": 4.88,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 4.88,
+            "end": 5.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.039,
+            "end": 5.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "clochettes",
+            "start": 5.059,
+            "end": 5.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.519,
+            "end": 5.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'argent",
+            "start": 5.519,
+            "end": 6.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.019,
+            "end": 6.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 6.019,
+            "end": 6.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.139,
+            "end": 6.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 6.159,
+            "end": 6.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.219,
+            "end": 6.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "coquillages,",
+            "start": 6.279,
+            "end": 7.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.119,
+            "end": 7.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 7.559,
+            "end": 7.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.799,
+            "end": 7.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "des",
+            "start": 7.799,
+            "end": 7.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.979,
+            "end": 7.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "soucis",
+            "start": 7.98,
+            "end": 8.36,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.36,
+            "end": 8.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tous",
+            "start": 8.439,
+            "end": 8.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.719,
+            "end": 8.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "en",
+            "start": 8.72,
+            "end": 8.88,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.88,
+            "end": 8.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rang.",
+            "start": 8.899,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

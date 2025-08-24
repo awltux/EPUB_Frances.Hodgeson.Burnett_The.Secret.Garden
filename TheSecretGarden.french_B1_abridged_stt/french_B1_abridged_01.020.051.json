@@ -1,0 +1,57 @@
+{
+    "text": "\u00ab C'est \u00e7a ? \u00bb demanda Colin.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "C'est",
+            "start": 0.179,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e7a?",
+            "start": 0.439,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.739,
+            "end": 1.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda",
+            "start": 1.039,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin.",
+            "start": 1.419,
+            "end": 1.779,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

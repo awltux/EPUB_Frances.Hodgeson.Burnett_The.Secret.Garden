@@ -1,0 +1,155 @@
+{
+    "text": "Marthe eut l'air inqui\u00e8te. \"Il pourrait se f\u00e2cher, Mlle Marie.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marthe",
+            "start": 0.099,
+            "end": 0.56,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.56,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "eut",
+            "start": 0.579,
+            "end": 0.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.74,
+            "end": 0.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'air",
+            "start": 0.74,
+            "end": 0.98,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.98,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "inqui\u00e8te.",
+            "start": 1.0,
+            "end": 1.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.619,
+            "end": 1.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\"",
+            "start": 1.959,
+            "end": 2.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.119,
+            "end": 2.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 2.119,
+            "end": 2.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.339,
+            "end": 2.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pourrait",
+            "start": 2.339,
+            "end": 2.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.479,
+            "end": 2.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 2.48,
+            "end": 2.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.899,
+            "end": 2.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "f\u00e2cher,",
+            "start": 2.919,
+            "end": 3.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.379,
+            "end": 3.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mlle",
+            "start": 3.419,
+            "end": 3.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.799,
+            "end": 3.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.\"",
+            "start": 3.799,
+            "end": 3.799,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

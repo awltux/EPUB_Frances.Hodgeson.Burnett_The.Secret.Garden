@@ -1,0 +1,295 @@
+{
+    "text": "\u00ab Cela semble apaisant, \u00bb dit le Dr Craven, jetant un coup d\u2019\u0153il \u00e0 Marie. \u00ab Tu vas mieux, mais tu dois te rappeler\u2026 \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Cela",
+            "start": 0.159,
+            "end": 0.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.379,
+            "end": 0.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "semble",
+            "start": 0.419,
+            "end": 0.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.699,
+            "end": 0.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "apaisant,",
+            "start": 0.699,
+            "end": 1.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.299,
+            "end": 1.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 1.799,
+            "end": 1.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.939,
+            "end": 1.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 1.939,
+            "end": 2.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.019,
+            "end": 2.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dr",
+            "start": 2.059,
+            "end": 2.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.279,
+            "end": 2.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Craven,",
+            "start": 2.319,
+            "end": 2.84,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.84,
+            "end": 3.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jetant",
+            "start": 3.159,
+            "end": 3.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.46,
+            "end": 3.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 3.46,
+            "end": 3.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.559,
+            "end": 3.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "coup",
+            "start": 3.559,
+            "end": 3.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.679,
+            "end": 3.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u2019\u0153il",
+            "start": 3.699,
+            "end": 3.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.899,
+            "end": 3.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 3.899,
+            "end": 3.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.979,
+            "end": 4.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 4.0,
+            "end": 4.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.319,
+            "end": 5.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Tu",
+            "start": 5.019,
+            "end": 5.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.119,
+            "end": 5.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vas",
+            "start": 5.159,
+            "end": 5.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.299,
+            "end": 5.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mieux,",
+            "start": 5.299,
+            "end": 5.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.519,
+            "end": 5.879,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "mais",
+            "start": 5.879,
+            "end": 6.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.0,
+            "end": 6.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tu",
+            "start": 6.0,
+            "end": 6.099,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.099,
+            "end": 6.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dois",
+            "start": 6.139,
+            "end": 6.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.299,
+            "end": 6.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "te",
+            "start": 6.299,
+            "end": 6.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.399,
+            "end": 6.42,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rappeler\u2026",
+            "start": 6.42,
+            "end": 6.839,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

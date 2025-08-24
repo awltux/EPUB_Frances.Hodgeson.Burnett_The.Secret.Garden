@@ -1,0 +1,134 @@
+{
+    "text": "\u00ab Que veux-tu que je te raconte ? \u00bb demanda-t-elle.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.14,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Que",
+            "start": 0.259,
+            "end": 0.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.579,
+            "end": 0.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "veux-tu",
+            "start": 0.579,
+            "end": 0.68,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.68,
+            "end": 0.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 0.699,
+            "end": 0.8,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.8,
+            "end": 0.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "je",
+            "start": 0.819,
+            "end": 0.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.899,
+            "end": 0.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "te",
+            "start": 0.919,
+            "end": 1.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.539,
+            "end": 2.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "raconte",
+            "start": 2.019,
+            "end": 2.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.019,
+            "end": 2.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 2.019,
+            "end": 2.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " \u00bb",
+            "start": 2.019,
+            "end": 2.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.019,
+            "end": 2.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda-t-elle.",
+            "start": 2.019,
+            "end": 2.779,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

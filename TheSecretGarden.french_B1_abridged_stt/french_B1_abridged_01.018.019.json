@@ -1,0 +1,295 @@
+{
+    "text": "Ils rirent jusqu'\u00e0 ne plus pouvoir s'arr\u00eater. Mme Medlock fut \u00e9tonn\u00e9e d'entendre les deux comme elle se tenait devant la porte.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Ils",
+            "start": 0.079,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rirent",
+            "start": 0.28,
+            "end": 0.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.999,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jusqu'\u00e0",
+            "start": 1.0,
+            "end": 1.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.359,
+            "end": 1.36,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 1.36,
+            "end": 1.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.5,
+            "end": 1.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "plus",
+            "start": 1.5,
+            "end": 1.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.679,
+            "end": 1.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pouvoir",
+            "start": 1.699,
+            "end": 2.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.139,
+            "end": 2.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'arr\u00eater.",
+            "start": 2.139,
+            "end": 2.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.759,
+            "end": 3.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mme",
+            "start": 3.339,
+            "end": 3.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.659,
+            "end": 3.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Medlock",
+            "start": 3.679,
+            "end": 4.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.159,
+            "end": 4.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fut",
+            "start": 4.159,
+            "end": 4.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.379,
+            "end": 4.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9tonn\u00e9e",
+            "start": 4.44,
+            "end": 4.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.839,
+            "end": 4.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'entendre",
+            "start": 4.839,
+            "end": 5.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.379,
+            "end": 5.4,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "les",
+            "start": 5.4,
+            "end": 5.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.579,
+            "end": 5.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "deux",
+            "start": 5.579,
+            "end": 5.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.739,
+            "end": 6.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "comme",
+            "start": 6.139,
+            "end": 6.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.339,
+            "end": 6.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elles",
+            "start": 6.359,
+            "end": 6.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.519,
+            "end": 6.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 6.519,
+            "end": 6.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.679,
+            "end": 6.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tenaient",
+            "start": 6.679,
+            "end": 6.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.939,
+            "end": 6.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "devant",
+            "start": 6.94,
+            "end": 7.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.179,
+            "end": 7.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 7.199,
+            "end": 7.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.379,
+            "end": 7.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "porte.",
+            "start": 7.379,
+            "end": 7.879,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

@@ -1,0 +1,225 @@
+{
+    "text": "\u00ab Il ne serait pas aussi vivant si vous ne l'aviez pas fait, \u00bb dit Dickon.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.859,
+            "end": 1.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.019,
+            "end": 1.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 1.019,
+            "end": 1.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.139,
+            "end": 1.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 1.139,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "serait",
+            "start": 1.439,
+            "end": 1.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.559,
+            "end": 1.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 1.559,
+            "end": 1.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.859,
+            "end": 1.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "aussi",
+            "start": 1.859,
+            "end": 2.2,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.2,
+            "end": 2.2,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vivant",
+            "start": 2.2,
+            "end": 2.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.319,
+            "end": 2.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "si",
+            "start": 2.319,
+            "end": 2.48,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.48,
+            "end": 2.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vous",
+            "start": 2.48,
+            "end": 2.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.599,
+            "end": 2.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 2.599,
+            "end": 2.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.919,
+            "end": 2.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'aviez",
+            "start": 2.939,
+            "end": 3.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.119,
+            "end": 3.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 3.119,
+            "end": 3.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.399,
+            "end": 3.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fait,",
+            "start": 3.399,
+            "end": 3.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.839,
+            "end": 3.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 3.839,
+            "end": 3.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.999,
+            "end": 4.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 4.0,
+            "end": 4.52,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.52,
+            "end": 4.52,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon.",
+            "start": 4.52,
+            "end": 4.52,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

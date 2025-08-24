@@ -1,0 +1,197 @@
+{
+    "text": "\u00ab Je suis content que vous l'ayez fait, Weatherstaff, \u00bb dit Colin. \u00ab Vous garderez le secret. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Je",
+            "start": 0.14,
+            "end": 0.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.239,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "suis",
+            "start": 0.299,
+            "end": 0.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.439,
+            "end": 0.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "content",
+            "start": 0.439,
+            "end": 0.819,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.819,
+            "end": 0.819,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 0.819,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vous",
+            "start": 0.939,
+            "end": 1.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.019,
+            "end": 1.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'ayez",
+            "start": 1.059,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fait,",
+            "start": 1.419,
+            "end": 1.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.659,
+            "end": 1.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Weatherstaff,",
+            "start": 1.659,
+            "end": 2.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.379,
+            "end": 2.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 2.74,
+            "end": 2.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.899,
+            "end": 2.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Colin.",
+            "start": 2.899,
+            "end": 3.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.259,
+            "end": 3.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Vous",
+            "start": 3.919,
+            "end": 4.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.079,
+            "end": 4.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "garderez",
+            "start": 4.079,
+            "end": 4.48,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.48,
+            "end": 4.48,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 4.48,
+            "end": 4.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.599,
+            "end": 4.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "secret.",
+            "start": 4.599,
+            "end": 5.06,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

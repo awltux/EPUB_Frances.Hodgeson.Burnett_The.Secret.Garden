@@ -1,0 +1,113 @@
+{
+    "text": "\"Avez-vous vu l'un d'eux, Weatherstaff ?\" demanda Mme Medlock.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Avez-vous",
+            "start": 0.219,
+            "end": 0.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.62,
+            "end": 0.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vu",
+            "start": 0.62,
+            "end": 0.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.799,
+            "end": 0.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'un",
+            "start": 0.839,
+            "end": 1.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.0,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'eux,",
+            "start": 1.0,
+            "end": 1.24,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.24,
+            "end": 1.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Weatherstaff?",
+            "start": 1.24,
+            "end": 1.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.979,
+            "end": 2.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda",
+            "start": 2.139,
+            "end": 2.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.5,
+            "end": 2.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Mme",
+            "start": 2.5,
+            "end": 2.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.779,
+            "end": 2.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Medlock.",
+            "start": 2.779,
+            "end": 3.279,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

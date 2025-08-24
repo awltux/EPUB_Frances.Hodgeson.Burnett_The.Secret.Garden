@@ -1,0 +1,190 @@
+{
+    "text": "Le vieux jardinier la fixa. \u00ab \u00cates-vous la petite fille de l'Inde ? \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Le",
+            "start": 0.099,
+            "end": 0.2,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.2,
+            "end": 0.28,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vieux",
+            "start": 0.28,
+            "end": 0.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.419,
+            "end": 0.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardinier",
+            "start": 0.479,
+            "end": 0.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.919,
+            "end": 0.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 0.919,
+            "end": 1.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.059,
+            "end": 1.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fixa.",
+            "start": 1.059,
+            "end": 1.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.539,
+            "end": 2.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 2.0,
+            "end": 2.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.0,
+            "end": 2.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00cates-vous",
+            "start": 2.0,
+            "end": 2.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.359,
+            "end": 2.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 2.359,
+            "end": 2.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.519,
+            "end": 2.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "petite",
+            "start": 2.519,
+            "end": 2.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.779,
+            "end": 2.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "fille",
+            "start": 2.839,
+            "end": 3.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.059,
+            "end": 3.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 3.059,
+            "end": 3.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.179,
+            "end": 3.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'Inde",
+            "start": 3.179,
+            "end": 3.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 3.619,
+            "end": 3.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.619,
+            "end": 3.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 3.619,
+            "end": 3.619,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

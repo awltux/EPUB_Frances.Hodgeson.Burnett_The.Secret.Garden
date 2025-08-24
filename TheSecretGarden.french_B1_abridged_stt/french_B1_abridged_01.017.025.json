@@ -1,0 +1,561 @@
+{
+    "text": "\u00ab Je sortirai avec toi, Marie. \u00bb, dit-il. \u00ab Je ne d\u00e9testerai pas l'air frais si nous pouvons trouver, \u00bb Il s'emp\u00eacha de dire le jardin secret, et termina, \u00ab si Dickon pousse ma chaise. Je veux voir Dickon, le renard et le corbeau. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Je",
+            "start": 0.14,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sortirai",
+            "start": 0.299,
+            "end": 0.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.759,
+            "end": 0.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 0.759,
+            "end": 0.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.959,
+            "end": 1.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "toi,",
+            "start": 1.039,
+            "end": 1.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.319,
+            "end": 1.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.319,
+            "end": 1.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.72,
+            "end": 2.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit-il.",
+            "start": 2.319,
+            "end": 2.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.919,
+            "end": 3.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 3.46,
+            "end": 3.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.579,
+            "end": 3.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 3.619,
+            "end": 3.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.719,
+            "end": 3.74,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u00e9testerai",
+            "start": 3.74,
+            "end": 4.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.339,
+            "end": 4.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 4.339,
+            "end": 4.48,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.48,
+            "end": 4.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'air",
+            "start": 4.5,
+            "end": 4.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.719,
+            "end": 4.719,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "frais",
+            "start": 4.719,
+            "end": 5.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.019,
+            "end": 5.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "si",
+            "start": 5.059,
+            "end": 5.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.139,
+            "end": 5.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "nous",
+            "start": 5.139,
+            "end": 5.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.319,
+            "end": 5.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pouvons",
+            "start": 5.339,
+            "end": 5.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.639,
+            "end": 5.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "trouver,",
+            "start": 5.639,
+            "end": 6.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.079,
+            "end": 6.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 6.799,
+            "end": 6.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.939,
+            "end": 6.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'emp\u00eacha",
+            "start": 6.98,
+            "end": 7.46,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.46,
+            "end": 7.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 7.46,
+            "end": 7.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.579,
+            "end": 7.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dire",
+            "start": 7.579,
+            "end": 7.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.799,
+            "end": 7.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 7.799,
+            "end": 7.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.899,
+            "end": 7.94,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "jardin",
+            "start": 7.94,
+            "end": 8.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.219,
+            "end": 8.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "secret,",
+            "start": 8.279,
+            "end": 8.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.699,
+            "end": 9.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 9.019,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "termina,",
+            "start": 9.179,
+            "end": 9.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.659,
+            "end": 9.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": ":",
+            "start": 9.659,
+            "end": 9.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.699,
+            "end": 10.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "si",
+            "start": 10.559,
+            "end": 10.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.679,
+            "end": 10.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon",
+            "start": 10.699,
+            "end": 11.02,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.02,
+            "end": 11.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pousse",
+            "start": 11.079,
+            "end": 11.3,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.3,
+            "end": 11.3,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ma",
+            "start": 11.3,
+            "end": 11.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.479,
+            "end": 11.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chaise.",
+            "start": 11.479,
+            "end": 11.88,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.88,
+            "end": 12.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Je",
+            "start": 12.579,
+            "end": 12.719,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.719,
+            "end": 12.739,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "veux",
+            "start": 12.739,
+            "end": 12.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.839,
+            "end": 12.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voir",
+            "start": 12.859,
+            "end": 13.059,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.059,
+            "end": 13.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Dickon,",
+            "start": 13.079,
+            "end": 13.659,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.659,
+            "end": 14.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 14.039,
+            "end": 14.14,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 14.14,
+            "end": 14.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "renard",
+            "start": 14.179,
+            "end": 14.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 14.699,
+            "end": 15.139,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "et",
+            "start": 15.139,
+            "end": 15.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 15.239,
+            "end": 15.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 15.259,
+            "end": 15.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 15.399,
+            "end": 15.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "corbeau.",
+            "start": 15.399,
+            "end": 15.879,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

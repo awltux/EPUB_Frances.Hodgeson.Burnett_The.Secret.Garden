@@ -1,0 +1,253 @@
+{
+    "text": "Personne ne se souciait de Marie. Elle s'habillait maintenant elle-m\u00eame, car Marthe trouvait stupide qu'elle demande de l'aide.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Personne",
+            "start": 0.119,
+            "end": 0.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.619,
+            "end": 0.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 0.62,
+            "end": 0.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.72,
+            "end": 0.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 0.759,
+            "end": 0.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.939,
+            "end": 0.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "souciait",
+            "start": 0.939,
+            "end": 1.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.359,
+            "end": 1.36,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 1.36,
+            "end": 1.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.439,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.459,
+            "end": 1.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.879,
+            "end": 2.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Elle",
+            "start": 2.259,
+            "end": 2.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.439,
+            "end": 2.44,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'habillait",
+            "start": 2.44,
+            "end": 2.899,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.899,
+            "end": 2.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "maintenant",
+            "start": 2.899,
+            "end": 3.36,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.36,
+            "end": 3.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "elle-m\u00eame,",
+            "start": 3.379,
+            "end": 3.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.999,
+            "end": 4.199,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "car",
+            "start": 4.199,
+            "end": 4.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.399,
+            "end": 4.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marthe",
+            "start": 4.46,
+            "end": 4.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.839,
+            "end": 4.88,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "trouvait",
+            "start": 4.88,
+            "end": 5.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.219,
+            "end": 5.219,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "stupide",
+            "start": 5.219,
+            "end": 5.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.779,
+            "end": 5.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'elle",
+            "start": 5.799,
+            "end": 6.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.0,
+            "end": 6.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demande",
+            "start": 6.0,
+            "end": 6.339,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.339,
+            "end": 6.339,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "de",
+            "start": 6.339,
+            "end": 6.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.459,
+            "end": 6.46,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'aide.",
+            "start": 6.46,
+            "end": 6.879,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

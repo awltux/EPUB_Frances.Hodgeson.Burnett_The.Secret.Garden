@@ -1,0 +1,344 @@
+{
+    "text": "\"Elle ne sait pas o\u00f9 est la maison!\" se moqua Basil. \"C'est l'Angleterre, bien s\u00fbr. Tu vas chez ton oncle, M. Archibald Craven.\"",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Elle",
+            "start": 0.099,
+            "end": 0.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.259,
+            "end": 0.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 0.259,
+            "end": 0.34,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.34,
+            "end": 0.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sait",
+            "start": 0.399,
+            "end": 0.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.599,
+            "end": 0.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 0.599,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.739,
+            "end": 0.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "o\u00f9",
+            "start": 0.779,
+            "end": 0.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.859,
+            "end": 0.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "est",
+            "start": 0.859,
+            "end": 0.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.979,
+            "end": 1.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 1.0,
+            "end": 1.1,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.1,
+            "end": 1.12,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "maison!",
+            "start": 1.12,
+            "end": 1.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\"",
+            "start": 1.619,
+            "end": 1.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.619,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 1.86,
+            "end": 1.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.979,
+            "end": 2.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "moqua",
+            "start": 2.0,
+            "end": 2.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.219,
+            "end": 2.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Basil.",
+            "start": 2.24,
+            "end": 2.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.759,
+            "end": 3.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\"",
+            "start": 3.179,
+            "end": 3.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "C'est",
+            "start": 3.179,
+            "end": 3.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.299,
+            "end": 3.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'Angleterre,",
+            "start": 3.319,
+            "end": 3.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.979,
+            "end": 3.98,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien",
+            "start": 3.98,
+            "end": 4.219,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.219,
+            "end": 4.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s\u00fbr.",
+            "start": 4.239,
+            "end": 4.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.679,
+            "end": 4.9,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Tu",
+            "start": 4.9,
+            "end": 5.019,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.019,
+            "end": 5.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vas",
+            "start": 5.019,
+            "end": 5.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.179,
+            "end": 5.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "chez",
+            "start": 5.179,
+            "end": 5.319,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.319,
+            "end": 5.319,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ton",
+            "start": 5.319,
+            "end": 5.5,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.5,
+            "end": 5.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "oncle,",
+            "start": 5.5,
+            "end": 5.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.879,
+            "end": 6.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "M.",
+            "start": 6.119,
+            "end": 6.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.419,
+            "end": 6.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Archibald",
+            "start": 6.519,
+            "end": 7.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.119,
+            "end": 7.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Craven.",
+            "start": 7.119,
+            "end": 7.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\"",
+            "start": 7.679,
+            "end": 7.679,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

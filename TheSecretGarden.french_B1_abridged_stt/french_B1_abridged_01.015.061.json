@@ -1,0 +1,183 @@
+{
+    "text": "\u00ab Quand nous sommes venus ici, tout \u00e9tait gris. Est-ce que c'est diff\u00e9rent maintenant ? \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Quand",
+            "start": 0.119,
+            "end": 0.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.299,
+            "end": 0.299,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "nous",
+            "start": 0.299,
+            "end": 0.459,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.459,
+            "end": 0.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "sommes",
+            "start": 0.459,
+            "end": 0.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.679,
+            "end": 0.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "venus",
+            "start": 0.679,
+            "end": 1.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.039,
+            "end": 1.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ici,",
+            "start": 1.039,
+            "end": 1.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.959,
+            "end": 1.959,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tout",
+            "start": 1.959,
+            "end": 2.139,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.139,
+            "end": 2.18,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9tait",
+            "start": 2.18,
+            "end": 2.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.439,
+            "end": 2.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "gris.",
+            "start": 2.439,
+            "end": 2.82,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.82,
+            "end": 3.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Est-ce",
+            "start": 3.399,
+            "end": 3.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.559,
+            "end": 3.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "que",
+            "start": 3.559,
+            "end": 3.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.699,
+            "end": 3.72,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "c'est",
+            "start": 3.72,
+            "end": 3.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.859,
+            "end": 3.859,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "diff\u00e9rent",
+            "start": 3.859,
+            "end": 4.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.379,
+            "end": 4.38,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "maintenant?",
+            "start": 4.38,
+            "end": 4.879,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

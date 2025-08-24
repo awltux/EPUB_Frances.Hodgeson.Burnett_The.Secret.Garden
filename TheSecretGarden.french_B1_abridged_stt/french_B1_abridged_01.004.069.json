@@ -1,0 +1,351 @@
+{
+    "text": "\u00ab Le voil\u00e0. \u00bb, gloussa le vieil homme. \u00ab O\u00f9 \u00e9tais-tu, petit coquin effront\u00e9 ? \u00bb Il parlait \u00e0 l'oiseau comme s'il s'agissait d'un enfant.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.259,
+            "end": 0.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.379,
+            "end": 0.419,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Le",
+            "start": 0.419,
+            "end": 0.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.759,
+            "end": 1.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "voil\u00e0.",
+            "start": 1.519,
+            "end": 1.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.919,
+            "end": 1.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb,",
+            "start": 1.939,
+            "end": 1.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.999,
+            "end": 2.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "gloussa",
+            "start": 2.039,
+            "end": 2.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.259,
+            "end": 2.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 2.259,
+            "end": 2.58,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.58,
+            "end": 3.399,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "vieil",
+            "start": 3.399,
+            "end": 3.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.519,
+            "end": 3.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "homme.",
+            "start": 3.519,
+            "end": 3.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.999,
+            "end": 4.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00ab",
+            "start": 4.059,
+            "end": 4.379,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.379,
+            "end": 4.38,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "O\u00f9",
+            "start": 4.38,
+            "end": 4.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.799,
+            "end": 4.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9tais-tu,",
+            "start": 4.799,
+            "end": 5.44,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.44,
+            "end": 6.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "petit",
+            "start": 6.579,
+            "end": 6.779,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.779,
+            "end": 6.779,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "coquin",
+            "start": 6.779,
+            "end": 7.079,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.079,
+            "end": 7.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "effront\u00e9",
+            "start": 7.079,
+            "end": 7.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.159,
+            "end": 7.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 7.159,
+            "end": 7.579,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.579,
+            "end": 7.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 7.579,
+            "end": 7.759,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.759,
+            "end": 7.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 7.799,
+            "end": 8.039,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.039,
+            "end": 8.059,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "parlait",
+            "start": 8.059,
+            "end": 8.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.519,
+            "end": 8.519,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e0",
+            "start": 8.519,
+            "end": 8.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.699,
+            "end": 8.739,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "l'oiseau",
+            "start": 8.739,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "comme",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'il",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "s'agissait",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d'un",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "enfant.",
+            "start": 9.179,
+            "end": 9.179,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

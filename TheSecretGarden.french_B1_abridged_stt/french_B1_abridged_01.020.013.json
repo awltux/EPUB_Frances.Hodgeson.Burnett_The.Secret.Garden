@@ -1,0 +1,183 @@
+{
+    "text": "\u00ab Tr\u00e8s bien, monsieur, \u00bb dit M. Roach, se demandant ce qui allait arriver.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Tr\u00e8s",
+            "start": 0.219,
+            "end": 0.479,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.479,
+            "end": 0.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "bien,",
+            "start": 0.539,
+            "end": 0.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.739,
+            "end": 0.739,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "monsieur,",
+            "start": 0.739,
+            "end": 1.18,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.18,
+            "end": 1.459,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 1.459,
+            "end": 1.599,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.599,
+            "end": 1.599,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "dit",
+            "start": 1.599,
+            "end": 1.919,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.919,
+            "end": 1.919,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "M.",
+            "start": 1.919,
+            "end": 2.519,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.519,
+            "end": 2.539,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Roach,",
+            "start": 2.539,
+            "end": 2.679,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.679,
+            "end": 2.679,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 2.679,
+            "end": 3.119,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.119,
+            "end": 3.119,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demandant",
+            "start": 3.119,
+            "end": 3.24,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.24,
+            "end": 3.24,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ce",
+            "start": 3.24,
+            "end": 3.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.359,
+            "end": 3.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qui",
+            "start": 3.359,
+            "end": 3.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.619,
+            "end": 3.619,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "allait",
+            "start": 3.619,
+            "end": 4.08,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.08,
+            "end": 4.08,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "arriver.",
+            "start": 4.08,
+            "end": 4.08,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

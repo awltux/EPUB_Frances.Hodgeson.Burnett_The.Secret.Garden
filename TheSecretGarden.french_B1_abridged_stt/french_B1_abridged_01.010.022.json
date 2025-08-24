@@ -1,0 +1,43 @@
+{
+    "text": "\"Au paradis,\" r\u00e9pondit-il.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Au",
+            "start": 0.179,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "paradis,",
+            "start": 0.379,
+            "end": 0.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.859,
+            "end": 1.079,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "r\u00e9pondit-il.",
+            "start": 1.079,
+            "end": 1.679,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

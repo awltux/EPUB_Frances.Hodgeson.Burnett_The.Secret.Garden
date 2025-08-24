@@ -1,0 +1,533 @@
+{
+    "text": "Elle savait qu'elle ne resterait pas avec le pasteur anglais. Il \u00e9tait pauvre, avec cinq enfants qui se disputaient tout le temps. Marie d\u00e9testait leur maison d\u00e9sordonn\u00e9e. Les enfants lui ont donn\u00e9 un surnom qui la rendait furieuse.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Elle",
+            "start": 0.079,
+            "end": 0.239,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.239,
+            "end": 0.239,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "savait",
+            "start": 0.239,
+            "end": 0.54,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.54,
+            "end": 0.56,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qu'elle",
+            "start": 0.56,
+            "end": 0.74,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.74,
+            "end": 0.759,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ne",
+            "start": 0.759,
+            "end": 0.879,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.879,
+            "end": 0.899,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "resterait",
+            "start": 0.899,
+            "end": 1.36,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.36,
+            "end": 1.36,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pas",
+            "start": 1.36,
+            "end": 1.62,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.62,
+            "end": 1.62,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 1.62,
+            "end": 1.86,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.86,
+            "end": 1.86,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 1.86,
+            "end": 1.979,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.979,
+            "end": 1.979,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pasteur",
+            "start": 1.979,
+            "end": 2.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.359,
+            "end": 2.379,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "anglais.",
+            "start": 2.379,
+            "end": 2.82,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 2.82,
+            "end": 3.5,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Il",
+            "start": 3.5,
+            "end": 3.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.639,
+            "end": 3.659,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00e9tait",
+            "start": 3.659,
+            "end": 3.939,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 3.939,
+            "end": 3.939,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "pauvre,",
+            "start": 3.939,
+            "end": 4.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.439,
+            "end": 4.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "avec",
+            "start": 4.699,
+            "end": 4.959,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 4.959,
+            "end": 5.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "cinq",
+            "start": 5.019,
+            "end": 5.259,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.259,
+            "end": 5.259,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "enfants",
+            "start": 5.259,
+            "end": 5.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.699,
+            "end": 5.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qui",
+            "start": 5.699,
+            "end": 5.839,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.839,
+            "end": 5.839,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "se",
+            "start": 5.839,
+            "end": 5.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 5.999,
+            "end": 6.019,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "disputaient",
+            "start": 6.019,
+            "end": 6.639,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.639,
+            "end": 6.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "tout",
+            "start": 6.639,
+            "end": 6.799,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.799,
+            "end": 6.799,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "le",
+            "start": 6.799,
+            "end": 6.999,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 6.999,
+            "end": 7.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "temps.",
+            "start": 7.0,
+            "end": 7.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 7.279,
+            "end": 8.479,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie",
+            "start": 8.479,
+            "end": 8.92,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 8.92,
+            "end": 8.92,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u00e9testait",
+            "start": 8.92,
+            "end": 9.439,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.439,
+            "end": 9.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "leur",
+            "start": 9.439,
+            "end": 9.619,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 9.619,
+            "end": 9.639,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "maison",
+            "start": 9.639,
+            "end": 10.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.0,
+            "end": 10.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "d\u00e9sordonn\u00e9e.",
+            "start": 10.0,
+            "end": 10.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 10.739,
+            "end": 11.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Les",
+            "start": 11.359,
+            "end": 11.539,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.539,
+            "end": 11.579,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "enfants",
+            "start": 11.579,
+            "end": 11.96,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 11.96,
+            "end": 12.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "lui",
+            "start": 12.0,
+            "end": 12.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.159,
+            "end": 12.179,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "ont",
+            "start": 12.179,
+            "end": 12.299,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.299,
+            "end": 12.3,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "donn\u00e9",
+            "start": 12.3,
+            "end": 12.559,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.559,
+            "end": 12.559,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "un",
+            "start": 12.559,
+            "end": 12.739,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 12.739,
+            "end": 12.739,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "surnom",
+            "start": 12.739,
+            "end": 13.159,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.159,
+            "end": 13.159,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "qui",
+            "start": 13.159,
+            "end": 13.279,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.279,
+            "end": 13.279,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "la",
+            "start": 13.279,
+            "end": 13.399,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.399,
+            "end": 13.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "rendait",
+            "start": 13.439,
+            "end": 13.859,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 13.859,
+            "end": 13.88,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "furieuse.",
+            "start": 13.88,
+            "end": 14.5,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

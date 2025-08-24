@@ -1,0 +1,43 @@
+{
+    "text": "Marie resta silencieuse.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "Marie",
+            "start": 0.079,
+            "end": 0.359,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.359,
+            "end": 0.359,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "resta",
+            "start": 0.359,
+            "end": 0.699,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.699,
+            "end": 0.699,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "silencieuse.",
+            "start": 0.699,
+            "end": 1.479,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

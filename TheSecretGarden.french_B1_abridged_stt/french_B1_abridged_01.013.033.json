@@ -1,0 +1,64 @@
+{
+    "text": "\u00ab Pourquoi ? \u00bb demanda Marie.",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.0,
+            "end": 0.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "Pourquoi",
+            "start": 0.179,
+            "end": 0.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "?",
+            "start": 0.179,
+            "end": 0.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 0.179,
+            "end": 0.72,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.72,
+            "end": 1.039,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "demanda",
+            "start": 1.039,
+            "end": 1.419,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 1.419,
+            "end": 1.439,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Marie.",
+            "start": 1.439,
+            "end": 1.799,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}

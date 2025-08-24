@@ -1,0 +1,43 @@
+{
+    "text": "\u00ab Non. \u00bb",
+    "language_code": "fra",
+    "language_probability": 1.0,
+    "words": [
+        {
+            "text": "\u00ab",
+            "start": 0.0,
+            "end": 0.0,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.0,
+            "end": 0.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "Non.",
+            "start": 0.299,
+            "end": 0.6,
+            "type": "word",
+            "speaker_id": null
+        },
+        {
+            "text": " ",
+            "start": 0.0,
+            "end": 0.0,
+            "type": "spacing",
+            "speaker_id": null
+        },
+        {
+            "text": "\u00bb",
+            "start": 0.0,
+            "end": 0.0,
+            "type": "word",
+            "speaker_id": null
+        }
+    ],
+    "fixed": true
+}
