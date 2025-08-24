@@ -648,22 +648,8 @@
             "speaker_id": null
         },
         {
-            "text": "\u00ab",
-            "start": 21.52,
-            "end": 22.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 22.179,
-            "end": 22.68,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Cochon",
-            "start": 22.68,
+            "start": 21.52,
             "end": 22.939,
             "type": "word",
             "speaker_id": null
@@ -732,36 +718,8 @@
             "speaker_id": null
         },
         {
-            "text": "!",
-            "start": 25.319,
-            "end": 25.519,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 25.519,
-            "end": 25.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 25.519,
-            "end": 25.979,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 25.979,
-            "end": 26.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "marmonna-t-elle,",
-            "start": 26.0,
+            "start": 25.319,
             "end": 26.219,
             "type": "word",
             "speaker_id": null

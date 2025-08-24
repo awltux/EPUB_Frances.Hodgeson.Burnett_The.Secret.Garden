@@ -335,26 +335,12 @@
         {
             "text": " ",
             "start": 8.46,
-            "end": 9.26,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 9.26,
-            "end": 9.399,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.399,
             "end": 9.42,
             "type": "spacing",
             "speaker_id": null
         },
         {
-            "text": "O\u00f9",
+            "text": "Où",
             "start": 9.42,
             "end": 9.539,
             "type": "word",
@@ -762,34 +748,6 @@
         {
             "text": " ",
             "start": 20.46,
-            "end": 20.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": ":",
-            "start": 20.46,
-            "end": 20.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 20.5,
-            "end": 20.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 20.5,
-            "end": 20.6,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 20.6,
             "end": 21.039,
             "type": "spacing",
             "speaker_id": null
