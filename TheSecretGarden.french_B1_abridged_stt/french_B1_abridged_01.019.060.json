@@ -1,5 +1,5 @@
 {
-    "text": "Les bottes de Dickon r\u00e9sonn\u00e8rent dans le couloir.",
+    "text": "Les bottes de Dickon résonnèrent dans le couloir.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.28,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bottes",
             "start": 0.28,
             "end": 0.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.66,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dickon",
             "start": 0.719,
             "end": 1.159,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9sonn\u00e8rent",
+            "text": "résonnèrent",
             "start": 1.179,
             "end": 1.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.759,
-            "end": 1.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.899,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 1.899,
             "end": 1.959,
@@ -95,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 2.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "couloir.",
+            "text": "couloir",
             "start": 2.059,
             "end": 2.699,
             "type": "word",

@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab Non. Je reste ici. C'est trop fatigant de bouger. \u00bb",
+    "text": "« Non. Je reste ici. C'est trop fatigant de bouger. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Non.",
+            "text": "Non",
             "start": 0.359,
             "end": 0.6,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.6,
-            "end": 1.12,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.24,
-            "end": 1.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "reste",
             "start": 1.279,
             "end": 1.519,
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ici.",
+            "text": "ici",
             "start": 1.519,
             "end": 1.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.939,
-            "end": 2.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "trop",
             "start": 2.319,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 2.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 2.96,
             "end": 3.099,
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bouger.",
+            "text": "bouger",
             "start": 3.099,
             "end": 3.519,
             "type": "word",

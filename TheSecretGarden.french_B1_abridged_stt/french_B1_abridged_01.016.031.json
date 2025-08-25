@@ -1,5 +1,5 @@
 {
-    "text": "\"Il est meilleur que toi !\" r\u00e9torqua Marie, la voix s'\u00e9levant. \"Mille fois meilleur !\"",
+    "text": "\"Il est meilleur que toi !\" rétorqua Marie, la voix s'élevant. \"Mille fois meilleur !\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 0.379,
             "end": 0.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.619,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 1.12,
             "end": 1.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +39,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.679,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9torqua",
+            "text": "rétorqua",
             "start": 1.899,
             "end": 2.379,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie,",
+            "text": "Marie",
             "start": 2.379,
             "end": 2.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 2.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "voix",
             "start": 2.96,
             "end": 3.159,
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.159,
-            "end": 3.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'\u00e9levant.",
+            "text": "s'élevant",
             "start": 3.159,
             "end": 4.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.039,
-            "end": 4.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.339,
-            "end": 4.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fois",
             "start": 4.339,
             "end": 4.619,
@@ -165,21 +88,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.619,
-            "end": 4.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "meilleur",
-            "start": 4.619,
-            "end": 5.239,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
             "start": 4.619,
             "end": 5.239,
             "type": "word",

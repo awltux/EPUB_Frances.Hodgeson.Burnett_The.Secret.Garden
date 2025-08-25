@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab J'aimerais te voir faire le tour du jardin, \u00bb grommela Ben, pas enti\u00e8rement convaincu.",
+    "text": "« J'aimerais te voir faire le tour du jardin, » grommela Ben, pas entièrement convaincu.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "te",
             "start": 0.539,
             "end": 0.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "faire",
             "start": 0.879,
             "end": 1.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tour",
             "start": 1.24,
             "end": 1.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin,",
+            "text": "jardin",
             "start": 1.559,
             "end": 2.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.059,
-            "end": 2.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.919,
-            "end": 2.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ben,",
+            "text": "Ben",
             "start": 2.939,
             "end": 3.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.259,
-            "end": 3.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,28 +81,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "enti\u00e8rement",
+            "text": "entièrement",
             "start": 3.48,
             "end": 4.0,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.0,
-            "end": 4.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "convaincu.",
+            "text": "convaincu",
             "start": 4.0,
             "end": 4.679,
             "type": "word",

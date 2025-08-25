@@ -4,59 +4,31 @@
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Marie!",
+            "text": "Marie",
             "start": 0.119,
             "end": 0.539,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon!",
+            "text": "Dickon",
             "start": 0.539,
             "end": 1.0,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Regardez-moi!",
+            "text": "Regardez-moi",
             "start": 1.0,
             "end": 1.739,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.739,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cria-t-il.",
+            "text": "cria-t-il",
             "start": 1.86,
             "end": 2.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.479,
-            "end": 2.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "suis",
             "start": 2.819,
             "end": 3.019,
@@ -81,14 +46,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.019,
-            "end": 3.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bien!",
+            "text": "bien",
             "start": 3.019,
             "end": 3.379,
             "type": "word",

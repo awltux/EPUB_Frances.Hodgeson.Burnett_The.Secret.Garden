@@ -1,5 +1,5 @@
 {
-    "text": "Marie fron\u00e7a les sourcils. Elle d\u00e9testait que les humeurs de Colin puissent g\u00e2cher sa journ\u00e9e.",
+    "text": "Marie fronça les sourcils. Elle détestait que les humeurs de Colin puissent gâcher sa journée.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fron\u00e7a",
+            "text": "fronça",
             "start": 0.439,
             "end": 0.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.939,
-            "end": 0.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sourcils.",
+            "text": "sourcils",
             "start": 0.939,
             "end": 1.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.139,
-            "end": 2.2,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9testait",
+            "text": "détestait",
             "start": 2.2,
             "end": 2.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.839,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 2.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 2.98,
             "end": 3.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.439,
-            "end": 3.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 3.439,
             "end": 3.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.98,
-            "end": 4.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "puissent",
             "start": 4.119,
             "end": 4.599,
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.599,
-            "end": 4.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "g\u00e2cher",
+            "text": "gâcher",
             "start": 4.599,
             "end": 5.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.019,
-            "end": 5.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,14 +102,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "journ\u00e9e.",
+            "text": "journée",
             "start": 5.179,
             "end": 5.639,
             "type": "word",

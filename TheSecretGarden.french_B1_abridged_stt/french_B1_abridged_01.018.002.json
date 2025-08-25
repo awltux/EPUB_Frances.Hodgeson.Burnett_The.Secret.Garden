@@ -1,5 +1,5 @@
 {
-    "text": "\"Il a pris un faible pour vous,\" dit Marthe. \"Il a m\u00eame dit 's'il vous pla\u00eet' ! Voulez-vous y aller, Mlle ?\"",
+    "text": "\"Il a pris un faible pour vous,\" dit Marthe. \"Il a même dit 's'il vous plaît' ! Voulez-vous y aller, Mlle ?\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 0.319,
             "end": 0.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 0.599,
             "end": 0.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pour",
             "start": 1.259,
             "end": 1.519,
@@ -81,31 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "vous,",
+            "text": "vous",
             "start": 1.519,
             "end": 1.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 1.719,
-            "end": 1.719,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.719,
-            "end": 2.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -116,30 +60,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.239,
-            "end": 2.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marthe.",
+            "text": "Marthe",
             "start": 2.24,
             "end": 2.639,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.639,
-            "end": 2.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 2.919,
-            "end": 2.919,
             "type": "word",
             "speaker_id": null
         },
@@ -151,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.059,
-            "end": 3.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 3.059,
             "end": 3.179,
@@ -165,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.179,
-            "end": 3.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "m\u00eame",
+            "text": "même",
             "start": 3.179,
             "end": 3.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "'s'il",
+            "text": "s'il",
             "start": 3.939,
             "end": 4.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.179,
-            "end": 4.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.359,
-            "end": 4.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pla\u00eet'!",
+            "text": "plaît",
             "start": 4.36,
             "end": 4.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.699,
-            "end": 4.7,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,13 +123,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.519,
-            "end": 5.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "y",
             "start": 5.559,
             "end": 5.599,
@@ -263,28 +130,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.599,
-            "end": 5.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aller,",
+            "text": "aller",
             "start": 5.599,
             "end": 5.839,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.839,
-            "end": 5.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Mlle?",
+            "text": "Mlle",
             "start": 5.879,
             "end": 6.54,
             "type": "word",

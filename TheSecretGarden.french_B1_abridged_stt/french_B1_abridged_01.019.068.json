@@ -1,34 +1,20 @@
 {
-    "text": "Apr\u00e8s cela, les questions jaillirent. Dickon leur raconta comment il avait trouv\u00e9 l'agneau.",
+    "text": "Après cela, les questions jaillirent. Dickon leur raconta comment il avait trouvé l'agneau.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Apr\u00e8s",
+            "text": "Après",
             "start": 0.079,
             "end": 0.379,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cela,",
+            "text": "cela",
             "start": 0.399,
             "end": 0.68,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.68,
-            "end": 0.68,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "questions",
             "start": 0.839,
             "end": 1.199,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jaillirent.",
+            "text": "jaillirent",
             "start": 1.259,
             "end": 1.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.859,
-            "end": 2.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.679,
-            "end": 2.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "leur",
             "start": 2.679,
             "end": 2.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.839,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "comment",
             "start": 3.339,
             "end": 3.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.599,
-            "end": 3.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.739,
-            "end": 3.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 3.74,
             "end": 3.919,
@@ -151,28 +81,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.919,
-            "end": 3.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "trouv\u00e9",
+            "text": "trouvé",
             "start": 3.919,
             "end": 4.199,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.199,
-            "end": 4.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'agneau.",
+            "text": "l'agneau",
             "start": 4.239,
             "end": 4.699,
             "type": "word",

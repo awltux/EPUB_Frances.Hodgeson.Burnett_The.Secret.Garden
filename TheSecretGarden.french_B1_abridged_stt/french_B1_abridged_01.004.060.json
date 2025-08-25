@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Les gens ne m'aiment jamais, et je n'aime jamais les gens. \u00bb, pensa-t-elle.",
+    "text": "« Les gens ne m'aiment jamais, et je n'aime jamais les gens. », pensa-t-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "gens",
             "start": 0.319,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "m'aiment",
             "start": 0.659,
             "end": 1.019,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jamais,",
+            "text": "jamais",
             "start": 1.019,
             "end": 1.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "je",
             "start": 1.939,
             "end": 2.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.339,
-            "end": 2.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jamais",
             "start": 2.339,
             "end": 2.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.659,
-            "end": 2.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,42 +74,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.84,
-            "end": 2.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gens.",
+            "text": "gens",
             "start": 2.859,
             "end": 3.119,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 3.48,
-            "end": 4.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.48,
-            "end": 4.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pensa-t-elle.",
+            "text": "pensa-t-elle",
             "start": 3.48,
             "end": 4.179,
             "type": "word",

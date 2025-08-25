@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'as",
             "start": 0.34,
             "end": 0.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "entendu",
             "start": 0.699,
             "end": 1.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "parents",
             "start": 1.199,
             "end": 1.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.719,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 1.719,
             "end": 1.86,
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "lui?",
+            "text": "lui",
             "start": 1.86,
             "end": 2.119,
             "type": "word",

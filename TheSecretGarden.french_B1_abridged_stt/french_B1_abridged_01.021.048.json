@@ -1,5 +1,5 @@
 {
-    "text": "Ben se mit \u00e0 pleurer, frappant ses mains ensemble.",
+    "text": "Ben se mit à pleurer, frappant ses mains ensemble.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "se",
             "start": 0.459,
             "end": 0.56,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 0.859,
             "end": 0.879,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pleurer,",
+            "text": "pleurer",
             "start": 0.879,
             "end": 1.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.34,
-            "end": 1.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ses",
             "start": 2.039,
             "end": 2.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.219,
-            "end": 2.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.459,
-            "end": 2.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ensemble.",
+            "text": "ensemble",
             "start": 2.46,
             "end": 3.179,
             "type": "word",

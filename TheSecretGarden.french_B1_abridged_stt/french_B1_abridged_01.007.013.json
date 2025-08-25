@@ -1,20 +1,13 @@
 {
-    "text": "Marie, voulant en savoir plus sur le jardin secret, demanda : \u00ab Est-ce que les choses s'agitent en bas dans l'obscurit\u00e9 dans ce jardin ? \u00bb",
+    "text": "Marie, voulant en savoir plus sur le jardin secret, demanda : « Est-ce que les choses s'agitent en bas dans l'obscurité dans ce jardin ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Marie,",
+            "text": "Marie",
             "start": 0.099,
             "end": 0.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "en",
             "start": 0.859,
             "end": 0.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "plus",
             "start": 1.339,
             "end": 1.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.719,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 1.719,
             "end": 1.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.86,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.139,
-            "end": 2.18,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "secret,",
+            "text": "secret",
             "start": 2.18,
             "end": 2.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.679,
-            "end": 3.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,52 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.48,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": ":",
-            "start": 3.48,
-            "end": 3.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.5,
-            "end": 3.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.5,
-            "end": 3.6,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.6,
-            "end": 4.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Est-ce",
             "start": 4.259,
             "end": 4.44,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.44,
-            "end": 4.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.559,
-            "end": 4.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 4.579,
             "end": 4.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.759,
-            "end": 4.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.219,
-            "end": 5.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'agitent",
             "start": 5.219,
             "end": 5.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.859,
-            "end": 5.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,13 +116,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.079,
-            "end": 6.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bas",
             "start": 6.079,
             "end": 6.399,
@@ -263,13 +123,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.399,
-            "end": 6.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dans",
             "start": 6.399,
             "end": 6.559,
@@ -277,24 +130,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.559,
-            "end": 6.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'obscurit\u00e9",
+            "text": "l'obscurité",
             "start": 6.559,
             "end": 7.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.179,
-            "end": 7.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -302,13 +141,6 @@
             "start": 7.179,
             "end": 7.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.339,
-            "end": 7.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -319,37 +151,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.439,
-            "end": 7.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jardin",
             "start": 7.5,
             "end": 7.819,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 7.819,
-            "end": 7.819,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.819,
-            "end": 7.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 7.819,
-            "end": 7.919,
             "type": "word",
             "speaker_id": null
         }

@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Avoir ce que tu veux est ce qui t'a rendu si \u00e9trange. \u00bb, observa Marie.",
+    "text": "« Avoir ce que tu veux est ce qui t'a rendu si étrange. », observa Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.36,
-            "end": 1.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ce",
             "start": 1.379,
             "end": 1.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tu",
             "start": 1.579,
             "end": 1.72,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.72,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 2.139,
             "end": 2.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.299,
-            "end": 2.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qui",
             "start": 2.419,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.719,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rendu",
             "start": 2.74,
             "end": 3.099,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.22,
-            "end": 3.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9trange.",
+            "text": "étrange",
             "start": 3.22,
             "end": 3.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.819,
-            "end": 4.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,14 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.699,
-            "end": 4.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 4.719,
             "end": 5.08,
             "type": "word",

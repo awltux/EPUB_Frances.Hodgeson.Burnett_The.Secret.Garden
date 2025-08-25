@@ -1,5 +1,5 @@
 {
-    "text": "Cela arrivait tous les jours et ils r\u00e9alis\u00e8rent rapidement que Mme Sowerby avait beaucoup de gens \u00e0 nourrir, alors ils propos\u00e8rent de payer la nourriture.",
+    "text": "Cela arrivait tous les jours et ils réalisèrent rapidement que Mme Sowerby avait beaucoup de gens à nourrir, alors ils proposèrent de payer la nourriture.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.34,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "arrivait",
             "start": 0.34,
             "end": 0.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 0.879,
             "end": 1.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.359,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 1.679,
             "end": 1.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.98,
-            "end": 2.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9alis\u00e8rent",
+            "text": "réalisèrent",
             "start": 2.0,
             "end": 2.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.839,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 3.679,
             "end": 3.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.079,
-            "end": 4.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Sowerby",
             "start": 4.179,
             "end": 4.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.319,
-            "end": 5.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "beaucoup",
             "start": 5.319,
             "end": 5.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.719,
-            "end": 5.739,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +109,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.819,
-            "end": 5.9,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "gens",
             "start": 5.9,
             "end": 6.079,
@@ -221,38 +116,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.079,
-            "end": 6.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 6.079,
             "end": 6.219,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.219,
-            "end": 6.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "nourrir,",
+            "text": "nourrir",
             "start": 6.219,
             "end": 6.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.779,
-            "end": 7.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -263,13 +137,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.339,
-            "end": 7.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ils",
             "start": 7.339,
             "end": 7.499,
@@ -277,24 +144,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.499,
-            "end": 7.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "propos\u00e8rent",
+            "text": "proposèrent",
             "start": 7.519,
             "end": 8.3,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.3,
-            "end": 8.3,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -305,24 +158,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.479,
-            "end": 8.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "payer",
             "start": 8.479,
             "end": 8.8,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.8,
-            "end": 8.8,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -333,14 +172,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.939,
-            "end": 8.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "nourriture.",
+            "text": "nourriture",
             "start": 8.939,
             "end": 9.739,
             "type": "word",

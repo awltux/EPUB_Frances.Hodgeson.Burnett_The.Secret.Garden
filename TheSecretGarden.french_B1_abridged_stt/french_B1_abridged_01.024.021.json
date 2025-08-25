@@ -1,5 +1,5 @@
 {
-    "text": "Le Dr. Craven semblait \u00e9galement confus. \"Vous passez beaucoup de temps dans le jardin,\" dit-il. \"O\u00f9 allez-vous ?\"",
+    "text": "Le Dr. Craven semblait également confus. \"Vous passez beaucoup de temps dans le jardin,\" dit-il. \"Où allez-vous ?\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.2,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dr.",
+            "text": "Dr",
             "start": 0.219,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "semblait",
             "start": 0.979,
             "end": 1.319,
@@ -53,52 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9galement",
+            "text": "également",
             "start": 1.319,
             "end": 1.759,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.759,
-            "end": 1.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "confus.",
+            "text": "confus",
             "start": 1.759,
             "end": 2.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.24,
-            "end": 3.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 3.039,
-            "end": 3.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.179,
-            "end": 3.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "passez",
             "start": 3.46,
             "end": 3.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.699,
-            "end": 3.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 3.859,
             "end": 4.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.019,
-            "end": 4.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.139,
-            "end": 4.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dans",
             "start": 4.159,
             "end": 4.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.239,
-            "end": 4.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,59 +95,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin,\"",
+            "text": "jardin",
             "start": 4.98,
             "end": 5.46,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.46,
-            "end": 5.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 5.839,
             "end": 5.939,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.939,
-            "end": 5.94,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
+            "text": "Où",
             "start": 5.94,
             "end": 6.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "O\u00f9",
-            "start": 5.94,
-            "end": 6.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.94,
-            "end": 6.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -256,7 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": "?\"",
+            "text": "",
             "start": 5.94,
             "end": 6.419,
             "type": "word",

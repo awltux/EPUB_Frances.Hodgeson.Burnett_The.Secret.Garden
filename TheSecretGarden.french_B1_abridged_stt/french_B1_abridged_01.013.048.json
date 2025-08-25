@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab \u00c0 cause des r\u00eaves r\u00e9els. \u00bb, dit-il.",
+    "text": "« À cause des rêves réels. », dit-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.359,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00c0",
+            "text": "À",
             "start": 0.359,
             "end": 0.56,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 0.719,
             "end": 0.959,
@@ -53,63 +25,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00eaves",
+            "text": "rêves",
             "start": 0.959,
             "end": 1.499,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.499,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9els.",
+            "text": "réels",
             "start": 1.939,
             "end": 2.58,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.499,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.939,
-            "end": 2.58,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": ",",
-            "start": 1.939,
-            "end": 2.58,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.499,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 1.939,
             "end": 2.58,
             "type": "word",

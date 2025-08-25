@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Bon Dieu ! \u00bb s'exclama Mme Medlock.",
+    "text": "« Bon Dieu ! » s'exclama Mme Medlock.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.14,
-            "end": 0.379,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Bon",
             "start": 0.14,
             "end": 0.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,45 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": "!",
-            "start": 0.379,
-            "end": 0.78,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.78,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 0.78,
-            "end": 1.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.78,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'exclama",
             "start": 1.179,
             "end": 1.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -88,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.979,
-            "end": 1.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Medlock.",
+            "text": "Medlock",
             "start": 1.979,
             "end": 2.519,
             "type": "word",

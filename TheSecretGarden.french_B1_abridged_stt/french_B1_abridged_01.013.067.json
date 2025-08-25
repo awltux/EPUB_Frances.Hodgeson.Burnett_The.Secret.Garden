@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Je les forcerais. \u00bb, dit Colin.",
+    "text": "« Je les forcerais. », dit Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.14,
-            "end": 0.239,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.259,
             "end": 0.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,37 +18,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.999,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "forcerais.",
+            "text": "forcerais",
             "start": 1.5,
             "end": 1.679,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.679,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.679,
-            "end": 2.299,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": ",",
-            "start": 1.679,
-            "end": 2.299,
             "type": "word",
             "speaker_id": null
         },
@@ -81,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.679,
-            "end": 2.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.679,
             "end": 2.299,
             "type": "word",

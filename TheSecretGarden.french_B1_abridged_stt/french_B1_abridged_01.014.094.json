@@ -1,20 +1,13 @@
 {
-    "text": "Dr. Craven \u00e9tait alarm\u00e9, et Mme Medlock faillit reculer.",
+    "text": "Dr. Craven était alarmé, et Mme Medlock faillit reculer.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Dr.",
+            "text": "Dr",
             "start": 0.079,
             "end": 0.36,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.36,
-            "end": 0.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.799,
             "end": 1.039,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "alarm\u00e9,",
+            "text": "alarmé",
             "start": 1.039,
             "end": 1.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Mme",
             "start": 1.779,
             "end": 2.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.059,
-            "end": 2.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "faillit",
             "start": 2.519,
             "end": 2.799,
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.799,
-            "end": 2.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "reculer.",
+            "text": "reculer",
             "start": 2.799,
             "end": 3.379,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Dickon le poussa \u00e0 l'int\u00e9rieur.",
+    "text": "Dickon le poussa à l'intérieur.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.479,
             "end": 0.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,28 +25,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 0.919,
             "end": 1.0,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'int\u00e9rieur.",
+            "text": "l'intérieur",
             "start": 1.0,
             "end": 1.799,
             "type": "word",

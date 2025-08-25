@@ -1,41 +1,13 @@
 {
-    "text": "\u00ab Voil\u00e0 ! \u00bb dit Marie. \u00ab Je vous l'avais dit ! C'est quelqu'un qui pleure, et ce n'est pas un adulte. \u00bb",
+    "text": "« Voilà ! » dit Marie. « Je vous l'avais dit ! C'est quelqu'un qui pleure, et ce n'est pas un adulte. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
+            "text": "Voilà",
             "start": 0.179,
             "end": 0.499,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "Voil\u00e0",
-            "start": 0.179,
-            "end": 0.499,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 0.179,
-            "end": 0.499,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 0.179,
-            "end": 0.499,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.499,
-            "end": 0.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -46,30 +18,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.0,
             "end": 1.359,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.359,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.899,
-            "end": 1.999,
             "type": "word",
             "speaker_id": null
         },
@@ -81,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.999,
-            "end": 2.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vous",
             "start": 2.019,
             "end": 2.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.139,
-            "end": 2.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,31 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dit",
             "start": 2.419,
             "end": 2.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 2.419,
-            "end": 2.679,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.679,
-            "end": 3.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -144,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.379,
-            "end": 3.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "quelqu'un",
             "start": 3.379,
             "end": 3.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.739,
-            "end": 3.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -172,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.899,
-            "end": 3.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pleure,",
+            "text": "pleure",
             "start": 3.98,
             "end": 4.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.379,
-            "end": 4.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -200,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.799,
-            "end": 4.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ce",
             "start": 4.799,
             "end": 4.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.899,
-            "end": 4.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -228,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.139,
-            "end": 5.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 5.139,
             "end": 5.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.359,
-            "end": 5.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -256,21 +116,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.48,
-            "end": 5.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "adulte.",
-            "start": 5.48,
-            "end": 6.04,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "adulte",
             "start": 5.48,
             "end": 6.04,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Colin \u00e9couta. \u00ab Oui. \u00bb",
+    "text": "Colin écouta. « Oui. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,49 +11,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9couta.",
+            "text": "écouta",
             "start": 0.379,
             "end": 0.879,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 0.879,
-            "end": 1.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.879,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oui.",
-            "start": 1.179,
-            "end": 1.479,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "Oui",
             "start": 1.179,
             "end": 1.479,
             "type": "word",

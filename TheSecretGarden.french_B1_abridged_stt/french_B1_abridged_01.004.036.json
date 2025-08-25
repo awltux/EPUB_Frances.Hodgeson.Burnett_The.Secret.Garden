@@ -1,5 +1,5 @@
 {
-    "text": "\"Ce n'est pas \u00e0 moi. Et aujourd'hui n'est pas mon jour de cong\u00e9.\"",
+    "text": "\"Ce n'est pas à moi. Et aujourd'hui n'est pas mon jour de congé.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'est",
             "start": 0.359,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 0.639,
             "end": 0.759,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.759,
-            "end": 0.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "moi.",
+            "text": "moi",
             "start": 0.759,
             "end": 0.999,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.999,
-            "end": 1.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.36,
-            "end": 1.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "aujourd'hui",
             "start": 1.36,
             "end": 1.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.839,
-            "end": 1.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 2.099,
             "end": 2.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.24,
-            "end": 2.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jour",
             "start": 2.379,
             "end": 2.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.539,
-            "end": 2.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,14 +88,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.659,
-            "end": 2.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cong\u00e9.",
+            "text": "congé",
             "start": 2.679,
             "end": 3.119,
             "type": "word",

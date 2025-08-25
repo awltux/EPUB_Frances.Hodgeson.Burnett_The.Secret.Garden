@@ -1,76 +1,41 @@
 {
-    "text": "\"C'\u00e9tait dr\u00f4le \u00e0 dire,\" admit-elle. \"Mais s'il y avait un ange du Yorkshire, il comprendrait les choses vertes et parlerait aux cr\u00e9atures sauvages, comme Dickon.\"",
+    "text": "\"C'était drôle à dire,\" admit-elle. \"Mais s'il y avait un ange du Yorkshire, il comprendrait les choses vertes et parlerait aux créatures sauvages, comme Dickon.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "C'\u00e9tait",
+            "text": "C'était",
             "start": 0.199,
             "end": 0.479,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dr\u00f4le",
+            "text": "drôle",
             "start": 0.479,
             "end": 0.74,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.74,
-            "end": 0.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 0.839,
             "end": 0.859,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dire,",
+            "text": "dire",
             "start": 0.859,
             "end": 1.279,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "admit-elle.",
+            "text": "admit-elle",
             "start": 1.599,
             "end": 2.28,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.28,
-            "end": 2.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.98,
-            "end": 2.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'il",
             "start": 2.98,
             "end": 3.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.179,
-            "end": 3.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 3.199,
             "end": 3.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.399,
-            "end": 3.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ange",
             "start": 3.599,
             "end": 3.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.839,
-            "end": 3.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Yorkshire,",
+            "text": "Yorkshire",
             "start": 3.98,
             "end": 4.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.759,
-            "end": 5.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.199,
-            "end": 5.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "comprendrait",
             "start": 5.199,
             "end": 5.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.739,
-            "end": 5.739,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.96,
-            "end": 5.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "choses",
             "start": 5.96,
             "end": 6.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.279,
-            "end": 6.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,24 +130,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.639,
-            "end": 6.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 6.98,
             "end": 7.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.139,
-            "end": 7.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -277,13 +144,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.559,
-            "end": 7.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "aux",
             "start": 7.559,
             "end": 7.679,
@@ -291,38 +151,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.679,
-            "end": 7.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cr\u00e9atures",
+            "text": "créatures",
             "start": 7.699,
             "end": 8.24,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.24,
-            "end": 8.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sauvages,",
+            "text": "sauvages",
             "start": 8.24,
             "end": 9.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.059,
-            "end": 9.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -333,14 +172,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.36,
-            "end": 9.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon.",
+            "text": "Dickon",
             "start": 9.36,
             "end": 9.9,
             "type": "word",

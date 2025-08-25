@@ -1,5 +1,5 @@
 {
-    "text": "C'est ainsi que Marie d\u00e9couvrit que ses parents \u00e9taient morts, et que les serviteurs survivants s'\u00e9taient enfuis, l'oubliant. Elle \u00e9tait seule dans le bungalow avec seulement un petit serpent pour compagnie.",
+    "text": "C'est ainsi que Marie découvrit que ses parents étaient morts, et que les serviteurs survivants s'étaient enfuis, l'oubliant. Elle était seule dans le bungalow avec seulement un petit serpent pour compagnie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ainsi",
             "start": 0.319,
             "end": 0.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.68,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Marie",
             "start": 0.819,
             "end": 1.179,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9couvrit",
+            "text": "découvrit",
             "start": 1.179,
             "end": 1.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.639,
-            "end": 1.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.719,
-            "end": 1.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ses",
             "start": 1.759,
             "end": 1.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.919,
-            "end": 1.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,38 +60,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.2,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9taient",
+            "text": "étaient",
             "start": 2.2,
             "end": 2.74,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.74,
-            "end": 2.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "morts,",
+            "text": "morts",
             "start": 2.839,
             "end": 3.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.639,
-            "end": 3.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.759,
-            "end": 3.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 3.759,
             "end": 3.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.019,
-            "end": 4.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "serviteurs",
             "start": 4.019,
             "end": 4.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,52 +109,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.139,
-            "end": 5.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'\u00e9taient",
+            "text": "s'étaient",
             "start": 5.159,
             "end": 5.519,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.519,
-            "end": 5.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "enfuis,",
+            "text": "enfuis",
             "start": 5.519,
             "end": 6.06,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.06,
-            "end": 6.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'oubliant.",
+            "text": "l'oubliant",
             "start": 6.619,
             "end": 7.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.279,
-            "end": 8.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -263,24 +137,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.46,
-            "end": 8.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 8.479,
             "end": 8.76,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.76,
-            "end": 8.76,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -291,24 +151,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.019,
-            "end": 9.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dans",
             "start": 9.019,
             "end": 9.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.139,
-            "end": 9.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -319,24 +165,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.22,
-            "end": 9.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bungalow",
             "start": 9.279,
             "end": 10.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 10.079,
-            "end": 10.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -347,24 +179,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.36,
-            "end": 10.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "seulement",
             "start": 10.42,
             "end": 10.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 10.899,
-            "end": 10.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -375,24 +193,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 11.039,
-            "end": 11.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "petit",
             "start": 11.039,
             "end": 11.3,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 11.3,
-            "end": 11.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -403,13 +207,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 11.819,
-            "end": 11.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pour",
             "start": 11.819,
             "end": 12.0,
@@ -417,14 +214,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 12.0,
-            "end": 12.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "compagnie.",
+            "text": "compagnie",
             "start": 12.0,
             "end": 12.579,
             "type": "word",

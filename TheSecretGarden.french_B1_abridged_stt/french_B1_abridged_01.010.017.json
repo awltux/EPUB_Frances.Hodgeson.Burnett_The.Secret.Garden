@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "si",
             "start": 0.379,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vouliez",
             "start": 0.639,
             "end": 1.0,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jardin",
             "start": 1.159,
             "end": 1.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.48,
-            "end": 1.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.639,
-            "end": 1.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fleurs?",
+            "text": "fleurs",
             "start": 1.639,
             "end": 2.159,
             "type": "word",

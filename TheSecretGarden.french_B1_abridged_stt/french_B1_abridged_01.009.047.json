@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Je n'\u00e9coutais pas, \u00bb dit Marie. \u00ab Je l'ai juste entendu. C'est la troisi\u00e8me fois. \u00bb",
+    "text": "« Je n'écoutais pas, » dit Marie. « Je l'ai juste entendu. C'est la troisième fois. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,38 +11,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "n'\u00e9coutais",
+            "text": "n'écoutais",
             "start": 0.359,
             "end": 0.799,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas,",
+            "text": "pas",
             "start": 0.799,
             "end": 1.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.36,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.519,
             "end": 1.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.879,
-            "end": 2.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'ai",
             "start": 2.419,
             "end": 2.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.579,
-            "end": 2.619,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "entendu.",
+            "text": "entendu",
             "start": 2.779,
             "end": 3.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.34,
-            "end": 3.72,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 3.859,
             "end": 3.979,
@@ -151,28 +81,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.979,
-            "end": 4.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "troisi\u00e8me",
+            "text": "troisième",
             "start": 4.0,
             "end": 4.4,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.4,
-            "end": 4.4,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fois.",
+            "text": "fois",
             "start": 4.4,
             "end": 4.719,
             "type": "word",

@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab Regardez-moi! \u00bb cria-t-il \u00e0 Ben Weatherstaff. \u00ab Regardez-moi! \u00bb",
+    "text": "« Regardez-moi! » cria-t-il à Ben Weatherstaff. « Regardez-moi! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Regardez-moi!",
+            "text": "Regardez-moi",
             "start": 0.199,
             "end": 0.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.899,
-            "end": 1.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 1.679,
             "end": 1.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,28 +32,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Weatherstaff.",
+            "text": "Weatherstaff",
             "start": 1.939,
             "end": 2.559,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.559,
-            "end": 2.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Regardez-moi!",
+            "text": "Regardez-moi",
             "start": 2.859,
             "end": 3.659,
             "type": "word",

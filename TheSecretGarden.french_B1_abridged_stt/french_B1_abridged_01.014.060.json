@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Qui est Dickon ? Quel nom \u00e9trange ! \u00bb",
+    "text": "« Qui est Dickon ? Quel nom étrange ! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 0.5,
             "end": 0.599,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon?",
+            "text": "Dickon",
             "start": 0.599,
             "end": 1.1,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "nom",
             "start": 1.419,
             "end": 1.559,
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9trange!",
+            "text": "étrange",
             "start": 1.559,
             "end": 2.159,
             "type": "word",

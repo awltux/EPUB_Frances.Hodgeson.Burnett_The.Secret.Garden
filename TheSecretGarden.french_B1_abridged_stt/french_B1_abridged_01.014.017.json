@@ -1,5 +1,5 @@
 {
-    "text": "\"Pas si vous faites ce qu'il veut, et tout le monde doit lui ob\u00e9ir,\" argumenta Marie.",
+    "text": "\"Pas si vous faites ce qu'il veut, et tout le monde doit lui obéir,\" argumenta Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.46,
-            "end": 0.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "si",
             "start": 0.46,
             "end": 0.56,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "faites",
             "start": 0.719,
             "end": 0.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'il",
             "start": 1.1,
             "end": 1.339,
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "veut,",
+            "text": "veut",
             "start": 1.339,
             "end": 1.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.599,
-            "end": 1.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tout",
             "start": 1.799,
             "end": 1.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.979,
-            "end": 1.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.099,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "monde",
             "start": 2.099,
             "end": 2.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.359,
-            "end": 2.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.539,
-            "end": 2.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "lui",
             "start": 2.539,
             "end": 2.679,
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.679,
-            "end": 2.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ob\u00e9ir,\"",
+            "text": "obéir",
             "start": 2.759,
             "end": 3.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.34,
-            "end": 3.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.179,
-            "end": 4.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 4.179,
             "end": 4.58,
             "type": "word",

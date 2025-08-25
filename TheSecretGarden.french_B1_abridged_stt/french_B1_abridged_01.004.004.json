@@ -1,20 +1,13 @@
 {
-    "text": "\"Non,\" dit Marie. \"Je d\u00e9teste \u00e7a.\"",
+    "text": "\"Non,\" dit Marie. \"Je déteste ça.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Non,",
+            "text": "Non",
             "start": 0.219,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 0.779,
             "end": 1.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.119,
-            "end": 1.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,28 +32,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9teste",
+            "text": "déteste",
             "start": 1.299,
             "end": 1.779,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a.",
+            "text": "ça",
             "start": 1.779,
             "end": 2.039,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Marie se sentit plus en s\u00e9curit\u00e9.",
+    "text": "Marie se sentit plus en sécurité.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "se",
             "start": 0.399,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "plus",
             "start": 0.899,
             "end": 1.12,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s\u00e9curit\u00e9.",
+            "text": "sécurité",
             "start": 1.259,
             "end": 1.899,
             "type": "word",

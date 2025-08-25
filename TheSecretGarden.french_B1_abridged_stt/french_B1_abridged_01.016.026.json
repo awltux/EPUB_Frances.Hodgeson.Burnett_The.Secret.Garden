@@ -1,5 +1,5 @@
 {
-    "text": "\"Tu es \u00e9go\u00efste !\" cria Colin.",
+    "text": "\"Tu es égoïste !\" cria Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "es",
             "start": 0.379,
             "end": 0.539,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9go\u00efste!",
+            "text": "égoïste",
             "start": 0.539,
             "end": 1.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.579,
             "end": 2.039,
             "type": "word",

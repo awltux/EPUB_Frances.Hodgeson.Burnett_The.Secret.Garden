@@ -1,5 +1,5 @@
 {
-    "text": "Elle fron\u00e7a les sourcils et enfon\u00e7a sa truelle dans la terre. \u00ab Je n'\u00e9tais pas aussi tout-\u00e0-travers qu'eux. \u00bb",
+    "text": "Elle fronça les sourcils et enfonça sa truelle dans la terre. « Je n'étais pas aussi tout-à-travers qu'eux. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fron\u00e7a",
+            "text": "fronça",
             "start": 0.239,
             "end": 0.56,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sourcils",
             "start": 0.719,
             "end": 1.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "enfon\u00e7a",
+            "text": "enfonça",
             "start": 1.379,
             "end": 1.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.979,
-            "end": 1.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "truelle",
             "start": 1.979,
             "end": 2.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.44,
-            "end": 2.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 2.44,
             "end": 2.62,
@@ -137,38 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.62,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "terre.",
+            "text": "terre",
             "start": 2.639,
             "end": 3.0,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.0,
-            "end": 4.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 4.019,
-            "end": 4.139,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.139,
-            "end": 4.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.44,
-            "end": 4.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "n'\u00e9tais",
+            "text": "n'étais",
             "start": 4.44,
             "end": 4.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.579,
-            "end": 4.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.92,
-            "end": 5.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "aussi",
             "start": 5.0,
             "end": 5.199,
@@ -221,44 +109,16 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.199,
-            "end": 5.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tout-\u00e0-travers",
+            "text": "tout-à-travers",
             "start": 5.219,
             "end": 5.279,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.279,
-            "end": 5.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "qu'eux.",
+            "text": "qu'eux",
             "start": 5.319,
             "end": 5.659,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.659,
-            "end": 5.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 5.739,
-            "end": 6.04,
             "type": "word",
             "speaker_id": null
         }

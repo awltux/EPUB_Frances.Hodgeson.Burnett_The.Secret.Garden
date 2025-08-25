@@ -1,45 +1,17 @@
 {
-    "text": "\u00ab Oui, \u00bb dit-il.",
+    "text": "« Oui, » dit-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.179,
-            "end": 0.199,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.199,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 0.219,
             "end": 0.479,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 0.779,
-            "end": 1.32,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 0.779,
             "end": 1.32,
             "type": "word",

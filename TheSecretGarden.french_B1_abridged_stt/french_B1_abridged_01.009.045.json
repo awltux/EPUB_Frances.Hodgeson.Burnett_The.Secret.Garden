@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Parce que quand je t'attendais, j'ai encore entendu ces pleurs, comme l'autre soir. Il n'y a pas de vent aujourd'hui. \u00bb",
+    "text": "« Parce que quand je t'attendais, j'ai encore entendu ces pleurs, comme l'autre soir. Il n'y a pas de vent aujourd'hui. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 0.359,
             "end": 0.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.679,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "je",
             "start": 0.719,
             "end": 0.839,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "t'attendais,",
+            "text": "t'attendais",
             "start": 0.879,
             "end": 1.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.919,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "encore",
             "start": 1.939,
             "end": 2.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.74,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ces",
             "start": 2.74,
             "end": 2.939,
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.939,
-            "end": 2.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pleurs,",
+            "text": "pleurs",
             "start": 2.939,
             "end": 3.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.439,
-            "end": 3.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.639,
-            "end": 3.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'autre",
             "start": 3.639,
             "end": 3.979,
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.979,
-            "end": 4.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "soir.",
+            "text": "soir",
             "start": 4.039,
             "end": 4.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.519,
-            "end": 4.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.98,
-            "end": 5.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'y",
             "start": 5.059,
             "end": 5.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.119,
-            "end": 5.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.299,
-            "end": 5.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 5.319,
             "end": 5.42,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.42,
-            "end": 5.46,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,13 +130,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.559,
-            "end": 5.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vent",
             "start": 5.639,
             "end": 5.839,
@@ -263,14 +137,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.839,
-            "end": 5.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aujourd'hui.",
+            "text": "aujourd'hui",
             "start": 5.859,
             "end": 6.54,
             "type": "word",

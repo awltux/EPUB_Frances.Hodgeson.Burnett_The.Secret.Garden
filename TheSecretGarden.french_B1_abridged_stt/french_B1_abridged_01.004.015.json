@@ -1,5 +1,5 @@
 {
-    "text": "\"Je vois \u00e7a. Je pensais que tu serais noire!\"",
+    "text": "\"Je vois ça. Je pensais que tu serais noire!\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vois",
             "start": 0.319,
             "end": 0.56,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a.",
+            "text": "ça",
             "start": 0.56,
             "end": 0.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 1.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pensais",
             "start": 1.139,
             "end": 1.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tu",
             "start": 1.559,
             "end": 1.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "noire!",
+            "text": "noire",
             "start": 1.939,
             "end": 2.379,
             "type": "word",

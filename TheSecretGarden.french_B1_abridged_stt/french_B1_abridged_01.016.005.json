@@ -1,5 +1,5 @@
 {
-    "text": "Le soleil de l'apr\u00e8s-midi la r\u00e9chauffa tandis qu'elle et Dickon transformaient le jardin. Les mauvaises herbes disparurent, les roses et les arbres furent soign\u00e9s.",
+    "text": "Le soleil de l'après-midi la réchauffa tandis qu'elle et Dickon transformaient le jardin. Les mauvaises herbes disparurent, les roses et les arbres furent soignés.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "soleil",
             "start": 0.34,
             "end": 0.68,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.68,
-            "end": 0.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.8,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'apr\u00e8s-midi",
+            "text": "l'après-midi",
             "start": 0.819,
             "end": 1.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.459,
-            "end": 1.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9chauffa",
+            "text": "réchauffa",
             "start": 1.62,
             "end": 2.28,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.28,
-            "end": 2.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'elle",
             "start": 2.919,
             "end": 3.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.239,
-            "end": 3.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.399,
-            "end": 3.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dickon",
             "start": 3.399,
             "end": 3.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.839,
-            "end": 3.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.559,
-            "end": 4.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 4.579,
             "end": 4.679,
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.679,
-            "end": 4.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin.",
+            "text": "jardin",
             "start": 4.739,
             "end": 5.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.219,
-            "end": 5.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.0,
-            "end": 6.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mauvaises",
             "start": 6.039,
             "end": 6.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.519,
-            "end": 6.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.96,
-            "end": 6.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "disparurent,",
+            "text": "disparurent",
             "start": 6.96,
             "end": 7.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.799,
-            "end": 8.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,24 +130,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.159,
-            "end": 8.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "roses",
             "start": 8.22,
             "end": 8.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.679,
-            "end": 8.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -277,24 +144,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.8,
-            "end": 8.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 8.819,
             "end": 8.96,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.96,
-            "end": 9.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -305,13 +158,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.359,
-            "end": 9.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "furent",
             "start": 9.42,
             "end": 9.859,
@@ -319,14 +165,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.859,
-            "end": 9.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "soign\u00e9s.",
+            "text": "soignés",
             "start": 9.859,
             "end": 10.4,
             "type": "word",

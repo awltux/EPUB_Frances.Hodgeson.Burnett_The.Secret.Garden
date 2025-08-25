@@ -1,5 +1,5 @@
 {
-    "text": "Tout \u00e9tait calme alors que le soleil se couchait. Puis, Colin murmura : \u00ab Qui est cet homme? \u00bb",
+    "text": "Tout était calme alors que le soleil se couchait. Puis, Colin murmura : « Qui est cet homme? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.279,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.299,
             "end": 0.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.559,
-            "end": 0.56,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "alors",
             "start": 0.919,
             "end": 1.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.239,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 1.24,
             "end": 1.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.719,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "se",
             "start": 1.719,
             "end": 1.86,
@@ -109,38 +60,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "couchait.",
+            "text": "couchait",
             "start": 1.86,
             "end": 2.299,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.299,
-            "end": 2.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Puis,",
+            "text": "Puis",
             "start": 2.599,
             "end": 2.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.819,
-            "end": 3.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,52 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "murmura",
             "start": 3.359,
             "end": 3.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": ":",
-            "start": 3.859,
-            "end": 3.919,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.919,
-            "end": 3.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.919,
-            "end": 4.019,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.019,
-            "end": 4.4,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.519,
-            "end": 4.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 4.519,
             "end": 4.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.659,
-            "end": 4.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,30 +109,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.899,
-            "end": 4.9,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "homme?",
+            "text": "homme",
             "start": 4.9,
             "end": 5.199,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.199,
-            "end": 5.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 5.199,
-            "end": 5.299,
             "type": "word",
             "speaker_id": null
         }

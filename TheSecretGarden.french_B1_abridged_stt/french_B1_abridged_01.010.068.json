@@ -1,34 +1,20 @@
 {
-    "text": "\u00ab O\u00f9 est-il ? \u00bb demanda Dickon.",
+    "text": "« Où est-il ? » demanda Dickon.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "O\u00f9",
+            "text": "Où",
             "start": 0.14,
             "end": 0.219,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "est-il?",
+            "text": "est-il",
             "start": 0.219,
             "end": 0.72,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.72,
-            "end": 1.1,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon.",
+            "text": "Dickon",
             "start": 1.459,
             "end": 1.879,
             "type": "word",

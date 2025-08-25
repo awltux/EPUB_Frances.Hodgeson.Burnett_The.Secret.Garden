@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Je vais les voir ! \u00bb s'\u00e9cria Colin.",
+    "text": "« Je vais les voir ! » s'écria Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.179,
-            "end": 0.259,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.259,
             "end": 0.4,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.4,
-            "end": 0.4,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.559,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 0.56,
             "end": 1.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.36,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,42 +32,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "! \u00bb",
+            "text": "s'écria",
             "start": 1.819,
             "end": 2.199,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'\u00e9cria",
-            "start": 1.819,
-            "end": 2.199,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.819,
             "end": 2.199,
             "type": "word",

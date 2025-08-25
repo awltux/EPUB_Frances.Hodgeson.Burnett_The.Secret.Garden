@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "va",
             "start": 0.359,
             "end": 0.519,
@@ -25,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "m'habiller?",
+            "text": "m'habiller",
             "start": 0.519,
             "end": 1.1,
             "type": "word",

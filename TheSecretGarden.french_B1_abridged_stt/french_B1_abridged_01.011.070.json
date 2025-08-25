@@ -1,5 +1,5 @@
 {
-    "text": "Et elle savait qu'elle l'\u00e9tait.",
+    "text": "Et elle savait qu'elle l'était.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.179,
-            "end": 0.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "elle",
             "start": 0.179,
             "end": 0.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.74,
-            "end": 0.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'elle",
             "start": 0.74,
             "end": 0.979,
@@ -53,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'\u00e9tait.",
+            "text": "l'était",
             "start": 0.979,
             "end": 1.46,
             "type": "word",

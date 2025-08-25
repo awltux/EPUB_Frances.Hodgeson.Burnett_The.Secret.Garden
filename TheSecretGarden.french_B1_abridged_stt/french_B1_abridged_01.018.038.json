@@ -1,52 +1,31 @@
 {
-    "text": "\"Oh !\" s'\u00e9cria Colin.",
+    "text": "\"Oh !\" s'écria Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\"Oh",
+            "text": "Oh",
             "start": 0.14,
             "end": 0.419,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!\"",
+            "text": "",
             "start": 0.719,
             "end": 1.139,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'\u00e9cria",
+            "text": "s'écria",
             "start": 0.719,
             "end": 1.139,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.139,
             "end": 1.619,
             "type": "word",

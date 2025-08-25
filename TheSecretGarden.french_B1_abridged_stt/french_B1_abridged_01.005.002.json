@@ -1,5 +1,5 @@
 {
-    "text": "Un matin, apr\u00e8s des jours pass\u00e9s dehors, Marie se r\u00e9veilla affam\u00e9e et mangea son porridge sans se plaindre.",
+    "text": "Un matin, après des jours passés dehors, Marie se réveilla affamée et mangea son porridge sans se plaindre.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,38 +11,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "matin,",
+            "text": "matin",
             "start": 0.239,
             "end": 0.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "apr\u00e8s",
+            "text": "après",
             "start": 0.899,
             "end": 1.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.34,
-            "end": 1.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jours",
             "start": 1.36,
             "end": 1.559,
@@ -67,38 +39,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pass\u00e9s",
+            "text": "passés",
             "start": 1.559,
             "end": 1.86,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dehors,",
+            "text": "dehors",
             "start": 1.86,
             "end": 2.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.7,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.979,
-            "end": 2.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "se",
             "start": 2.98,
             "end": 3.079,
@@ -123,38 +67,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.079,
-            "end": 3.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9veilla",
+            "text": "réveilla",
             "start": 3.119,
             "end": 3.579,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "affam\u00e9e",
+            "text": "affamée",
             "start": 3.579,
             "end": 4.4,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.4,
-            "end": 4.4,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mangea",
             "start": 4.539,
             "end": 4.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.859,
-            "end": 4.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.059,
-            "end": 5.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "porridge",
             "start": 5.059,
             "end": 5.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.679,
-            "end": 5.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,13 +116,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.9,
-            "end": 5.9,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "se",
             "start": 5.9,
             "end": 6.059,
@@ -235,14 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.059,
-            "end": 6.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "plaindre.",
+            "text": "plaindre",
             "start": 6.079,
             "end": 6.499,
             "type": "word",

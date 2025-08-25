@@ -1,5 +1,5 @@
 {
-    "text": "Il la regarda. \u00ab Que sais-tu ? \u00bb",
+    "text": "Il la regarda. « Que sais-tu ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 0.219,
             "end": 0.359,
@@ -25,38 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "regarda.",
+            "text": "regarda",
             "start": 0.379,
             "end": 0.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.959,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.339,
-            "end": 1.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,35 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sais-tu",
-            "start": 1.5,
-            "end": 1.979,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.5,
-            "end": 1.979,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
             "start": 1.5,
             "end": 1.979,
             "type": "word",

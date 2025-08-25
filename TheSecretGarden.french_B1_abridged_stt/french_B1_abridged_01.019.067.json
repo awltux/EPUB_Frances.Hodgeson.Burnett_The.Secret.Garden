@@ -1,5 +1,5 @@
 {
-    "text": "Il s'agenouilla et sortit une bouteille de sa poche. Il nourrit l'agneau, qui su\u00e7a avidement.",
+    "text": "Il s'agenouilla et sortit une bouteille de sa poche. Il nourrit l'agneau, qui suça avidement.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'agenouilla",
             "start": 0.28,
             "end": 0.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sortit",
             "start": 1.019,
             "end": 1.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.34,
-            "end": 1.36,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bouteille",
             "start": 1.5,
             "end": 1.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.019,
-            "end": 2.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sa",
             "start": 2.019,
             "end": 2.22,
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.22,
-            "end": 2.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "poche.",
+            "text": "poche",
             "start": 2.22,
             "end": 2.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.679,
-            "end": 3.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.159,
-            "end": 3.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "nourrit",
             "start": 3.22,
             "end": 3.479,
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.479,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'agneau,",
+            "text": "l'agneau",
             "start": 3.48,
             "end": 3.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.859,
-            "end": 4.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,28 +95,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.259,
-            "end": 4.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "su\u00e7a",
+            "text": "suça",
             "start": 4.319,
             "end": 4.779,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.779,
-            "end": 4.9,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "avidement.",
+            "text": "avidement",
             "start": 4.9,
             "end": 5.54,
             "type": "word",

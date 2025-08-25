@@ -1,5 +1,5 @@
 {
-    "text": "Colin le d\u00e9visagea de haut en bas. \u00ab Oh, vous \u00eates Roach ? J'ai des ordres importants \u00e0 vous donner. \u00bb",
+    "text": "Colin le dévisagea de haut en bas. « Oh, vous êtes Roach ? J'ai des ordres importants à vous donner. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.439,
             "end": 0.56,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9visagea",
+            "text": "dévisagea",
             "start": 0.56,
             "end": 1.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "haut",
             "start": 1.339,
             "end": 1.56,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.56,
-            "end": 1.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,38 +46,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bas.",
+            "text": "bas",
             "start": 1.699,
             "end": 1.879,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.879,
-            "end": 2.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oh,",
+            "text": "Oh",
             "start": 2.579,
             "end": 2.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.939,
-            "end": 2.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,38 +67,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eates",
+            "text": "êtes",
             "start": 3.119,
             "end": 3.319,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.319,
-            "end": 3.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Roach?",
+            "text": "Roach",
             "start": 3.339,
             "end": 3.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.919,
-            "end": 4.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 4.48,
             "end": 4.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.619,
-            "end": 4.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.939,
-            "end": 4.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "importants",
             "start": 4.96,
             "end": 5.4,
@@ -207,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.4,
-            "end": 5.4,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 5.4,
             "end": 5.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.519,
-            "end": 5.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,14 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.639,
-            "end": 5.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "donner.",
+            "text": "donner",
             "start": 5.639,
             "end": 6.02,
             "type": "word",

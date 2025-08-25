@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Quelqu'un est mort, \u00bb dit l'officier. \u00ab Vous n'avez pas dit que \u00e7a s'\u00e9tait d\u00e9clar\u00e9 parmi vos serviteurs. \u00bb",
+    "text": "« Quelqu'un est mort, » dit l'officier. « Vous n'avez pas dit que ça s'était déclaré parmi vos serviteurs. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 1.12,
             "end": 1.299,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mort,",
+            "text": "mort",
             "start": 1.299,
             "end": 1.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.739,
-            "end": 2.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.119,
-            "end": 2.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'officier.",
+            "text": "l'officier",
             "start": 2.119,
             "end": 2.74,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.74,
-            "end": 3.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'avez",
             "start": 3.379,
             "end": 3.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.659,
-            "end": 3.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dit",
             "start": 3.859,
             "end": 4.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.059,
-            "end": 4.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,52 +74,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.179,
-            "end": 4.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a",
+            "text": "ça",
             "start": 4.179,
             "end": 4.319,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.319,
-            "end": 4.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'\u00e9tait",
+            "text": "s'était",
             "start": 4.319,
             "end": 4.619,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.619,
-            "end": 4.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9clar\u00e9",
+            "text": "déclaré",
             "start": 4.619,
             "end": 5.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.119,
-            "end": 5.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.339,
-            "end": 5.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vos",
             "start": 5.339,
             "end": 5.539,
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.539,
-            "end": 5.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "serviteurs.",
+            "text": "serviteurs",
             "start": 5.539,
             "end": 6.259,
             "type": "word",

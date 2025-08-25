@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab J'aimerais pouvoir dormir avant que tu ne partes, \u00bb dit-il timidement.",
+    "text": "« J'aimerais pouvoir dormir avant que tu ne partes, » dit-il timidement.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.119,
-            "end": 0.56,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "J'aimerais",
             "start": 0.56,
             "end": 0.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dormir",
             "start": 1.339,
             "end": 1.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.639,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 1.679,
             "end": 1.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 1.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 1.979,
             "end": 2.419,
@@ -109,38 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "partes,",
+            "text": "partes",
             "start": 2.819,
             "end": 3.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 3.299,
-            "end": 3.899,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,14 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "timidement.",
+            "text": "timidement",
             "start": 3.299,
             "end": 3.899,
             "type": "word",

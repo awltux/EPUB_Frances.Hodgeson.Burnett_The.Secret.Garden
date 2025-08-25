@@ -1,5 +1,5 @@
 {
-    "text": "\"Je d\u00e9teste voir de la nourriture gaspill\u00e9e. Nos enfants mangeraient tout en quelques minutes.\"",
+    "text": "\"Je déteste voir de la nourriture gaspillée. Nos enfants mangeraient tout en quelques minutes.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.339,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9teste",
+            "text": "déteste",
             "start": 0.34,
             "end": 0.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 0.879,
             "end": 0.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.939,
-            "end": 0.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "nourriture",
             "start": 1.079,
             "end": 1.479,
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gaspill\u00e9e.",
+            "text": "gaspillée",
             "start": 1.479,
             "end": 2.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "enfants",
             "start": 2.399,
             "end": 2.74,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.74,
-            "end": 2.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.22,
-            "end": 3.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tout",
             "start": 3.22,
             "end": 3.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.539,
-            "end": 3.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "quelques",
             "start": 3.539,
             "end": 3.839,
@@ -179,14 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.839,
-            "end": 3.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "minutes.",
+            "text": "minutes",
             "start": 3.839,
             "end": 4.339,
             "type": "word",

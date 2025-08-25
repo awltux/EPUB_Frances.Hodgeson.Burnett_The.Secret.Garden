@@ -1,5 +1,5 @@
 {
-    "text": "Il parla comme s'ils \u00e9taient de vieux amis.",
+    "text": "Il parla comme s'ils étaient de vieux amis.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.28,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "parla",
             "start": 0.28,
             "end": 0.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'ils",
             "start": 0.819,
             "end": 1.059,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9taient",
+            "text": "étaient",
             "start": 1.059,
             "end": 1.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.359,
-            "end": 1.36,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.48,
-            "end": 1.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vieux",
             "start": 1.48,
             "end": 1.74,
@@ -95,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.74,
-            "end": 1.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "amis.",
+            "text": "amis",
             "start": 1.74,
             "end": 2.1,
             "type": "word",

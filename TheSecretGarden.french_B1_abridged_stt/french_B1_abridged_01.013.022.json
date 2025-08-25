@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Il est mon P\u00e8re. \u00bb, dit le gar\u00e7on.",
+    "text": "« Il est mon Père. », dit le garçon.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.259,
-            "end": 0.379,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Il",
             "start": 0.399,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.74,
-            "end": 0.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mon",
             "start": 0.74,
             "end": 1.2,
@@ -53,38 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.2,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "P\u00e8re.",
+            "text": "Père",
             "start": 1.559,
             "end": 1.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 1.699,
-            "end": 1.82,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.82,
-            "end": 1.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.399,
             "end": 0.519,
@@ -109,14 +46,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gar\u00e7on.",
+            "text": "garçon",
             "start": 0.519,
             "end": 0.74,
             "type": "word",

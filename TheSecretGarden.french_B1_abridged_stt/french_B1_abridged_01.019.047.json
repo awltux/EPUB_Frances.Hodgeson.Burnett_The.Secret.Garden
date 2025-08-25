@@ -1,34 +1,20 @@
 {
-    "text": "\u00ab \u00cates-vous s\u00fbr que vous n\u2019avez pas froid, Ma\u00eetre Colin ? \u00bb",
+    "text": "« Êtes-vous sûr que vous n’avez pas froid, Maître Colin ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00cates-vous",
+            "text": "Êtes-vous",
             "start": 0.159,
             "end": 0.659,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s\u00fbr",
+            "text": "sûr",
             "start": 0.659,
             "end": 0.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vous",
             "start": 1.1,
             "end": 1.199,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "n\u2019avez",
+            "text": "n’avez",
             "start": 1.24,
             "end": 1.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.48,
-            "end": 1.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,42 +46,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "froid,",
+            "text": "froid",
             "start": 1.679,
             "end": 2.0,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.0,
-            "end": 2.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ma\u00eetre",
+            "text": "Maître",
             "start": 2.0,
             "end": 2.299,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.299,
-            "end": 2.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin?",
+            "text": "Colin",
             "start": 2.319,
             "end": 2.679,
             "type": "word",

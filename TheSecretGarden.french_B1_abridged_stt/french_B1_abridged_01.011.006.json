@@ -1,5 +1,5 @@
 {
-    "text": "Sans r\u00e9fl\u00e9chir, Marie toucha son bras. \u00ab Y aura-t-il des roses ? Sont-elles toutes mortes ? \u00bb",
+    "text": "Sans réfléchir, Marie toucha son bras. « Y aura-t-il des roses ? Sont-elles toutes mortes ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.279,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9fl\u00e9chir,",
+            "text": "réfléchir",
             "start": 0.299,
             "end": 0.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.939,
-            "end": 0.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.24,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toucha",
             "start": 1.24,
             "end": 1.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.74,
-            "end": 1.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bras.",
+            "text": "bras",
             "start": 1.74,
             "end": 1.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.959,
-            "end": 2.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.659,
-            "end": 2.739,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.739,
-            "end": 2.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.139,
-            "end": 3.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "aura-t-il",
             "start": 3.139,
             "end": 3.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,38 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.719,
-            "end": 4.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "roses",
             "start": 4.259,
             "end": 4.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.659,
-            "end": 4.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 4.659,
-            "end": 4.919,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.919,
-            "end": 4.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.339,
-            "end": 5.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toutes",
             "start": 5.339,
             "end": 5.339,
@@ -193,28 +88,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.339,
-            "end": 5.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mortes",
-            "start": 5.339,
-            "end": 5.339,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.339,
-            "end": 5.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
             "start": 5.339,
             "end": 5.339,
             "type": "word",

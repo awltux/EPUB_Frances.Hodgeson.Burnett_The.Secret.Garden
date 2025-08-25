@@ -1,5 +1,5 @@
 {
-    "text": "Marie porta sa main \u00e0 sa gorge. \u00ab Puis-je ? \u00bb demanda-t-elle.",
+    "text": "Marie porta sa main à sa gorge. « Puis-je ? » demanda-t-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "porta",
             "start": 0.439,
             "end": 0.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "main",
             "start": 0.919,
             "end": 1.039,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 1.039,
             "end": 1.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,38 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gorge.",
+            "text": "gorge",
             "start": 1.319,
             "end": 1.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.679,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.099,
-            "end": 2.619,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.619,
-            "end": 3.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,28 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": "?",
-            "start": 3.0,
-            "end": 3.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 3.0,
-            "end": 3.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.0,
-            "end": 3.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "demanda-t-elle.",
+            "text": "demanda-t-elle",
             "start": 3.0,
             "end": 3.759,
             "type": "word",

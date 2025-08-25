@@ -1,5 +1,5 @@
 {
-    "text": "Ben sourit. \u00ab J'ai \u00e9t\u00e9 ici sans \u00eatre vu auparavant. \u00bb",
+    "text": "Ben sourit. « J'ai été ici sans être vu auparavant. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,38 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sourit.",
+            "text": "sourit",
             "start": 0.379,
             "end": 1.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9t\u00e9",
+            "text": "été",
             "start": 1.279,
             "end": 1.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sans",
             "start": 1.799,
             "end": 1.999,
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.999,
-            "end": 2.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eatre",
+            "text": "être",
             "start": 2.019,
             "end": 2.22,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.22,
-            "end": 2.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,22 +60,8 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.359,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "auparavant.",
+            "text": "auparavant",
             "start": 2.399,
-            "end": 2.999,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " \u00bb",
-            "start": 2.999,
             "end": 2.999,
             "type": "word",
             "speaker_id": null

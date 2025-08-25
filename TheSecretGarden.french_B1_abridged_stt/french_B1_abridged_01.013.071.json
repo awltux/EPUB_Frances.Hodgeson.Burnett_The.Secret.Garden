@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Crois-tu que tu ne vas pas vivre ? \u00bb demanda-t-elle.",
+    "text": "« Crois-tu que tu ne vas pas vivre ? » demanda-t-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.0,
-            "end": 0.199,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.199,
-            "end": 0.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Crois-tu",
             "start": 0.199,
             "end": 0.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.559,
-            "end": 0.56,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.679,
-            "end": 0.68,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tu",
             "start": 0.68,
             "end": 0.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.759,
-            "end": 0.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vas",
             "start": 0.879,
             "end": 1.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vivre",
             "start": 1.179,
             "end": 1.619,
@@ -109,42 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.619,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.719,
-            "end": 1.799,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.899,
-            "end": 1.899,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.899,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "demanda-t-elle.",
+            "text": "demanda-t-elle",
             "start": 1.899,
             "end": 2.679,
             "type": "word",

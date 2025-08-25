@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "laissa",
             "start": 0.479,
             "end": 0.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "son",
             "start": 1.079,
             "end": 1.259,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tricot,",
+            "text": "tricot",
             "start": 1.279,
             "end": 1.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.759,
-            "end": 2.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "yeux",
             "start": 2.279,
             "end": 2.44,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.44,
-            "end": 2.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ouverts",
             "start": 2.819,
             "end": 3.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,77 +74,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "surprise.",
+            "text": "surprise",
             "start": 3.299,
             "end": 3.959,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.959,
-            "end": 4.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Vraiment",
+            "text": "Vraiment",
             "start": 4.44,
             "end": 5.06,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.06,
-            "end": 5.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 5.06,
-            "end": 5.599,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.06,
-            "end": 5.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Jamais",
-            "start": 5.599,
-            "end": 6.219,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.599,
-            "end": 6.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 5.599,
-            "end": 6.219,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
             "start": 5.599,
             "end": 6.219,
             "type": "word",

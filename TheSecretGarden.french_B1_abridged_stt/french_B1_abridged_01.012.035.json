@@ -1,52 +1,17 @@
 {
-    "text": "\u00ab Approchez, \u00bb dit-il.",
+    "text": "« Approchez, » dit-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.199,
-            "end": 0.859,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.859,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Approchez,",
+            "text": "Approchez",
             "start": 1.059,
             "end": 1.6,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.859,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.059,
-            "end": 1.6,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.859,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 1.059,
             "end": 1.6,
             "type": "word",

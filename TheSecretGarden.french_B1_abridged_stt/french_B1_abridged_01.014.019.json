@@ -1,5 +1,5 @@
 {
-    "text": "\"Je crois qu'il m'a presque aim\u00e9e,\" dit Marie.",
+    "text": "\"Je crois qu'il m'a presque aimée,\" dit Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "crois",
             "start": 0.319,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "m'a",
             "start": 0.639,
             "end": 0.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.679,
-            "end": 0.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aim\u00e9e,",
+            "text": "aimée",
             "start": 1.079,
             "end": 1.46,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.46,
-            "end": 1.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.919,
-            "end": 1.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.919,
             "end": 2.28,
             "type": "word",

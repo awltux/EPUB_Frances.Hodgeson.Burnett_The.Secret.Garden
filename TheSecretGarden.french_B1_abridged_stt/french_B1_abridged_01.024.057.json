@@ -1,5 +1,5 @@
 {
-    "text": "\"Y a-t-il un moyen pour qu'ils obtiennent de la nourriture en secret ?\" demanda le Dr Craven \u00e0 Mme Medlock.",
+    "text": "\"Y a-t-il un moyen pour qu'ils obtiennent de la nourriture en secret ?\" demanda le Dr Craven à Mme Medlock.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.159,
-            "end": 0.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a-t-il",
             "start": 0.159,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "moyen",
             "start": 0.62,
             "end": 0.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'ils",
             "start": 1.1,
             "end": 1.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 1.779,
             "end": 1.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.98,
-            "end": 2.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "nourriture",
             "start": 2.0,
             "end": 2.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.48,
-            "end": 2.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.639,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "secret?",
+            "text": "secret",
             "start": 2.639,
             "end": 3.099,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.819,
-            "end": 3.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 3.839,
             "end": 3.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +109,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.219,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Craven",
             "start": 4.279,
             "end": 4.639,
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.639,
-            "end": 4.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 4.639,
             "end": 4.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.719,
-            "end": 4.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,14 +130,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.039,
-            "end": 5.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Medlock.",
+            "text": "Medlock",
             "start": 5.039,
             "end": 5.58,
             "type": "word",

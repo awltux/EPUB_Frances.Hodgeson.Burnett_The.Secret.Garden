@@ -1,5 +1,5 @@
 {
-    "text": "\"Vas-tu \u00eatre ma servante?\" demanda Marie.",
+    "text": "\"Vas-tu être ma servante?\" demanda Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eatre",
+            "text": "être",
             "start": 0.479,
             "end": 0.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.679,
-            "end": 0.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "servante?",
+            "text": "servante",
             "start": 0.839,
             "end": 1.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 1.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.959,
             "end": 2.32,
             "type": "word",

@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab C'\u00e9tait le vent, \u00bb insista Marthe, \u00ab Ou la petite B\u00e9tie Butterworth, la souillon. Elle a eu mal aux dents toute la journ\u00e9e. \u00bb",
+    "text": "« C'était le vent, » insista Marthe, « Ou la petite Bétie Butterworth, la souillon. Elle a eu mal aux dents toute la journée. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "C'\u00e9tait",
+            "text": "C'était",
             "start": 0.159,
             "end": 0.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "vent,",
+            "text": "vent",
             "start": 0.62,
             "end": 0.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.919,
-            "end": 1.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marthe,",
+            "text": "Marthe",
             "start": 1.759,
             "end": 2.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.159,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 2.519,
             "end": 2.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.659,
-            "end": 2.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,38 +60,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 3.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "B\u00e9tie",
+            "text": "Bétie",
             "start": 3.019,
             "end": 3.479,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.479,
-            "end": 3.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Butterworth,",
+            "text": "Butterworth",
             "start": 3.519,
             "end": 4.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.359,
-            "end": 4.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.719,
-            "end": 4.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "souillon.",
+            "text": "souillon",
             "start": 4.779,
             "end": 5.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.239,
-            "end": 5.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.919,
-            "end": 5.94,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 5.94,
             "end": 6.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.019,
-            "end": 6.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.299,
-            "end": 6.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mal",
             "start": 6.319,
             "end": 6.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.539,
-            "end": 6.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,24 +123,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.699,
-            "end": 6.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dents",
             "start": 6.699,
             "end": 7.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.079,
-            "end": 7.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -263,13 +137,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.319,
-            "end": 7.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 7.339,
             "end": 7.419,
@@ -277,14 +144,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.419,
-            "end": 7.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "journ\u00e9e.",
+            "text": "journée",
             "start": 7.48,
             "end": 7.919,
             "type": "word",

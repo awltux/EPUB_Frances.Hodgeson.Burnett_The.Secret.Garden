@@ -1,5 +1,5 @@
 {
-    "text": "\"Qui arrive?\" demanda Colin, surpris par l'ouverture de la porte du jardin. Une femme entra. Elle portait un manteau bleu, la lumi\u00e8re du soleil le mouchetant, et elle sourit chaleureusement.",
+    "text": "\"Qui arrive?\" demanda Colin, surpris par l'ouverture de la porte du jardin. Une femme entra. Elle portait un manteau bleu, la lumière du soleil le mouchetant, et elle sourit chaleureusement.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.339,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "arrive?",
+            "text": "arrive",
             "start": 0.34,
             "end": 0.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.939,
-            "end": 1.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin,",
+            "text": "Colin",
             "start": 1.819,
             "end": 2.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.24,
-            "end": 2.7,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "par",
             "start": 3.099,
             "end": 3.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.219,
-            "end": 3.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.699,
-            "end": 3.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 3.699,
             "end": 3.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "porte",
             "start": 3.959,
             "end": 4.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.239,
-            "end": 4.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.339,
-            "end": 4.38,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin.",
+            "text": "jardin",
             "start": 4.38,
             "end": 4.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.819,
-            "end": 5.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.879,
-            "end": 5.9,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "femme",
             "start": 5.9,
             "end": 6.139,
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.139,
-            "end": 6.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "entra.",
+            "text": "entra",
             "start": 6.139,
             "end": 6.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.599,
-            "end": 7.239,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.419,
-            "end": 7.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "portait",
             "start": 7.44,
             "end": 7.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.739,
-            "end": 7.739,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,13 +130,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.899,
-            "end": 7.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "manteau",
             "start": 7.899,
             "end": 8.279,
@@ -263,24 +137,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.279,
-            "end": 8.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bleu,",
+            "text": "bleu",
             "start": 8.319,
             "end": 8.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.639,
-            "end": 9.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -291,24 +151,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.119,
-            "end": 9.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "lumi\u00e8re",
+            "text": "lumière",
             "start": 9.159,
             "end": 9.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.539,
-            "end": 9.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -319,24 +165,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.619,
-            "end": 9.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "soleil",
             "start": 9.679,
             "end": 10.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 10.059,
-            "end": 10.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -347,24 +179,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.159,
-            "end": 10.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mouchetant,",
+            "text": "mouchetant",
             "start": 10.219,
             "end": 10.86,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 10.86,
-            "end": 11.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -375,24 +193,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 11.42,
-            "end": 11.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "elle",
             "start": 11.42,
             "end": 11.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 11.659,
-            "end": 11.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -403,14 +207,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 12.039,
-            "end": 12.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "chaleureusement.",
+            "text": "chaleureusement",
             "start": 12.039,
             "end": 12.819,
             "type": "word",

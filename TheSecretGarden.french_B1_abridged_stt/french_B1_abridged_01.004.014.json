@@ -1,5 +1,5 @@
 {
-    "text": "\"C'est diff\u00e9rent en Inde,\" dit Marie, offens\u00e9e.",
+    "text": "\"C'est différent en Inde,\" dit Marie, offensée.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "diff\u00e9rent",
+            "text": "différent",
             "start": 0.359,
             "end": 0.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Inde,",
+            "text": "Inde",
             "start": 1.12,
             "end": 1.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.679,
-            "end": 1.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,28 +39,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.859,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie,",
+            "text": "Marie",
             "start": 1.86,
             "end": 2.24,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.24,
-            "end": 2.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "offens\u00e9e.",
+            "text": "offensée",
             "start": 2.24,
             "end": 2.899,
             "type": "word",

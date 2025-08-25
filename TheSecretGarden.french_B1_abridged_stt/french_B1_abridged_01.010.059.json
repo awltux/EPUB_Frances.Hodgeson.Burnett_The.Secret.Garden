@@ -1,5 +1,5 @@
 {
-    "text": "Il recommen\u00e7a \u00e0 parler des graines de fleurs, lui expliquant comment les planter.",
+    "text": "Il recommença à parler des graines de fleurs, lui expliquant comment les planter.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,38 +11,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "recommen\u00e7a",
+            "text": "recommença",
             "start": 0.259,
             "end": 1.0,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 1.0,
             "end": 1.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 1.479,
             "end": 1.6,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.6,
-            "end": 1.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.919,
-            "end": 1.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 1.919,
             "end": 2.099,
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.099,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fleurs,",
+            "text": "fleurs",
             "start": 2.099,
             "end": 2.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.799,
-            "end": 2.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.98,
-            "end": 2.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "expliquant",
             "start": 2.98,
             "end": 3.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.619,
-            "end": 3.619,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.879,
-            "end": 3.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 3.879,
             "end": 4.039,
@@ -165,14 +88,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.039,
-            "end": 4.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "planter.",
+            "text": "planter",
             "start": 4.039,
             "end": 4.54,
             "type": "word",

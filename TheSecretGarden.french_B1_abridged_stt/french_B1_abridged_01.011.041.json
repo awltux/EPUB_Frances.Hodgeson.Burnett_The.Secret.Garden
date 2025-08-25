@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Y a-t-il des fleurs qui ressemblent \u00e0 des cloches ? \u00bb demanda-t-elle.",
+    "text": "« Y a-t-il des fleurs qui ressemblent à des cloches ? » demanda-t-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.759,
-            "end": 0.839,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Y",
             "start": 0.859,
             "end": 1.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 1.319,
             "end": 1.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.74,
-            "end": 1.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qui",
             "start": 1.759,
             "end": 2.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.339,
-            "end": 2.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 2.339,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 3.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "cloches",
             "start": 3.279,
             "end": 4.019,
@@ -137,28 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": "?",
-            "start": 3.279,
-            "end": 4.019,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 3.279,
-            "end": 4.019,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.279,
-            "end": 4.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "demanda-t-elle.",
+            "text": "demanda-t-elle",
             "start": 3.279,
             "end": 4.019,
             "type": "word",

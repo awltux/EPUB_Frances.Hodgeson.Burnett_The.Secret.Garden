@@ -1,5 +1,5 @@
 {
-    "text": "\"Moi aussi !\" r\u00e9pondit Marie.",
+    "text": "\"Moi aussi !\" répondit Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "aussi",
             "start": 0.399,
             "end": 0.779,
@@ -25,35 +18,14 @@
             "speaker_id": null
         },
         {
-            "text": "!",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.779,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
+            "text": "répondit",
             "start": 1.079,
             "end": 1.459,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.459,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.459,
             "end": 1.819,
             "type": "word",

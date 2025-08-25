@@ -1,5 +1,5 @@
 {
-    "text": "Colin paraissait magnifique, fixant ses yeux sur Ben Weatherstaff. \u00ab Regardez-moi ! Suis-je un bossu ? Mes jambes sont-elles tordues ? \u00bb",
+    "text": "Colin paraissait magnifique, fixant ses yeux sur Ben Weatherstaff. « Regardez-moi ! Suis-je un bossu ? Mes jambes sont-elles tordues ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "paraissait",
             "start": 0.439,
             "end": 0.919,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "magnifique,",
+            "text": "magnifique",
             "start": 0.919,
             "end": 1.58,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.58,
-            "end": 1.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.219,
-            "end": 2.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ses",
             "start": 2.22,
             "end": 2.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sur",
             "start": 2.619,
             "end": 2.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.839,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,38 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.999,
-            "end": 3.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Weatherstaff.",
+            "text": "Weatherstaff",
             "start": 3.019,
             "end": 3.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.719,
-            "end": 3.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.719,
-            "end": 3.819,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.819,
-            "end": 4.36,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,31 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": "!",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Suis-je",
             "start": 5.48,
             "end": 5.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.759,
-            "end": 5.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -186,31 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.879,
-            "end": 5.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bossu",
             "start": 5.879,
             "end": 6.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 6.359,
-            "end": 6.359,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.359,
-            "end": 6.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.979,
-            "end": 7.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jambes",
             "start": 7.0,
             "end": 7.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.279,
-            "end": 7.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,37 +116,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.699,
-            "end": 7.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tordues",
             "start": 7.699,
             "end": 8.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 8.179,
-            "end": 8.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.179,
-            "end": 8.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 8.179,
-            "end": 8.279,
             "type": "word",
             "speaker_id": null
         }

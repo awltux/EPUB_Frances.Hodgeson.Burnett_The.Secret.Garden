@@ -1,90 +1,41 @@
 {
-    "text": "\u00ab Tr\u00e8s bien, monsieur. Merci, monsieur, \u00bb dit M. Roach, et Mme Medlock le fit sortir.",
+    "text": "« Très bien, monsieur. Merci, monsieur, » dit M. Roach, et Mme Medlock le fit sortir.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Tr\u00e8s",
+            "text": "Très",
             "start": 0.159,
             "end": 0.34,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.34,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bien,",
+            "text": "bien",
             "start": 0.34,
             "end": 0.5,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "monsieur.",
+            "text": "monsieur",
             "start": 0.56,
             "end": 1.039,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Merci,",
+            "text": "Merci",
             "start": 1.199,
             "end": 1.559,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "monsieur,",
+            "text": "monsieur",
             "start": 1.599,
             "end": 2.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.019,
-            "end": 2.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.44,
-            "end": 2.599,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.599,
-            "end": 2.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,38 +46,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.879,
-            "end": 2.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "M.",
+            "text": "M",
             "start": 2.879,
             "end": 3.339,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Roach,",
+            "text": "Roach",
             "start": 3.339,
             "end": 3.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.479,
-            "end": 3.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Mme",
             "start": 3.779,
             "end": 4.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.179,
-            "end": 4.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.319,
-            "end": 4.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 4.319,
             "end": 4.46,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.46,
-            "end": 4.46,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,14 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.46,
-            "end": 5.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sortir.",
+            "text": "sortir",
             "start": 4.46,
             "end": 5.1,
             "type": "word",

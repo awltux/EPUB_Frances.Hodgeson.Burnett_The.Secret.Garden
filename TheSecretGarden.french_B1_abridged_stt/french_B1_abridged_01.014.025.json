@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est-il",
             "start": 0.399,
             "end": 0.699,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bossu?",
+            "text": "bossu",
             "start": 0.719,
             "end": 1.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.119,
-            "end": 1.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.72,
-            "end": 1.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.74,
             "end": 2.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.119,
-            "end": 2.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.559,
-            "end": 2.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'en",
             "start": 2.559,
             "end": 2.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.719,
-            "end": 2.72,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 2.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 2.96,
             "end": 3.039,
@@ -123,14 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'air.",
+            "text": "l'air",
             "start": 3.079,
             "end": 3.459,
             "type": "word",

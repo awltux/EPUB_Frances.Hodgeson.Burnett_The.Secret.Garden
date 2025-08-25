@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.28,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Magie",
             "start": 0.34,
             "end": 0.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mieux",
             "start": 1.039,
             "end": 1.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tu",
             "start": 1.419,
             "end": 1.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,28 +53,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 1.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aussi,",
+            "text": "aussi",
             "start": 1.959,
             "end": 2.479,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.479,
-            "end": 2.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 2.879,
             "end": 3.459,
             "type": "word",

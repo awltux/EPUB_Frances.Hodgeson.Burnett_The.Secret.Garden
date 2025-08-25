@@ -1,5 +1,5 @@
 {
-    "text": "Marie sentit le soleil sur son visage. \"Je grossis ! Mes cheveux poussent plus \u00e9pais.\"",
+    "text": "Marie sentit le soleil sur son visage. \"Je grossis ! Mes cheveux poussent plus épais.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sentit",
             "start": 0.459,
             "end": 0.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "soleil",
             "start": 0.959,
             "end": 1.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "son",
             "start": 1.5,
             "end": 1.639,
@@ -81,38 +46,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.639,
-            "end": 1.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "visage.",
+            "text": "visage",
             "start": 1.639,
             "end": 2.179,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.179,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Je",
+            "text": "Je",
             "start": 2.639,
             "end": 2.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,38 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.32,
-            "end": 3.72,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 3.72,
-            "end": 3.72,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.72,
-            "end": 3.72,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Mes",
             "start": 3.72,
             "end": 3.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.879,
-            "end": 3.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.259,
-            "end": 4.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "poussent",
             "start": 4.259,
             "end": 4.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.599,
-            "end": 4.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,14 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.799,
-            "end": 4.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9pais.\"",
+            "text": "épais",
             "start": 4.799,
             "end": 5.239,
             "type": "word",

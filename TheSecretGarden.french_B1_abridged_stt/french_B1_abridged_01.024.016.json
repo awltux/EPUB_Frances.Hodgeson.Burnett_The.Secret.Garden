@@ -1,5 +1,5 @@
 {
-    "text": "\"Votre app\u00e9tit s'am\u00e9liore, Ma\u00eetre Colin,\" avait dit l'infirmi\u00e8re.",
+    "text": "\"Votre appétit s'améliore, Maître Colin,\" avait dit l'infirmière.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,66 +11,31 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "app\u00e9tit",
+            "text": "appétit",
             "start": 0.419,
             "end": 0.919,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'am\u00e9liore,",
+            "text": "s'améliore",
             "start": 0.919,
             "end": 1.519,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ma\u00eetre",
+            "text": "Maître",
             "start": 1.519,
             "end": 1.819,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin,",
+            "text": "Colin",
             "start": 1.839,
             "end": 2.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dit",
             "start": 2.759,
             "end": 2.879,
@@ -95,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.879,
-            "end": 2.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'infirmi\u00e8re.",
+            "text": "l'infirmière",
             "start": 2.879,
             "end": 3.6,
             "type": "word",

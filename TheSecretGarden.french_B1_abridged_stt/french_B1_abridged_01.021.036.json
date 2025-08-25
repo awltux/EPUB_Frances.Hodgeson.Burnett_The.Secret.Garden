@@ -1,5 +1,5 @@
 {
-    "text": "Le visage de Colin devint rouge. \u00ab Je ne suis pas un estropi\u00e9! \u00bb",
+    "text": "Le visage de Colin devint rouge. « Je ne suis pas un estropié! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.179,
-            "end": 0.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "visage",
             "start": 0.199,
             "end": 0.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.68,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Colin",
             "start": 0.68,
             "end": 0.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.939,
-            "end": 0.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "rouge.",
+            "text": "rouge",
             "start": 1.279,
             "end": 1.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.679,
-            "end": 2.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.159,
-            "end": 2.279,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.279,
-            "end": 2.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 2.399,
             "end": 2.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.599,
-            "end": 2.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 2.759,
             "end": 2.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.839,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,28 +81,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.479,
-            "end": 3.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "estropi\u00e9!",
-            "start": 3.479,
-            "end": 3.479,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.479,
-            "end": 3.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "estropié",
             "start": 3.479,
             "end": 3.479,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Marthe sursauta. \u00ab Pourquoi demandes-tu \u00e7a ? \u00bb",
+    "text": "Marthe sursauta. « Pourquoi demandes-tu ça ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,38 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sursauta.",
+            "text": "sursauta",
             "start": 0.479,
             "end": 1.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.5,
-            "end": 1.799,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.339,
-            "end": 2.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "demandes-tu",
             "start": 2.359,
             "end": 2.619,
@@ -67,37 +32,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a",
+            "text": "ça",
             "start": 2.639,
             "end": 2.899,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.899,
-            "end": 2.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 2.919,
-            "end": 3.179,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 3.179,
-            "end": 3.439,
             "type": "word",
             "speaker_id": null
         }

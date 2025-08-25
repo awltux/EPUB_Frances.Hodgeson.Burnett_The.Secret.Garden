@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "viendra",
             "start": 0.579,
             "end": 0.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avec",
             "start": 1.259,
             "end": 1.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.679,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "animaux.",
+            "text": "animaux",
             "start": 1.719,
             "end": 2.159,
             "type": "word",

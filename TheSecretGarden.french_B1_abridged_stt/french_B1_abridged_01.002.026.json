@@ -4,17 +4,10 @@
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Non,",
+            "text": "Non",
             "start": 0.219,
             "end": 0.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 0.899,
             "end": 1.259,
             "type": "word",

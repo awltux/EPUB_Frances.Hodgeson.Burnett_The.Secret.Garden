@@ -1,5 +1,5 @@
 {
-    "text": "\"Je ne le dirai \u00e0 personne,\" r\u00e9pondit Colin. \"Je vais o\u00f9 je veux. Je ne veux pas \u00eatre surveill\u00e9 !\"",
+    "text": "\"Je ne le dirai à personne,\" répondit Colin. \"Je vais où je veux. Je ne veux pas être surveillé !\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.3,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 0.319,
             "end": 0.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dirai",
             "start": 0.56,
             "end": 0.779,
@@ -53,66 +32,31 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 0.879,
             "end": 0.899,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "personne,",
+            "text": "personne",
             "start": 0.899,
             "end": 1.439,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
+            "text": "répondit",
             "start": 1.74,
             "end": 2.099,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.099,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 2.099,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.019,
-            "end": 3.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 3.059,
             "end": 3.199,
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.199,
-            "end": 3.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "o\u00f9",
+            "text": "où",
             "start": 3.24,
             "end": 3.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "veux.",
+            "text": "veux",
             "start": 3.519,
             "end": 3.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.779,
-            "end": 4.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.259,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 4.279,
             "end": 4.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.339,
-            "end": 4.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,13 +116,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.519,
-            "end": 4.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 4.539,
             "end": 4.679,
@@ -235,35 +123,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.679,
-            "end": 4.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eatre",
+            "text": "être",
             "start": 4.719,
             "end": 4.96,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.96,
-            "end": 4.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "surveill\u00e9",
-            "start": 4.96,
-            "end": 5.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
+            "text": "surveillé",
             "start": 4.96,
             "end": 5.5,
             "type": "word",

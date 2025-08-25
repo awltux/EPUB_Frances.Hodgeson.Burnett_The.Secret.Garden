@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Le printemps arrive. \u00bb, dit-il. \u00ab Tu ne le sens pas ? \u00bb",
+    "text": "« Le printemps arrive. », dit-il. « Tu ne le sens pas ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "printemps",
             "start": 0.28,
             "end": 0.619,
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.619,
-            "end": 0.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "arrive.",
+            "text": "arrive",
             "start": 0.619,
             "end": 1.159,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 1.5,
             "end": 2.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.059,
-            "end": 2.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 2.419,
             "end": 2.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.5,
-            "end": 2.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.599,
-            "end": 2.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sens",
             "start": 2.599,
             "end": 2.819,
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas?",
+            "text": "pas",
             "start": 2.819,
             "end": 3.059,
             "type": "word",

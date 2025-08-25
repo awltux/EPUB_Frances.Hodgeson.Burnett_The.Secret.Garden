@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Quoi qu'il arrive, toi, tu ne le dirais jamais ? \u00bb dit-elle.",
+    "text": "« Quoi qu'il arrive, toi, tu ne le dirais jamais ? » dit-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.079,
-            "end": 0.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Quoi",
             "start": 0.5,
             "end": 0.68,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.68,
-            "end": 0.68,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.119,
-            "end": 1.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "arrive,",
+            "text": "arrive",
             "start": 1.139,
             "end": 1.399,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.399,
-            "end": 1.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "toi,",
+            "text": "toi",
             "start": 1.399,
             "end": 1.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 1.659,
             "end": 1.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dirais",
             "start": 2.299,
             "end": 2.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,42 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.98,
-            "end": 3.58,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 2.98,
-            "end": 3.58,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.98,
-            "end": 3.58,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.98,
-            "end": 3.58,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.98,
-            "end": 3.58,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-elle.",
+            "text": "dit-elle",
             "start": 2.98,
             "end": 3.58,
             "type": "word",

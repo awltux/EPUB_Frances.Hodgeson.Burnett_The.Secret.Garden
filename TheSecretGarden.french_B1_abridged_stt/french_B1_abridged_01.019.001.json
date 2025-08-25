@@ -1,5 +1,5 @@
 {
-    "text": "Le Dr Craven fut appel\u00e9 apr\u00e8s la crise de col\u00e8re de Colin. Le docteur trouvait toujours Colin p\u00e2le et sanglotant. Il redoutait ces visites.",
+    "text": "Le Dr Craven fut appelé après la crise de colère de Colin. Le docteur trouvait toujours Colin pâle et sanglotant. Il redoutait ces visites.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.2,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dr",
             "start": 0.239,
             "end": 0.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fut",
             "start": 1.339,
             "end": 1.579,
@@ -53,38 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "appel\u00e9",
+            "text": "appelé",
             "start": 1.579,
             "end": 1.939,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "apr\u00e8s",
+            "text": "après",
             "start": 2.099,
             "end": 2.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.539,
-            "end": 2.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "crise",
             "start": 2.539,
             "end": 2.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.799,
-            "end": 2.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.919,
-            "end": 2.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "col\u00e8re",
+            "text": "colère",
             "start": 2.919,
             "end": 3.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.279,
-            "end": 3.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 3.419,
             "end": 3.84,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.84,
-            "end": 4.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.399,
-            "end": 4.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "docteur",
             "start": 4.42,
             "end": 4.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.899,
-            "end": 4.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.359,
-            "end": 5.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toujours",
             "start": 5.359,
             "end": 5.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.799,
-            "end": 5.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,24 +123,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.199,
-            "end": 6.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "p\u00e2le",
+            "text": "pâle",
             "start": 6.299,
             "end": 6.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.659,
-            "end": 6.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -263,24 +137,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.059,
-            "end": 7.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sanglotant.",
+            "text": "sanglotant",
             "start": 7.119,
             "end": 7.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.839,
-            "end": 8.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -291,24 +151,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.679,
-            "end": 8.72,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "redoutait",
             "start": 8.72,
             "end": 9.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.199,
-            "end": 9.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -319,14 +165,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.34,
-            "end": 9.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "visites.",
+            "text": "visites",
             "start": 9.359,
             "end": 9.959,
             "type": "word",

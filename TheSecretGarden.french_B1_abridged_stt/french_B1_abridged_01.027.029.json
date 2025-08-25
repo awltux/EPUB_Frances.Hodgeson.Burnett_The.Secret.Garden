@@ -1,20 +1,13 @@
 {
-    "text": "\"P\u00e8re,\" dit le gar\u00e7on, \"Je suis Colin.\"",
+    "text": "\"Père,\" dit le garçon, \"Je suis Colin.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "P\u00e8re,",
+            "text": "Père",
             "start": 0.119,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.819,
             "end": 0.959,
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gar\u00e7on,",
+            "text": "garçon",
             "start": 0.959,
             "end": 1.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "suis",
             "start": 1.779,
             "end": 1.959,
@@ -81,14 +46,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 1.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.979,
             "end": 2.32,
             "type": "word",

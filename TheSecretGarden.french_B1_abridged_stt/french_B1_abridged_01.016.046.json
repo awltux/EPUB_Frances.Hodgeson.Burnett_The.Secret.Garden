@@ -1,20 +1,13 @@
 {
-    "text": "\"M. Craven l'a envoy\u00e9e,\" dit-elle. \"On dirait des livres.\"",
+    "text": "\"M. Craven l'a envoyée,\" dit-elle. \"On dirait des livres.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "M.",
+            "text": "M",
             "start": 0.179,
             "end": 0.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'a",
             "start": 0.799,
             "end": 0.899,
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "envoy\u00e9e,",
+            "text": "envoyée",
             "start": 0.899,
             "end": 1.46,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.46,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-elle.",
+            "text": "dit-elle",
             "start": 1.679,
             "end": 2.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.219,
-            "end": 2.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dirait",
             "start": 2.619,
             "end": 2.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.999,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "livres.",
+            "text": "livres",
             "start": 3.0,
             "end": 3.459,
             "type": "word",

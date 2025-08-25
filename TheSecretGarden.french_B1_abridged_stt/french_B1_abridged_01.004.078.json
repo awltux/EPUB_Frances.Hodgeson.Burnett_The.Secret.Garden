@@ -1,5 +1,5 @@
 {
-    "text": "Marie hocha la t\u00eate.",
+    "text": "Marie hocha la tête.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "hocha",
             "start": 0.479,
             "end": 0.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "t\u00eate.",
+            "text": "tête",
             "start": 0.899,
             "end": 1.279,
             "type": "word",

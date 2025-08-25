@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Ouvre la fen\u00eatre ! Peut-\u00eatre que nous entendrons des trompettes d\u2019or ! \u00bb",
+    "text": "« Ouvre la fenêtre ! Peut-être que nous entendrons des trompettes d’or ! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 1.439,
             "end": 1.499,
@@ -25,45 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.499,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fen\u00eatre",
+            "text": "fenêtre",
             "start": 1.559,
             "end": 2.039,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": "!",
-            "start": 1.559,
-            "end": 2.039,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Peut-\u00eatre",
+            "text": "Peut-être",
             "start": 2.259,
             "end": 2.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -74,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.739,
-            "end": 2.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "nous",
             "start": 2.759,
             "end": 2.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.899,
-            "end": 2.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -102,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 3.339,
             "end": 3.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.439,
-            "end": 3.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -130,28 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u2019or",
-            "start": 3.939,
-            "end": 4.379,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 3.939,
-            "end": 4.379,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "d’or",
             "start": 3.939,
             "end": 4.379,
             "type": "word",

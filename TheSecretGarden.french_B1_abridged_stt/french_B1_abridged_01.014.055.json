@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab \u00c0 deux choses. \u00bb",
+    "text": "« À deux choses. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00c0",
+            "text": "À",
             "start": 0.319,
             "end": 0.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.34,
-            "end": 0.34,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "choses.",
+            "text": "choses",
             "start": 0.519,
             "end": 1.019,
             "type": "word",

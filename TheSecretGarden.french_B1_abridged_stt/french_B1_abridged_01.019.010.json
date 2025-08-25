@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Je vais mieux, \u00bb r\u00e9pondit Colin. \u00ab Je vais bient\u00f4t sortir dans mon fauteuil. Je veux de l\u2019air frais. \u00bb",
+    "text": "« Je vais mieux, » répondit Colin. « Je vais bientôt sortir dans mon fauteuil. Je veux de l’air frais. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 0.299,
             "end": 0.439,
@@ -25,52 +18,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mieux,",
+            "text": "mieux",
             "start": 0.439,
             "end": 0.739,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.739,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
+            "text": "répondit",
             "start": 1.079,
             "end": 1.459,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.459,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.459,
             "end": 1.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 2.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 2.339,
             "end": 2.48,
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.48,
-            "end": 2.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bient\u00f4t",
+            "text": "bientôt",
             "start": 2.48,
             "end": 2.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.799,
-            "end": 2.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.159,
-            "end": 3.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dans",
             "start": 3.159,
             "end": 3.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.319,
-            "end": 3.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fauteuil.",
+            "text": "fauteuil",
             "start": 3.48,
             "end": 3.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.959,
-            "end": 4.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.359,
-            "end": 4.4,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "veux",
             "start": 4.4,
             "end": 4.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,28 +109,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.619,
-            "end": 4.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l\u2019air",
+            "text": "l’air",
             "start": 4.619,
             "end": 4.839,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.839,
-            "end": 4.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "frais.",
+            "text": "frais",
             "start": 4.839,
             "end": 5.159,
             "type": "word",

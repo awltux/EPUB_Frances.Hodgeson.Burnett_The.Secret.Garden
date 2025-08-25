@@ -1,5 +1,5 @@
 {
-    "text": "Marie n'avait jamais entendu parler de \u00ab g\u00e9mir \u00bb, mais cela d\u00e9crivait parfaitement le rugissement frissonnant qui entourait la maison.",
+    "text": "Marie n'avait jamais entendu parler de « gémir », mais cela décrivait parfaitement le rugissement frissonnant qui entourait la maison.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'avait",
             "start": 0.399,
             "end": 0.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.739,
-            "end": 0.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "entendu",
             "start": 1.019,
             "end": 1.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 1.799,
             "end": 1.959,
@@ -81,52 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 2.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.079,
-            "end": 2.659,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.659,
-            "end": 3.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "g\u00e9mir",
+            "text": "gémir",
             "start": 3.079,
             "end": 3.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 3.299,
-            "end": 3.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.5,
-            "end": 3.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.039,
-            "end": 4.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "cela",
             "start": 4.039,
             "end": 4.519,
@@ -151,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.519,
-            "end": 4.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9crivait",
+            "text": "décrivait",
             "start": 4.519,
             "end": 4.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.619,
-            "end": 4.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.099,
-            "end": 5.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 5.159,
             "end": 5.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.719,
-            "end": 5.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.859,
-            "end": 5.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "frissonnant",
             "start": 5.879,
             "end": 6.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.219,
-            "end": 6.219,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.339,
-            "end": 6.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "entourait",
             "start": 6.339,
             "end": 6.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.779,
-            "end": 6.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -263,14 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.779,
-            "end": 6.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "maison.",
+            "text": "maison",
             "start": 6.779,
             "end": 6.779,
             "type": "word",

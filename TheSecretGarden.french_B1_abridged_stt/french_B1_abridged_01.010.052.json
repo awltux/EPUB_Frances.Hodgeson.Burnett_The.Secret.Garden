@@ -1,5 +1,5 @@
 {
-    "text": "Il s'approcha du buisson et fit un bruit comme le p\u00e9piement du rouge-gorge. Le rouge-gorge r\u00e9pondit.",
+    "text": "Il s'approcha du buisson et fit un bruit comme le pépiement du rouge-gorge. Le rouge-gorge répondit.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.2,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'approcha",
             "start": 0.239,
             "end": 0.699,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "du",
             "start": 0.699,
             "end": 0.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 1.279,
             "end": 1.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.679,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 1.679,
             "end": 1.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.099,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "comme",
             "start": 2.099,
             "end": 2.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.279,
-            "end": 2.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.439,
-            "end": 2.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "p\u00e9piement",
+            "text": "pépiement",
             "start": 2.46,
             "end": 2.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.899,
-            "end": 2.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.999,
-            "end": 3.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "rouge-gorge.",
+            "text": "rouge-gorge",
             "start": 3.019,
             "end": 3.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.699,
-            "end": 4.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.399,
-            "end": 4.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rouge-gorge",
             "start": 4.44,
             "end": 4.94,
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.94,
-            "end": 4.94,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit.",
+            "text": "répondit",
             "start": 4.94,
             "end": 5.379,
             "type": "word",

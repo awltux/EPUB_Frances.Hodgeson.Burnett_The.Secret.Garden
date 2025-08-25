@@ -1,20 +1,13 @@
 {
-    "text": "\"\u00c0 quoi ressemble-t-il ?\"",
+    "text": "\"À quoi ressemble-t-il ?\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00c0",
+            "text": "À",
             "start": 0.179,
             "end": 0.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.34,
-            "end": 0.34,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ressemble-t-il ?",
+            "text": "ressemble-t-il ",
             "start": 0.62,
             "end": 1.34,
             "type": "word",

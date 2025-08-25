@@ -1,5 +1,5 @@
 {
-    "text": "Comme Mme Medlock, il ne comprit pas ce que son p\u00e8re voulait dire lorsqu'il dit pr\u00e9cipitamment :",
+    "text": "Comme Mme Medlock, il ne comprit pas ce que son père voulait dire lorsqu'il dit précipitamment :",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.339,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Mme",
             "start": 0.34,
             "end": 0.579,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Medlock,",
+            "text": "Medlock",
             "start": 0.579,
             "end": 1.2,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.2,
-            "end": 1.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 1.579,
             "end": 1.74,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.74,
-            "end": 1.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 2.079,
             "end": 2.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.24,
-            "end": 2.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 2.399,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.739,
-            "end": 2.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "p\u00e8re",
+            "text": "père",
             "start": 2.759,
             "end": 2.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.939,
-            "end": 2.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.24,
-            "end": 3.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dire",
             "start": 3.24,
             "end": 3.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.559,
-            "end": 3.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.979,
-            "end": 3.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dit",
             "start": 3.98,
             "end": 4.139,
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.139,
-            "end": 4.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pr\u00e9cipitamment:",
+            "text": "précipitamment",
             "start": 4.139,
             "end": 4.959,
             "type": "word",

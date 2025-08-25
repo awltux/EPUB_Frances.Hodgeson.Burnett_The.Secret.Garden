@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab J'aimerais les voir. O\u00f9 est la porte verte ? Il doit y avoir une porte quelque part. \u00bb",
+    "text": "« J'aimerais les voir. Où est la porte verte ? Il doit y avoir une porte quelque part. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 0.5,
             "end": 0.659,
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.68,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "voir.",
+            "text": "voir",
             "start": 0.68,
             "end": 1.139,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "O\u00f9",
+            "text": "Où",
             "start": 1.48,
             "end": 1.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 1.719,
             "end": 1.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.86,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.099,
-            "end": 2.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "verte?",
+            "text": "verte",
             "start": 2.159,
             "end": 2.6,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.6,
-            "end": 3.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.139,
-            "end": 3.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "doit",
             "start": 3.139,
             "end": 3.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avoir",
             "start": 3.419,
             "end": 3.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.719,
-            "end": 3.72,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.899,
-            "end": 3.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "porte",
             "start": 3.899,
             "end": 4.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.199,
-            "end": 4.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "part.",
+            "text": "part",
             "start": 4.539,
             "end": 4.899,
             "type": "word",

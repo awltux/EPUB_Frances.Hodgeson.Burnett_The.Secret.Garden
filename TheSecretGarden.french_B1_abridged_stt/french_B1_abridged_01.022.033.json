@@ -1,5 +1,5 @@
 {
-    "text": "Dickon regardait, curieux. Ben observait avec int\u00e9r\u00eat.",
+    "text": "Dickon regardait, curieux. Ben observait avec intérêt.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,38 +11,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "regardait,",
+            "text": "regardait",
             "start": 0.519,
             "end": 1.159,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "curieux.",
+            "text": "curieux",
             "start": 1.22,
             "end": 1.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.679,
-            "end": 2.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.279,
-            "end": 2.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "observait",
             "start": 2.299,
             "end": 2.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,14 +46,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.999,
-            "end": 3.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "int\u00e9r\u00eat.",
+            "text": "intérêt",
             "start": 3.019,
             "end": 3.539,
             "type": "word",

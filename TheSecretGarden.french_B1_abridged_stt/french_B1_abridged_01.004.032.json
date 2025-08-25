@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'ils",
             "start": 0.419,
             "end": 0.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toujours",
             "start": 0.879,
             "end": 1.319,
@@ -53,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "faim.",
+            "text": "faim",
             "start": 1.319,
             "end": 1.58,
             "type": "word",

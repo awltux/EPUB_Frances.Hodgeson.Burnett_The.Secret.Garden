@@ -1,5 +1,5 @@
 {
-    "text": "\"Plus ils rient, mieux c'est !\" dit Mme Sowerby. \"Un rire sain vaut mieux qu'un m\u00e9dicament. Ils vont grossir !\"",
+    "text": "\"Plus ils rient, mieux c'est !\" dit Mme Sowerby. \"Un rire sain vaut mieux qu'un médicament. Ils vont grossir !\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ils",
             "start": 0.359,
             "end": 0.519,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "rient,",
+            "text": "rient",
             "start": 0.56,
             "end": 0.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.919,
-            "end": 1.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,38 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "c'est",
             "start": 1.459,
             "end": 1.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.739,
-            "end": 2.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 1.739,
-            "end": 2.0,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.0,
-            "end": 2.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.119,
-            "end": 2.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Mme",
             "start": 2.119,
             "end": 2.379,
@@ -109,38 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Sowerby.",
+            "text": "Sowerby",
             "start": 2.44,
             "end": 2.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.939,
-            "end": 3.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 2.939,
-            "end": 3.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rire",
             "start": 3.639,
             "end": 3.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.919,
-            "end": 3.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.119,
-            "end": 4.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vaut",
             "start": 4.119,
             "end": 4.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.279,
-            "end": 4.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.44,
-            "end": 4.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'un",
             "start": 4.44,
             "end": 4.599,
@@ -221,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.599,
-            "end": 4.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "m\u00e9dicament.",
+            "text": "médicament",
             "start": 4.599,
             "end": 5.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.339,
-            "end": 5.46,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,13 +116,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.599,
-            "end": 5.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vont",
             "start": 5.639,
             "end": 5.819,
@@ -263,28 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.819,
-            "end": 5.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "grossir",
-            "start": 5.819,
-            "end": 6.639,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 5.819,
-            "end": 6.639,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
             "start": 5.819,
             "end": 6.639,
             "type": "word",

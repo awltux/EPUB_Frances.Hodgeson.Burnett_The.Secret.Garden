@@ -1,5 +1,5 @@
 {
-    "text": "\"Avez-vous re\u00e7u la lettre de Marthe?\" demanda-t-elle.",
+    "text": "\"Avez-vous reçu la lettre de Marthe?\" demanda-t-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.099,
-            "end": 0.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vous",
             "start": 0.099,
             "end": 0.5,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "re\u00e7u",
+            "text": "reçu",
             "start": 0.5,
             "end": 0.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "lettre",
             "start": 1.0,
             "end": 1.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,28 +46,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marthe?",
+            "text": "Marthe",
             "start": 1.459,
             "end": 1.879,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.879,
-            "end": 2.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "demanda-t-elle.",
+            "text": "demanda-t-elle",
             "start": 2.079,
             "end": 2.859,
             "type": "word",

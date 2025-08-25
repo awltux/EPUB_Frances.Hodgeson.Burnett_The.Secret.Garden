@@ -1,5 +1,5 @@
 {
-    "text": "Colin \u00e9tait excit\u00e9. \"Peux-tu me montrer ?\"",
+    "text": "Colin était excité. \"Peux-tu me montrer ?\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,52 +11,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.419,
             "end": 0.659,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "excit\u00e9.",
+            "text": "excité",
             "start": 0.659,
             "end": 1.199,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Peux-tu",
+            "text": "Peux-tu",
             "start": 1.459,
             "end": 1.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.759,
-            "end": 1.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "montrer ?\"",
+            "text": "montrer ",
             "start": 1.879,
             "end": 2.419,
             "type": "word",

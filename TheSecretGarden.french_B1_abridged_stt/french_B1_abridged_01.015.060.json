@@ -1,5 +1,5 @@
 {
-    "text": "Le renard \u00e9tait couch\u00e9 non loin, et Dickon lui frotta le cou. Il regarda autour du jardin.",
+    "text": "Le renard était couché non loin, et Dickon lui frotta le cou. Il regarda autour du jardin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "renard",
             "start": 0.219,
             "end": 0.619,
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.619,
-            "end": 0.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.619,
             "end": 0.839,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "couch\u00e9",
+            "text": "couché",
             "start": 0.839,
             "end": 1.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.36,
-            "end": 1.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "loin,",
+            "text": "loin",
             "start": 1.36,
             "end": 1.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.059,
-            "end": 2.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dickon",
             "start": 2.059,
             "end": 2.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.48,
-            "end": 2.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.639,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "frotta",
             "start": 2.639,
             "end": 2.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.939,
-            "end": 2.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.079,
-            "end": 3.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cou.",
+            "text": "cou",
             "start": 3.079,
             "end": 3.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.34,
-            "end": 3.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.799,
-            "end": 3.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "regarda",
             "start": 3.799,
             "end": 4.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.219,
-            "end": 4.219,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +109,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "du",
             "start": 4.539,
             "end": 4.639,
@@ -221,14 +116,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.639,
-            "end": 4.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin.",
+            "text": "jardin",
             "start": 4.659,
             "end": 5.08,
             "type": "word",

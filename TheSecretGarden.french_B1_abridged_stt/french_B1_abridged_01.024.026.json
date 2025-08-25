@@ -1,20 +1,13 @@
 {
-    "text": "\"Peut-\u00eatre que je suis ballonn\u00e9 et fi\u00e9vreux,\" dit Colin tristement. \"Les gens qui meurent sont souvent diff\u00e9rents.\"",
+    "text": "\"Peut-être que je suis ballonné et fiévreux,\" dit Colin tristement. \"Les gens qui meurent sont souvent différents.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Peut-\u00eatre",
+            "text": "Peut-être",
             "start": 0.119,
             "end": 0.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "je",
             "start": 0.639,
             "end": 0.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.98,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ballonn\u00e9",
+            "text": "ballonné",
             "start": 1.0,
             "end": 1.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.72,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fi\u00e9vreux,",
+            "text": "fiévreux",
             "start": 1.799,
             "end": 2.34,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.34,
-            "end": 2.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Colin",
             "start": 2.759,
             "end": 3.099,
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tristement.",
+            "text": "tristement",
             "start": 3.099,
             "end": 3.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.679,
-            "end": 4.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.46,
-            "end": 4.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "gens",
             "start": 4.539,
             "end": 4.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.759,
-            "end": 4.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.939,
-            "end": 4.94,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "meurent",
             "start": 4.94,
             "end": 5.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.559,
-            "end": 5.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +109,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.839,
-            "end": 5.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "souvent",
             "start": 5.839,
             "end": 6.199,
@@ -221,14 +116,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.199,
-            "end": 6.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "diff\u00e9rents.",
+            "text": "différents",
             "start": 6.199,
             "end": 6.759,
             "type": "word",

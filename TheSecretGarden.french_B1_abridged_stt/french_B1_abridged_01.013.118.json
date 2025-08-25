@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab Oui, je la connais bien. Elle s'occupe de moi. \u00bb",
+    "text": "« Oui, je la connais bien. Elle s'occupe de moi. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 0.119,
             "end": 0.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 0.979,
             "end": 1.12,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bien.",
+            "text": "bien",
             "start": 1.379,
             "end": 1.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'occupe",
             "start": 2.079,
             "end": 2.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.559,
-            "end": 2.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "moi.",
+            "text": "moi",
             "start": 2.559,
             "end": 2.859,
             "type": "word",

@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Tu n'aimes pas cacher le jardin ? \u00bb dit Marie.",
+    "text": "« Tu n'aimes pas cacher le jardin ? » dit Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.119,
-            "end": 0.259,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Tu",
             "start": 0.259,
             "end": 0.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 0.599,
             "end": 0.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 1.059,
             "end": 1.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.459,
-            "end": 1.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,34 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 2.079,
-            "end": 2.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " \u00bb",
-            "start": 2.079,
-            "end": 2.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dit",
             "start": 2.079,
             "end": 2.459,
@@ -130,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 2.079,
             "end": 2.459,
             "type": "word",

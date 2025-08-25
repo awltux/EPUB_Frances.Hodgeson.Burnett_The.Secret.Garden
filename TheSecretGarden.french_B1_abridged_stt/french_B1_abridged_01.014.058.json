@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Je te ferai me parler des Rajahs plus tard, \u00bb, dit-il, \u00ab mais quelle est la deuxi\u00e8me chose ? \u00bb",
+    "text": "« Je te ferai me parler des Rajahs plus tard, », dit-il, « mais quelle est la deuxième chose ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.259,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.299,
             "end": 0.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ferai",
             "start": 0.639,
             "end": 0.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "parler",
             "start": 1.059,
             "end": 1.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Rajahs",
             "start": 1.5,
             "end": 1.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,66 +60,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tard,",
+            "text": "tard",
             "start": 2.48,
             "end": 3.0,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.0,
-            "end": 3.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 3.379,
-            "end": 3.539,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.539,
-            "end": 3.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il,",
+            "text": "dit-il",
             "start": 3.539,
             "end": 3.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.739,
-            "end": 3.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.74,
-            "end": 4.019,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.019,
-            "end": 4.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.119,
-            "end": 4.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "quelle",
             "start": 4.179,
             "end": 4.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.98,
-            "end": 4.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 4.98,
             "end": 4.98,
@@ -235,42 +102,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.98,
-            "end": 4.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "deuxi\u00e8me",
+            "text": "deuxième",
             "start": 4.98,
             "end": 4.98,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.98,
-            "end": 4.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
             "text": "chose",
-            "start": 4.98,
-            "end": 4.98,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 4.98,
-            "end": 4.98,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
             "start": 4.98,
             "end": 4.98,
             "type": "word",

@@ -1,20 +1,13 @@
 {
-    "text": "Bient\u00f4t, Marie leva la main. \u00ab \u00c9coute ! As-tu entendu un croassement ? \u00bb",
+    "text": "Bientôt, Marie leva la main. « Écoute ! As-tu entendu un croassement ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Bient\u00f4t,",
+            "text": "Bientôt",
             "start": 0.099,
             "end": 0.66,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.66,
-            "end": 0.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "leva",
             "start": 1.159,
             "end": 1.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.399,
-            "end": 1.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,66 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.579,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "main.",
+            "text": "main",
             "start": 1.62,
             "end": 1.819,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 2.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.299,
-            "end": 2.299,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.299,
-            "end": 2.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00c9coute",
+            "text": "Écoute",
             "start": 2.299,
             "end": 2.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.879,
-            "end": 3.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 2.879,
-            "end": 2.879,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.879,
-            "end": 3.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "entendu",
             "start": 3.579,
             "end": 3.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,29 +67,8 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.099,
-            "end": 4.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "croassement",
             "start": 4.099,
-            "end": 4.699,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 4.699,
-            "end": 4.699,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 4.699,
             "end": 4.699,
             "type": "word",
             "speaker_id": null

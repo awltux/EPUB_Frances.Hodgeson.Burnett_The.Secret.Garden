@@ -1,5 +1,5 @@
 {
-    "text": "Dickon parut perplexe. \u00ab Je garde des secrets tout le temps. Oui, je peux garder des secrets. \u00bb",
+    "text": "Dickon parut perplexe. « Je garde des secrets tout le temps. Oui, je peux garder des secrets. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "parut",
             "start": 0.459,
             "end": 0.68,
@@ -25,38 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.68,
-            "end": 0.68,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "perplexe.",
+            "text": "perplexe",
             "start": 0.68,
             "end": 1.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.919,
-            "end": 2.059,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.059,
-            "end": 2.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "garde",
             "start": 2.399,
             "end": 2.579,
@@ -81,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.579,
-            "end": 2.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 2.579,
             "end": 3.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.179,
-            "end": 3.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tout",
             "start": 3.199,
             "end": 3.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,38 +67,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.619,
-            "end": 4.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "temps.",
+            "text": "temps",
             "start": 4.099,
             "end": 4.48,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 4.48,
             "end": 4.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.579,
-            "end": 4.619,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.779,
-            "end": 4.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "peux",
             "start": 4.779,
             "end": 5.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.059,
-            "end": 5.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 5.179,
             "end": 5.619,
@@ -221,30 +109,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.619,
-            "end": 5.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "secrets.",
+            "text": "secrets",
             "start": 5.619,
             "end": 6.109,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.109,
-            "end": 6.109,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 6.109,
-            "end": 6.459,
             "type": "word",
             "speaker_id": null
         }

@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Comment vous appelez-vous ? \u00bb demanda Marie.",
+    "text": "« Comment vous appelez-vous ? » demanda Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.199,
-            "end": 0.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Comment",
             "start": 0.419,
             "end": 0.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,45 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "appelez-vous",
             "start": 1.519,
             "end": 1.86,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.899,
-            "end": 2.239,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " \u00bb",
-            "start": 1.899,
-            "end": 2.239,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -88,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.899,
             "end": 2.239,
             "type": "word",

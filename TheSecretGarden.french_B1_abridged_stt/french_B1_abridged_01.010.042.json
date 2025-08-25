@@ -1,5 +1,5 @@
 {
-    "text": "Marie r\u00e9alisa qu'elle l'avait su aussi. Seul Dickon pouvait charmer les animaux comme \u00e7a.",
+    "text": "Marie réalisa qu'elle l'avait su aussi. Seul Dickon pouvait charmer les animaux comme ça.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9alisa",
+            "text": "réalisa",
             "start": 0.459,
             "end": 1.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'avait",
             "start": 1.319,
             "end": 1.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.839,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aussi.",
+            "text": "aussi",
             "start": 1.839,
             "end": 2.32,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.32,
-            "end": 2.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.059,
-            "end": 3.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dickon",
             "start": 3.119,
             "end": 3.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.519,
-            "end": 3.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.839,
-            "end": 3.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "charmer",
             "start": 3.839,
             "end": 4.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.219,
-            "end": 4.219,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.379,
-            "end": 4.4,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "animaux",
             "start": 4.4,
             "end": 4.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.799,
-            "end": 4.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,14 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.079,
-            "end": 5.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a.",
+            "text": "ça",
             "start": 5.079,
             "end": 5.319,
             "type": "word",

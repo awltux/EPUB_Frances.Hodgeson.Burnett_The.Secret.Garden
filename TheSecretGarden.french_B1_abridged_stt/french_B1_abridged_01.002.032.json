@@ -1,5 +1,5 @@
 {
-    "text": "Marie \u00e9tait int\u00e9ress\u00e9e malgr\u00e9 elle. Cela semblait diff\u00e9rent de l'Inde. Mais elle ne le montra pas.",
+    "text": "Marie était intéressée malgré elle. Cela semblait différent de l'Inde. Mais elle ne le montra pas.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,66 +11,31 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.579,
             "end": 0.859,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "int\u00e9ress\u00e9e",
+            "text": "intéressée",
             "start": 0.859,
             "end": 1.539,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.539,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "malgr\u00e9",
+            "text": "malgré",
             "start": 1.559,
             "end": 1.999,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.999,
-            "end": 2.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "elle.",
+            "text": "elle",
             "start": 2.019,
             "end": 2.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "semblait",
             "start": 3.079,
             "end": 3.459,
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "diff\u00e9rent",
+            "text": "différent",
             "start": 3.46,
             "end": 3.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.959,
-            "end": 3.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.059,
-            "end": 4.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'Inde.",
+            "text": "l'Inde",
             "start": 4.099,
             "end": 4.54,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.54,
-            "end": 4.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "elle",
             "start": 5.179,
             "end": 5.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.359,
-            "end": 5.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.46,
-            "end": 5.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 5.46,
             "end": 5.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.579,
-            "end": 5.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.019,
-            "end": 6.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas.",
+            "text": "pas",
             "start": 6.019,
             "end": 6.279,
             "type": "word",

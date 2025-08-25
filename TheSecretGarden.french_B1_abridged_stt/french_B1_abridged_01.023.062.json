@@ -1,5 +1,5 @@
 {
-    "text": "Colin imagina le visage de son p\u00e8re, une puissante motivation. \u00ab Il devra le croire ! Avant de faire des d\u00e9couvertes scientifiques, je vais \u00eatre un athl\u00e8te ! \u00bb",
+    "text": "Colin imagina le visage de son père, une puissante motivation. « Il devra le croire ! Avant de faire des découvertes scientifiques, je vais être un athlète ! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "imagina",
             "start": 0.519,
             "end": 0.959,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.959,
             "end": 1.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 1.419,
             "end": 1.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "p\u00e8re,",
+            "text": "père",
             "start": 1.799,
             "end": 2.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.159,
-            "end": 2.18,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "puissante",
             "start": 2.399,
             "end": 2.959,
@@ -123,38 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "motivation.",
+            "text": "motivation",
             "start": 3.0,
             "end": 3.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.799,
-            "end": 4.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 4.259,
-            "end": 4.439,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.439,
-            "end": 4.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "devra",
             "start": 4.739,
             "end": 4.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.899,
-            "end": 4.9,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,31 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.519,
-            "end": 6.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "croire",
             "start": 6.079,
             "end": 6.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 6.379,
-            "end": 6.379,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.379,
-            "end": 6.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -228,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.459,
-            "end": 6.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 6.519,
             "end": 6.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.719,
-            "end": 6.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -256,13 +123,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.859,
-            "end": 6.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 6.859,
             "end": 7.419,
@@ -270,38 +130,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.419,
-            "end": 7.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9couvertes",
+            "text": "découvertes",
             "start": 7.419,
             "end": 8.119,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.119,
-            "end": 8.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "scientifiques,",
+            "text": "scientifiques",
             "start": 8.359,
             "end": 8.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.479,
-            "end": 8.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -312,13 +151,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.659,
-            "end": 8.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 8.679,
             "end": 8.88,
@@ -326,24 +158,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.88,
-            "end": 8.88,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eatre",
+            "text": "être",
             "start": 8.88,
             "end": 9.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.019,
-            "end": 9.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -354,28 +172,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.699,
-            "end": 9.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "athl\u00e8te",
-            "start": 9.699,
-            "end": 9.699,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 9.699,
-            "end": 9.699,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "athlète",
             "start": 9.699,
             "end": 9.699,
             "type": "word",

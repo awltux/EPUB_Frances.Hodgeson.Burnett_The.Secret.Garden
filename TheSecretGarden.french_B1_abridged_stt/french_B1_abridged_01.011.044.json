@@ -1,48 +1,13 @@
 {
-    "text": "\u00ab Plantons-en, \u00bb dit Marie.",
+    "text": "« Plantons-en, » dit Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.819,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.819,
-            "end": 1.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Plantons-en,",
+            "text": "Plantons-en",
             "start": 1.039,
             "end": 1.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.179,
-            "end": 1.559,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.179,
             "end": 1.559,
             "type": "word",

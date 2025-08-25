@@ -4,17 +4,10 @@
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Va-t'en!",
+            "text": "Va-t'en",
             "start": 0.199,
             "end": 0.6,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.6,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 0.879,
             "end": 1.259,
             "type": "word",

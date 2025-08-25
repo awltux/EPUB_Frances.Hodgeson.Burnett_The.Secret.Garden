@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab C'est \u00e7a ? \u00bb demanda Colin.",
+    "text": "« C'est ça ? » demanda Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a?",
+            "text": "ça",
             "start": 0.439,
             "end": 0.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.739,
-            "end": 1.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.419,
             "end": 1.779,
             "type": "word",

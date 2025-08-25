@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Mais comment ? \u00bb demanda Marie.",
+    "text": "« Mais comment ? » demanda Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,31 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "comment",
             "start": 0.399,
             "end": 0.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 0.759,
-            "end": 0.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.759,
-            "end": 1.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -46,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.559,
             "end": 1.899,
             "type": "word",

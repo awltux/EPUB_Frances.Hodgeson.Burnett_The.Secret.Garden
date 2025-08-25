@@ -1,5 +1,5 @@
 {
-    "text": "Elle l'avait entendu deux fois maintenant. Elle d\u00e9couvrirait qui c'\u00e9tait. Malgr\u00e9 Mme Medlock, cela avait \u00e9t\u00e9 une matin\u00e9e int\u00e9ressante. Elle avait explor\u00e9, jou\u00e9 avec des \u00e9l\u00e9phants et vu les souris. Cela avait \u00e9t\u00e9 une aventure.",
+    "text": "Elle l'avait entendu deux fois maintenant. Elle découvrirait qui c'était. Malgré Mme Medlock, cela avait été une matinée intéressante. Elle avait exploré, joué avec des éléphants et vu les souris. Cela avait été une aventure.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'avait",
             "start": 0.28,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "deux",
             "start": 1.039,
             "end": 1.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.459,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "maintenant.",
+            "text": "maintenant",
             "start": 1.5,
             "end": 1.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.939,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9couvrirait",
+            "text": "découvrirait",
             "start": 2.639,
             "end": 3.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.379,
-            "end": 3.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,38 +67,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.539,
-            "end": 3.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "c'\u00e9tait.",
+            "text": "c'était",
             "start": 3.599,
             "end": 4.019,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.019,
-            "end": 4.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Malgr\u00e9",
+            "text": "Malgré",
             "start": 4.759,
             "end": 5.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.079,
-            "end": 5.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.339,
-            "end": 5.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Medlock,",
+            "text": "Medlock",
             "start": 5.359,
             "end": 5.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.899,
-            "end": 6.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.359,
-            "end": 6.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 6.359,
             "end": 6.639,
@@ -207,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.639,
-            "end": 6.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9t\u00e9",
+            "text": "été",
             "start": 6.659,
             "end": 6.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.839,
-            "end": 6.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,38 +123,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.0,
-            "end": 7.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "matin\u00e9e",
+            "text": "matinée",
             "start": 7.019,
             "end": 7.499,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.499,
-            "end": 7.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "int\u00e9ressante.",
+            "text": "intéressante",
             "start": 7.5,
             "end": 8.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.319,
-            "end": 8.76,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -277,13 +144,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.94,
-            "end": 8.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 8.96,
             "end": 9.18,
@@ -291,38 +151,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.18,
-            "end": 9.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "explor\u00e9,",
+            "text": "exploré",
             "start": 9.199,
             "end": 9.839,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.839,
-            "end": 10.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jou\u00e9",
+            "text": "joué",
             "start": 10.179,
             "end": 10.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 10.479,
-            "end": 10.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -333,13 +172,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.68,
-            "end": 10.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 10.719,
             "end": 10.859,
@@ -347,24 +179,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.859,
-            "end": 10.88,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9l\u00e9phants",
+            "text": "éléphants",
             "start": 10.88,
             "end": 11.36,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 11.36,
-            "end": 11.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -375,24 +193,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 11.819,
-            "end": 11.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vu",
             "start": 11.819,
             "end": 11.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 11.979,
-            "end": 11.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -403,24 +207,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 12.159,
-            "end": 12.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "souris.",
+            "text": "souris",
             "start": 12.159,
             "end": 12.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 12.579,
-            "end": 13.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -431,13 +221,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 13.539,
-            "end": 13.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 13.539,
             "end": 13.84,
@@ -445,24 +228,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 13.84,
-            "end": 13.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9t\u00e9",
+            "text": "été",
             "start": 13.859,
             "end": 14.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 14.439,
-            "end": 14.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -473,14 +242,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 14.639,
-            "end": 14.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aventure.",
+            "text": "aventure",
             "start": 14.659,
             "end": 15.499,
             "type": "word",

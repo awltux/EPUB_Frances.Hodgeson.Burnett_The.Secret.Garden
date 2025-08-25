@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Vais-je le faire? \u00bb se demanda Colin.",
+    "text": "« Vais-je le faire? » se demanda Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.199,
-            "end": 0.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Vais-je",
             "start": 0.479,
             "end": 0.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.119,
-            "end": 1.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "faire?",
+            "text": "faire",
             "start": 1.36,
             "end": 1.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.48,
-            "end": 1.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.48,
-            "end": 1.839,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.839,
-            "end": 1.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.839,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "demanda",
             "start": 1.839,
             "end": 2.259,
@@ -95,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.839,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.839,
             "end": 2.259,
             "type": "word",

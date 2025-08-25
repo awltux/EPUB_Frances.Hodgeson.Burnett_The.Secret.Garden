@@ -1,5 +1,5 @@
 {
-    "text": "Colin fron\u00e7a les sourcils. \u00ab Weatherstaff, c'est irrespectueux. Je ne serai pas un boxeur professionnel. Je serai un D\u00e9couvreur Scientifique. \u00bb",
+    "text": "Colin fronça les sourcils. « Weatherstaff, c'est irrespectueux. Je ne serai pas un boxeur professionnel. Je serai un Découvreur Scientifique. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fron\u00e7a",
+            "text": "fronça",
             "start": 0.459,
             "end": 0.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,52 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sourcils.",
+            "text": "sourcils",
             "start": 0.919,
             "end": 1.439,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.86,
-            "end": 2.519,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Weatherstaff,",
+            "text": "Weatherstaff",
             "start": 2.519,
             "end": 2.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.559,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "irrespectueux.",
+            "text": "irrespectueux",
             "start": 3.859,
             "end": 3.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.959,
-            "end": 3.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.059,
-            "end": 4.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 4.059,
             "end": 4.319,
@@ -137,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.319,
-            "end": 4.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "serai",
             "start": 4.319,
             "end": 4.42,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.42,
-            "end": 4.42,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.519,
-            "end": 4.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 4.519,
             "end": 4.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.859,
-            "end": 4.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.639,
-            "end": 5.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "professionnel.",
+            "text": "professionnel",
             "start": 5.819,
             "end": 5.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.979,
-            "end": 5.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.219,
-            "end": 6.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "serai",
             "start": 6.219,
             "end": 6.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.339,
-            "end": 6.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,42 +123,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.839,
-            "end": 6.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "D\u00e9couvreur",
+            "text": "Découvreur",
             "start": 6.839,
             "end": 7.58,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.58,
-            "end": 7.58,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Scientifique.",
-            "start": 7.58,
-            "end": 7.58,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.58,
-            "end": 7.58,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "Scientifique",
             "start": 7.58,
             "end": 7.58,
             "type": "word",

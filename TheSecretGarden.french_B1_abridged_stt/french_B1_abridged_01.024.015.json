@@ -1,5 +1,5 @@
 {
-    "text": "Elle avait raison. Colin et Marie adoraient leur \"jeu d'acteur\". L'infirmi\u00e8re et le Dr. Craven leur avaient fait comprendre qu'ils devaient \u00eatre prudents.",
+    "text": "Elle avait raison. Colin et Marie adoraient leur \"jeu d'acteur\". L'infirmière et le Dr. Craven leur avaient fait comprendre qu'ils devaient être prudents.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.2,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 0.239,
             "end": 0.419,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "raison.",
+            "text": "raison",
             "start": 0.419,
             "end": 0.84,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.84,
-            "end": 1.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.639,
-            "end": 1.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 1.659,
             "end": 1.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.759,
-            "end": 1.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.159,
-            "end": 2.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "adoraient",
             "start": 2.159,
             "end": 2.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.979,
-            "end": 3.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jeu",
             "start": 3.039,
             "end": 3.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.219,
-            "end": 3.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,31 +74,17 @@
             "speaker_id": null
         },
         {
-            "text": "\".",
+            "text": "",
             "start": 3.859,
             "end": 3.859,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.859,
-            "end": 4.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "L'infirmi\u00e8re",
+            "text": "L'infirmière",
             "start": 4.319,
             "end": 4.94,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.94,
-            "end": 4.94,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -172,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.059,
-            "end": 5.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 5.079,
             "end": 5.159,
@@ -186,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.159,
-            "end": 5.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dr.",
+            "text": "Dr",
             "start": 5.159,
             "end": 5.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.5,
-            "end": 5.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -214,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.379,
-            "end": 6.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "leur",
             "start": 6.379,
             "end": 6.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.599,
-            "end": 6.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -242,24 +130,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.98,
-            "end": 6.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fait",
             "start": 6.98,
             "end": 7.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.159,
-            "end": 7.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -270,24 +144,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.779,
-            "end": 7.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'ils",
             "start": 7.779,
             "end": 7.98,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.98,
-            "end": 7.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -298,28 +158,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.46,
-            "end": 8.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eatre",
+            "text": "être",
             "start": 8.46,
             "end": 8.819,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.819,
-            "end": 8.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "prudents.",
+            "text": "prudents",
             "start": 8.819,
             "end": 9.279,
             "type": "word",

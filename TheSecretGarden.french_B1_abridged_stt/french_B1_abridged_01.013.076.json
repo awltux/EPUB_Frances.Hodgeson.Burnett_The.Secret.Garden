@@ -1,76 +1,20 @@
 {
-    "text": "\u00ab Peut-\u00eatre, \u00bb dit-il. \u00ab Parlons du jardin. Ne veux-tu pas le voir ? \u00bb",
+    "text": "« Peut-être, » dit-il. « Parlons du jardin. Ne veux-tu pas le voir ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.119,
-            "end": 0.699,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Peut-\u00eatre,",
+            "text": "Peut-être",
             "start": 0.979,
             "end": 1.479,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.479,
-            "end": 2.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.0,
-            "end": 2.339,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.339,
-            "end": 2.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 2.339,
             "end": 2.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.439,
-            "end": 2.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.48,
-            "end": 2.939,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.939,
-            "end": 3.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.279,
-            "end": 3.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "du",
             "start": 3.299,
             "end": 3.559,
@@ -95,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.559,
-            "end": 3.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin.",
+            "text": "jardin",
             "start": 3.559,
             "end": 3.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.659,
-            "end": 3.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "veux-tu",
             "start": 3.779,
             "end": 4.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.159,
-            "end": 4.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.159,
-            "end": 4.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 4.159,
             "end": 4.159,
@@ -165,28 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.159,
-            "end": 4.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "voir",
-            "start": 4.159,
-            "end": 4.159,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 4.159,
-            "end": 4.159,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
             "start": 4.159,
             "end": 4.159,
             "type": "word",

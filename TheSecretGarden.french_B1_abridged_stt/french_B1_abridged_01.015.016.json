@@ -1,5 +1,5 @@
 {
-    "text": "\"Je suis s\u00fbre que cela ne te d\u00e9rangerait pas,\" acquies\u00e7a Marie.",
+    "text": "\"Je suis sûre que cela ne te dérangerait pas,\" acquiesça Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "suis",
             "start": 0.319,
             "end": 0.5,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s\u00fbre",
+            "text": "sûre",
             "start": 0.5,
             "end": 0.68,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.68,
-            "end": 0.68,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "cela",
             "start": 0.819,
             "end": 0.999,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.999,
-            "end": 1.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "te",
             "start": 1.12,
             "end": 1.22,
@@ -95,56 +53,28 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.22,
-            "end": 1.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9rangerait",
+            "text": "dérangerait",
             "start": 1.22,
             "end": 1.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas,",
+            "text": "pas",
             "start": 1.699,
             "end": 1.959,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 2.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "acquies\u00e7a",
+            "text": "acquiesça",
             "start": 2.299,
             "end": 2.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.699,
-            "end": 2.7,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 2.7,
             "end": 3.06,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Marie s'approcha. Il n'\u00e9tait pas laid, mais malheureux. Il semblait ennuy\u00e9 par sa pr\u00e9sence.",
+    "text": "Marie s'approcha. Il n'était pas laid, mais malheureux. Il semblait ennuyé par sa présence.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'approcha.",
+            "text": "s'approcha",
             "start": 0.379,
             "end": 0.98,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.98,
-            "end": 1.36,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "n'\u00e9tait",
+            "text": "n'était",
             "start": 1.539,
             "end": 1.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.919,
-            "end": 1.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "laid,",
+            "text": "laid",
             "start": 1.959,
             "end": 2.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.24,
-            "end": 2.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "malheureux.",
+            "text": "malheureux",
             "start": 2.399,
             "end": 2.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.939,
-            "end": 3.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.48,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "semblait",
             "start": 3.48,
             "end": 3.939,
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ennuy\u00e9",
+            "text": "ennuyé",
             "start": 3.939,
             "end": 4.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.659,
-            "end": 4.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sa",
             "start": 4.659,
             "end": 4.799,
@@ -179,14 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.799,
-            "end": 4.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pr\u00e9sence.",
+            "text": "présence",
             "start": 4.819,
             "end": 5.399,
             "type": "word",

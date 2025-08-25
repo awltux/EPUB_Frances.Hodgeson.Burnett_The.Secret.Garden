@@ -1,5 +1,5 @@
 {
-    "text": "Marie prit courage. \u00ab Est-ce la m\u00e8re de Marthe ? \u00bb",
+    "text": "Marie prit courage. « Est-ce la mère de Marthe ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.339,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "prit",
             "start": 0.359,
             "end": 0.539,
@@ -25,38 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "courage.",
+            "text": "courage",
             "start": 0.56,
             "end": 1.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.739,
-            "end": 1.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 1.759,
             "end": 1.84,
@@ -81,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.84,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "m\u00e8re",
+            "text": "mère",
             "start": 1.86,
             "end": 2.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.059,
-            "end": 2.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,36 +53,8 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.179,
-            "end": 2.18,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Marthe",
             "start": 2.18,
-            "end": 2.619,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 2.619,
-            "end": 2.619,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.619,
             "end": 2.619,
             "type": "word",
             "speaker_id": null

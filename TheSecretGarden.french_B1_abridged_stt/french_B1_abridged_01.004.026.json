@@ -1,5 +1,5 @@
 {
-    "text": "Dans la chambre d'enfant, un grand petit-d\u00e9jeuner \u00e9tait pr\u00e9par\u00e9. \"Je n'en veux pas,\" dit Marie, d\u00e9sint\u00e9ress\u00e9e.",
+    "text": "Dans la chambre d'enfant, un grand petit-déjeuner était préparé. \"Je n'en veux pas,\" dit Marie, désintéressée.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 0.219,
             "end": 0.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d'enfant,",
+            "text": "d'enfant",
             "start": 0.62,
             "end": 1.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.119,
-            "end": 1.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "grand",
             "start": 1.319,
             "end": 1.5,
@@ -81,66 +46,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "petit-d\u00e9jeuner",
+            "text": "petit-déjeuner",
             "start": 1.5,
             "end": 2.2,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.2,
-            "end": 2.2,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 2.2,
             "end": 2.48,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.48,
-            "end": 2.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pr\u00e9par\u00e9.",
+            "text": "préparé",
             "start": 2.48,
             "end": 2.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.959,
-            "end": 3.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 3.619,
-            "end": 3.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.759,
-            "end": 3.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.959,
-            "end": 3.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'en",
             "start": 3.959,
             "end": 4.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.159,
-            "end": 4.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.439,
-            "end": 4.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas,\"",
+            "text": "pas",
             "start": 4.779,
             "end": 4.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.919,
-            "end": 4.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,28 +102,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.319,
-            "end": 5.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie,",
+            "text": "Marie",
             "start": 5.519,
             "end": 6.359,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.359,
-            "end": 6.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9sint\u00e9ress\u00e9e.",
+            "text": "désintéressée",
             "start": 5.519,
             "end": 6.359,
             "type": "word",

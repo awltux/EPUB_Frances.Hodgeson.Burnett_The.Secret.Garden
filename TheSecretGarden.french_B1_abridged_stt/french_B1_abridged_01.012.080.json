@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Il est parti, \u00bb dit-elle tristement. \u00ab N'\u00e9tait-il qu'un esprit de la for\u00eat ? \u00bb",
+    "text": "« Il est parti, » dit-elle tristement. « N'était-il qu'un esprit de la forêt ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 0.419,
             "end": 0.559,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.559,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "parti,",
+            "text": "parti",
             "start": 0.579,
             "end": 1.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,38 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tristement.",
+            "text": "tristement",
             "start": 1.86,
             "end": 2.54,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.54,
-            "end": 2.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "N'\u00e9tait-il",
+            "text": "N'était-il",
             "start": 2.899,
             "end": 3.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.48,
-            "end": 3.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.679,
-            "end": 3.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "esprit",
             "start": 3.679,
             "end": 4.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.059,
-            "end": 4.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.139,
-            "end": 4.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 4.139,
             "end": 4.319,
@@ -137,14 +74,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.319,
-            "end": 4.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "for\u00eat?",
+            "text": "forêt",
             "start": 4.339,
             "end": 4.759,
             "type": "word",

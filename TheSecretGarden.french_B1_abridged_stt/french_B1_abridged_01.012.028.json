@@ -1,5 +1,5 @@
 {
-    "text": "Mme Medlock entra, v\u00eatue de ses plus beaux habits, portant une broche avec une photo de M. Medlock. Elle avait l'air nerveuse.",
+    "text": "Mme Medlock entra, vêtue de ses plus beaux habits, portant une broche avec une photo de M. Medlock. Elle avait l'air nerveuse.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Medlock",
             "start": 0.379,
             "end": 0.84,
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.84,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "entra,",
+            "text": "entra",
             "start": 0.899,
             "end": 1.359,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.359,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "v\u00eatue",
+            "text": "vêtue",
             "start": 1.679,
             "end": 2.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -64,13 +36,6 @@
             "start": 2.039,
             "end": 2.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.159,
-            "end": 2.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "plus",
             "start": 2.399,
             "end": 2.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.579,
-            "end": 2.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "habits,",
+            "text": "habits",
             "start": 2.779,
             "end": 3.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.199,
-            "end": 3.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.819,
-            "end": 3.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "une",
             "start": 3.819,
             "end": 3.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.979,
-            "end": 3.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.419,
-            "end": 4.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avec",
             "start": 4.42,
             "end": 4.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.659,
-            "end": 4.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.839,
-            "end": 4.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "photo",
             "start": 4.839,
             "end": 5.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.279,
-            "end": 5.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,38 +116,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.419,
-            "end": 5.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "M.",
+            "text": "M",
             "start": 5.42,
             "end": 5.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.699,
-            "end": 5.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Medlock.",
+            "text": "Medlock",
             "start": 5.719,
             "end": 6.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.319,
-            "end": 6.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -263,24 +137,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.819,
-            "end": 6.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 6.819,
             "end": 7.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.059,
-            "end": 7.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -291,14 +151,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.299,
-            "end": 7.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "nerveuse.",
+            "text": "nerveuse",
             "start": 7.299,
             "end": 7.999,
             "type": "word",

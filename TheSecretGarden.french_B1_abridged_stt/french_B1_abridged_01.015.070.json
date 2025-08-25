@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab Oh, j'aime t'entendre lui parler ! \u00bb dit Marie. \u00ab Ben Weatherstaff le gronde, mais il comprend chaque mot. \u00bb",
+    "text": "« Oh, j'aime t'entendre lui parler ! » dit Marie. « Ben Weatherstaff le gronde, mais il comprend chaque mot. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Oh,",
+            "text": "Oh",
             "start": 0.459,
             "end": 0.8,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.8,
-            "end": 0.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "t'entendre",
             "start": 1.1,
             "end": 1.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "parler",
             "start": 1.719,
             "end": 2.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.159,
-            "end": 2.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.5,
-            "end": 2.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 2.5,
             "end": 2.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.819,
-            "end": 3.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.279,
-            "end": 3.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Weatherstaff",
             "start": 3.279,
             "end": 3.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.999,
-            "end": 4.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gronde,",
+            "text": "gronde",
             "start": 4.0,
             "end": 4.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.859,
-            "end": 4.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "il",
             "start": 4.859,
             "end": 5.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.019,
-            "end": 5.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.44,
-            "end": 5.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "chaque",
             "start": 5.44,
             "end": 5.759,
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.759,
-            "end": 5.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mot.",
+            "text": "mot",
             "start": 5.779,
             "end": 6.0,
             "type": "word",

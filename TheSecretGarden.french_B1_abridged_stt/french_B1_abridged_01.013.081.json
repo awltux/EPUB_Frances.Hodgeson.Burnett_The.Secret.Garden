@@ -1,31 +1,17 @@
 {
-    "text": "\u00ab Oh, ne\u2014ne\u2014ne ! \u00bb cria-t-elle.",
+    "text": "« Oh, ne—ne—ne ! » cria-t-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Oh,",
+            "text": "Oh",
             "start": 0.14,
             "end": 0.239,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
-            "start": 0.28,
-            "end": 0.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u2014",
             "start": 0.28,
             "end": 0.759,
             "type": "word",
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": "\u2014",
-            "start": 0.28,
-            "end": 0.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 0.28,
             "end": 0.759,
@@ -53,21 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": "!",
-            "start": 0.28,
-            "end": 0.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.759,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cria-t-elle.",
+            "text": "cria-t-elle",
             "start": 1.12,
             "end": 1.84,
             "type": "word",

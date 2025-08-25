@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Qu'est-ce que c'est que \u00e7a ? \u00bb dit Dr. Craven. \u00ab Qu'est-ce que \u00e7a veut dire ? \u00bb",
+    "text": "« Qu'est-ce que c'est que ça ? » dit Dr. Craven. « Qu'est-ce que ça veut dire ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 0.419,
             "end": 0.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.739,
-            "end": 0.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 0.739,
             "end": 0.919,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a",
+            "text": "ça",
             "start": 0.919,
             "end": 1.22,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.22,
-            "end": 1.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,38 +46,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dr.",
+            "text": "Dr",
             "start": 1.639,
             "end": 1.899,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.899,
-            "end": 1.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Craven.",
+            "text": "Craven",
             "start": 1.959,
             "end": 2.499,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.499,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.159,
-            "end": 3.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 3.159,
             "end": 3.299,
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a",
+            "text": "ça",
             "start": 3.319,
             "end": 3.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,14 +88,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.599,
-            "end": 3.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dire?",
+            "text": "dire",
             "start": 3.599,
             "end": 4.019,
             "type": "word",

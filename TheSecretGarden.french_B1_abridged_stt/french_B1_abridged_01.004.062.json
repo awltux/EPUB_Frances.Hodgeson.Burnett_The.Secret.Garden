@@ -1,5 +1,5 @@
 {
-    "text": "Elle retourna vers le vieux jardinier. \u00ab Je suis all\u00e9e dans les autres jardins. \u00bb, dit-elle.",
+    "text": "Elle retourna vers le vieux jardinier. « Je suis allée dans les autres jardins. », dit-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "retourna",
             "start": 0.28,
             "end": 0.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.879,
             "end": 0.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.22,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardinier.",
+            "text": "jardinier",
             "start": 1.24,
             "end": 1.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "suis",
             "start": 2.579,
             "end": 2.759,
@@ -123,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "all\u00e9e",
+            "text": "allée",
             "start": 2.759,
             "end": 2.96,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.96,
-            "end": 2.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 3.099,
             "end": 3.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.24,
-            "end": 3.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,42 +88,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardins.",
+            "text": "jardins",
             "start": 3.579,
             "end": 4.039,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.039,
-            "end": 4.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 4.519,
-            "end": 4.519,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.519,
-            "end": 4.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-elle.",
+            "text": "dit-elle",
             "start": 4.519,
             "end": 5.119,
             "type": "word",

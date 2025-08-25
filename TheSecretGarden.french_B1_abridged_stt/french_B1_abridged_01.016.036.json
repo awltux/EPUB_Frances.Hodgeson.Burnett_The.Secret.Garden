@@ -1,5 +1,5 @@
 {
-    "text": "Colin se redressa, la col\u00e8re montant. \"Sors !\" Il lan\u00e7a un oreiller, mais il tomba court.",
+    "text": "Colin se redressa, la colère montant. \"Sors !\" Il lança un oreiller, mais il tomba court.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.42,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "se",
             "start": 0.459,
             "end": 0.56,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "redressa,",
+            "text": "redressa",
             "start": 0.579,
             "end": 1.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,66 +32,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "col\u00e8re",
+            "text": "colère",
             "start": 1.179,
             "end": 1.479,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "montant.",
+            "text": "montant",
             "start": 1.48,
             "end": 1.939,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 2.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Sors",
+            "text": "Sors",
             "start": 2.339,
             "end": 2.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 2.739,
-            "end": 2.739,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 2.739,
-            "end": 2.739,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.739,
-            "end": 3.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.319,
-            "end": 3.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "lan\u00e7a",
+            "text": "lança",
             "start": 3.339,
             "end": 3.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.679,
-            "end": 3.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "oreiller,",
+            "text": "oreiller",
             "start": 3.779,
             "end": 4.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.219,
-            "end": 4.219,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.379,
-            "end": 4.38,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "il",
             "start": 4.38,
             "end": 4.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.519,
-            "end": 4.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,14 +102,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.839,
-            "end": 4.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "court.",
+            "text": "court",
             "start": 4.839,
             "end": 5.239,
             "type": "word",

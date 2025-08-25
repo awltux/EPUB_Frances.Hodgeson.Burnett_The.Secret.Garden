@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab S\u2019il vous pla\u00eet, monsieur, \u00bb dit Marthe, ouvrant la porte, \u00ab voici Dickon et ses cr\u00e9atures. \u00bb",
+    "text": "« S’il vous plaît, monsieur, » dit Marthe, ouvrant la porte, « voici Dickon et ses créatures. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.0,
-            "end": 0.14,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.14,
-            "end": 0.14,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "S\u2019il",
+            "text": "S’il",
             "start": 0.14,
             "end": 0.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pla\u00eet,",
+            "text": "plaît",
             "start": 0.5,
             "end": 0.779,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "monsieur,",
+            "text": "monsieur",
             "start": 0.779,
             "end": 1.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marthe,",
+            "text": "Marthe",
             "start": 1.799,
             "end": 2.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 2.519,
             "end": 2.619,
@@ -123,38 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.7,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "porte,",
+            "text": "porte",
             "start": 2.7,
             "end": 3.099,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.5,
-            "end": 3.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.5,
-            "end": 3.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dickon",
             "start": 3.779,
             "end": 4.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.239,
-            "end": 4.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.579,
-            "end": 4.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ses",
             "start": 4.579,
             "end": 4.719,
@@ -207,29 +95,8 @@
             "speaker_id": null
         },
         {
-            "text": " ",
+            "text": "créatures",
             "start": 4.719,
-            "end": 4.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cr\u00e9atures.",
-            "start": 4.719,
-            "end": 5.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.419,
-            "end": 5.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 5.419,
             "end": 5.419,
             "type": "word",
             "speaker_id": null

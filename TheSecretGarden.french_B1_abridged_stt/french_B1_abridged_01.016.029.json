@@ -1,5 +1,5 @@
 {
-    "text": "\"Il est plus gentil que n'importe qui,\" d\u00e9fendit Marie. \"Il est comme un ange !\"",
+    "text": "\"Il est plus gentil que n'importe qui,\" défendit Marie. \"Il est comme un ange !\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 0.319,
             "end": 0.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.68,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "gentil",
             "start": 0.68,
             "end": 1.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'importe",
             "start": 1.179,
             "end": 1.699,
@@ -81,65 +46,23 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.699,
-            "end": 1.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "qui,",
+            "text": "qui",
             "start": 1.699,
             "end": 1.999,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": "\"",
-            "start": 1.999,
-            "end": 1.999,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.999,
-            "end": 2.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9fendit",
+            "text": "défendit",
             "start": 2.22,
             "end": 2.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.699,
-            "end": 2.7,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 2.7,
             "end": 3.139,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.139,
-            "end": 3.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 3.139,
-            "end": 3.319,
             "type": "word",
             "speaker_id": null
         },
@@ -151,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.519,
-            "end": 3.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 3.539,
             "end": 3.72,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.72,
-            "end": 3.72,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.98,
-            "end": 3.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 3.98,
             "end": 4.119,
@@ -193,28 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.119,
-            "end": 4.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ange",
-            "start": 4.159,
-            "end": 4.659,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 4.159,
-            "end": 4.659,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
             "start": 4.159,
             "end": 4.659,
             "type": "word",

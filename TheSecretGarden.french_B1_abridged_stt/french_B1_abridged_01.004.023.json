@@ -1,5 +1,5 @@
 {
-    "text": "\"Je d\u00e9teste le noir,\" acquies\u00e7a Marie.",
+    "text": "\"Je déteste le noir,\" acquiesça Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9teste",
+            "text": "déteste",
             "start": 0.319,
             "end": 0.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.759,
-            "end": 0.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,42 +25,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "noir,",
+            "text": "noir",
             "start": 0.919,
             "end": 1.339,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "acquies\u00e7a",
+            "text": "acquiesça",
             "start": 1.339,
             "end": 1.459,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.459,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.459,
             "end": 1.559,
             "type": "word",

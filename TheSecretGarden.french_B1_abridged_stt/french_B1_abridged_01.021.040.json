@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Vous n'avez pas les jambes tordues? \u00bb demanda Ben.",
+    "text": "« Vous n'avez pas les jambes tordues? » demanda Ben.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.899,
-            "end": 1.0,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Vous",
             "start": 1.019,
             "end": 1.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 1.419,
             "end": 1.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.539,
-            "end": 1.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jambes",
             "start": 1.919,
             "end": 2.399,
@@ -81,38 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tordues?",
+            "text": "tordues",
             "start": 2.679,
             "end": 3.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.059,
-            "end": 3.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 3.099,
-            "end": 3.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.099,
-            "end": 3.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.059,
-            "end": 3.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ben.",
+            "text": "Ben",
             "start": 3.099,
             "end": 3.459,
             "type": "word",

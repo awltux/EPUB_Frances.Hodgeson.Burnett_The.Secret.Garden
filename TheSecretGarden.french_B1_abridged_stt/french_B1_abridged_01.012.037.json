@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab \u00cates-vous en bonne sant\u00e9 ? \u00bb demanda-t-il.",
+    "text": "« Êtes-vous en bonne santé ? » demanda-t-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.5,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00cates-vous",
+            "text": "Êtes-vous",
             "start": 0.5,
             "end": 0.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bonne",
             "start": 0.819,
             "end": 1.179,
@@ -53,49 +25,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sant\u00e9",
+            "text": "santé",
             "start": 1.539,
             "end": 2.3,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": "?",
-            "start": 1.539,
-            "end": 2.3,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.539,
-            "end": 2.3,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "demanda-t-il.",
+            "text": "demanda-t-il",
             "start": 1.539,
             "end": 2.3,
             "type": "word",

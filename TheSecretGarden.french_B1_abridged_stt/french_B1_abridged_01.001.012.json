@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Je ne savais pas ! \u00bb cria sa M\u00e8re, en courant \u00e0 l'int\u00e9rieur.",
+    "text": "« Je ne savais pas ! » cria sa Mère, en courant à l'intérieur.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.07,
-            "end": 0.14,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.14,
-            "end": 0.14,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.14,
             "end": 0.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "savais",
             "start": 0.379,
             "end": 0.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 1.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "! \u00bb",
-            "start": 0.979,
-            "end": 1.299,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "cria",
             "start": 1.299,
             "end": 1.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "M\u00e8re,",
+            "text": "Mère",
             "start": 1.799,
             "end": 2.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.279,
-            "end": 2.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.439,
-            "end": 2.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "courant",
             "start": 2.44,
             "end": 2.859,
@@ -151,28 +67,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 2.859,
             "end": 2.939,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.939,
-            "end": 2.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'int\u00e9rieur.",
+            "text": "l'intérieur",
             "start": 2.96,
             "end": 3.639,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Mais il n'oserait pas ! \u00bb",
+    "text": "« Mais il n'oserait pas ! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "il",
             "start": 0.259,
             "end": 0.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,28 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
-            "start": 0.819,
-            "end": 1.139,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 0.819,
-            "end": 1.139,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
             "start": 0.819,
             "end": 1.139,
             "type": "word",

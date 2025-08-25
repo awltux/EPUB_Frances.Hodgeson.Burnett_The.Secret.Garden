@@ -1,5 +1,5 @@
 {
-    "text": "\"Tout est diff\u00e9rent!\" s'exclama-t-elle. \"L'herbe est plus verte. Je suis s\u00fbre que Dickon viendra cet apr\u00e8s-midi.\"",
+    "text": "\"Tout est différent!\" s'exclama-t-elle. \"L'herbe est plus verte. Je suis sûre que Dickon viendra cet après-midi.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 0.399,
             "end": 0.559,
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.559,
-            "end": 0.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "diff\u00e9rent!",
+            "text": "différent",
             "start": 0.559,
             "end": 1.239,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.239,
-            "end": 1.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'exclama-t-elle.",
+            "text": "s'exclama-t-elle",
             "start": 1.599,
             "end": 2.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.48,
-            "end": 3.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.439,
-            "end": 3.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 3.439,
             "end": 3.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.779,
-            "end": 3.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "verte.",
+            "text": "verte",
             "start": 3.779,
             "end": 4.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.219,
-            "end": 4.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.679,
-            "end": 4.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "suis",
             "start": 4.759,
             "end": 5.039,
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.039,
-            "end": 5.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s\u00fbre",
+            "text": "sûre",
             "start": 5.039,
             "end": 5.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.279,
-            "end": 5.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.399,
-            "end": 5.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dickon",
             "start": 5.42,
             "end": 5.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.779,
-            "end": 5.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,13 +102,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.179,
-            "end": 6.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "cet",
             "start": 6.179,
             "end": 6.359,
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.359,
-            "end": 6.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "apr\u00e8s-midi.",
+            "text": "après-midi",
             "start": 6.379,
             "end": 7.08,
             "type": "word",

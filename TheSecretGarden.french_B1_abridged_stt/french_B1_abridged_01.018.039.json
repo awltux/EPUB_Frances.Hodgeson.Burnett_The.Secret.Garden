@@ -1,5 +1,5 @@
 {
-    "text": "\"Il y a plus,\" dit Marie, excit\u00e9e. \"Il y a une porte dans le jardin sous le lierre.\"",
+    "text": "\"Il y a plus,\" dit Marie, excitée. \"Il y a une porte dans le jardin sous le lierre.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.28,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "y",
             "start": 0.28,
             "end": 0.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "plus,",
+            "text": "plus",
             "start": 0.5,
             "end": 1.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +39,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie,",
+            "text": "Marie",
             "start": 1.419,
             "end": 1.779,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "excit\u00e9e.",
+            "text": "excitée",
             "start": 1.779,
             "end": 2.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.439,
-            "end": 2.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.0,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "y",
             "start": 3.0,
             "end": 3.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.059,
-            "end": 3.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.139,
-            "end": 3.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "une",
             "start": 3.139,
             "end": 3.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dans",
             "start": 3.579,
             "end": 3.719,
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.719,
-            "end": 3.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 3.719,
             "end": 3.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.299,
-            "end": 4.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sous",
             "start": 4.299,
             "end": 4.44,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.44,
-            "end": 4.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,14 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.559,
-            "end": 4.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "lierre.",
+            "text": "lierre",
             "start": 4.559,
             "end": 5.04,
             "type": "word",

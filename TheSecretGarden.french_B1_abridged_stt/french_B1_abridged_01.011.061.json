@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Je dois y aller, \u00bb dit-elle. \u00ab Et toi aussi, n'est-ce pas ? \u00bb",
+    "text": "« Je dois y aller, » dit-elle. « Et toi aussi, n'est-ce pas ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dois",
             "start": 0.299,
             "end": 0.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aller,",
+            "text": "aller",
             "start": 0.579,
             "end": 0.939,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.939,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-elle.",
+            "text": "dit-elle",
             "start": 1.12,
             "end": 1.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.739,
-            "end": 2.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.159,
-            "end": 2.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toi",
             "start": 2.159,
             "end": 2.359,
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.359,
-            "end": 2.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aussi,",
+            "text": "aussi",
             "start": 2.359,
             "end": 2.74,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.74,
-            "end": 2.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,14 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.139,
-            "end": 3.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas?",
+            "text": "pas",
             "start": 3.139,
             "end": 3.419,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Je les planterai pour toi. \u00bb dit-il. \u00ab O\u00f9 est ton jardin ? \u00bb",
+    "text": "« Je les planterai pour toi. » dit-il. « Où est ton jardin ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 0.28,
             "end": 0.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pour",
             "start": 0.879,
             "end": 1.079,
@@ -53,52 +32,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "toi.",
+            "text": "toi",
             "start": 1.079,
             "end": 1.379,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 1.819,
             "end": 2.319,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "O\u00f9",
+            "text": "Où",
             "start": 2.899,
             "end": 2.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.979,
-            "end": 2.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ton",
             "start": 3.119,
             "end": 3.259,
@@ -123,14 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.259,
-            "end": 3.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin?",
+            "text": "jardin",
             "start": 3.299,
             "end": 3.779,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "\"Au paradis,\" r\u00e9pondit-il.",
+    "text": "\"Au paradis,\" répondit-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,28 +11,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "paradis,",
+            "text": "paradis",
             "start": 0.379,
             "end": 0.859,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.859,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit-il.",
+            "text": "répondit-il",
             "start": 1.079,
             "end": 1.679,
             "type": "word",

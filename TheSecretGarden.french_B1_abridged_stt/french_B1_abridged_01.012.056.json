@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab N'ayez pas l'air si effray\u00e9e, \u00bb dit-il. \u00ab Vous ne pourriez pas. Faites ce que vous voulez. \u00bb",
+    "text": "« N'ayez pas l'air si effrayée, » dit-il. « Vous ne pourriez pas. Faites ce que vous voulez. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 0.459,
             "end": 0.56,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "si",
             "start": 0.819,
             "end": 0.959,
@@ -53,66 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "effray\u00e9e,",
+            "text": "effrayée",
             "start": 0.979,
             "end": 1.519,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.839,
-            "end": 1.839,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.839,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 1.839,
             "end": 2.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.339,
-            "end": 2.7,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.7,
-            "end": 2.7,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.7,
-            "end": 2.7,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 2.819,
             "end": 2.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.959,
-            "end": 2.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas.",
+            "text": "pas",
             "start": 3.359,
             "end": 3.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.659,
-            "end": 4.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.319,
-            "end": 4.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ce",
             "start": 4.319,
             "end": 4.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.619,
-            "end": 4.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vous",
             "start": 4.619,
             "end": 4.799,
@@ -221,29 +102,8 @@
             "speaker_id": null
         },
         {
-            "text": " ",
+            "text": "voulez",
             "start": 4.799,
-            "end": 4.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "voulez.",
-            "start": 4.799,
-            "end": 5.199,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.199,
-            "end": 5.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 5.199,
             "end": 5.199,
             "type": "word",
             "speaker_id": null

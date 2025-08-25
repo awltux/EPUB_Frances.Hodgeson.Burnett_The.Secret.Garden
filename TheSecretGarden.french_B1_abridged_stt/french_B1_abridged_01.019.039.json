@@ -1,62 +1,13 @@
 {
-    "text": "\u00ab Vraiment ? \u00bb Colin s\u2019assit dans son lit.",
+    "text": "« Vraiment ? » Colin s’assit dans son lit.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.66,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.66,
-            "end": 1.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Vraiment",
             "start": 1.139,
             "end": 1.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.5,
-            "end": 1.799,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.799,
-            "end": 2.0,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.0,
-            "end": 2.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.2,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s\u2019assit",
+            "text": "s’assit",
             "start": 2.2,
             "end": 2.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.2,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.2,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "son",
             "start": 2.2,
             "end": 2.459,
@@ -109,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.2,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "lit.",
+            "text": "lit",
             "start": 2.2,
             "end": 2.459,
             "type": "word",

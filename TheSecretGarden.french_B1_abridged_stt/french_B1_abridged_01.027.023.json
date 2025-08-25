@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.36,
-            "end": 0.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.36,
             "end": 0.5,
@@ -25,28 +18,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin,",
+            "text": "jardin",
             "start": 0.5,
             "end": 0.819,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "monsieur.",
+            "text": "monsieur",
             "start": 0.819,
             "end": 1.299,
             "type": "word",

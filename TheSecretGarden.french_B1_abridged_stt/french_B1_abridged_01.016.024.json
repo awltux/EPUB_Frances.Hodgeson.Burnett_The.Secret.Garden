@@ -1,5 +1,5 @@
 {
-    "text": "\"Je t'y forcerai. Ils te tra\u00eeneront ici.\"",
+    "text": "\"Je t'y forcerai. Ils te traîneront ici.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "t'y",
             "start": 0.34,
             "end": 0.479,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "forcerai.",
+            "text": "forcerai",
             "start": 0.479,
             "end": 0.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 1.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "te",
             "start": 1.299,
             "end": 1.439,
@@ -67,28 +39,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tra\u00eeneront",
+            "text": "traîneront",
             "start": 1.439,
             "end": 1.799,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ici.",
+            "text": "ici",
             "start": 1.799,
             "end": 2.179,
             "type": "word",

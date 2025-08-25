@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Je ne veux pas que ce soit un r\u00eave. \u00bb, dit-il.",
+    "text": "« Je ne veux pas que ce soit un rêve. », dit-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.259,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.28,
             "end": 0.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.34,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "veux",
             "start": 0.479,
             "end": 0.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.619,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.739,
-            "end": 0.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 0.759,
             "end": 0.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "soit",
             "start": 1.12,
             "end": 1.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.36,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,42 +60,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 2.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00eave.",
+            "text": "rêve",
             "start": 2.139,
             "end": 2.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.139,
-            "end": 2.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 2.139,
-            "end": 2.699,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.139,
-            "end": 2.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 2.139,
             "end": 2.699,
             "type": "word",

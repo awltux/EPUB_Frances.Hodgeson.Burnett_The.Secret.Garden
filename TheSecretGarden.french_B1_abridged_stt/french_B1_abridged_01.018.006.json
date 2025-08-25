@@ -1,5 +1,5 @@
 {
-    "text": "Le visage de Colin s'illumina. \"J'en ai r\u00eav\u00e9 toute la nuit ! J'ai r\u00eav\u00e9 de feuilles vertes et d'oiseaux. Je vais y penser jusqu'\u00e0 ton retour.\"",
+    "text": "Le visage de Colin s'illumina. \"J'en ai rêvé toute la nuit ! J'ai rêvé de feuilles vertes et d'oiseaux. Je vais y penser jusqu'à ton retour.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.199,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "visage",
             "start": 0.219,
             "end": 0.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Colin",
             "start": 0.779,
             "end": 1.12,
@@ -53,38 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'illumina.",
+            "text": "s'illumina",
             "start": 1.12,
             "end": 1.759,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.759,
-            "end": 2.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"J'en",
+            "text": "J'en",
             "start": 2.319,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.639,
-            "end": 2.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00eav\u00e9",
+            "text": "rêvé",
             "start": 2.659,
             "end": 3.0,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.0,
-            "end": 3.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.239,
-            "end": 3.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "la",
             "start": 3.279,
             "end": 3.359,
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "nuit!",
+            "text": "nuit",
             "start": 3.399,
             "end": 3.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.719,
-            "end": 4.239,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.379,
-            "end": 4.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00eav\u00e9",
+            "text": "rêvé",
             "start": 4.42,
             "end": 4.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.699,
-            "end": 4.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.879,
-            "end": 4.88,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "feuilles",
             "start": 4.88,
             "end": 5.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.239,
-            "end": 5.239,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,13 +116,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.88,
-            "end": 5.9,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 5.9,
             "end": 6.019,
@@ -235,24 +123,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.019,
-            "end": 6.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d'oiseaux.",
+            "text": "d'oiseaux",
             "start": 6.059,
             "end": 6.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.659,
-            "end": 7.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -263,24 +137,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.159,
-            "end": 7.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 7.199,
             "end": 7.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.359,
-            "end": 7.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -291,13 +151,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.5,
-            "end": 7.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "penser",
             "start": 7.5,
             "end": 7.959,
@@ -305,24 +158,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.959,
-            "end": 8.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jusqu'\u00e0",
+            "text": "jusqu'à",
             "start": 8.34,
             "end": 8.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.739,
-            "end": 8.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -333,14 +172,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.92,
-            "end": 8.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "retour.\"",
+            "text": "retour",
             "start": 8.939,
             "end": 9.56,
             "type": "word",

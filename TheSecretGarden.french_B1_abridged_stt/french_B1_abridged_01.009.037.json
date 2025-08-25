@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Veux-tu le voir ? \u00bb demanda Marthe, remarquant le bonheur de Marie.",
+    "text": "« Veux-tu le voir ? » demanda Marthe, remarquant le bonheur de Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.099,
-            "end": 0.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Veux-tu",
             "start": 0.419,
             "end": 0.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "voir",
             "start": 1.459,
             "end": 1.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.459,
-            "end": 1.859,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.459,
-            "end": 1.859,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.859,
-            "end": 1.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.3,
-            "end": 2.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marthe,",
+            "text": "Marthe",
             "start": 2.539,
             "end": 2.999,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.999,
-            "end": 3.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 3.119,
             "end": 3.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.48,
-            "end": 3.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.599,
-            "end": 3.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 3.599,
             "end": 3.999,
@@ -151,14 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.599,
-            "end": 3.999,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 3.599,
             "end": 3.999,
             "type": "word",

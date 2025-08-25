@@ -1,5 +1,5 @@
 {
-    "text": "Son chant joyeux lui fit plaisir. M\u00eame une fille d\u00e9sagr\u00e9able pouvait \u00eatre solitaire. L'oiseau fit presque sourire son visage aigre. Il n'\u00e9tait pas comme les oiseaux indiens.",
+    "text": "Son chant joyeux lui fit plaisir. Même une fille désagréable pouvait être solitaire. L'oiseau fit presque sourire son visage aigre. Il n'était pas comme les oiseaux indiens.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.28,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "chant",
             "start": 0.379,
             "end": 0.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "lui",
             "start": 1.399,
             "end": 1.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +39,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "plaisir.",
+            "text": "plaisir",
             "start": 1.819,
             "end": 2.499,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.499,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "M\u00eame",
+            "text": "Même",
             "start": 3.0,
             "end": 3.22,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.22,
-            "end": 3.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fille",
             "start": 3.48,
             "end": 3.759,
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.759,
-            "end": 3.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9sagr\u00e9able",
+            "text": "désagréable",
             "start": 3.759,
             "end": 4.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.599,
-            "end": 4.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,38 +81,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.979,
-            "end": 4.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eatre",
+            "text": "être",
             "start": 4.98,
             "end": 5.299,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.299,
-            "end": 5.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "solitaire.",
+            "text": "solitaire",
             "start": 5.299,
             "end": 6.1,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.1,
-            "end": 6.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.959,
-            "end": 6.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fit",
             "start": 6.96,
             "end": 7.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.139,
-            "end": 7.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.5,
-            "end": 7.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sourire",
             "start": 7.5,
             "end": 7.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.899,
-            "end": 7.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,13 +130,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.059,
-            "end": 8.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "visage",
             "start": 8.059,
             "end": 8.579,
@@ -263,24 +137,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.579,
-            "end": 8.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aigre.",
+            "text": "aigre",
             "start": 8.579,
             "end": 9.02,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.02,
-            "end": 9.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -291,24 +151,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.6,
-            "end": 9.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "n'\u00e9tait",
+            "text": "n'était",
             "start": 9.639,
             "end": 9.92,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.92,
-            "end": 9.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -319,24 +165,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.099,
-            "end": 10.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "comme",
             "start": 10.099,
             "end": 10.26,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 10.26,
-            "end": 10.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -347,13 +179,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.38,
-            "end": 10.42,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "oiseaux",
             "start": 10.42,
             "end": 10.779,
@@ -361,14 +186,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.779,
-            "end": 10.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "indiens.",
+            "text": "indiens",
             "start": 10.819,
             "end": 11.239,
             "type": "word",

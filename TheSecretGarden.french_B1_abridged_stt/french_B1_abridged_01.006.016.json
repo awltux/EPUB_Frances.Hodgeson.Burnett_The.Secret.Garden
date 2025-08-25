@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Peut-\u00eatre qu'elle dormait ici. \u00bb, dit Marie. \u00ab Son regard me met mal \u00e0 l'aise. \u00bb",
+    "text": "« Peut-être qu'elle dormait ici. », dit Marie. « Son regard me met mal à l'aise. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.119,
-            "end": 0.479,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Peut-\u00eatre",
+            "text": "Peut-être",
             "start": 0.519,
             "end": 0.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dormait",
             "start": 1.159,
             "end": 1.72,
@@ -53,38 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.72,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ici.",
+            "text": "ici",
             "start": 2.099,
             "end": 2.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.24,
-            "end": 2.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 2.259,
-            "end": 2.639,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.639,
-            "end": 3.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,38 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.259,
-            "end": 3.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 3.279,
             "end": 3.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.599,
-            "end": 3.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.619,
-            "end": 3.759,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.759,
-            "end": 3.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.959,
-            "end": 3.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "regard",
             "start": 3.959,
             "end": 4.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.179,
-            "end": 4.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.239,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "met",
             "start": 4.279,
             "end": 4.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.739,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,42 +81,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 4.739,
             "end": 4.739,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'aise.",
-            "start": 4.739,
-            "end": 4.739,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "l'aise",
             "start": 4.739,
             "end": 4.739,
             "type": "word",

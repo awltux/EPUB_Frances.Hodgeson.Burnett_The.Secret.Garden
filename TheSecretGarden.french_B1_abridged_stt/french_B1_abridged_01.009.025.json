@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab J'ai plus que \u00e7a. \u00bb, dit Marie. \u00ab Je re\u00e7ois un shilling par semaine \u00e0 d\u00e9penser. \u00bb",
+    "text": "« J'ai plus que ça. », dit Marie. « Je reçois un shilling par semaine à dépenser. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.34,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "plus",
             "start": 0.34,
             "end": 0.62,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a.",
+            "text": "ça",
             "start": 0.819,
             "end": 1.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.539,
-            "end": 1.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.539,
             "end": 1.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.859,
-            "end": 2.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "re\u00e7ois",
+            "text": "reçois",
             "start": 2.279,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.579,
-            "end": 2.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "shilling",
             "start": 2.579,
             "end": 2.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.979,
-            "end": 2.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.119,
-            "end": 3.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "semaine",
             "start": 3.119,
             "end": 3.48,
@@ -165,28 +88,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.48,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 3.48,
             "end": 3.579,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.579,
-            "end": 3.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9penser.",
+            "text": "dépenser",
             "start": 3.579,
             "end": 4.199,
             "type": "word",

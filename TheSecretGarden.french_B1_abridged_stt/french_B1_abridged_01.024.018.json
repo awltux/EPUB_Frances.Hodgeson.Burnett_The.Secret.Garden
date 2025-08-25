@@ -1,20 +1,13 @@
 {
-    "text": "\"Peut-\u00eatre,\" dit l'infirmi\u00e8re, l'air perplexe. \"Je dois parler au Dr. Craven.\"",
+    "text": "\"Peut-être,\" dit l'infirmière, l'air perplexe. \"Je dois parler au Dr. Craven.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Peut-\u00eatre,",
+            "text": "Peut-être",
             "start": 0.219,
             "end": 0.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.739,
-            "end": 1.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'infirmi\u00e8re,",
+            "text": "l'infirmière",
             "start": 1.159,
             "end": 1.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.019,
-            "end": 2.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "perplexe.",
+            "text": "perplexe",
             "start": 2.019,
             "end": 2.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.959,
-            "end": 2.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dois",
             "start": 2.98,
             "end": 3.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.139,
-            "end": 3.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.419,
-            "end": 3.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "au",
             "start": 3.419,
             "end": 3.48,
@@ -123,28 +67,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.48,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dr.",
+            "text": "Dr",
             "start": 3.48,
             "end": 3.819,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.819,
-            "end": 3.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Craven.",
+            "text": "Craven",
             "start": 3.819,
             "end": 4.359,
             "type": "word",

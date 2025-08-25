@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Tu es sortie ! Il y a cette bonne odeur de feuilles ! \u00bb cria Colin.",
+    "text": "« Tu es sortie ! Il y a cette bonne odeur de feuilles ! » cria Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "es",
             "start": 0.259,
             "end": 0.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 1.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 0.979,
-            "end": 1.199,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 1.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Il",
             "start": 1.199,
             "end": 1.32,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.32,
-            "end": 1.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 1.379,
             "end": 1.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.48,
-            "end": 1.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bonne",
             "start": 1.839,
             "end": 2.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.019,
-            "end": 2.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 2.379,
             "end": 2.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.619,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,41 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 3.039,
-            "end": 3.439,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 3.039,
-            "end": 3.439,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "cria",
             "start": 3.439,
             "end": 3.799,
@@ -207,14 +88,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.799,
-            "end": 3.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 3.799,
             "end": 4.219,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "\"Je suis contente,\" r\u00e9pondit Marie, sachant qu'il \u00e9tait temps de tout lui dire. \"Parce que...\"",
+    "text": "\"Je suis contente,\" répondit Marie, sachant qu'il était temps de tout lui dire. \"Parce que...\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.28,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "suis",
             "start": 0.319,
             "end": 0.479,
@@ -25,52 +18,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "contente,",
+            "text": "contente",
             "start": 0.479,
             "end": 1.019,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
+            "text": "répondit",
             "start": 1.24,
             "end": 1.62,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie,",
+            "text": "Marie",
             "start": 1.62,
             "end": 1.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.979,
-            "end": 2.18,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.5,
-            "end": 2.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'il",
             "start": 2.5,
             "end": 2.619,
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 2.619,
             "end": 2.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.879,
-            "end": 2.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.059,
-            "end": 3.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 3.059,
             "end": 3.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.179,
-            "end": 3.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "lui",
             "start": 3.299,
             "end": 3.5,
@@ -165,50 +88,22 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.5,
-            "end": 3.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dire.",
+            "text": "dire",
             "start": 3.519,
             "end": 3.84,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.84,
-            "end": 3.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Parce",
+            "text": "Parce",
             "start": 3.86,
             "end": 0.399,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 0.399,
-            "end": 0.56,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "...",
-            "start": 0.56,
             "end": 0.56,
             "type": "word",
             "speaker_id": null

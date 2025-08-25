@@ -1,23 +1,11 @@
 [
     [
-        "Êtes",
-        "/ɛt/",
+        "Êtes-vous",
+        "/ɛte.vu/",
         "v. être, 2nd person plural",
-        "Are",
+        "You are",
         "Second person plural of to be",
         "Deuxième personne du pluriel de être",
-        [],
-        [],
-        [],
-        []
-    ],
-    [
-        "-vous",
-        "/vu/",
-        "pron. pers.",
-        "you",
-        "Formal pronoun",
-        "Pronom formel",
         [],
         [],
         [],
@@ -28,12 +16,20 @@
         "/ɑ̃/",
         "prep.",
         "in",
-        "Preposition of location",
+        "Location preposition",
         "Préposition de lieu",
-        [],
-        [],
-        [],
-        []
+        [
+            "inside"
+        ],
+        [
+            "dedans"
+        ],
+        [
+            "out"
+        ],
+        [
+            "hors"
+        ]
     ],
     [
         "train",
@@ -98,30 +94,6 @@
         "Marthe",
         "A female name",
         "Un prénom féminin",
-        [],
-        [],
-        [],
-        []
-    ],
-    [
-        "​",
-        "",
-        "",
-        "",
-        "",
-        "",
-        [],
-        [],
-        [],
-        []
-    ],
-    [
-        "​",
-        "",
-        "",
-        "",
-        "",
-        "",
         [],
         [],
         [],

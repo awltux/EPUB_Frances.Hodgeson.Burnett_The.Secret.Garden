@@ -1,5 +1,5 @@
 {
-    "text": "Le rouge-gorge s'envola avec sa brindille, et Marie savait qu'il ne r\u00e9v\u00e9lerait pas leur secret.",
+    "text": "Le rouge-gorge s'envola avec sa brindille, et Marie savait qu'il ne révélerait pas leur secret.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rouge-gorge",
             "start": 0.259,
             "end": 0.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.36,
-            "end": 1.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avec",
             "start": 1.36,
             "end": 1.56,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.56,
-            "end": 1.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.7,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "brindille,",
+            "text": "brindille",
             "start": 1.719,
             "end": 2.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.219,
-            "end": 2.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.799,
-            "end": 2.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Marie",
             "start": 2.799,
             "end": 3.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.079,
-            "end": 3.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.399,
-            "end": 3.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'il",
             "start": 3.399,
             "end": 3.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.599,
-            "end": 3.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.699,
-            "end": 3.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9v\u00e9lerait",
+            "text": "révélerait",
             "start": 3.74,
             "end": 4.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.219,
-            "end": 4.219,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.339,
-            "end": 4.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "leur",
             "start": 4.339,
             "end": 4.539,
@@ -193,14 +102,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "secret.",
+            "text": "secret",
             "start": 4.539,
             "end": 5.04,
             "type": "word",

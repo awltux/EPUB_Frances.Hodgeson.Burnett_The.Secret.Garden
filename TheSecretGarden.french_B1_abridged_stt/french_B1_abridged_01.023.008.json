@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Suis-je impoli ? \u00bb demanda Colin, indiff\u00e9rent.",
+    "text": "« Suis-je impoli ? » demanda Colin, indifférent.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.599,
-            "end": 0.879,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Suis-je",
             "start": 0.879,
             "end": 1.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,27 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": "?",
-            "start": 2.139,
-            "end": 2.18,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.18,
-            "end": 2.56,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.56,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "demanda",
             "start": 2.74,
             "end": 3.419,
@@ -67,28 +25,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.74,
-            "end": 3.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin,",
+            "text": "Colin",
             "start": 2.74,
             "end": 3.419,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.74,
-            "end": 3.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "indiff\u00e9rent.",
+            "text": "indifférent",
             "start": 2.74,
             "end": 3.419,
             "type": "word",

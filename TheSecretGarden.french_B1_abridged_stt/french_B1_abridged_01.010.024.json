@@ -1,5 +1,5 @@
 {
-    "text": "\"Elles ont \u00e9t\u00e9 laiss\u00e9es \u00e0 elles-m\u00eames.\"",
+    "text": "\"Elles ont été laissées à elles-mêmes.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ont",
             "start": 0.419,
             "end": 0.579,
@@ -25,56 +18,28 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9t\u00e9",
+            "text": "été",
             "start": 0.579,
             "end": 0.739,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.739,
-            "end": 0.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "laiss\u00e9es",
+            "text": "laissées",
             "start": 0.739,
             "end": 1.079,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 1.159,
             "end": 1.179,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "elles-m\u00eames.",
+            "text": "elles-mêmes",
             "start": 1.179,
             "end": 1.819,
             "type": "word",

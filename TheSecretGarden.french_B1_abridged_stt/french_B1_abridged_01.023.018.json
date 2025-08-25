@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Je le pense aussi. \u00bb",
+    "text": "« Je le pense aussi. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.259,
-            "end": 0.379,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.399,
             "end": 0.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pense",
             "start": 0.819,
             "end": 1.239,
@@ -53,21 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aussi.",
-            "start": 0.819,
-            "end": 1.239,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " \u00bb",
+            "text": "aussi",
             "start": 0.819,
             "end": 1.239,
             "type": "word",

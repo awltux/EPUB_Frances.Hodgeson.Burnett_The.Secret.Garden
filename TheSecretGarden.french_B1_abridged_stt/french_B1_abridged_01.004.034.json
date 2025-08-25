@@ -1,5 +1,5 @@
 {
-    "text": "Marthe eut l'air agac\u00e9e. \"Tu devrais essayer! J'aimerais que mes fr\u00e8res et s\u0153urs aient \u00e7a.\"",
+    "text": "Marthe eut l'air agacée. \"Tu devrais essayer! J'aimerais que mes frères et sœurs aient ça.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "eut",
             "start": 0.62,
             "end": 0.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "agac\u00e9e.",
+            "text": "agacée",
             "start": 1.039,
             "end": 1.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.639,
-            "end": 2.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 2.059,
-            "end": 2.059,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.059,
-            "end": 2.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "devrais",
             "start": 2.24,
             "end": 2.779,
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "essayer!",
+            "text": "essayer",
             "start": 2.799,
             "end": 3.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.559,
-            "end": 3.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.279,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 4.279,
             "end": 4.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.419,
-            "end": 4.42,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.619,
-            "end": 4.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fr\u00e8res",
+            "text": "frères",
             "start": 4.619,
             "end": 5.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.119,
-            "end": 5.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.219,
-            "end": 5.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s\u0153urs",
+            "text": "sœurs",
             "start": 5.339,
             "end": 5.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.899,
-            "end": 5.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,14 +102,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.319,
-            "end": 6.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a.\"",
+            "text": "ça",
             "start": 6.5,
             "end": 6.819,
             "type": "word",

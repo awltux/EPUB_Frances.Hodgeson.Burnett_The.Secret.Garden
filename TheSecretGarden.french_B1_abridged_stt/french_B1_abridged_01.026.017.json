@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "retira",
             "start": 0.459,
             "end": 0.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "casquette.",
+            "text": "casquette",
             "start": 0.979,
             "end": 1.56,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.56,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Tu",
+            "text": "Tu",
             "start": 1.899,
             "end": 2.0,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.0,
-            "end": 2.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.199,
-            "end": 2.2,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "enlever",
             "start": 2.2,
             "end": 2.46,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.46,
-            "end": 2.46,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.559,
-            "end": 2.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tienne",
             "start": 2.619,
             "end": 2.819,
@@ -123,42 +67,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aussi,",
+            "text": "aussi",
             "start": 2.819,
             "end": 3.199,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.199,
-            "end": 3.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin,",
+            "text": "Colin",
             "start": 3.199,
             "end": 3.659,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.659,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ben.\"",
+            "text": "Ben",
             "start": 3.859,
             "end": 4.219,
             "type": "word",

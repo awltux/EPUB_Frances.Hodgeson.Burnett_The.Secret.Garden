@@ -1,5 +1,5 @@
 {
-    "text": "Il fron\u00e7a les sourcils. \"Dites-lui de venir ici.\"",
+    "text": "Il fronça les sourcils. \"Dites-lui de venir ici.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fron\u00e7a",
+            "text": "fronça",
             "start": 0.259,
             "end": 0.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.679,
-            "end": 0.68,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sourcils.",
+            "text": "sourcils",
             "start": 0.68,
             "end": 1.199,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Dites-lui",
+            "text": "Dites-lui",
             "start": 1.62,
             "end": 2.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.179,
-            "end": 2.18,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "venir",
             "start": 2.18,
             "end": 2.46,
@@ -95,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.46,
-            "end": 2.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ici.\"",
+            "text": "ici",
             "start": 2.46,
             "end": 2.879,
             "type": "word",

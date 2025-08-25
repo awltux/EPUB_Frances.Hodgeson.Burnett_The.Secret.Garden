@@ -1,5 +1,5 @@
 {
-    "text": "\"Pas cette ann\u00e9e. Mes rhumatismes me rendent trop raide.\"",
+    "text": "\"Pas cette année. Mes rhumatismes me rendent trop raide.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.36,
-            "end": 0.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "cette",
             "start": 0.36,
             "end": 0.54,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.54,
-            "end": 0.54,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ann\u00e9e.",
+            "text": "année",
             "start": 0.54,
             "end": 1.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rhumatismes",
             "start": 1.179,
             "end": 1.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.759,
-            "end": 1.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rendent",
             "start": 1.939,
             "end": 2.22,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.22,
-            "end": 2.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.48,
-            "end": 2.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "raide.",
+            "text": "raide",
             "start": 2.48,
             "end": 2.859,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Cet apr\u00e8s-midi, elle resta \u00e0 l'int\u00e9rieur, imprimant une lettre \u00e0 Dickon que Marthe dicta.",
+    "text": "Cet après-midi, elle resta à l'intérieur, imprimant une lettre à Dickon que Marthe dicta.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "apr\u00e8s-midi,",
+            "text": "après-midi",
             "start": 0.319,
             "end": 0.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 1.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "resta",
             "start": 1.159,
             "end": 1.48,
@@ -53,38 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.48,
-            "end": 1.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 1.48,
             "end": 1.559,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'int\u00e9rieur,",
+            "text": "l'intérieur",
             "start": 1.559,
             "end": 2.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "une",
             "start": 2.859,
             "end": 2.98,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.98,
-            "end": 2.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.239,
-            "end": 3.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 3.24,
             "end": 3.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.799,
-            "end": 3.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 3.799,
             "end": 3.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.959,
-            "end": 3.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,14 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.299,
-            "end": 4.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dicta.",
+            "text": "dicta",
             "start": 4.339,
             "end": 4.839,
             "type": "word",

@@ -1,22 +1,8 @@
 {
-    "text": "\u00ab Je vais regarder tout pousser ici. Je vais pousser ici moi-m\u00eame. \u00bb",
+    "text": "« Je vais regarder tout pousser ici. Je vais pousser ici moi-même. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.239,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.239,
@@ -25,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.4,
-            "end": 0.4,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 0.4,
             "end": 0.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tout",
             "start": 1.019,
             "end": 1.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.899,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ici.",
+            "text": "ici",
             "start": 1.899,
             "end": 2.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.24,
-            "end": 2.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.339,
-            "end": 2.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 2.359,
             "end": 2.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.0,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ici",
             "start": 3.0,
             "end": 3.639,
@@ -151,21 +74,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.639,
-            "end": 3.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "moi-m\u00eame.",
-            "start": 3.639,
-            "end": 4.239,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " \u00bb",
+            "text": "moi-même",
             "start": 3.639,
             "end": 4.239,
             "type": "word",

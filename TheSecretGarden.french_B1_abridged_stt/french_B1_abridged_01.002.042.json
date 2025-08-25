@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab Oui, elle est morte, \u00bb r\u00e9pondit Mme Medlock. \u00ab Cela l'a rendu encore plus \u00e9trange. Il ne se soucie de personne. Il reste surtout \u00e0 l'\u00e9cart, et quand il est \u00e0 Misselthwaite, il s'enferme dans l'aile ouest. Seul Pitcher le voit. \u00bb",
+    "text": "« Oui, elle est morte, » répondit Mme Medlock. « Cela l'a rendu encore plus étrange. Il ne se soucie de personne. Il reste surtout à l'écart, et quand il est à Misselthwaite, il s'enferme dans l'aile ouest. Seul Pitcher le voit. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 0.119,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 0.919,
             "end": 1.179,
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "morte,",
+            "text": "morte",
             "start": 1.179,
             "end": 1.639,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.639,
-            "end": 2.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
+            "text": "répondit",
             "start": 2.0,
             "end": 2.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.659,
-            "end": 2.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Medlock.",
+            "text": "Medlock",
             "start": 2.679,
             "end": 3.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.219,
-            "end": 3.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.759,
-            "end": 3.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'a",
             "start": 3.759,
             "end": 3.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.44,
-            "end": 4.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "encore",
             "start": 4.44,
             "end": 4.96,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.96,
-            "end": 4.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9trange.",
+            "text": "étrange",
             "start": 5.179,
             "end": 5.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.819,
-            "end": 6.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.259,
-            "end": 6.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 6.279,
             "end": 6.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.339,
-            "end": 6.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.539,
-            "end": 6.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "soucie",
             "start": 6.559,
             "end": 6.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.879,
-            "end": 6.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,24 +130,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.039,
-            "end": 7.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "personne.",
+            "text": "personne",
             "start": 7.039,
             "end": 7.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.659,
-            "end": 8.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -277,24 +144,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.239,
-            "end": 8.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "reste",
             "start": 8.239,
             "end": 8.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 8.619,
-            "end": 8.619,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -305,38 +158,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.92,
-            "end": 8.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 8.96,
             "end": 8.98,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.98,
-            "end": 8.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'\u00e9cart,",
+            "text": "l'écart",
             "start": 8.98,
             "end": 9.499,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.499,
-            "end": 9.76,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -347,24 +179,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 9.92,
-            "end": 9.92,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "quand",
             "start": 9.92,
             "end": 10.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 10.119,
-            "end": 10.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -375,13 +193,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.239,
-            "end": 10.26,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 10.26,
             "end": 10.4,
@@ -389,38 +200,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.4,
-            "end": 10.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 10.439,
             "end": 10.46,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 10.46,
-            "end": 10.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Misselthwaite,",
+            "text": "Misselthwaite",
             "start": 10.519,
             "end": 11.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 11.299,
-            "end": 11.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -431,24 +221,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 11.64,
-            "end": 11.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'enferme",
             "start": 11.699,
             "end": 12.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 12.119,
-            "end": 12.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -459,13 +235,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 12.239,
-            "end": 12.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'aile",
             "start": 12.279,
             "end": 12.539,
@@ -473,24 +242,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 12.539,
-            "end": 12.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ouest.",
+            "text": "ouest",
             "start": 12.539,
             "end": 13.02,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 13.02,
-            "end": 13.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -501,24 +256,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 13.579,
-            "end": 13.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Pitcher",
             "start": 13.579,
             "end": 13.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 13.979,
-            "end": 13.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -529,14 +270,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 14.139,
-            "end": 14.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "voit.",
+            "text": "voit",
             "start": 14.139,
             "end": 14.419,
             "type": "word",

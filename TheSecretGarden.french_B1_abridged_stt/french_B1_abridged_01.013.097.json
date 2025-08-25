@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Je vais te dire comment ce serait, \u00bb dit-elle. \u00ab Il a \u00e9t\u00e9 ferm\u00e9 si longtemps, les choses pourraient \u00eatre emm\u00eal\u00e9es. \u00bb",
+    "text": "« Je vais te dire comment ce serait, » dit-elle. « Il a été fermé si longtemps, les choses pourraient être emmêlées. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.199,
-            "end": 0.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 0.199,
             "end": 0.4,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.4,
-            "end": 0.4,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dire",
             "start": 0.579,
             "end": 0.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.759,
-            "end": 0.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ce",
             "start": 1.059,
             "end": 1.259,
@@ -81,38 +46,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "serait,",
+            "text": "serait",
             "start": 1.259,
             "end": 1.719,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.719,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-elle.",
+            "text": "dit-elle",
             "start": 1.899,
             "end": 2.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.739,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 2.74,
             "end": 2.819,
@@ -137,38 +74,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9t\u00e9",
+            "text": "été",
             "start": 2.839,
             "end": 3.039,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ferm\u00e9",
+            "text": "fermé",
             "start": 3.039,
             "end": 3.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "longtemps,",
+            "text": "longtemps",
             "start": 3.48,
             "end": 4.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.119,
-            "end": 4.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.279,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "choses",
             "start": 4.279,
             "end": 4.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,28 +123,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.859,
-            "end": 4.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00eatre",
+            "text": "être",
             "start": 4.859,
             "end": 5.199,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.199,
-            "end": 5.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "emm\u00eal\u00e9es.",
+            "text": "emmêlées",
             "start": 5.199,
             "end": 5.799,
             "type": "word",

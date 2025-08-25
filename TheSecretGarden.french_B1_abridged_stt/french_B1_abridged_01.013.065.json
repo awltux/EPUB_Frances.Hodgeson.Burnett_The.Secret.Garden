@@ -1,5 +1,5 @@
 {
-    "text": "Il \u00e9tait comme elle, sans rien \u00e0 quoi penser. Le jardin cach\u00e9 l'intrigait.",
+    "text": "Il était comme elle, sans rien à quoi penser. Le jardin caché l'intrigait.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.219,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "elle,",
+            "text": "elle",
             "start": 0.719,
             "end": 1.059,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.059,
-            "end": 1.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rien",
             "start": 1.439,
             "end": 1.659,
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 1.699,
             "end": 1.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.959,
-            "end": 1.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "penser.",
+            "text": "penser",
             "start": 1.959,
             "end": 2.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.439,
-            "end": 2.919,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jardin",
             "start": 3.079,
             "end": 3.379,
@@ -151,28 +81,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.379,
-            "end": 3.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "cach\u00e9",
+            "text": "caché",
             "start": 3.419,
             "end": 3.759,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.759,
-            "end": 3.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'intrigait.",
+            "text": "l'intrigait",
             "start": 3.759,
             "end": 4.399,
             "type": "word",

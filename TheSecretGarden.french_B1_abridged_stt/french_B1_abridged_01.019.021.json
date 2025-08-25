@@ -1,5 +1,5 @@
 {
-    "text": "Le Dr Craven sourit. \u00ab Ah, Dickon. Il est fort comme un poney des landes. \u00bb",
+    "text": "Le Dr Craven sourit. « Ah, Dickon. Il est fort comme un poney des landes. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.2,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dr",
             "start": 0.219,
             "end": 0.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,66 +25,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sourit.",
+            "text": "sourit",
             "start": 0.959,
             "end": 1.399,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.399,
-            "end": 1.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 1.639,
-            "end": 1.96,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.96,
-            "end": 1.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ah,",
+            "text": "Ah",
             "start": 1.979,
             "end": 2.6,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.6,
-            "end": 2.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon.",
+            "text": "Dickon",
             "start": 2.939,
             "end": 3.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.079,
-            "end": 3.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 3.339,
             "end": 3.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.639,
-            "end": 3.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.839,
-            "end": 3.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "comme",
             "start": 3.839,
             "end": 4.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.079,
-            "end": 4.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.36,
-            "end": 4.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "poney",
             "start": 4.36,
             "end": 4.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.539,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,21 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.959,
-            "end": 4.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "landes.",
-            "start": 4.959,
-            "end": 4.959,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "landes",
             "start": 4.959,
             "end": 4.959,
             "type": "word",

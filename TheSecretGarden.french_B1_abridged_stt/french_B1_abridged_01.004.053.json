@@ -1,5 +1,5 @@
 {
-    "text": "\"Un autre. Il y en a d'autres de l'autre c\u00f4t\u00e9.\"",
+    "text": "\"Un autre. Il y en a d'autres de l'autre côté.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.34,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "autre.",
+            "text": "autre",
             "start": 0.439,
             "end": 0.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.739,
-            "end": 1.12,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "y",
             "start": 1.259,
             "end": 1.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 1.419,
             "end": 1.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 1.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 1.939,
             "end": 2.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.019,
-            "end": 2.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,14 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "c\u00f4t\u00e9.",
+            "text": "côté",
             "start": 2.319,
             "end": 2.719,
             "type": "word",

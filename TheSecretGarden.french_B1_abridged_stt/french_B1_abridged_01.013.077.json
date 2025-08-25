@@ -1,48 +1,13 @@
 {
-    "text": "\u00ab Oui, \u00bb dit Marie doucement.",
+    "text": "« Oui, » dit Marie doucement.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.119,
-            "end": 0.159,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.159,
-            "end": 0.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 0.179,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 0.819,
-            "end": 0.939,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.939,
-            "end": 0.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.239,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Marie",
             "start": 1.259,
             "end": 1.779,
@@ -67,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "doucement.",
+            "text": "doucement",
             "start": 1.799,
             "end": 2.219,
             "type": "word",

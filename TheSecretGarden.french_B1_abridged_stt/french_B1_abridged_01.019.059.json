@@ -1,34 +1,20 @@
 {
-    "text": "\u00ab C\u2019est l\u2019agneau. Il arrive. \u00bb",
+    "text": "« C’est l’agneau. Il arrive. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "C\u2019est",
+            "text": "C’est",
             "start": 0.119,
             "end": 0.299,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l\u2019agneau.",
+            "text": "l’agneau",
             "start": 0.299,
             "end": 0.78,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.78,
-            "end": 0.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "arrive.",
+            "text": "arrive",
             "start": 1.12,
             "end": 1.6,
             "type": "word",

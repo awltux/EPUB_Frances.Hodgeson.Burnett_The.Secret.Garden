@@ -1,5 +1,5 @@
 {
-    "text": "\"Elle n'est pas tr\u00e8s belle \u00e0 regarder!\" dit Mme Medlock \u00e0 la femme de l'officier. \"Et sa m\u00e8re \u00e9tait une beaut\u00e9!\"",
+    "text": "\"Elle n'est pas très belle à regarder!\" dit Mme Medlock à la femme de l'officier. \"Et sa mère était une beauté!\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'est",
             "start": 0.299,
             "end": 0.499,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.499,
-            "end": 0.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "tr\u00e8s",
+            "text": "très",
             "start": 0.62,
             "end": 0.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,38 +39,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 1.019,
             "end": 1.12,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "regarder!",
+            "text": "regarder",
             "start": 1.12,
             "end": 1.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 2.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.119,
-            "end": 2.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Mme",
             "start": 2.139,
             "end": 2.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 2.819,
             "end": 2.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.999,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "femme",
             "start": 3.0,
             "end": 3.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.219,
-            "end": 3.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,38 +102,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.279,
-            "end": 3.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'officier.",
+            "text": "l'officier",
             "start": 3.279,
             "end": 3.839,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.839,
-            "end": 4.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Et",
+            "text": "Et",
             "start": 4.179,
             "end": 4.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.339,
-            "end": 4.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,38 +123,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "m\u00e8re",
+            "text": "mère",
             "start": 4.539,
             "end": 4.739,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.739,
-            "end": 4.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 4.739,
             "end": 5.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.019,
-            "end": 5.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -277,14 +144,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.159,
-            "end": 5.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "beaut\u00e9!\"",
+            "text": "beauté",
             "start": 5.159,
             "end": 5.639,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Il fit le tour complet du jardin. Quand il revint, ses joues \u00e9taient rouges.",
+    "text": "Il fit le tour complet du jardin. Quand il revint, ses joues étaient rouges.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fit",
             "start": 0.319,
             "end": 0.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tour",
             "start": 0.659,
             "end": 0.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.24,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "du",
             "start": 1.24,
             "end": 1.379,
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jardin.",
+            "text": "jardin",
             "start": 1.399,
             "end": 1.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 2.18,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.359,
-            "end": 2.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "il",
             "start": 2.379,
             "end": 2.559,
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.559,
-            "end": 2.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "revint,",
+            "text": "revint",
             "start": 2.559,
             "end": 2.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.979,
-            "end": 3.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.539,
-            "end": 3.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "joues",
             "start": 3.639,
             "end": 4.0,
@@ -165,28 +88,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.0,
-            "end": 4.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9taient",
+            "text": "étaient",
             "start": 4.0,
             "end": 4.46,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.46,
-            "end": 4.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "rouges.",
+            "text": "rouges",
             "start": 4.46,
             "end": 4.98,
             "type": "word",

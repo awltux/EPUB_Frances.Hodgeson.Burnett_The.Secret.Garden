@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.379,
-            "end": 0.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Medlock",
             "start": 0.379,
             "end": 0.74,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.74,
-            "end": 0.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.08,
-            "end": 1.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "rapidement.",
+            "text": "rapidement",
             "start": 1.159,
             "end": 1.619,
             "type": "word",

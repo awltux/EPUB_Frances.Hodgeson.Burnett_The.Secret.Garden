@@ -1,34 +1,20 @@
 {
-    "text": "\"Rien,\" r\u00e9pondit-elle. \"Je ne connais pas de tels endroits.\"",
+    "text": "\"Rien,\" répondit-elle. \"Je ne connais pas de tels endroits.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Rien,",
+            "text": "Rien",
             "start": 0.179,
             "end": 0.559,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.559,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit-elle.",
+            "text": "répondit-elle",
             "start": 0.859,
             "end": 1.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 1.899,
             "end": 1.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.979,
-            "end": 1.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 2.259,
             "end": 2.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.519,
-            "end": 2.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tels",
             "start": 2.519,
             "end": 2.699,
@@ -109,14 +60,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.699,
-            "end": 2.72,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "endroits.",
+            "text": "endroits",
             "start": 2.72,
             "end": 3.159,
             "type": "word",

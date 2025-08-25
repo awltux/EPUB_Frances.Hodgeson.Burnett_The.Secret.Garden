@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Dois-tu faire ce qui me pla\u00eet ? \u00bb demanda-t-il.",
+    "text": "« Dois-tu faire ce qui me plaît ? » demanda-t-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.099,
-            "end": 0.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Dois-tu",
             "start": 0.459,
             "end": 0.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ce",
             "start": 0.819,
             "end": 0.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "me",
             "start": 1.12,
             "end": 1.439,
@@ -81,42 +39,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pla\u00eet",
+            "text": "plaît",
             "start": 1.74,
             "end": 2.56,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": "?",
-            "start": 1.74,
-            "end": 2.56,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.74,
-            "end": 2.56,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.74,
-            "end": 2.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "demanda-t-il.",
+            "text": "demanda-t-il",
             "start": 1.74,
             "end": 2.56,
             "type": "word",

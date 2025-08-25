@@ -1,5 +1,5 @@
 {
-    "text": "Dickon sourit. \u00ab Elle est aussi *wick* que toi ou moi. \u00bb",
+    "text": "Dickon sourit. « Elle est aussi *wick* que toi ou moi. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.48,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sourit.",
+            "text": "sourit",
             "start": 0.5,
             "end": 0.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.839,
-            "end": 1.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "est",
             "start": 1.319,
             "end": 1.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "*wick*",
+            "text": "wick",
             "start": 1.959,
             "end": 2.44,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.44,
-            "end": 2.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.539,
-            "end": 2.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toi",
             "start": 2.579,
             "end": 2.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,14 +67,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.919,
-            "end": 2.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "moi.",
+            "text": "moi",
             "start": 2.919,
             "end": 3.219,
             "type": "word",

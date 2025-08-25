@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rouge-gorge",
             "start": 0.28,
             "end": 0.839,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sautillait,",
+            "text": "sautillait",
             "start": 0.839,
             "end": 1.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.5,
-            "end": 1.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "regardant.",
+            "text": "regardant",
             "start": 1.62,
             "end": 2.219,
             "type": "word",

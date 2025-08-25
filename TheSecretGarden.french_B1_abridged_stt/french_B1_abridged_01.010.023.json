@@ -1,5 +1,5 @@
 {
-    "text": "\"Qu'est-il arriv\u00e9 aux roses?\"",
+    "text": "\"Qu'est-il arrivé aux roses?\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "arriv\u00e9",
+            "text": "arrivé",
             "start": 0.519,
             "end": 0.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "roses?",
+            "text": "roses",
             "start": 0.979,
             "end": 1.399,
             "type": "word",

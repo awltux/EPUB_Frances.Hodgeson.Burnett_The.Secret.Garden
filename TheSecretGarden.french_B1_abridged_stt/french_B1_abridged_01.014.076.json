@@ -1,5 +1,5 @@
 {
-    "text": "Il bougea comme s'il \u00e9tait surpris. \u00ab Aller dans la lande ? Comment pourrais-je ? Je vais mourir. \u00bb",
+    "text": "Il bougea comme s'il était surpris. « Aller dans la lande ? Comment pourrais-je ? Je vais mourir. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.28,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "bougea",
             "start": 0.299,
             "end": 0.639,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.839,
-            "end": 0.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'il",
             "start": 0.839,
             "end": 0.979,
@@ -53,52 +32,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.979,
             "end": 1.259,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "surpris.",
+            "text": "surpris",
             "start": 1.259,
             "end": 1.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 2.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.299,
-            "end": 2.299,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.299,
-            "end": 2.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.559,
-            "end": 2.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dans",
             "start": 2.559,
             "end": 2.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.699,
-            "end": 2.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,31 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.839,
-            "end": 2.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "lande",
             "start": 2.859,
             "end": 3.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 3.219,
-            "end": 3.219,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.219,
-            "end": 3.679,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -172,31 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.98,
-            "end": 3.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pourrais-je",
             "start": 3.98,
             "end": 4.54,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 4.54,
-            "end": 4.54,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.54,
-            "end": 5.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "vais",
             "start": 5.199,
             "end": 5.379,
@@ -221,22 +102,8 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.379,
-            "end": 5.38,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mourir.",
+            "text": "mourir",
             "start": 5.38,
-            "end": 5.979,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 5.979,
             "end": 5.979,
             "type": "word",
             "speaker_id": null

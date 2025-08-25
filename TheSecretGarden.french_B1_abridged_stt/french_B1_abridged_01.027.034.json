@@ -1,5 +1,5 @@
 {
-    "text": "Le jardin \u00e9tait un d\u00e9sert de couleurs automnales. \"Je pensais qu'il serait mort,\" dit-il.",
+    "text": "Le jardin était un désert de couleurs automnales. \"Je pensais qu'il serait mort,\" dit-il.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jardin",
             "start": 0.259,
             "end": 0.56,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.56,
-            "end": 0.56,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.56,
             "end": 0.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9sert",
+            "text": "désert",
             "start": 0.919,
             "end": 1.22,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.22,
-            "end": 1.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.36,
-            "end": 1.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "couleurs",
             "start": 1.379,
             "end": 1.62,
@@ -95,38 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "automnales.",
+            "text": "automnales",
             "start": 1.639,
             "end": 2.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 2.679,
-            "end": 2.839,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.839,
-            "end": 2.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.159,
-            "end": 3.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pensais",
             "start": 3.179,
             "end": 3.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.379,
-            "end": 3.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,13 +81,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.659,
-            "end": 3.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "serait",
             "start": 3.659,
             "end": 4.059,
@@ -179,28 +88,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.059,
-            "end": 4.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mort,\"",
+            "text": "mort",
             "start": 4.219,
             "end": 4.779,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.779,
-            "end": 4.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il.",
+            "text": "dit-il",
             "start": 4.779,
             "end": 4.779,
             "type": "word",

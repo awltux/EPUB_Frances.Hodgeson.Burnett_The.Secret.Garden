@@ -1,20 +1,13 @@
 {
-    "text": "\"\u00c0 quoi penses-tu, Ben?\" demanda Colin.",
+    "text": "\"À quoi penses-tu, Ben?\" demanda Colin.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00c0",
+            "text": "À",
             "start": 0.219,
             "end": 0.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "penses-tu,",
+            "text": "penses-tu",
             "start": 0.479,
             "end": 0.919,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.919,
-            "end": 0.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ben?",
+            "text": "Ben",
             "start": 0.919,
             "end": 1.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.259,
-            "end": 1.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.839,
-            "end": 1.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.839,
             "end": 2.32,
             "type": "word",

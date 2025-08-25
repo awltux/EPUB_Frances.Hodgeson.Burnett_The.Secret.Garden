@@ -1,5 +1,5 @@
 {
-    "text": "Dickon fut l\u00e0 imm\u00e9diatement. Marie haleta.",
+    "text": "Dickon fut là immédiatement. Marie haleta.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fut",
             "start": 0.5,
             "end": 0.639,
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l\u00e0",
+            "text": "là",
             "start": 0.639,
             "end": 0.879,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "imm\u00e9diatement.",
+            "text": "immédiatement",
             "start": 0.899,
             "end": 1.6,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.6,
-            "end": 1.799,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "haleta.",
+            "text": "haleta",
             "start": 2.159,
             "end": 2.639,
             "type": "word",

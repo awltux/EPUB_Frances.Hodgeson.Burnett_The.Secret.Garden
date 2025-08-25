@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Tu n'attrapes jamais froid ? \u00bb demanda Marie, surprise.",
+    "text": "« Tu n'attrapes jamais froid ? » demanda Marie, surprise.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.0,
-            "end": 0.0,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.0,
-            "end": 0.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Tu",
             "start": 0.219,
             "end": 0.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jamais",
             "start": 0.719,
             "end": 1.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,41 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.379,
-            "end": 1.379,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.379,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "demanda",
             "start": 1.799,
             "end": 2.159,
@@ -109,28 +39,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.159,
-            "end": 2.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie,",
+            "text": "Marie",
             "start": 2.159,
             "end": 2.54,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.54,
-            "end": 2.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "surprise.",
+            "text": "surprise",
             "start": 2.579,
             "end": 3.219,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Savez-vous qui je suis? \u00bb r\u00e9p\u00e9ta Colin. \u00ab R\u00e9pondez! \u00bb",
+    "text": "« Savez-vous qui je suis? » répéta Colin. « Répondez! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qui",
             "start": 0.579,
             "end": 0.74,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.74,
-            "end": 0.74,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,56 +25,28 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.939,
-            "end": 0.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "suis?",
+            "text": "suis",
             "start": 0.939,
             "end": 1.22,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.22,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9p\u00e9ta",
+            "text": "répéta",
             "start": 1.5,
             "end": 1.879,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 1.879,
             "end": 2.259,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "R\u00e9pondez!",
+            "text": "Répondez",
             "start": 2.599,
             "end": 3.259,
             "type": "word",

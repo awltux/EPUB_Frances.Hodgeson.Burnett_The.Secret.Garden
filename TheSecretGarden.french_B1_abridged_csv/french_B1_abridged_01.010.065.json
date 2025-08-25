@@ -224,10 +224,30 @@
         []
     ],
     [
-        "Personne",
+        "personne",
         "/pɛʁ.sɔn/",
         "pron. indef.",
         "Nobody",
+        "Not anyone",
+        "Nul",
+        [
+            "no one"
+        ],
+        [
+            "nul"
+        ],
+        [
+            "everybody"
+        ],
+        [
+            "tout le monde"
+        ]
+    ],
+    [
+        "Personne",
+        "/pɛʁ.sɔn/",
+        "pron. indef.",
+        "person",
         "Not anyone",
         "Nul",
         [
@@ -287,7 +307,7 @@
         "personne",
         "/pɛʁ.sɔn/",
         "pron. indef.",
-        "nobody",
+        "person",
         "No one",
         "Nul",
         [
@@ -368,6 +388,18 @@
         [
             "probablement"
         ],
+        [],
+        []
+    ],
+    [
+        "que",
+        "/kə/",
+        "conj.",
+        "that",
+        "Conjunction introducing a clause",
+        "Conjonction introduisant une proposition",
+        [],
+        [],
         [],
         []
     ],
@@ -486,26 +518,6 @@
         [],
         [],
         []
-    ],
-    [
-        "rien",
-        "/ʁjɛ̃/",
-        "pron.",
-        "nothing",
-        "Not anything",
-        "Pas quelque chose",
-        [
-            "zero"
-        ],
-        [
-            "néant"
-        ],
-        [
-            "everything"
-        ],
-        [
-            "tout"
-        ]
     ],
     [
         "pas",

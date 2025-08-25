@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Les muguets, oui, \u00bb dit-il, en creusant. \u00ab Et les campanules, et les campanules. \u00bb",
+    "text": "« Les muguets, oui, » dit-il, en creusant. « Et les campanules, et les campanules. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,52 +11,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.299,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "muguets,",
+            "text": "muguets",
             "start": 0.299,
             "end": 0.859,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "oui,",
+            "text": "oui",
             "start": 0.899,
             "end": 1.139,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-il,",
+            "text": "dit-il",
             "start": 1.48,
             "end": 1.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.979,
-            "end": 1.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.139,
-            "end": 2.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "creusant.",
+            "text": "creusant",
             "start": 2.139,
             "end": 2.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.819,
-            "end": 2.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.919,
-            "end": 2.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 2.919,
             "end": 3.039,
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "campanules,",
+            "text": "campanules",
             "start": 3.059,
             "end": 3.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.799,
-            "end": 3.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.999,
-            "end": 4.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 4.0,
             "end": 4.139,
@@ -151,14 +81,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.139,
-            "end": 4.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "campanules.",
+            "text": "campanules",
             "start": 4.139,
             "end": 5.059,
             "type": "word",

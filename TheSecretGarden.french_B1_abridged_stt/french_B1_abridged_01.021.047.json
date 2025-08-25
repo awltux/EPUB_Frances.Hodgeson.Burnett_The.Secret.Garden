@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Il est aussi droit que moi! \u00bb cria Dickon.",
+    "text": "« Il est aussi droit que moi! » cria Dickon.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.179,
-            "end": 0.319,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Il",
             "start": 0.34,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.759,
-            "end": 0.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "aussi",
             "start": 0.759,
             "end": 1.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 1.199,
             "end": 1.479,
@@ -81,38 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.479,
-            "end": 1.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "moi!",
+            "text": "moi",
             "start": 1.479,
             "end": 1.74,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.74,
-            "end": 1.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.74,
-            "end": 1.98,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.98,
-            "end": 2.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.479,
-            "end": 2.479,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon.",
+            "text": "Dickon",
             "start": 2.479,
             "end": 2.479,
             "type": "word",

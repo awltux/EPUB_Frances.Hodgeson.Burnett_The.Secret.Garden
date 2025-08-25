@@ -1,5 +1,5 @@
 {
-    "text": "\"Vous deux,\" gloussa l'infirmi\u00e8re. \"Il a besoin de quelqu'un pour lui tenir t\u00eate. \u00c7a lui fera du bien.\"",
+    "text": "\"Vous deux,\" gloussa l'infirmière. \"Il a besoin de quelqu'un pour lui tenir tête. Ça lui fera du bien.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "deux,",
+            "text": "deux",
             "start": 0.519,
             "end": 0.739,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.739,
-            "end": 1.059,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.399,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'infirmi\u00e8re.",
+            "text": "l'infirmière",
             "start": 1.419,
             "end": 2.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.119,
-            "end": 2.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.639,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 2.639,
             "end": 2.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.079,
-            "end": 3.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 3.079,
             "end": 3.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.199,
-            "end": 3.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.619,
-            "end": 3.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pour",
             "start": 3.619,
             "end": 3.759,
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.759,
-            "end": 3.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "lui",
             "start": 3.759,
             "end": 3.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.899,
-            "end": 3.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,38 +88,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.279,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "t\u00eate.",
+            "text": "tête",
             "start": 4.279,
             "end": 4.839,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.839,
-            "end": 4.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00c7a",
+            "text": "Ça",
             "start": 4.859,
             "end": 4.98,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.98,
-            "end": 5.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "fera",
             "start": 5.179,
             "end": 5.44,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.44,
-            "end": 5.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,14 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.579,
-            "end": 5.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bien.",
+            "text": "bien",
             "start": 5.579,
             "end": 5.899,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "\"Pourquoi tu ne leur donnes pas?\" sugg\u00e9ra Marie.",
+    "text": "\"Pourquoi tu ne leur donnes pas?\" suggéra Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tu",
             "start": 0.519,
             "end": 0.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.74,
-            "end": 0.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "leur",
             "start": 0.74,
             "end": 0.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.939,
-            "end": 0.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,49 +39,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pas?",
+            "text": "pas",
             "start": 1.199,
             "end": 1.519,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": "\"",
-            "start": 1.519,
-            "end": 1.699,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sugg\u00e9ra",
+            "text": "suggéra",
             "start": 1.699,
             "end": 2.119,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.119,
-            "end": 2.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 2.119,
             "end": 2.499,
             "type": "word",

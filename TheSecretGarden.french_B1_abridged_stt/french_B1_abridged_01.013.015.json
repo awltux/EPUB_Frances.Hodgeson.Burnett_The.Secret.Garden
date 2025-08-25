@@ -1,5 +1,5 @@
 {
-    "text": "Marie resta fig\u00e9e. R\u00eavait-elle ?",
+    "text": "Marie resta figée. Rêvait-elle ?",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "resta",
             "start": 0.419,
             "end": 0.62,
@@ -25,28 +18,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fig\u00e9e.",
+            "text": "figée",
             "start": 0.719,
             "end": 1.22,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.22,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "R\u00eavait-elle ?",
+            "text": "Rêvait-elle ",
             "start": 1.5,
             "end": 2.219,
             "type": "word",

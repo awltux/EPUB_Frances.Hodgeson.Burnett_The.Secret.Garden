@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Tu reviendras m'aider ? \u00bb demanda Marie. \u00ab Je peux aider aussi. Je peux creuser et arracher les mauvaises herbes. Oh, viens, Dickon ! \u00bb",
+    "text": "« Tu reviendras m'aider ? » demanda Marie. « Je peux aider aussi. Je peux creuser et arracher les mauvaises herbes. Oh, viens, Dickon ! »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "reviendras",
             "start": 0.239,
             "end": 0.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,34 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": "?",
-            "start": 1.159,
-            "end": 1.159,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.159,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "demanda",
             "start": 1.559,
             "end": 1.899,
@@ -74,38 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.899,
-            "end": 1.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.899,
             "end": 2.28,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.28,
-            "end": 2.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.98,
-            "end": 2.98,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.98,
-            "end": 2.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -116,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.159,
-            "end": 3.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "peux",
             "start": 3.159,
             "end": 3.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.339,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -144,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.639,
-            "end": 3.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aussi.",
+            "text": "aussi",
             "start": 3.659,
             "end": 4.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.159,
-            "end": 4.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -172,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.719,
-            "end": 4.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "peux",
             "start": 4.759,
             "end": 4.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.919,
-            "end": 4.92,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -200,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.539,
-            "end": 5.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 5.539,
             "end": 5.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.719,
-            "end": 5.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -228,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.199,
-            "end": 6.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 6.199,
             "end": 6.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.319,
-            "end": 6.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -256,78 +116,29 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.779,
-            "end": 6.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "herbes.",
+            "text": "herbes",
             "start": 6.879,
             "end": 7.339,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.339,
-            "end": 7.94,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oh,",
+            "text": "Oh",
             "start": 7.94,
             "end": 8.259,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.259,
-            "end": 8.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "viens,",
+            "text": "viens",
             "start": 8.319,
             "end": 8.679,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 8.679,
-            "end": 8.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Dickon",
             "start": 8.679,
-            "end": 9.339,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 9.339,
-            "end": 9.339,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 9.339,
-            "end": 9.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 9.339,
             "end": 9.339,
             "type": "word",
             "speaker_id": null

@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Vous et moi sommes pareils. \u00bb, dit Ben. \u00ab Nous avons tous les deux l'air aigre et nous avons un mauvais caract\u00e8re. \u00bb",
+    "text": "« Vous et moi sommes pareils. », dit Ben. « Nous avons tous les deux l'air aigre et nous avons un mauvais caractère. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.339,
-            "end": 1.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 1.339,
             "end": 1.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.459,
-            "end": 1.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.6,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sommes",
             "start": 1.62,
             "end": 1.86,
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pareils.",
+            "text": "pareils",
             "start": 1.86,
             "end": 2.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.779,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.919,
-            "end": 2.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Ben.",
+            "text": "Ben",
             "start": 2.939,
             "end": 3.239,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.239,
-            "end": 3.72,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avons",
             "start": 3.859,
             "end": 4.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.119,
-            "end": 4.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.259,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 4.279,
             "end": 4.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.419,
-            "end": 4.42,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.539,
-            "end": 4.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'air",
             "start": 4.559,
             "end": 4.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.839,
-            "end": 4.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.219,
-            "end": 5.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 5.44,
             "end": 5.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.539,
-            "end": 5.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.679,
-            "end": 5.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avons",
             "start": 5.679,
             "end": 5.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.959,
-            "end": 5.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,13 +130,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.179,
-            "end": 6.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mauvais",
             "start": 6.199,
             "end": 6.5,
@@ -263,14 +137,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.5,
-            "end": 6.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "caract\u00e8re.",
+            "text": "caractère",
             "start": 6.5,
             "end": 7.259,
             "type": "word",

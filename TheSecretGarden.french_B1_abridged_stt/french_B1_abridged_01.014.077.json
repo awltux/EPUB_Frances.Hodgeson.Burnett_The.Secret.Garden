@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Comment le sais-tu ? \u00bb demanda Marie, sans sympathie. Elle n'aimait pas qu'il parle de mourir. Elle avait l'impression qu'il se vantait.",
+    "text": "« Comment le sais-tu ? » demanda Marie, sans sympathie. Elle n'aimait pas qu'il parle de mourir. Elle avait l'impression qu'il se vantait.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.119,
-            "end": 0.119,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.119,
-            "end": 0.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Comment",
             "start": 0.119,
             "end": 0.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,45 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.539,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sais-tu",
             "start": 0.62,
             "end": 1.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -88,31 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.879,
-            "end": 1.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Marie",
             "start": 1.879,
             "end": 2.259,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": ",",
-            "start": 2.259,
-            "end": 2.259,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.259,
-            "end": 2.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sympathie.",
+            "text": "sympathie",
             "start": 2.419,
             "end": 2.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.979,
-            "end": 4.0,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.159,
-            "end": 4.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'aimait",
             "start": 4.219,
             "end": 4.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.579,
-            "end": 4.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'il",
             "start": 4.619,
             "end": 4.839,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.839,
-            "end": 4.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.119,
-            "end": 5.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 5.119,
             "end": 5.259,
@@ -221,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.259,
-            "end": 5.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mourir.",
+            "text": "mourir",
             "start": 5.259,
             "end": 5.779,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.779,
-            "end": 6.239,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.379,
-            "end": 6.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avait",
             "start": 6.379,
             "end": 6.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.559,
-            "end": 6.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -277,24 +123,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.179,
-            "end": 7.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'il",
             "start": 7.179,
             "end": 7.419,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 7.419,
-            "end": 7.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -305,14 +137,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 7.519,
-            "end": 7.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "vantait.",
+            "text": "vantait",
             "start": 7.559,
             "end": 8.06,
             "type": "word",

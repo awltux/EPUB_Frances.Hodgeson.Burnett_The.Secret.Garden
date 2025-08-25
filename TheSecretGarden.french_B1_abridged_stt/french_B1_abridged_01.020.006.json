@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab Esp\u00e9rons que c'est pour le mieux, \u00bb r\u00e9pondit M. Roach.",
+    "text": "« Espérons que c'est pour le mieux, » répondit M. Roach.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Esp\u00e9rons",
+            "text": "Espérons",
             "start": 0.179,
             "end": 0.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "c'est",
             "start": 0.819,
             "end": 0.999,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.999,
-            "end": 0.999,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.139,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 1.139,
             "end": 1.319,
@@ -67,56 +39,28 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mieux,",
+            "text": "mieux",
             "start": 1.319,
             "end": 1.619,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.619,
-            "end": 1.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
+            "text": "répondit",
             "start": 1.959,
             "end": 2.399,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "M.",
+            "text": "M",
             "start": 2.419,
             "end": 2.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.699,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Roach.",
+            "text": "Roach",
             "start": 2.74,
             "end": 3.199,
             "type": "word",

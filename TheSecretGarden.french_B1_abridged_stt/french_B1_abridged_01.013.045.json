@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Juste, juste un jardin qu'elle aimait. \u00bb, balbutia Marie. \u00ab As-tu toujours \u00e9t\u00e9 ici ? \u00bb",
+    "text": "« Juste, juste un jardin qu'elle aimait. », balbutia Marie. « As-tu toujours été ici ? »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.419,
-            "end": 0.439,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Juste,",
+            "text": "Juste",
             "start": 0.459,
             "end": 0.84,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.84,
-            "end": 0.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 1.1,
             "end": 1.24,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.24,
-            "end": 1.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.539,
-            "end": 1.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'elle",
             "start": 1.539,
             "end": 1.799,
@@ -81,38 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.799,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "aimait.",
+            "text": "aimait",
             "start": 1.819,
             "end": 2.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.359,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
-            "start": 2.639,
-            "end": 3.139,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.139,
-            "end": 3.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,38 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.499,
-            "end": 3.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 3.74,
             "end": 4.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.039,
-            "end": 4.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 4.039,
-            "end": 4.42,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.42,
-            "end": 4.44,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.639,
-            "end": 4.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toujours",
             "start": 4.639,
             "end": 5.119,
@@ -179,49 +74,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.119,
-            "end": 5.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9t\u00e9",
+            "text": "été",
             "start": 5.119,
             "end": 5.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.119,
-            "end": 5.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
             "text": "ici",
-            "start": 5.119,
-            "end": 5.119,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.119,
-            "end": 5.119,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 5.119,
-            "end": 5.119,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
             "start": 5.119,
             "end": 5.119,
             "type": "word",

@@ -1,55 +1,13 @@
 {
-    "text": "\u00ab Eh ! \u00bb dit Marthe, ravie. \u00ab C'est gentil. \u00bb",
+    "text": "« Eh ! » dit Marthe, ravie. « C'est gentil. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.179,
-            "end": 0.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Eh",
             "start": 0.819,
             "end": 0.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 0.819,
-            "end": 0.979,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 0.979,
-            "end": 1.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.5,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -60,52 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.939,
-            "end": 2.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marthe,",
+            "text": "Marthe",
             "start": 2.24,
             "end": 2.399,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.399,
-            "end": 2.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ravie.",
+            "text": "ravie",
             "start": 2.399,
             "end": 2.959,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 0.819,
-            "end": 0.979,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.979,
-            "end": 0.979,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -116,30 +39,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gentil.",
+            "text": "gentil",
             "start": 1.5,
             "end": 1.939,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.939,
-            "end": 2.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.24,
-            "end": 2.399,
             "type": "word",
             "speaker_id": null
         }

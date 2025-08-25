@@ -1,20 +1,13 @@
 {
-    "text": "\"Peut-\u00eatre,\" dit le Dr Craven. \"Laissez-les rire.\"",
+    "text": "\"Peut-être,\" dit le Dr Craven. \"Laissez-les rire.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Peut-\u00eatre,",
+            "text": "Peut-être",
             "start": 0.099,
             "end": 0.679,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.679,
-            "end": 0.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 1.019,
             "end": 1.12,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.12,
-            "end": 1.12,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Craven.",
+            "text": "Craven",
             "start": 1.419,
             "end": 1.939,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.939,
-            "end": 2.259,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,14 +46,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.739,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "rire.",
+            "text": "rire",
             "start": 2.74,
             "end": 3.119,
             "type": "word",

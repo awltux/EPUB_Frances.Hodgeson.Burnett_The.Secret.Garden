@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Je ne sais pas comment c'est arriv\u00e9. \u00bb, haleta-t-elle. \u00ab Aucun serviteur n'oserait parler \u2013 ils ont leurs ordres. \u00bb",
+    "text": "« Je ne sais pas comment c'est arrivé. », haleta-t-elle. « Aucun serviteur n'oserait parler – ils ont leurs ordres. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.299,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 0.319,
             "end": 0.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "pas",
             "start": 0.639,
             "end": 0.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "c'est",
             "start": 1.1,
             "end": 1.319,
@@ -81,38 +46,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "arriv\u00e9.",
+            "text": "arrivé",
             "start": 1.319,
             "end": 1.859,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.859,
-            "end": 2.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "haleta-t-elle.",
+            "text": "haleta-t-elle",
             "start": 2.22,
             "end": 3.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.019,
-            "end": 3.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.819,
-            "end": 3.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "serviteur",
             "start": 3.879,
             "end": 4.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.399,
-            "end": 4.42,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.779,
-            "end": 4.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "parler",
             "start": 4.779,
             "end": 5.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.219,
-            "end": 5.4,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.739,
-            "end": 5.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ont",
             "start": 5.759,
             "end": 5.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.879,
-            "end": 5.9,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,14 +109,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.159,
-            "end": 6.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ordres.",
+            "text": "ordres",
             "start": 6.159,
             "end": 6.6,
             "type": "word",

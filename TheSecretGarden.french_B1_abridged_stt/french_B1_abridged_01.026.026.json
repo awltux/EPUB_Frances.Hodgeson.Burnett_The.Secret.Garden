@@ -1,5 +1,5 @@
 {
-    "text": "Son expression s'adoucit. \"Eh! cher gar\u00e7on!\" dit-elle. \"Tu ressembles \u00e0 ta m\u00e8re.\"",
+    "text": "Son expression s'adoucit. \"Eh! cher garçon!\" dit-elle. \"Tu ressembles à ta mère.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.259,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "expression",
             "start": 0.259,
             "end": 0.779,
@@ -25,38 +18,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.779,
-            "end": 0.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "s'adoucit.",
+            "text": "s'adoucit",
             "start": 0.779,
             "end": 1.439,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.439,
-            "end": 1.679,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Eh!",
+            "text": "Eh",
             "start": 1.679,
             "end": 2.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.019,
-            "end": 2.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,52 +39,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gar\u00e7on!\"",
+            "text": "garçon",
             "start": 2.319,
             "end": 2.759,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit-elle.",
+            "text": "dit-elle",
             "start": 2.819,
             "end": 3.299,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Tu",
+            "text": "Tu",
             "start": 3.48,
             "end": 3.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.619,
-            "end": 3.619,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +67,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.079,
-            "end": 4.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 4.179,
             "end": 4.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.199,
-            "end": 4.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,14 +81,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.359,
-            "end": 4.36,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "m\u00e8re.\"",
+            "text": "mère",
             "start": 4.36,
             "end": 4.759,
             "type": "word",

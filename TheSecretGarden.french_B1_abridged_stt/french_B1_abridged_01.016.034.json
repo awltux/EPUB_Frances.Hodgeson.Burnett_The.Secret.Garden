@@ -1,5 +1,5 @@
 {
-    "text": "Il leva les yeux, choqu\u00e9. \"Si ! Tout le monde le dit.\"",
+    "text": "Il leva les yeux, choqué. \"Si ! Tout le monde le dit.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "leva",
             "start": 0.239,
             "end": 0.459,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,66 +25,24 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.639,
-            "end": 0.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "yeux,",
+            "text": "yeux",
             "start": 0.639,
             "end": 0.899,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.899,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "choqu\u00e9.",
+            "text": "choqué",
             "start": 1.179,
             "end": 1.619,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.619,
-            "end": 2.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"Si",
+            "text": "Si",
             "start": 2.059,
             "end": 2.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 2.74,
-            "end": 2.859,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +53,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.979,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 3.0,
             "end": 3.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.179,
-            "end": 3.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +67,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.339,
-            "end": 3.339,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 3.339,
             "end": 3.619,
@@ -151,14 +74,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.619,
-            "end": 3.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "dit.\"",
+            "text": "dit",
             "start": 3.619,
             "end": 3.619,
             "type": "word",

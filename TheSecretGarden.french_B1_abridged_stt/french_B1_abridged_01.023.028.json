@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.34,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "toucha",
             "start": 0.34,
             "end": 0.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +25,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "front",
             "start": 0.799,
             "end": 1.0,
@@ -53,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "respectueusement.",
+            "text": "respectueusement",
             "start": 1.0,
             "end": 1.919,
             "type": "word",

@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab C\u2019est certainement nouveau, et mieux qu\u2019avant. \u00bb",
+    "text": "« C’est certainement nouveau, et mieux qu’avant. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "C\u2019est",
+            "text": "C’est",
             "start": 0.099,
             "end": 0.4,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.4,
-            "end": 0.4,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "nouveau,",
+            "text": "nouveau",
             "start": 1.019,
             "end": 1.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.719,
-            "end": 1.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mieux",
             "start": 1.719,
             "end": 1.919,
@@ -67,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.919,
-            "end": 1.919,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "qu\u2019avant.",
+            "text": "qu’avant",
             "start": 1.919,
             "end": 2.34,
             "type": "word",

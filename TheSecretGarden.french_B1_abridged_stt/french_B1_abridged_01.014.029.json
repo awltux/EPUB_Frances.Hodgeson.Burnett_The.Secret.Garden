@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.659,
-            "end": 0.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'il",
             "start": 0.659,
             "end": 0.84,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.84,
-            "end": 0.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,31 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mourir",
             "start": 1.0,
             "end": 1.499,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.499,
-            "end": 1.499,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.499,
-            "end": 1.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -74,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.099,
-            "end": 2.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 2.099,
             "end": 2.479,
             "type": "word",

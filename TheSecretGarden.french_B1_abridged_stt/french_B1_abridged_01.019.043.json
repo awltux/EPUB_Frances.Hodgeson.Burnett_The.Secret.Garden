@@ -1,5 +1,5 @@
 {
-    "text": "Colin respira profond\u00e9ment.",
+    "text": "Colin respira profondément.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "respire",
             "start": 0.399,
             "end": 0.859,
@@ -25,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "profond\u00e9ment.",
+            "text": "profondément",
             "start": 0.859,
             "end": 1.539,
             "type": "word",

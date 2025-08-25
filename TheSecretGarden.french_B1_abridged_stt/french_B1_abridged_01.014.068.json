@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Est-ce qu'il aime la lande ? \u00bb demanda Colin. \u00ab Comment peut-il ? C'est si nu et triste. \u00bb",
+    "text": "« Est-ce qu'il aime la lande ? » demanda Colin. « Comment peut-il ? C'est si nu et triste. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.399,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Est-ce",
             "start": 0.819,
             "end": 1.039,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.039,
-            "end": 1.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "aime",
             "start": 1.199,
             "end": 1.399,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.399,
-            "end": 1.399,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,45 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "lande",
             "start": 1.579,
             "end": 1.96,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 1.96,
-            "end": 2.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.419,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -116,38 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.799,
-            "end": 2.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Colin.",
+            "text": "Colin",
             "start": 2.799,
             "end": 3.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.159,
-            "end": 3.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.539,
-            "end": 3.819,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.819,
-            "end": 3.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -158,38 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.419,
-            "end": 4.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "peut-il",
             "start": 4.659,
             "end": 4.88,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.88,
-            "end": 4.88,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 4.88,
-            "end": 4.88,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.88,
-            "end": 4.88,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -200,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.88,
-            "end": 4.88,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "si",
             "start": 4.88,
             "end": 5.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -228,13 +88,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.539,
-            "end": 5.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 5.539,
             "end": 5.739,
@@ -242,28 +95,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.739,
-            "end": 5.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "triste.",
-            "start": 5.739,
-            "end": 6.359,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.739,
-            "end": 6.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "triste",
             "start": 5.739,
             "end": 6.359,
             "type": "word",

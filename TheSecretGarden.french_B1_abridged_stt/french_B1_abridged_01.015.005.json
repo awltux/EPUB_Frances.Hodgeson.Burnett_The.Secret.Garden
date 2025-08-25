@@ -1,5 +1,5 @@
 {
-    "text": "\"Je deviens plus forte,\" r\u00e9pondit Marie.",
+    "text": "\"Je deviens plus forte,\" répondit Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.319,
-            "end": 0.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "deviens",
             "start": 0.319,
             "end": 0.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.619,
-            "end": 0.619,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,42 +25,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.799,
-            "end": 0.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "forte,",
+            "text": "forte",
             "start": 0.799,
             "end": 1.139,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
+            "text": "répondit",
             "start": 1.259,
             "end": 1.659,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.659,
             "end": 2.019,
             "type": "word",

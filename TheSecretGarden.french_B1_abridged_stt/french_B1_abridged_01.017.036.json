@@ -1,5 +1,5 @@
 {
-    "text": "Et Colin \u00e9tait endormi.",
+    "text": "Et Colin était endormi.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.219,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Colin",
             "start": 0.219,
             "end": 0.62,
@@ -25,28 +18,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.62,
-            "end": 0.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.62,
             "end": 0.899,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.899,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "endormi.",
+            "text": "endormi",
             "start": 0.899,
             "end": 1.379,
             "type": "word",

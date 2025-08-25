@@ -1,5 +1,5 @@
 {
-    "text": "Il tira son ch\u00e2le. \u00ab Non. Je penserais que tu es un r\u00eave. Assieds-toi et parle. Parle-moi de toi. \u00bb",
+    "text": "Il tira son châle. « Non. Je penserais que tu es un rêve. Assieds-toi et parle. Parle-moi de toi. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.219,
-            "end": 0.28,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tira",
             "start": 0.28,
             "end": 0.599,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.8,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "ch\u00e2le.",
+            "text": "châle",
             "start": 0.819,
             "end": 1.199,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Non.",
+            "text": "Non",
             "start": 1.659,
             "end": 1.96,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.96,
-            "end": 2.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.339,
-            "end": 2.379,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "penserais",
             "start": 2.379,
             "end": 2.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tu",
             "start": 2.899,
             "end": 3.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.019,
-            "end": 3.039,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.179,
-            "end": 3.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 3.179,
             "end": 3.319,
@@ -151,24 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.319,
-            "end": 3.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00eave.",
+            "text": "rêve",
             "start": 3.319,
             "end": 3.799,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.799,
-            "end": 4.159,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,13 +95,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.859,
-            "end": 5.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "et",
             "start": 5.0,
             "end": 5.179,
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.179,
-            "end": 5.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "parle.",
+            "text": "parle",
             "start": 5.179,
             "end": 5.619,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.619,
-            "end": 5.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,13 +116,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.459,
-            "end": 6.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 6.46,
             "end": 6.539,
@@ -235,14 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.539,
-            "end": 6.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "toi.",
+            "text": "toi",
             "start": 6.599,
             "end": 6.939,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Ils continu\u00e8rent en silence.",
+    "text": "Ils continuèrent en silence.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "continu\u00e8rent",
+            "text": "continuèrent",
             "start": 0.239,
             "end": 0.879,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.879,
-            "end": 0.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.0,
-            "end": 1.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "silence.",
+            "text": "silence",
             "start": 1.0,
             "end": 1.639,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "Colin avoua qu'il \u00e9tait fatigu\u00e9 et sugg\u00e9ra qu'ils s'assoient en tailleur sous l'arbre. \u00ab Ce sera comme un temple. \u00bb",
+    "text": "Colin avoua qu'il était fatigué et suggéra qu'ils s'assoient en tailleur sous l'arbre. « Ce sera comme un temple. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "avoua",
             "start": 0.439,
             "end": 0.819,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,38 +25,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 0.959,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e9tait",
+            "text": "était",
             "start": 0.959,
             "end": 1.22,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.22,
-            "end": 1.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "fatigu\u00e9",
+            "text": "fatigué",
             "start": 1.22,
             "end": 1.86,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.86,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.039,
-            "end": 2.039,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sugg\u00e9ra",
+            "text": "suggéra",
             "start": 2.039,
             "end": 2.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.559,
-            "end": 2.559,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "s'assoient",
             "start": 2.779,
             "end": 3.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.299,
-            "end": 3.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.359,
-            "end": 3.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tailleur",
             "start": 3.46,
             "end": 3.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.899,
-            "end": 3.899,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,38 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.019,
-            "end": 4.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'arbre.",
+            "text": "l'arbre",
             "start": 4.079,
             "end": 4.54,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.54,
-            "end": 5.159,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 5.159,
-            "end": 5.299,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.299,
-            "end": 5.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.559,
-            "end": 5.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sera",
             "start": 5.559,
             "end": 5.719,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.719,
-            "end": 5.719,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,13 +116,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.879,
-            "end": 5.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 5.879,
             "end": 6.359,
@@ -249,28 +123,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.359,
-            "end": 6.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "temple.",
-            "start": 6.359,
-            "end": 6.359,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.359,
-            "end": 6.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "temple",
             "start": 6.359,
             "end": 6.359,
             "type": "word",

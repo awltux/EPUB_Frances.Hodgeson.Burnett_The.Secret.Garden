@@ -1,5 +1,5 @@
 {
-    "text": "Ils rest\u00e8rent immobiles. \"Nous devons ressembler \u00e0 de l'herbe et des arbres,\" dit Dickon. \"Alors il s'habituera \u00e0 nous.\"",
+    "text": "Ils restèrent immobiles. \"Nous devons ressembler à de l'herbe et des arbres,\" dit Dickon. \"Alors il s'habituera à nous.\"",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,52 +11,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "rest\u00e8rent",
+            "text": "restèrent",
             "start": 0.259,
             "end": 0.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "immobiles.",
+            "text": "immobiles",
             "start": 0.719,
             "end": 1.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.319,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 1.319,
-            "end": 1.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.419,
-            "end": 1.839,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.979,
-            "end": 1.979,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "devons",
             "start": 1.979,
             "end": 2.279,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.279,
-            "end": 2.279,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.759,
-            "end": 2.839,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 2.839,
             "end": 2.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.859,
-            "end": 2.859,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.999,
-            "end": 3.0,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "l'herbe",
             "start": 3.0,
             "end": 3.379,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.379,
-            "end": 3.379,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -151,13 +74,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.499,
-            "end": 3.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "des",
             "start": 3.519,
             "end": 3.659,
@@ -165,31 +81,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.659,
-            "end": 3.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "arbres,",
+            "text": "arbres",
             "start": 3.699,
             "end": 4.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 4.119,
-            "end": 4.48,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.119,
-            "end": 4.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -200,38 +95,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.559,
-            "end": 4.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon.",
+            "text": "Dickon",
             "start": 4.619,
             "end": 5.159,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.159,
-            "end": 5.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\"",
-            "start": 5.659,
-            "end": 5.96,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.96,
-            "end": 5.96,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -242,24 +109,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.96,
-            "end": 5.96,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "il",
             "start": 5.96,
             "end": 6.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.119,
-            "end": 6.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -270,28 +123,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.739,
-            "end": 6.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 6.739,
             "end": 6.859,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.859,
-            "end": 6.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "nous.\"",
+            "text": "nous",
             "start": 6.859,
             "end": 7.119,
             "type": "word",

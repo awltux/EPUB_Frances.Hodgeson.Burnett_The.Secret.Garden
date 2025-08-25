@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab Oui, c'est un de tes amis, \u00bb gloussa Dickon.",
+    "text": "« Oui, c'est un de tes amis, » gloussa Dickon.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 0.519,
             "end": 0.84,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.84,
-            "end": 0.879,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.079,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 1.079,
             "end": 1.199,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.199,
-            "end": 1.199,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,13 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.319,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tes",
             "start": 1.319,
             "end": 1.48,
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.48,
-            "end": 1.48,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "amis,",
+            "text": "amis",
             "start": 1.48,
             "end": 1.899,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.899,
-            "end": 2.24,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,14 +53,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.579,
-            "end": 2.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Dickon.",
+            "text": "Dickon",
             "start": 2.619,
             "end": 3.1,
             "type": "word",

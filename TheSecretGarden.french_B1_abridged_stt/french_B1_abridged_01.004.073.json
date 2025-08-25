@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Quel genre d'oiseau est-ce ? \u00bb demanda Marie.",
+    "text": "« Quel genre d'oiseau est-ce ? » demanda Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.339,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.339,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Quel",
             "start": 0.359,
             "end": 0.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.959,
-            "end": 1.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "d'oiseau",
             "start": 1.059,
             "end": 1.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.539,
-            "end": 2.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,34 +32,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "?",
-            "start": 2.419,
-            "end": 2.8,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.419,
-            "end": 2.8,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "demanda",
             "start": 2.019,
             "end": 2.379,
@@ -102,14 +39,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.379,
-            "end": 2.419,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 2.419,
             "end": 2.8,
             "type": "word",

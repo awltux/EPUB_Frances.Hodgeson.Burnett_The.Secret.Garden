@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Vous n'avez rien entendu. \u00bb, dit Mme Medlock. \u00ab Retournez dans votre chambre, ou je vous giflerai. \u00bb",
+    "text": "« Vous n'avez rien entendu. », dit Mme Medlock. « Retournez dans votre chambre, ou je vous giflerai. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.839,
-            "end": 0.859,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.859,
-            "end": 0.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Vous",
             "start": 0.859,
             "end": 1.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.019,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,13 +18,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.279,
-            "end": 1.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "rien",
             "start": 1.279,
             "end": 1.519,
@@ -53,45 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.519,
-            "end": 1.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "entendu.",
+            "text": "entendu",
             "start": 1.519,
             "end": 2.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.139,
-            "end": 2.539,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.539,
-            "end": 2.659,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": ",",
-            "start": 2.659,
-            "end": 2.659,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.659,
-            "end": 2.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -102,13 +39,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.939,
-            "end": 2.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Mme",
             "start": 2.939,
             "end": 3.459,
@@ -116,38 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.459,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Medlock.",
+            "text": "Medlock",
             "start": 3.459,
             "end": 3.859,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.859,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 3.859,
-            "end": 4.319,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.319,
-            "end": 4.319,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -158,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.46,
-            "end": 4.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "dans",
             "start": 4.46,
             "end": 4.759,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.759,
-            "end": 4.759,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -186,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.099,
-            "end": 5.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "chambre,",
+            "text": "chambre",
             "start": 5.099,
             "end": 5.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.299,
-            "end": 5.299,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -214,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.399,
-            "end": 5.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "je",
             "start": 5.46,
             "end": 5.559,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.559,
-            "end": 5.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -242,21 +102,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.779,
-            "end": 5.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "giflerai.",
-            "start": 5.799,
-            "end": 6.399,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "giflerai",
             "start": 5.799,
             "end": 6.399,
             "type": "word",

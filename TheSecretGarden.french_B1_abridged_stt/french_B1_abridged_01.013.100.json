@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "resta",
             "start": 0.359,
             "end": 0.699,
@@ -25,14 +18,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.699,
-            "end": 0.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "silencieuse.",
+            "text": "silencieuse",
             "start": 0.699,
             "end": 1.479,
             "type": "word",

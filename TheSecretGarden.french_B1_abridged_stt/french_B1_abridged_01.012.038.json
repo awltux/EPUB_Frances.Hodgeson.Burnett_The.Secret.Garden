@@ -1,66 +1,24 @@
 {
-    "text": "\u00ab Oui, \u00bb r\u00e9pondit Marie.",
+    "text": "« Oui, » répondit Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.199,
-            "end": 0.419,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.419,
-            "end": 0.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 0.759,
             "end": 1.099,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.099,
-            "end": 1.1,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "répondit",
             "start": 1.1,
             "end": 1.46,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
-            "start": 1.1,
-            "end": 1.46,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.1,
-            "end": 1.46,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.1,
             "end": 1.46,
             "type": "word",

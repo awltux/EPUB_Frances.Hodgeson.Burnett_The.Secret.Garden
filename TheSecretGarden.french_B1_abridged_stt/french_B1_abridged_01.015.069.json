@@ -1,20 +1,13 @@
 {
-    "text": "\u00ab O\u00f9 que tu le mettes, ce sera bien. Continue, mon gar\u00e7on. Tu n'as pas de temps \u00e0 perdre. \u00bb",
+    "text": "« Où que tu le mettes, ce sera bien. Continue, mon garçon. Tu n'as pas de temps à perdre. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "O\u00f9",
+            "text": "Où",
             "start": 0.28,
             "end": 0.439,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.579,
-            "end": 0.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "tu",
             "start": 0.579,
             "end": 0.68,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.68,
-            "end": 0.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.819,
-            "end": 0.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mettes,",
+            "text": "mettes",
             "start": 0.819,
             "end": 1.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.439,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,13 +46,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.539,
-            "end": 1.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "sera",
             "start": 1.579,
             "end": 1.86,
@@ -95,38 +53,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.86,
-            "end": 1.86,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "bien.",
+            "text": "bien",
             "start": 1.86,
             "end": 2.239,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.239,
-            "end": 2.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Continue,",
+            "text": "Continue",
             "start": 2.5,
             "end": 2.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.919,
-            "end": 2.939,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.079,
-            "end": 3.099,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "gar\u00e7on.",
+            "text": "garçon",
             "start": 3.099,
             "end": 3.5,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.5,
-            "end": 3.819,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "n'as",
             "start": 3.98,
             "end": 4.139,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.139,
-            "end": 4.139,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.279,
-            "end": 4.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "de",
             "start": 4.279,
             "end": 4.339,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.339,
-            "end": 4.42,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,28 +116,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.579,
-            "end": 4.579,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 4.579,
             "end": 4.699,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.699,
-            "end": 4.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "perdre.",
+            "text": "perdre",
             "start": 4.699,
             "end": 5.199,
             "type": "word",

@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Quelle d\u00e9solation ! \u00bb dit l'un. \u00ab Cette jolie femme ! Et l'enfant, je suppose. J'ai entendu dire qu'il y en avait une. \u00bb",
+    "text": "« Quelle désolation ! » dit l'un. « Cette jolie femme ! Et l'enfant, je suppose. J'ai entendu dire qu'il y en avait une. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.439,
-            "end": 0.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9solation",
+            "text": "désolation",
             "start": 0.439,
             "end": 1.299,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.299,
-            "end": 1.639,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 1.799,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'un.",
+            "text": "l'un",
             "start": 1.799,
             "end": 2.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.079,
-            "end": 2.419,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.719,
-            "end": 2.74,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "jolie",
             "start": 2.74,
             "end": 3.079,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.079,
-            "end": 3.079,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,13 +53,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.459,
-            "end": 3.879,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "Et",
             "start": 3.879,
             "end": 4.019,
@@ -109,24 +60,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.019,
-            "end": 4.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'enfant,",
+            "text": "l'enfant",
             "start": 4.019,
             "end": 4.48,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.48,
-            "end": 4.48,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.639,
-            "end": 4.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "suppose.",
+            "text": "suppose",
             "start": 4.639,
             "end": 5.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.219,
-            "end": 5.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -165,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.739,
-            "end": 5.739,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "entendu",
             "start": 5.739,
             "end": 6.119,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.119,
-            "end": 6.119,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -193,24 +102,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.399,
-            "end": 6.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "qu'il",
             "start": 6.399,
             "end": 6.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.539,
-            "end": 6.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -221,24 +116,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.599,
-            "end": 6.619,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "en",
             "start": 6.619,
             "end": 6.699,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 6.699,
-            "end": 6.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -249,14 +130,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 6.98,
-            "end": 6.98,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "une.",
+            "text": "une",
             "start": 6.98,
             "end": 7.299,
             "type": "word",

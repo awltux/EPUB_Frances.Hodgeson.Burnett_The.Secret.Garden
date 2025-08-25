@@ -1,5 +1,5 @@
 {
-    "text": "\"Je le ferai !\" d\u00e9clara Marie.",
+    "text": "\"Je le ferai !\" déclara Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.239,
-            "end": 0.239,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "le",
             "start": 0.239,
             "end": 0.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,42 +25,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.5,
-            "end": 0.5,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "!",
-            "start": 0.5,
-            "end": 0.899,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.899,
-            "end": 1.24,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "d\u00e9clara",
+            "text": "déclara",
             "start": 1.24,
             "end": 1.659,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.659,
-            "end": 1.659,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.659,
             "end": 2.019,
             "type": "word",

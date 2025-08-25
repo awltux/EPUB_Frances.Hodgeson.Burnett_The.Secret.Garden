@@ -1,76 +1,20 @@
 {
-    "text": "\u00ab Oui, \u00bb sanglota-t-elle, \u00ab mais si tu les obliges \u00e0 l'ouvrir, ce ne sera plus un secret. \u00bb",
+    "text": "« Oui, » sanglota-t-elle, « mais si tu les obliges à l'ouvrir, ce ne sera plus un secret. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.159,
-            "end": 0.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.459,
-            "end": 0.899,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Oui,",
+            "text": "Oui",
             "start": 0.899,
             "end": 1.779,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.779,
-            "end": 2.019,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
-            "start": 2.019,
-            "end": 2.219,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.219,
-            "end": 2.22,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "sanglota-t-elle,",
+            "text": "sanglota-t-elle",
             "start": 2.22,
             "end": 2.319,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.319,
-            "end": 2.359,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00ab",
-            "start": 2.359,
-            "end": 2.459,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.459,
-            "end": 2.46,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -81,24 +25,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.619,
-            "end": 2.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "si",
             "start": 2.639,
             "end": 2.979,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.979,
-            "end": 2.98,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -109,24 +39,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.039,
-            "end": 3.059,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "les",
             "start": 3.059,
             "end": 3.539,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 3.539,
-            "end": 3.72,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -137,38 +53,17 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.839,
-            "end": 3.859,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e0",
+            "text": "à",
             "start": 3.859,
             "end": 3.939,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.939,
-            "end": 3.939,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "l'ouvrir,",
+            "text": "l'ouvrir",
             "start": 3.939,
             "end": 4.219,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.219,
-            "end": 4.219,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -179,24 +74,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 4.44,
-            "end": 4.44,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "ne",
             "start": 4.44,
             "end": 4.579,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 4.579,
-            "end": 4.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -207,24 +88,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.02,
-            "end": 5.02,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "plus",
             "start": 5.02,
             "end": 5.02,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.02,
-            "end": 5.02,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -235,28 +102,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 5.02,
-            "end": 5.02,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "secret.",
-            "start": 5.02,
-            "end": 5.02,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 5.02,
-            "end": 5.02,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb",
+            "text": "secret",
             "start": 5.02,
             "end": 5.02,
             "type": "word",

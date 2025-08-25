@@ -4,17 +4,10 @@
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\"Qu'est-ce",
+            "text": "Qu'est-ce",
             "start": 0.219,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.679,
-            "end": 0.699,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "a",
             "start": 0.699,
             "end": 0.919,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.919,
-            "end": 1.22,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,14 +32,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.559,
-            "end": 1.559,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.\"",
+            "text": "Marie",
             "start": 1.559,
             "end": 1.939,
             "type": "word",

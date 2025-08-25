@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab C\u2019est un charmeur. Les animaux des charmeurs ne mordent jamais. \u00bb",
+    "text": "« C’est un charmeur. Les animaux des charmeurs ne mordent jamais. »",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
         {
-            "text": "\u00ab",
-            "start": 0.0,
-            "end": 0.199,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.199,
-            "end": 0.199,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "C\u2019est",
+            "text": "C’est",
             "start": 0.199,
             "end": 0.359,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.359,
-            "end": 0.359,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.519,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "charmeur.",
+            "text": "charmeur",
             "start": 0.519,
             "end": 1.179,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.179,
-            "end": 1.579,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -67,24 +32,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.739,
-            "end": 1.759,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "animaux",
             "start": 1.759,
             "end": 2.099,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.099,
-            "end": 2.099,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -95,24 +46,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.279,
-            "end": 2.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "charmeurs",
             "start": 2.279,
             "end": 2.659,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 2.659,
-            "end": 2.659,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -123,13 +60,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 2.779,
-            "end": 2.779,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "mordent",
             "start": 2.779,
             "end": 3.279,
@@ -137,23 +67,9 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 3.279,
-            "end": 3.279,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "jamais.",
+            "text": "jamais",
             "start": 3.279,
             "end": 3.739,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " \u00bb",
-            "start": 3.739,
-            "end": 3.939,
             "type": "word",
             "speaker_id": null
         }

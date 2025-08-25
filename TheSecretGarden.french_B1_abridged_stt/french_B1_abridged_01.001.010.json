@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab Qu'est-ce que c'est ? \u00bb haleta-t-elle.",
+    "text": "« Qu'est-ce que c'est ? » haleta-t-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.399,
-            "end": 0.399,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "que",
             "start": 0.399,
             "end": 0.519,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.519,
-            "end": 0.699,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,21 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": "?",
-            "start": 0.699,
-            "end": 1.079,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.079,
-            "end": 1.439,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "haleta-t-elle.",
+            "text": "haleta-t-elle",
             "start": 1.439,
             "end": 2.159,
             "type": "word",

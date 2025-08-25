@@ -1,34 +1,13 @@
 {
-    "text": "\u00ab Je sais lire. \u00bb, r\u00e9pondit Marie.",
+    "text": "« Je sais lire. », répondit Marie.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
-        {
-            "text": "\u00ab",
-            "start": 0.179,
-            "end": 0.279,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.279,
-            "end": 0.34,
-            "type": "spacing",
-            "speaker_id": null
-        },
         {
             "text": "Je",
             "start": 0.34,
             "end": 0.479,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.479,
-            "end": 0.479,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,56 +18,21 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.84,
-            "end": 1.259,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "lire.",
+            "text": "lire",
             "start": 1.259,
             "end": 1.619,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.619,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00bb,",
+            "text": "répondit",
             "start": 1.62,
             "end": 1.979,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit",
-            "start": 1.62,
-            "end": 1.979,
-            "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.62,
-            "end": 1.62,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "Marie.",
+            "text": "Marie",
             "start": 1.62,
             "end": 1.979,
             "type": "word",

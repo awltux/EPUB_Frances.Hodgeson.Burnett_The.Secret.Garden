@@ -1,5 +1,5 @@
 {
-    "text": "\"Environ un mois, je pense,\" r\u00e9pondit-elle.",
+    "text": "\"Environ un mois, je pense,\" répondit-elle.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,13 +11,6 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.599,
-            "end": 0.599,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
             "text": "un",
             "start": 0.599,
             "end": 0.719,
@@ -25,24 +18,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "mois,",
+            "text": "mois",
             "start": 0.719,
             "end": 0.999,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 0.999,
-            "end": 0.999,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -53,28 +32,14 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.139,
-            "end": 1.179,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "pense,",
+            "text": "pense",
             "start": 1.179,
             "end": 1.599,
             "type": "word",
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.599,
-            "end": 1.639,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "r\u00e9pondit-elle.",
+            "text": "répondit-elle",
             "start": 1.639,
             "end": 2.3,
             "type": "word",

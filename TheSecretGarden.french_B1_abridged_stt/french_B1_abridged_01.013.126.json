@@ -1,5 +1,5 @@
 {
-    "text": "\u00ab J'aimerais \u00e7a, \u00bb dit-il somnolent.",
+    "text": "« J'aimerais ça, » dit-il somnolent.",
     "language_code": "fra",
     "language_probability": 1.0,
     "words": [
@@ -11,24 +11,10 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 0.719,
-            "end": 0.719,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "\u00e7a,",
+            "text": "ça",
             "start": 0.719,
             "end": 1.019,
             "type": "word",
-            "speaker_id": null
-        },
-        {
-            "text": " ",
-            "start": 1.019,
-            "end": 1.459,
-            "type": "spacing",
             "speaker_id": null
         },
         {
@@ -39,14 +25,7 @@
             "speaker_id": null
         },
         {
-            "text": " ",
-            "start": 1.819,
-            "end": 1.819,
-            "type": "spacing",
-            "speaker_id": null
-        },
-        {
-            "text": "somnolent.",
+            "text": "somnolent",
             "start": 1.819,
             "end": 2.359,
             "type": "word",
